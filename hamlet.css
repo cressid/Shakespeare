@@ -1,0 +1,33 @@
+table {
+  border-collapse: collapse;
+  font: 10px sans-serif;
+  width: 720px;
+}
+
+th {
+  font-weight: normal;
+  text-align: right;
+  padding-right: 6px;
+  min-width: 43px;
+}
+
+thead td {
+  cursor: s-resize;
+}
+
+tbody tr:first-child td {
+  padding-top: 2px;
+}
+
+tbody td {
+  padding: 0;
+  border-left: solid 1px #000;
+}
+
+tbody rect {
+  fill: steelblue;
+}
+
+tbody tr:hover rect {
+  fill: brown;
+}
