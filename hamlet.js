@@ -36,20 +36,28 @@ var hamletGraph = function(){
 		}
 		
 		var data = [];
-		
+		var others=0;
 		//console.log("cymbeline incoming " + charsWithLines.CYMBELINE);
 		
 		for (var m=0; m<characters.length; m++){
-			var newArray = {}
-			//console.log("characters[m] "+ characters[m])
+			
+			if(charsWithLines[characters[m]]>hamletData.length/100){
+			var newArray = {};
 			newArray.label = characters[m];
 			var x=characters[m];
 			newArray.value=charsWithLines[x];
-			//console.log(String(newArray))
-			//console.log("newArray is " + newArray);
 			data.push(newArray);
-		}
+			}
+			else{
+				others+=charsWithLines[characters[m]];
+			}
 		
+		}
+		var newArray = {};
+			newArray.label = "Others";
+			var x=characters[m];
+			newArray.value=others;
+			data.push(newArray);
 		//console.log("data is " + data);
 		
 		var vis = d3.select("body")
@@ -57,9 +65,12 @@ var hamletGraph = function(){
 			.data([data])                   //associate our data with the document
             .attr("width", w)           //set the width and height of our visualization (these will be attributes of the <svg> tag
             .attr("height", h)
-			.append("svg:g")                //make a group to hold our pie chart
-            .attr("transform", "translate(" + r + "," + r + ")")    //move the center of the pie chart from 0, 0 to radius, radius
- 
+			.append("svg:g")//make a group to hold our pie chart
+            .attr("transform", "translate(" + 1.5*r + "," + 1.5*r + ")")    //move the center of the pie chart from 0, 0 to radius, radius
+			
+		
+			
+		
 		var arc = d3.svg.arc()              //this will create <path> elements for us using arc data
         .outerRadius(r);
  
@@ -81,13 +92,29 @@ var hamletGraph = function(){
                 //we have to make sure to set these before calling arc.centroid
                 d.innerRadius = 0;
                 d.outerRadius = r;
-                return "translate(" + arc.centroid(d) + ")";        //this gives us a pair of coordinates like [50, 50]
+                return "translate(" + arc.centroid(d) +")";        //this gives us a pair of coordinates like [50, 50]
             })
-            .attr("text-anchor", "middle")                          //center the text on it's origin
-            .text(function(d, i) { return data[i].label; });        //get the label from our original data array
-        
+			   
+            .attr("text-anchor", function(d) {
+    // are we past the center?
+    return (d.endAngle + d.startAngle)/2 > Math.PI ?
+        "end" : "start";
+})
+			.attr("transform", function(d) {
+    var c = arc.centroid(d),
+        x = c[0],
+        y = c[1],
+		rad=r+20,
+		tilt=(d.endAngle + d.startAngle)/2
+        // pythagorean theorem for hypotenuse
+        h = Math.sqrt(x*x + y*y);
+    return "translate(" + (x/h * rad) +  ',' +
+       (y/h * rad) +  ")" +"rotate("+tilt*7+")"; 
+})
+	
+            .text(function(d, i) { return data[i].label +" "+data[i].value; });        //get the label from our original data array
 	}
-
+  
 	return {setup:setup}
 }();
 
