@@ -12,7 +12,7 @@ var jsonObject = { "All Works" : {  "History" : {  "King John" : {},
                                                     "Henry VIII" : {}												 
                                     },
 
-                                    "Comedy" : {  "The Tempest" : b1,
+                                    "Comedy" : {  "The Tempest" : {},
                                                     "The Two Gentlemen of Verona" : {},
                                                     "The Merry Wives of Windsor" : {},
 												    "Measure for Measure" : {},
@@ -21,17 +21,26 @@ var jsonObject = { "All Works" : {  "History" : {  "King John" : {},
                                                     "A Midsummer Night's Dream" : {},	
                                                     "The Merchant of Venice" : {},
                                                     "As You Like It" : {}
-												    "The Merry Wives of Windsor" : {},
-												    "Measure for Measure" : {},
-                                                    "The Comedy of Errors" : {},
-                                                    "Much Ado About Nothing" : {},
-                                                    "A Midsummer Night's Dream" : {},	
-                                                    "The Merchant of Venice" : {},
-                                                    "As You Like It" : {}
+												    "The Taming of the Shrew" : {},
+												    "All's Well That Ends Well" : {},
+                                                    "Twelfth Night" : {},
+                                                    "The Winter's Tale" : {},
+                                                    "Pericles, Prince of Tyre" : {}
+                                                
                                     },
 
-                                    "Tradgedy" :  {  "robbery1" : r1,
-                                                    "robbery2" : r2
+                                    "Tradgedy" :  {  "Troilus and Cressida " : {},
+                                                    "Coriolanus" : {},
+                                                    "Titus Andronicus" : {},	
+                                                    "Romeo and Juliet" : {},
+                                                    "Timon of Athens" : {}
+												    "Julius Caesar" : {},
+												    "Macbeth" : {},
+                                                    "Hamlet" : {},
+                                                    "King Lear" : {},
+                                                    "Othello" : {},	
+				                                    "Antony and Cleopatra" : {},
+                                                    "Cymbeline" : {}
                                     }
 
                                     
