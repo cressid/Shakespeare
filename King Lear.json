@@ -5,7 +5,7 @@
     "play_name": "King Lear", 
     "text_entry": "ACT I", 
     "line_id": 49028, 
-    "speaker": "OCTAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE I. King Lear's palace.", 
     "line_id": 49029, 
-    "speaker": "OCTAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter KENT, GLOUCESTER, and EDMUND", 
     "line_id": 49030, 
-    "speaker": "OCTAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -293,7 +293,7 @@
     "play_name": "King Lear", 
     "text_entry": "Sennet. Enter KING LEAR, CORNWALL, ALBANY, GONERIL, REGAN, CORDELIA, and Attendants", 
     "line_id": 49064, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.34", 
@@ -317,7 +317,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt GLOUCESTER and EDMUND", 
     "line_id": 49067, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.36", 
@@ -1205,7 +1205,7 @@
     "play_name": "King Lear", 
     "text_entry": "Giving the crown", 
     "line_id": 49178, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.146", 
@@ -1429,7 +1429,7 @@
     "play_name": "King Lear", 
     "text_entry": "Laying his hand on his sword", 
     "line_id": 49206, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.173", 
@@ -1613,7 +1613,7 @@
     "play_name": "King Lear", 
     "text_entry": "To CORDELIA", 
     "line_id": 49229, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.195", 
@@ -1637,7 +1637,7 @@
     "play_name": "King Lear", 
     "text_entry": "To REGAN and GONERIL", 
     "line_id": 49232, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.197", 
@@ -1677,7 +1677,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 49237, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1685,7 +1685,7 @@
     "play_name": "King Lear", 
     "text_entry": "Flourish. Re-enter GLOUCESTER, with KING OF FRANCE, BURGUNDY, and Attendants", 
     "line_id": 49238, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.201", 
@@ -1893,7 +1893,7 @@
     "play_name": "King Lear", 
     "text_entry": "To KING OF FRANCE", 
     "line_id": 49264, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.226", 
@@ -2413,7 +2413,7 @@
     "play_name": "King Lear", 
     "text_entry": "Flourish. Exeunt all but KING OF FRANCE, GONERIL, REGAN, and CORDELIA", 
     "line_id": 49329, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.290", 
@@ -2565,7 +2565,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt KING OF FRANCE and CORDELIA", 
     "line_id": 49348, 
-    "speaker": "KING OF FRANCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.308", 
@@ -2773,7 +2773,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt", 
     "line_id": 49374, 
-    "speaker": "GONERIL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2781,7 +2781,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE II. The Earl of Gloucester's castle.", 
     "line_id": 49375, 
-    "speaker": "GONERIL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2789,7 +2789,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter EDMUND, with a letter", 
     "line_id": 49376, 
-    "speaker": "GONERIL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -2973,7 +2973,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter GLOUCESTER", 
     "line_id": 49399, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.23", 
@@ -3021,7 +3021,7 @@
     "play_name": "King Lear", 
     "text_entry": "Putting up the letter", 
     "line_id": 49405, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.28", 
@@ -3789,7 +3789,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 49501, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.123", 
@@ -3941,7 +3941,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter EDGAR", 
     "line_id": 49520, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.141", 
@@ -4309,7 +4309,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit EDGAR", 
     "line_id": 49566, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.186", 
@@ -4365,7 +4365,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 49573, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4373,7 +4373,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE III. The Duke of Albany's palace.", 
     "line_id": 49574, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4381,7 +4381,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter GONERIL, and OSWALD, her steward", 
     "line_id": 49575, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -4477,7 +4477,7 @@
     "play_name": "King Lear", 
     "text_entry": "Horns within", 
     "line_id": 49587, 
-    "speaker": "OSWALD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.12", 
@@ -4613,7 +4613,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt", 
     "line_id": 49604, 
-    "speaker": "GONERIL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4621,7 +4621,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE IV. A hall in the same.", 
     "line_id": 49605, 
-    "speaker": "GONERIL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4629,7 +4629,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter KENT, disguised", 
     "line_id": 49606, 
-    "speaker": "GONERIL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.1", 
@@ -4693,7 +4693,7 @@
     "play_name": "King Lear", 
     "text_entry": "Horns within. Enter KING LEAR, Knights, and Attendants", 
     "line_id": 49614, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.8", 
@@ -4709,7 +4709,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit an Attendant", 
     "line_id": 49616, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.9", 
@@ -4981,7 +4981,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit an Attendant", 
     "line_id": 49650, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4989,7 +4989,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter OSWALD", 
     "line_id": 49651, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.42", 
@@ -5013,7 +5013,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 49654, 
-    "speaker": "OSWALD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.44", 
@@ -5029,7 +5029,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit a Knight", 
     "line_id": 49656, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.45", 
@@ -5045,7 +5045,7 @@
     "play_name": "King Lear", 
     "text_entry": "Re-enter Knight", 
     "line_id": 49658, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.46", 
@@ -5261,7 +5261,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit an Attendant", 
     "line_id": 49685, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.72", 
@@ -5277,7 +5277,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit an Attendant", 
     "line_id": 49687, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5285,7 +5285,7 @@
     "play_name": "King Lear", 
     "text_entry": "Re-enter OSWALD", 
     "line_id": 49688, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.73", 
@@ -5349,7 +5349,7 @@
     "play_name": "King Lear", 
     "text_entry": "Striking him", 
     "line_id": 49696, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.80", 
@@ -5373,7 +5373,7 @@
     "play_name": "King Lear", 
     "text_entry": "Tripping up his heels", 
     "line_id": 49699, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.82", 
@@ -5429,7 +5429,7 @@
     "play_name": "King Lear", 
     "text_entry": "Pushes OSWALD out", 
     "line_id": 49706, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.88", 
@@ -5453,7 +5453,7 @@
     "play_name": "King Lear", 
     "text_entry": "Giving KENT money", 
     "line_id": 49709, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5461,7 +5461,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter Fool", 
     "line_id": 49710, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.90", 
@@ -5477,7 +5477,7 @@
     "play_name": "King Lear", 
     "text_entry": "Offering KENT his cap", 
     "line_id": 49712, 
-    "speaker": "Fool"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.91", 
@@ -6021,7 +6021,7 @@
     "play_name": "King Lear", 
     "text_entry": "Singing", 
     "line_id": 49780, 
-    "speaker": "Fool"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.158", 
@@ -6093,7 +6093,7 @@
     "play_name": "King Lear", 
     "text_entry": "Singing", 
     "line_id": 49789, 
-    "speaker": "Fool"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.166", 
@@ -6221,7 +6221,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter GONERIL", 
     "line_id": 49805, 
-    "speaker": "Fool"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.181", 
@@ -6277,7 +6277,7 @@
     "play_name": "King Lear", 
     "text_entry": "To GONERIL", 
     "line_id": 49812, 
-    "speaker": "Fool"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.187", 
@@ -6317,7 +6317,7 @@
     "play_name": "King Lear", 
     "text_entry": "Pointing to KING LEAR", 
     "line_id": 49817, 
-    "speaker": "Fool"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.191", 
@@ -6805,7 +6805,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter ALBANY", 
     "line_id": 49878, 
-    "speaker": "GONERIL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.251", 
@@ -6821,7 +6821,7 @@
     "play_name": "King Lear", 
     "text_entry": "To ALBANY", 
     "line_id": 49880, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.252", 
@@ -6957,7 +6957,7 @@
     "play_name": "King Lear", 
     "text_entry": "Striking his head", 
     "line_id": 49897, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.268", 
@@ -7117,7 +7117,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 49917, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.287", 
@@ -7157,7 +7157,7 @@
     "play_name": "King Lear", 
     "text_entry": "Re-enter KING LEAR", 
     "line_id": 49922, 
-    "speaker": "GONERIL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.291", 
@@ -7197,7 +7197,7 @@
     "play_name": "King Lear", 
     "text_entry": "To GONERIL", 
     "line_id": 49927, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.295", 
@@ -7333,7 +7333,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt KING LEAR, KENT, and Attendants", 
     "line_id": 49944, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.311", 
@@ -7373,7 +7373,7 @@
     "play_name": "King Lear", 
     "text_entry": "To the Fool", 
     "line_id": 49949, 
-    "speaker": "GONERIL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.315", 
@@ -7445,7 +7445,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 49958, 
-    "speaker": "Fool"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.323", 
@@ -7557,7 +7557,7 @@
     "play_name": "King Lear", 
     "text_entry": "Re-enter OSWALD", 
     "line_id": 49972, 
-    "speaker": "GONERIL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.336", 
@@ -7629,7 +7629,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit OSWALD", 
     "line_id": 49981, 
-    "speaker": "GONERIL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.344", 
@@ -7709,7 +7709,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt", 
     "line_id": 49991, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7717,7 +7717,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE V. Court before the same.", 
     "line_id": 49992, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7725,7 +7725,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter KING LEAR, KENT, and Fool", 
     "line_id": 49993, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.1", 
@@ -7781,7 +7781,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 50000, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.7", 
@@ -8085,7 +8085,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter Gentleman", 
     "line_id": 50038, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.44", 
@@ -8133,7 +8133,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt", 
     "line_id": 50044, 
-    "speaker": "Fool"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8141,7 +8141,7 @@
     "play_name": "King Lear", 
     "text_entry": "ACT II", 
     "line_id": 50045, 
-    "speaker": "Fool"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8149,7 +8149,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE I. GLOUCESTER's castle.", 
     "line_id": 50046, 
-    "speaker": "Fool"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8157,7 +8157,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter EDMUND, and CURAN meets him", 
     "line_id": 50047, 
-    "speaker": "Fool"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -8269,7 +8269,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 50061, 
-    "speaker": "CURAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.14", 
@@ -8325,7 +8325,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter EDGAR", 
     "line_id": 50068, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.20", 
@@ -8445,7 +8445,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit EDGAR", 
     "line_id": 50083, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.34", 
@@ -8461,7 +8461,7 @@
     "play_name": "King Lear", 
     "text_entry": "Wounds his arm", 
     "line_id": 50085, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.35", 
@@ -8493,7 +8493,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter GLOUCESTER, and Servants with torches", 
     "line_id": 50089, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.38", 
@@ -8573,7 +8573,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt some Servants", 
     "line_id": 50099, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.47", 
@@ -8885,7 +8885,7 @@
     "play_name": "King Lear", 
     "text_entry": "Tucket within", 
     "line_id": 50138, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.85", 
@@ -8949,7 +8949,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter CORNWALL, REGAN, and Attendants", 
     "line_id": 50146, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.92", 
@@ -9357,7 +9357,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt", 
     "line_id": 50197, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9365,7 +9365,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE II. Before Gloucester's castle.", 
     "line_id": 50198, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9373,7 +9373,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter KENT and OSWALD, severally", 
     "line_id": 50199, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -9629,7 +9629,7 @@
     "play_name": "King Lear", 
     "text_entry": "Drawing his sword", 
     "line_id": 50231, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.32", 
@@ -9701,7 +9701,7 @@
     "play_name": "King Lear", 
     "text_entry": "Beating him", 
     "line_id": 50240, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.40", 
@@ -9717,7 +9717,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter EDMUND, with his rapier drawn, CORNWALL, REGAN, GLOUCESTER, and Servants", 
     "line_id": 50242, 
-    "speaker": "OSWALD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.41", 
@@ -10541,7 +10541,7 @@
     "play_name": "King Lear", 
     "text_entry": "Stocks brought out", 
     "line_id": 50345, 
-    "speaker": "CORNWALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.143", 
@@ -10645,7 +10645,7 @@
     "play_name": "King Lear", 
     "text_entry": "KENT is put in the stocks", 
     "line_id": 50358, 
-    "speaker": "REGAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.155", 
@@ -10661,7 +10661,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt all but GLOUCESTER and KENT", 
     "line_id": 50360, 
-    "speaker": "REGAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.156", 
@@ -10733,7 +10733,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 50369, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.164", 
@@ -10853,7 +10853,7 @@
     "play_name": "King Lear", 
     "text_entry": "Sleeps", 
     "line_id": 50384, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10861,7 +10861,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE III. A wood.", 
     "line_id": 50385, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10869,7 +10869,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter EDGAR", 
     "line_id": 50386, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -11045,7 +11045,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 50408, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11053,7 +11053,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE IV. Before GLOUCESTER's castle. KENT in the stocks.", 
     "line_id": 50409, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11061,7 +11061,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter KING LEAR, Fool, and Gentleman", 
     "line_id": 50410, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.1", 
@@ -11597,7 +11597,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 50477, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.67", 
@@ -11613,7 +11613,7 @@
     "play_name": "King Lear", 
     "text_entry": "None.", 
     "line_id": 50479, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.69", 
@@ -11813,7 +11813,7 @@
     "play_name": "King Lear", 
     "text_entry": "Re-enter KING LEAR with GLOUCESTER", 
     "line_id": 50504, 
-    "speaker": "Fool"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.93", 
@@ -12029,7 +12029,7 @@
     "play_name": "King Lear", 
     "text_entry": "Looking on KENT", 
     "line_id": 50531, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.119", 
@@ -12101,7 +12101,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 50540, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.127", 
@@ -12157,7 +12157,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter CORNWALL, REGAN, GLOUCESTER, and Servants", 
     "line_id": 50547, 
-    "speaker": "Fool"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.133", 
@@ -12181,7 +12181,7 @@
     "play_name": "King Lear", 
     "text_entry": "KENT is set at liberty", 
     "line_id": 50550, 
-    "speaker": "CORNWALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.135", 
@@ -12229,7 +12229,7 @@
     "play_name": "King Lear", 
     "text_entry": "To KENT", 
     "line_id": 50556, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.140", 
@@ -12269,7 +12269,7 @@
     "play_name": "King Lear", 
     "text_entry": "Points to his heart", 
     "line_id": 50561, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.144", 
@@ -12453,7 +12453,7 @@
     "play_name": "King Lear", 
     "text_entry": "Kneeling", 
     "line_id": 50584, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.166", 
@@ -12717,7 +12717,7 @@
     "play_name": "King Lear", 
     "text_entry": "Tucket within", 
     "line_id": 50617, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.198", 
@@ -12749,7 +12749,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter OSWALD", 
     "line_id": 50621, 
-    "speaker": "REGAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.201", 
@@ -12813,7 +12813,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter GONERIL", 
     "line_id": 50629, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.208", 
@@ -12845,7 +12845,7 @@
     "play_name": "King Lear", 
     "text_entry": "To GONERIL", 
     "line_id": 50633, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.211", 
@@ -13069,7 +13069,7 @@
     "play_name": "King Lear", 
     "text_entry": "Pointing at OSWALD", 
     "line_id": 50661, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.238", 
@@ -13437,7 +13437,7 @@
     "play_name": "King Lear", 
     "text_entry": "To GONERIL", 
     "line_id": 50707, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.283", 
@@ -13693,7 +13693,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt KING LEAR, GLOUCESTER, KENT, and Fool", 
     "line_id": 50739, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13701,7 +13701,7 @@
     "play_name": "King Lear", 
     "text_entry": "Storm and tempest", 
     "line_id": 50740, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.314", 
@@ -13789,7 +13789,7 @@
     "play_name": "King Lear", 
     "text_entry": "Re-enter GLOUCESTER", 
     "line_id": 50751, 
-    "speaker": "CORNWALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.324", 
@@ -13925,7 +13925,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt", 
     "line_id": 50768, 
-    "speaker": "CORNWALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13933,7 +13933,7 @@
     "play_name": "King Lear", 
     "text_entry": "ACT III", 
     "line_id": 50769, 
-    "speaker": "CORNWALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13941,7 +13941,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE I. A heath.", 
     "line_id": 50770, 
-    "speaker": "CORNWALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13949,7 +13949,7 @@
     "play_name": "King Lear", 
     "text_entry": "Storm still. Enter KENT and a Gentleman, meeting", 
     "line_id": 50771, 
-    "speaker": "CORNWALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -14421,7 +14421,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt severally", 
     "line_id": 50830, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14429,7 +14429,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE II. Another part of the heath. Storm still.", 
     "line_id": 50831, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14437,7 +14437,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter KING LEAR and Fool", 
     "line_id": 50832, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -14749,7 +14749,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter KENT", 
     "line_id": 50871, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.39", 
@@ -15069,7 +15069,7 @@
     "play_name": "King Lear", 
     "text_entry": "[Singing]", 
     "line_id": 50911, 
-    "speaker": "Fool"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.79", 
@@ -15117,7 +15117,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt KING LEAR and KENT", 
     "line_id": 50917, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.84", 
@@ -15261,7 +15261,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 50935, 
-    "speaker": "Fool"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15269,7 +15269,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE III. Gloucester's castle.", 
     "line_id": 50936, 
-    "speaker": "Fool"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15277,7 +15277,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter GLOUCESTER and EDMUND", 
     "line_id": 50937, 
-    "speaker": "Fool"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -15445,7 +15445,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 50958, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.21", 
@@ -15493,7 +15493,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 50964, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15501,7 +15501,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE IV. The heath. Before a hovel.", 
     "line_id": 50965, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15509,7 +15509,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter KING LEAR, KENT, and Fool", 
     "line_id": 50966, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.1", 
@@ -15541,7 +15541,7 @@
     "play_name": "King Lear", 
     "text_entry": "Storm still", 
     "line_id": 50970, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.4", 
@@ -15757,7 +15757,7 @@
     "play_name": "King Lear", 
     "text_entry": "To the Fool", 
     "line_id": 50997, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.30", 
@@ -15781,7 +15781,7 @@
     "play_name": "King Lear", 
     "text_entry": "Fool goes in", 
     "line_id": 51000, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.32", 
@@ -15869,7 +15869,7 @@
     "play_name": "King Lear", 
     "text_entry": "The Fool runs out from the hovel", 
     "line_id": 51011, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.42", 
@@ -15925,7 +15925,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter EDGAR disguised as a mad man", 
     "line_id": 51018, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.48", 
@@ -16069,7 +16069,7 @@
     "play_name": "King Lear", 
     "text_entry": "Storm still", 
     "line_id": 51036, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.65", 
@@ -16373,7 +16373,7 @@
     "play_name": "King Lear", 
     "text_entry": "Storm still", 
     "line_id": 51074, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.102", 
@@ -16453,7 +16453,7 @@
     "play_name": "King Lear", 
     "text_entry": "Tearing off his clothes", 
     "line_id": 51084, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.111", 
@@ -16493,7 +16493,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter GLOUCESTER, with a torch", 
     "line_id": 51089, 
-    "speaker": "Fool"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.115", 
@@ -16885,7 +16885,7 @@
     "play_name": "King Lear", 
     "text_entry": "Storm still", 
     "line_id": 51138, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.163", 
@@ -17093,7 +17093,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt", 
     "line_id": 51164, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17101,7 +17101,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE V. Gloucester's castle.", 
     "line_id": 51165, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17109,7 +17109,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter CORNWALL and EDMUND", 
     "line_id": 51166, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.1", 
@@ -17317,7 +17317,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt", 
     "line_id": 51192, 
-    "speaker": "CORNWALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17325,7 +17325,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE VI. A chamber in a farmhouse adjoining the castle.", 
     "line_id": 51193, 
-    "speaker": "CORNWALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17333,7 +17333,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter GLOUCESTER, KING LEAR, KENT, Fool, and EDGAR", 
     "line_id": 51194, 
-    "speaker": "CORNWALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.1", 
@@ -17381,7 +17381,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit GLOUCESTER", 
     "line_id": 51200, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.6", 
@@ -17509,7 +17509,7 @@
     "play_name": "King Lear", 
     "text_entry": "To EDGAR", 
     "line_id": 51216, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.21", 
@@ -17525,7 +17525,7 @@
     "play_name": "King Lear", 
     "text_entry": "To the Fool", 
     "line_id": 51218, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.22", 
@@ -17645,7 +17645,7 @@
     "play_name": "King Lear", 
     "text_entry": "To EDGAR", 
     "line_id": 51233, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.36", 
@@ -17661,7 +17661,7 @@
     "play_name": "King Lear", 
     "text_entry": "To the Fool", 
     "line_id": 51235, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.37", 
@@ -17685,7 +17685,7 @@
     "play_name": "King Lear", 
     "text_entry": "To KENT", 
     "line_id": 51238, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.39", 
@@ -18005,7 +18005,7 @@
     "play_name": "King Lear", 
     "text_entry": "To EDGAR", 
     "line_id": 51278, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.78", 
@@ -18069,7 +18069,7 @@
     "play_name": "King Lear", 
     "text_entry": "Re-enter GLOUCESTER", 
     "line_id": 51286, 
-    "speaker": "Fool"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.85", 
@@ -18205,7 +18205,7 @@
     "play_name": "King Lear", 
     "text_entry": "To the Fool", 
     "line_id": 51303, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.101", 
@@ -18237,7 +18237,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt all but EDGAR", 
     "line_id": 51307, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.104", 
@@ -18357,7 +18357,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 51322, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18365,7 +18365,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE VII. Gloucester's castle.", 
     "line_id": 51323, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18373,7 +18373,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter CORNWALL, REGAN, GONERIL, EDMUND, and Servants", 
     "line_id": 51324, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.1", 
@@ -18405,7 +18405,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt some of the Servants", 
     "line_id": 51328, 
-    "speaker": "CORNWALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.4", 
@@ -18493,7 +18493,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter OSWALD", 
     "line_id": 51339, 
-    "speaker": "CORNWALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.14", 
@@ -18581,7 +18581,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt GONERIL, EDMUND, and OSWALD", 
     "line_id": 51350, 
-    "speaker": "CORNWALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.24", 
@@ -18605,7 +18605,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt other Servants", 
     "line_id": 51353, 
-    "speaker": "CORNWALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.26", 
@@ -18645,7 +18645,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter GLOUCESTER, brought in by two or three", 
     "line_id": 51358, 
-    "speaker": "CORNWALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.30", 
@@ -18693,7 +18693,7 @@
     "play_name": "King Lear", 
     "text_entry": "Servants bind him", 
     "line_id": 51364, 
-    "speaker": "CORNWALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.35", 
@@ -18725,7 +18725,7 @@
     "play_name": "King Lear", 
     "text_entry": "REGAN plucks his beard", 
     "line_id": 51368, 
-    "speaker": "CORNWALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.38", 
@@ -19125,7 +19125,7 @@
     "play_name": "King Lear", 
     "text_entry": "They draw and fight", 
     "line_id": 51418, 
-    "speaker": "CORNWALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.87", 
@@ -19149,7 +19149,7 @@
     "play_name": "King Lear", 
     "text_entry": "Takes a sword, and runs at him behind", 
     "line_id": 51421, 
-    "speaker": "REGAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.89", 
@@ -19173,7 +19173,7 @@
     "play_name": "King Lear", 
     "text_entry": "Dies", 
     "line_id": 51424, 
-    "speaker": "First Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.91", 
@@ -19285,7 +19285,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit one with GLOUCESTER", 
     "line_id": 51438, 
-    "speaker": "REGAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.104", 
@@ -19333,7 +19333,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit CORNWALL, led by REGAN", 
     "line_id": 51444, 
-    "speaker": "CORNWALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.109", 
@@ -19421,7 +19421,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt severally", 
     "line_id": 51455, 
-    "speaker": "Third Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19429,7 +19429,7 @@
     "play_name": "King Lear", 
     "text_entry": "ACT IV", 
     "line_id": 51456, 
-    "speaker": "Third Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19437,7 +19437,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE I. The heath.", 
     "line_id": 51457, 
-    "speaker": "Third Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19445,7 +19445,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter EDGAR", 
     "line_id": 51458, 
-    "speaker": "Third Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -19525,7 +19525,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter GLOUCESTER, led by an Old Man", 
     "line_id": 51468, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.10", 
@@ -19933,7 +19933,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 51519, 
-    "speaker": "Old Man"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.60", 
@@ -19957,7 +19957,7 @@
     "play_name": "King Lear", 
     "text_entry": "Aside", 
     "line_id": 51522, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.62", 
@@ -20197,7 +20197,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt", 
     "line_id": 51552, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20205,7 +20205,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE II. Before ALBANY's palace.", 
     "line_id": 51553, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20213,7 +20213,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter GONERIL and EDMUND", 
     "line_id": 51554, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -20237,7 +20237,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter OSWALD", 
     "line_id": 51557, 
-    "speaker": "GONERIL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.3", 
@@ -20413,7 +20413,7 @@
     "play_name": "King Lear", 
     "text_entry": "Giving a favour", 
     "line_id": 51579, 
-    "speaker": "GONERIL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.24", 
@@ -20461,7 +20461,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit EDMUND", 
     "line_id": 51585, 
-    "speaker": "GONERIL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.29", 
@@ -20501,7 +20501,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 51590, 
-    "speaker": "OSWALD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20509,7 +20509,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter ALBANY", 
     "line_id": 51591, 
-    "speaker": "OSWALD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.33", 
@@ -20869,7 +20869,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter a Messenger", 
     "line_id": 51636, 
-    "speaker": "GONERIL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.77", 
@@ -21061,7 +21061,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 51660, 
-    "speaker": "GONERIL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.100", 
@@ -21165,7 +21165,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt", 
     "line_id": 51673, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21173,7 +21173,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE III. The French camp near Dover.", 
     "line_id": 51674, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21181,7 +21181,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter KENT and a Gentleman", 
     "line_id": 51675, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -21685,7 +21685,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt", 
     "line_id": 51738, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21693,7 +21693,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE IV. The same. A tent.", 
     "line_id": 51739, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21701,7 +21701,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter, with drum and colours, CORDELIA, Doctor, and Soldiers", 
     "line_id": 51740, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.1", 
@@ -21773,7 +21773,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit an Officer", 
     "line_id": 51749, 
-    "speaker": "CORDELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.9", 
@@ -21893,7 +21893,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter a Messenger", 
     "line_id": 51764, 
-    "speaker": "CORDELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.23", 
@@ -21981,7 +21981,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt", 
     "line_id": 51775, 
-    "speaker": "CORDELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21989,7 +21989,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE V. Gloucester's castle.", 
     "line_id": 51776, 
-    "speaker": "CORDELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21997,7 +21997,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter REGAN and OSWALD", 
     "line_id": 51777, 
-    "speaker": "CORDELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.1", 
@@ -22365,7 +22365,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt", 
     "line_id": 51823, 
-    "speaker": "REGAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22373,7 +22373,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE VI. Fields near Dover.", 
     "line_id": 51824, 
-    "speaker": "REGAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22381,7 +22381,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter GLOUCESTER, and EDGAR dressed like a peasant", 
     "line_id": 51825, 
-    "speaker": "REGAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.1", 
@@ -22781,7 +22781,7 @@
     "play_name": "King Lear", 
     "text_entry": "He falls forward", 
     "line_id": 51875, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.50", 
@@ -23141,7 +23141,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter KING LEAR, fantastically dressed with wild flowers", 
     "line_id": 51920, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.94", 
@@ -24021,7 +24021,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter a Gentleman, with Attendants", 
     "line_id": 52030, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.203", 
@@ -24173,7 +24173,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit running; Attendants follow", 
     "line_id": 52049, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.221", 
@@ -24317,7 +24317,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit Gentleman", 
     "line_id": 52067, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.238", 
@@ -24421,7 +24421,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter OSWALD", 
     "line_id": 52080, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.250", 
@@ -24485,7 +24485,7 @@
     "play_name": "King Lear", 
     "text_entry": "EDGAR interposes", 
     "line_id": 52088, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.257", 
@@ -24613,7 +24613,7 @@
     "play_name": "King Lear", 
     "text_entry": "They fight, and EDGAR knocks him down", 
     "line_id": 52104, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.272", 
@@ -24661,7 +24661,7 @@
     "play_name": "King Lear", 
     "text_entry": "Dies", 
     "line_id": 52110, 
-    "speaker": "OSWALD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.277", 
@@ -24757,7 +24757,7 @@
     "play_name": "King Lear", 
     "text_entry": "Reads", 
     "line_id": 52122, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.288", 
@@ -24965,7 +24965,7 @@
     "play_name": "King Lear", 
     "text_entry": "Drum afar off", 
     "line_id": 52148, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.313", 
@@ -24989,7 +24989,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt", 
     "line_id": 52151, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -24997,7 +24997,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE VII. A tent in the French camp. LEAR on a bed asleep,", 
     "line_id": 52152, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.1", 
@@ -25013,7 +25013,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter CORDELIA, KENT, and Doctor", 
     "line_id": 52154, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.2", 
@@ -25133,7 +25133,7 @@
     "play_name": "King Lear", 
     "text_entry": "To the Doctor", 
     "line_id": 52169, 
-    "speaker": "CORDELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.16", 
@@ -25805,7 +25805,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt all but KENT and Gentleman", 
     "line_id": 52253, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.99", 
@@ -25893,7 +25893,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 52264, 
-    "speaker": "Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.109", 
@@ -25917,7 +25917,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 52267, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -25925,7 +25925,7 @@
     "play_name": "King Lear", 
     "text_entry": "ACT V", 
     "line_id": 52268, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -25933,7 +25933,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE I. The British camp, near Dover.", 
     "line_id": 52269, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -25941,7 +25941,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter, with drum and colours, EDMUND, REGAN, Gentlemen, and Soldiers.", 
     "line_id": 52270, 
-    "speaker": "KENT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -25981,7 +25981,7 @@
     "play_name": "King Lear", 
     "text_entry": "To a Gentleman, who goes out", 
     "line_id": 52275, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.5", 
@@ -26125,7 +26125,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter, with drum and colours, ALBANY, GONERIL, and Soldiers", 
     "line_id": 52293, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.22", 
@@ -26309,7 +26309,7 @@
     "play_name": "King Lear", 
     "text_entry": "As they are going out, enter EDGAR disguised", 
     "line_id": 52316, 
-    "speaker": "GONERIL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.44", 
@@ -26341,7 +26341,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt all but ALBANY and EDGAR", 
     "line_id": 52320, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.47", 
@@ -26445,7 +26445,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit EDGAR", 
     "line_id": 52333, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -26453,7 +26453,7 @@
     "play_name": "King Lear", 
     "text_entry": "Re-enter EDMUND", 
     "line_id": 52334, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.59", 
@@ -26501,7 +26501,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 52340, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.64", 
@@ -26629,7 +26629,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 52356, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -26637,7 +26637,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE II. A field between the two camps.", 
     "line_id": 52357, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -26645,7 +26645,7 @@
     "play_name": "King Lear", 
     "text_entry": "Alarum within. Enter, with drum and colours,  KING LEAR, CORDELIA, and Soldiers, over the stage; and exeunt", 
     "line_id": 52358, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -26653,7 +26653,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter EDGAR and GLOUCESTER", 
     "line_id": 52359, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -26701,7 +26701,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit EDGAR", 
     "line_id": 52365, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -26709,7 +26709,7 @@
     "play_name": "King Lear", 
     "text_entry": "Alarum and retreat within. Re-enter EDGAR", 
     "line_id": 52366, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.6", 
@@ -26781,7 +26781,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt", 
     "line_id": 52375, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -26789,7 +26789,7 @@
     "play_name": "King Lear", 
     "text_entry": "SCENE III. The British camp near Dover.", 
     "line_id": 52376, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27029,7 +27029,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt KING LEAR and CORDELIA, guarded", 
     "line_id": 52406, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.29", 
@@ -27053,7 +27053,7 @@
     "play_name": "King Lear", 
     "text_entry": "Giving a paper", 
     "line_id": 52409, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.31", 
@@ -27173,7 +27173,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 52424, 
-    "speaker": "Captain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27181,7 +27181,7 @@
     "play_name": "King Lear", 
     "text_entry": "Flourish. Enter ALBANY, GONERIL, REGAN, another Captain, and Soldiers", 
     "line_id": 52425, 
-    "speaker": "Captain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.45", 
@@ -27613,7 +27613,7 @@
     "play_name": "King Lear", 
     "text_entry": "Pointing to Goneril", 
     "line_id": 52479, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.98", 
@@ -27709,7 +27709,7 @@
     "play_name": "King Lear", 
     "text_entry": "Throwing down a glove", 
     "line_id": 52491, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.109", 
@@ -27765,7 +27765,7 @@
     "play_name": "King Lear", 
     "text_entry": "Throwing down a glove", 
     "line_id": 52498, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.115", 
@@ -27869,7 +27869,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit Regan, led", 
     "line_id": 52511, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27877,7 +27877,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter a Herald", 
     "line_id": 52512, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.127", 
@@ -27909,7 +27909,7 @@
     "play_name": "King Lear", 
     "text_entry": "A trumpet sounds", 
     "line_id": 52516, 
-    "speaker": "Captain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.130", 
@@ -27965,7 +27965,7 @@
     "play_name": "King Lear", 
     "text_entry": "First trumpet", 
     "line_id": 52523, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.136", 
@@ -27981,7 +27981,7 @@
     "play_name": "King Lear", 
     "text_entry": "Second trumpet", 
     "line_id": 52525, 
-    "speaker": "Herald"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.137", 
@@ -27997,7 +27997,7 @@
     "play_name": "King Lear", 
     "text_entry": "Third trumpet", 
     "line_id": 52527, 
-    "speaker": "Herald"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -28005,7 +28005,7 @@
     "play_name": "King Lear", 
     "text_entry": "Trumpet answers within", 
     "line_id": 52528, 
-    "speaker": "Herald"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -28013,7 +28013,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter EDGAR, at the third sound, armed, with a trumpet before him", 
     "line_id": 52529, 
-    "speaker": "Herald"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.138", 
@@ -28325,7 +28325,7 @@
     "play_name": "King Lear", 
     "text_entry": "Alarums. They fight. EDMUND falls", 
     "line_id": 52568, 
-    "speaker": "EDMUND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.176", 
@@ -28405,7 +28405,7 @@
     "play_name": "King Lear", 
     "text_entry": "Gives the letter to EDMUND", 
     "line_id": 52578, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.185", 
@@ -28453,7 +28453,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit", 
     "line_id": 52584, 
-    "speaker": "GONERIL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.190", 
@@ -28997,7 +28997,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter a Gentleman, with a bloody knife", 
     "line_id": 52652, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.257", 
@@ -29125,7 +29125,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit Gentleman", 
     "line_id": 52668, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -29133,7 +29133,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter KENT", 
     "line_id": 52669, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.272", 
@@ -29213,7 +29213,7 @@
     "play_name": "King Lear", 
     "text_entry": "The bodies of GONERIL and REGAN are brought in", 
     "line_id": 52679, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.281", 
@@ -29349,7 +29349,7 @@
     "play_name": "King Lear", 
     "text_entry": "Exit EDGAR", 
     "line_id": 52696, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.297", 
@@ -29397,7 +29397,7 @@
     "play_name": "King Lear", 
     "text_entry": "EDMUND is borne off", 
     "line_id": 52702, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -29405,7 +29405,7 @@
     "play_name": "King Lear", 
     "text_entry": "Re-enter KING LEAR, with CORDELIA dead in his arms; EDGAR, Captain, and others following", 
     "line_id": 52703, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.302", 
@@ -29789,7 +29789,7 @@
     "play_name": "King Lear", 
     "text_entry": "Enter a Captain", 
     "line_id": 52751, 
-    "speaker": "EDGAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.349", 
@@ -29853,7 +29853,7 @@
     "play_name": "King Lear", 
     "text_entry": "To EDGAR and KENT", 
     "line_id": 52759, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.356", 
@@ -29957,7 +29957,7 @@
     "play_name": "King Lear", 
     "text_entry": "Dies", 
     "line_id": 52772, 
-    "speaker": "KING LEAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.368", 
@@ -30053,7 +30053,7 @@
     "play_name": "King Lear", 
     "text_entry": "To KENT and EDGAR", 
     "line_id": 52784, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.379", 
@@ -30125,6 +30125,6 @@
     "play_name": "King Lear", 
     "text_entry": "Exeunt, with a dead march", 
     "line_id": 52793, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }
 ]

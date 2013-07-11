@@ -5,7 +5,7 @@
     "play_name": "Richard II", 
     "text_entry": "ACT I", 
     "line_id": 78404, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Richard II", 
     "text_entry": "SCENE I. London. KING RICHARD II's palace.", 
     "line_id": 78405, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter KING RICHARD II, JOHN OF GAUNT, with other Nobles and Attendants", 
     "line_id": 78406, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -181,7 +181,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter HENRY BOLINGBROKE and THOMAS MOWBRAY", 
     "line_id": 78426, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.20", 
@@ -1613,7 +1613,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exit JOHN OF GAUNT", 
     "line_id": 78605, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.198", 
@@ -1701,7 +1701,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt", 
     "line_id": 78616, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1709,7 +1709,7 @@
     "play_name": "Richard II", 
     "text_entry": "SCENE II. The DUKE OF LANCASTER'S palace.", 
     "line_id": 78617, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1717,7 +1717,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter JOHN OF GAUNT with DUCHESS", 
     "line_id": 78618, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -2317,7 +2317,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt", 
     "line_id": 78693, 
-    "speaker": "DUCHESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2325,7 +2325,7 @@
     "play_name": "Richard II", 
     "text_entry": "SCENE III. The lists at Coventry.", 
     "line_id": 78694, 
-    "speaker": "DUCHESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2333,7 +2333,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter the Lord Marshal and the DUKE OF AUMERLE", 
     "line_id": 78695, 
-    "speaker": "DUCHESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -2389,7 +2389,7 @@
     "play_name": "Richard II", 
     "text_entry": "The trumpets sound, and KING RICHARD enters with  his nobles, JOHN OF GAUNT, BUSHY, BAGOT, GREEN, and  others. When they are set, enter THOMAS MOWBRAY in arms, defendant, with a Herald", 
     "line_id": 78702, 
-    "speaker": "DUKE OF AUMERLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.7", 
@@ -2549,7 +2549,7 @@
     "play_name": "Richard II", 
     "text_entry": "The trumpets sound. Enter HENRY BOLINGBROKE, appellant, in armour, with a Herald", 
     "line_id": 78722, 
-    "speaker": "THOMAS MOWBRAY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.26", 
@@ -3293,7 +3293,7 @@
     "play_name": "Richard II", 
     "text_entry": "A charge sounded", 
     "line_id": 78815, 
-    "speaker": "Lord Marshal"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.118", 
@@ -3341,7 +3341,7 @@
     "play_name": "Richard II", 
     "text_entry": "A long flourish", 
     "line_id": 78821, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.123", 
@@ -4029,7 +4029,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exit", 
     "line_id": 78907, 
-    "speaker": "THOMAS MOWBRAY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.208", 
@@ -4069,7 +4069,7 @@
     "play_name": "Richard II", 
     "text_entry": "To HENRY BOLINGBROKE", 
     "line_id": 78912, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.212", 
@@ -4381,7 +4381,7 @@
     "play_name": "Richard II", 
     "text_entry": "Flourish. Exeunt KING RICHARD II and train", 
     "line_id": 78951, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.250", 
@@ -4877,7 +4877,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt", 
     "line_id": 79013, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4885,7 +4885,7 @@
     "play_name": "Richard II", 
     "text_entry": "SCENE IV. The court.", 
     "line_id": 79014, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4893,7 +4893,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter KING RICHARD II, with BAGOT and GREEN at one door; and the DUKE OF AUMERLE at another", 
     "line_id": 79015, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.1", 
@@ -5317,7 +5317,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter BUSHY", 
     "line_id": 79068, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.53", 
@@ -5429,7 +5429,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt", 
     "line_id": 79082, 
-    "speaker": "All"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5437,7 +5437,7 @@
     "play_name": "Richard II", 
     "text_entry": "ACT II", 
     "line_id": 79083, 
-    "speaker": "All"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5445,7 +5445,7 @@
     "play_name": "Richard II", 
     "text_entry": "SCENE I. Ely House.", 
     "line_id": 79084, 
-    "speaker": "All"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6005,7 +6005,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter KING RICHARD II and QUEEN, DUKE OF AUMERLE,  BUSHY, GREEN, BAGOT, LORD ROSS, and LORD WILLOUGHBY", 
     "line_id": 79154, 
-    "speaker": "JOHN OF GAUNT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.69", 
@@ -6573,7 +6573,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exit, borne off by his Attendants", 
     "line_id": 79225, 
-    "speaker": "JOHN OF GAUNT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.139", 
@@ -6645,7 +6645,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter NORTHUMBERLAND", 
     "line_id": 79234, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.147", 
@@ -7213,7 +7213,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exit", 
     "line_id": 79305, 
-    "speaker": "DUKE OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.217", 
@@ -7293,7 +7293,7 @@
     "play_name": "Richard II", 
     "text_entry": "Flourish. Exeunt KING RICHARD II, QUEEN, DUKE OF AUMERLE, BUSHY, GREEN, and BAGOT", 
     "line_id": 79315, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.226", 
@@ -7909,7 +7909,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt", 
     "line_id": 79392, 
-    "speaker": "LORD WILLOUGHBY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7917,7 +7917,7 @@
     "play_name": "Richard II", 
     "text_entry": "SCENE II. The palace.", 
     "line_id": 79393, 
-    "speaker": "LORD WILLOUGHBY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7925,7 +7925,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter QUEEN, BUSHY, and BAGOT", 
     "line_id": 79394, 
-    "speaker": "LORD WILLOUGHBY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -8253,7 +8253,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter GREEN", 
     "line_id": 79435, 
-    "speaker": "QUEEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.41", 
@@ -8533,7 +8533,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter DUKE OF YORK", 
     "line_id": 79470, 
-    "speaker": "QUEEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.75", 
@@ -8645,7 +8645,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter a Servant", 
     "line_id": 79484, 
-    "speaker": "DUKE OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.88", 
@@ -8829,7 +8829,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exit Servant", 
     "line_id": 79507, 
-    "speaker": "DUKE OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.110", 
@@ -8957,7 +8957,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt DUKE OF YORK and QUEEN", 
     "line_id": 79523, 
-    "speaker": "DUKE OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.125", 
@@ -9189,7 +9189,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt", 
     "line_id": 79552, 
-    "speaker": "BAGOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9197,7 +9197,7 @@
     "play_name": "Richard II", 
     "text_entry": "SCENE III. Wilds in Gloucestershire.", 
     "line_id": 79553, 
-    "speaker": "BAGOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9205,7 +9205,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter HENRY BOLINGBROKE and NORTHUMBERLAND, with Forces", 
     "line_id": 79554, 
-    "speaker": "BAGOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -9373,7 +9373,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter HENRY PERCY", 
     "line_id": 79575, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.21", 
@@ -9677,7 +9677,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter LORD ROSS and LORD WILLOUGHBY", 
     "line_id": 79613, 
-    "speaker": "HENRY PERCY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.58", 
@@ -9773,7 +9773,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter LORD BERKELEY", 
     "line_id": 79625, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.69", 
@@ -9885,7 +9885,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter DUKE OF YORK attended", 
     "line_id": 79639, 
-    "speaker": "LORD BERKELEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.82", 
@@ -9909,7 +9909,7 @@
     "play_name": "Richard II", 
     "text_entry": "Kneels", 
     "line_id": 79642, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.84", 
@@ -10629,7 +10629,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt", 
     "line_id": 79732, 
-    "speaker": "DUKE OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10637,7 +10637,7 @@
     "play_name": "Richard II", 
     "text_entry": "SCENE IV. A camp in Wales.", 
     "line_id": 79733, 
-    "speaker": "DUKE OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10645,7 +10645,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter EARL OF SALISBURY and a Welsh Captain", 
     "line_id": 79734, 
-    "speaker": "DUKE OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.1", 
@@ -10789,7 +10789,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exit", 
     "line_id": 79752, 
-    "speaker": "Captain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.18", 
@@ -10853,7 +10853,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exit", 
     "line_id": 79760, 
-    "speaker": "EARL OF SALISBURY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10861,7 +10861,7 @@
     "play_name": "Richard II", 
     "text_entry": "ACT III", 
     "line_id": 79761, 
-    "speaker": "EARL OF SALISBURY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10869,7 +10869,7 @@
     "play_name": "Richard II", 
     "text_entry": "SCENE I. Bristol. Before the castle.", 
     "line_id": 79762, 
-    "speaker": "EARL OF SALISBURY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10877,7 +10877,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter HENRY BOLINGBROKE, DUKE OF YORK,  NORTHUMBERLAND, LORD ROSS, HENRY PERCY, LORD WILLOUGHBY, with BUSHY and GREEN, prisoners", 
     "line_id": 79763, 
-    "speaker": "EARL OF SALISBURY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -11165,7 +11165,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt NORTHUMBERLAND and others, with the prisoners", 
     "line_id": 79799, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.36", 
@@ -11245,7 +11245,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt", 
     "line_id": 79809, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11253,7 +11253,7 @@
     "play_name": "Richard II", 
     "text_entry": "SCENE II. The coast of Wales. A castle in view.", 
     "line_id": 79810, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11261,7 +11261,7 @@
     "play_name": "Richard II", 
     "text_entry": "Drums; flourish and colours. Enter KING RICHARD II, the BISHOP OF CARLISLE, DUKE OF AUMERLE, and Soldiers", 
     "line_id": 79811, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -11765,7 +11765,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter EARL OF SALISBURY", 
     "line_id": 79874, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.63", 
@@ -11997,7 +11997,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter SIR STEPHEN SCROOP", 
     "line_id": 79903, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.91", 
@@ -12925,7 +12925,7 @@
     "play_name": "Richard II", 
     "text_entry": "To DUKE OF AUMERLE", 
     "line_id": 80019, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.206", 
@@ -13053,7 +13053,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt", 
     "line_id": 80035, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13061,7 +13061,7 @@
     "play_name": "Richard II", 
     "text_entry": "SCENE III. Wales. Before Flint castle.", 
     "line_id": 80036, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13069,7 +13069,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter, with drum and colours, HENRY BOLINGBROKE, DUKE OF YORK, NORTHUMBERLAND, Attendants, and forces", 
     "line_id": 80037, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -13237,7 +13237,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter HENRY PERCY", 
     "line_id": 80058, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.21", 
@@ -13589,7 +13589,7 @@
     "play_name": "Richard II", 
     "text_entry": "Parle without, and answer within. Then a flourish.  Enter on the walls, KING RICHARD II, the BISHOP OF  CARLISLE, DUKE OF AUMERLE, SIR STEPHEN SCROOP, and EARL OF SALISBURY", 
     "line_id": 80102, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.64", 
@@ -13693,7 +13693,7 @@
     "play_name": "Richard II", 
     "text_entry": "To NORTHUMBERLAND", 
     "line_id": 80115, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.76", 
@@ -14133,7 +14133,7 @@
     "play_name": "Richard II", 
     "text_entry": "To DUKE OF AUMERLE", 
     "line_id": 80170, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.130", 
@@ -14605,7 +14605,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt from above", 
     "line_id": 80229, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.188", 
@@ -14645,7 +14645,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter KING RICHARD and his attendants below", 
     "line_id": 80234, 
-    "speaker": "NORTHUMBERLAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.192", 
@@ -14669,7 +14669,7 @@
     "play_name": "Richard II", 
     "text_entry": "He kneels down", 
     "line_id": 80237, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.194", 
@@ -14853,7 +14853,7 @@
     "play_name": "Richard II", 
     "text_entry": "Flourish. Exeunt", 
     "line_id": 80260, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14861,7 +14861,7 @@
     "play_name": "Richard II", 
     "text_entry": "SCENE IV. LANGLEY. The DUKE OF YORK's garden.", 
     "line_id": 80261, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14869,7 +14869,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter the QUEEN and two Ladies", 
     "line_id": 80262, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.1", 
@@ -15077,7 +15077,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter a Gardener, and two Servants", 
     "line_id": 80288, 
-    "speaker": "QUEEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.26", 
@@ -15125,7 +15125,7 @@
     "play_name": "Richard II", 
     "text_entry": "QUEEN and Ladies retire", 
     "line_id": 80294, 
-    "speaker": "QUEEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.31", 
@@ -15501,7 +15501,7 @@
     "play_name": "Richard II", 
     "text_entry": "Coming forward", 
     "line_id": 80341, 
-    "speaker": "QUEEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.77", 
@@ -15741,7 +15741,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt QUEEN and Ladies", 
     "line_id": 80371, 
-    "speaker": "QUEEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.106", 
@@ -15797,7 +15797,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt", 
     "line_id": 80378, 
-    "speaker": "GARDENER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15805,7 +15805,7 @@
     "play_name": "Richard II", 
     "text_entry": "ACT IV", 
     "line_id": 80379, 
-    "speaker": "GARDENER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15813,7 +15813,7 @@
     "play_name": "Richard II", 
     "text_entry": "SCENE I. Westminster Hall.", 
     "line_id": 80380, 
-    "speaker": "GARDENER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15821,7 +15821,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter, as to the Parliament, HENRY BOLINGBROKE,  DUKE OF AUMERLE, NORTHUMBERLAND, HENRY PERCY, LORD  FITZWATER, DUKE OF SURREY, the BISHOP OF CARLISLE,  the Abbot Of Westminster, and another Lord, Herald, Officers, and BAGOT", 
     "line_id": 80381, 
-    "speaker": "GARDENER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -16693,7 +16693,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter DUKE OF YORK, attended", 
     "line_id": 80490, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.109", 
@@ -17117,7 +17117,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exit", 
     "line_id": 80543, 
-    "speaker": "DUKE OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.161", 
@@ -17157,7 +17157,7 @@
     "play_name": "Richard II", 
     "text_entry": "Re-enter DUKE OF YORK, with KING RICHARD II, and Officers bearing the regalia", 
     "line_id": 80548, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.165", 
@@ -17309,7 +17309,7 @@
     "play_name": "Richard II", 
     "text_entry": "To Henry Bolingbroke.", 
     "line_id": 80567, 
-    "speaker": "DUKE OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.184", 
@@ -18029,7 +18029,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exit an attendant", 
     "line_id": 80657, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.273", 
@@ -18093,7 +18093,7 @@
     "play_name": "Richard II", 
     "text_entry": "Re-enter Attendant, with a glass", 
     "line_id": 80665, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.280", 
@@ -18205,7 +18205,7 @@
     "play_name": "Richard II", 
     "text_entry": "Dashes the glass against the ground", 
     "line_id": 80679, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.293", 
@@ -18469,7 +18469,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt KING RICHARD II, some Lords, and a Guard", 
     "line_id": 80712, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.325", 
@@ -18493,7 +18493,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt all except the BISHOP OF CARLISLE, the Abbot of Westminster, and DUKE OF AUMERLE", 
     "line_id": 80715, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.327", 
@@ -18613,7 +18613,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt", 
     "line_id": 80730, 
-    "speaker": "Abbot"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18621,7 +18621,7 @@
     "play_name": "Richard II", 
     "text_entry": "ACT V", 
     "line_id": 80731, 
-    "speaker": "Abbot"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18629,7 +18629,7 @@
     "play_name": "Richard II", 
     "text_entry": "SCENE I. London. A street leading to the Tower.", 
     "line_id": 80732, 
-    "speaker": "Abbot"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18637,7 +18637,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter QUEEN and Ladies", 
     "line_id": 80733, 
-    "speaker": "Abbot"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -18693,7 +18693,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter KING RICHARD II and Guard", 
     "line_id": 80740, 
-    "speaker": "QUEEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.7", 
@@ -19053,7 +19053,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter NORTHUMBERLAND and others", 
     "line_id": 80785, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.51", 
@@ -19477,7 +19477,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt", 
     "line_id": 80838, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19485,7 +19485,7 @@
     "play_name": "Richard II", 
     "text_entry": "SCENE II. The DUKE OF YORK's palace.", 
     "line_id": 80839, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19493,7 +19493,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter DUKE OF YORK and DUCHESS OF YORK", 
     "line_id": 80840, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -19885,7 +19885,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter DUKE OF AUMERLE", 
     "line_id": 80889, 
-    "speaker": "DUKE OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.49", 
@@ -20117,7 +20117,7 @@
     "play_name": "Richard II", 
     "text_entry": "He plucks it out of his bosom and reads it", 
     "line_id": 80918, 
-    "speaker": "DUKE OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.77", 
@@ -20149,7 +20149,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter a Servant", 
     "line_id": 80922, 
-    "speaker": "DUKE OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.80", 
@@ -20261,7 +20261,7 @@
     "play_name": "Richard II", 
     "text_entry": "Re-enter Servant with boots", 
     "line_id": 80936, 
-    "speaker": "DUKE OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.93", 
@@ -20501,7 +20501,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exit", 
     "line_id": 80966, 
-    "speaker": "DUKE OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.122", 
@@ -20565,7 +20565,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt", 
     "line_id": 80974, 
-    "speaker": "DUCHESS OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20573,7 +20573,7 @@
     "play_name": "Richard II", 
     "text_entry": "SCENE III. A royal palace.", 
     "line_id": 80975, 
-    "speaker": "DUCHESS OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20581,7 +20581,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter HENRY BOLINGBROKE, HENRY PERCY, and other Lords", 
     "line_id": 80976, 
-    "speaker": "DUCHESS OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.1", 
@@ -20765,7 +20765,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter DUKE OF AUMERLE", 
     "line_id": 80999, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.23", 
@@ -20821,7 +20821,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt HENRY PERCY and Lords", 
     "line_id": 81006, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.29", 
@@ -20933,7 +20933,7 @@
     "play_name": "Richard II", 
     "text_entry": "Drawing", 
     "line_id": 81020, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.42", 
@@ -20973,7 +20973,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter DUKE OF YORK", 
     "line_id": 81025, 
-    "speaker": "DUKE OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.46", 
@@ -21317,7 +21317,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter DUCHESS OF YORK", 
     "line_id": 81068, 
-    "speaker": "DUKE OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.88", 
@@ -21365,7 +21365,7 @@
     "play_name": "Richard II", 
     "text_entry": "Kneels", 
     "line_id": 81074, 
-    "speaker": "DUCHESS OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.93", 
@@ -21853,7 +21853,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt", 
     "line_id": 81135, 
-    "speaker": "DUCHESS OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21861,7 +21861,7 @@
     "play_name": "Richard II", 
     "text_entry": "SCENE IV. The same.", 
     "line_id": 81136, 
-    "speaker": "DUCHESS OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21869,7 +21869,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter EXTON and Servant", 
     "line_id": 81137, 
-    "speaker": "DUCHESS OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.1", 
@@ -21973,7 +21973,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt", 
     "line_id": 81150, 
-    "speaker": "EXTON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21981,7 +21981,7 @@
     "play_name": "Richard II", 
     "text_entry": "SCENE V. Pomfret castle.", 
     "line_id": 81151, 
-    "speaker": "EXTON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21989,7 +21989,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter KING RICHARD", 
     "line_id": 81152, 
-    "speaker": "EXTON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.1", 
@@ -22325,7 +22325,7 @@
     "play_name": "Richard II", 
     "text_entry": "Music", 
     "line_id": 81194, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.42", 
@@ -22533,7 +22533,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter a Groom of the Stable", 
     "line_id": 81220, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.67", 
@@ -22773,7 +22773,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter Keeper, with a dish", 
     "line_id": 81250, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.96", 
@@ -22805,7 +22805,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exit", 
     "line_id": 81254, 
-    "speaker": "Groom"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.99", 
@@ -22861,7 +22861,7 @@
     "play_name": "Richard II", 
     "text_entry": "Beats the keeper", 
     "line_id": 81261, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.105", 
@@ -22877,7 +22877,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter EXTON and Servants, armed", 
     "line_id": 81263, 
-    "speaker": "Keeper"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.106", 
@@ -22901,7 +22901,7 @@
     "play_name": "Richard II", 
     "text_entry": "Snatching an axe from a Servant and killing him", 
     "line_id": 81266, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.108", 
@@ -22917,7 +22917,7 @@
     "play_name": "Richard II", 
     "text_entry": "He kills another. Then Exton strikes him down", 
     "line_id": 81268, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.109", 
@@ -22965,7 +22965,7 @@
     "play_name": "Richard II", 
     "text_entry": "Dies", 
     "line_id": 81274, 
-    "speaker": "KING RICHARD II"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.114", 
@@ -23021,7 +23021,7 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt", 
     "line_id": 81281, 
-    "speaker": "EXTON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23029,7 +23029,7 @@
     "play_name": "Richard II", 
     "text_entry": "SCENE VI. Windsor castle.", 
     "line_id": 81282, 
-    "speaker": "EXTON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23037,7 +23037,7 @@
     "play_name": "Richard II", 
     "text_entry": "Flourish. Enter HENRY BOLINGBROKE, DUKE OF YORK, with other Lords, and Attendants", 
     "line_id": 81283, 
-    "speaker": "EXTON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.6.1", 
@@ -23077,7 +23077,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter NORTHUMBERLAND", 
     "line_id": 81288, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.6.5", 
@@ -23149,7 +23149,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter LORD FITZWATER", 
     "line_id": 81297, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.6.13", 
@@ -23205,7 +23205,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter HENRY PERCY, and the BISHOP OF CARLISLE", 
     "line_id": 81304, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.6.19", 
@@ -23301,7 +23301,7 @@
     "play_name": "Richard II", 
     "text_entry": "Enter EXTON, with persons bearing a coffin", 
     "line_id": 81316, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.6.30", 
@@ -23493,6 +23493,6 @@
     "play_name": "Richard II", 
     "text_entry": "Exeunt", 
     "line_id": 81340, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }
 ]

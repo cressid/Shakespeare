@@ -5,7 +5,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "ACT I", 
     "line_id": 18566, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE I. Alexandria. A room in CLEOPATRA's palace.", 
     "line_id": 18567, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter DEMETRIUS and PHILO", 
     "line_id": 18568, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -109,7 +109,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Flourish. Enter ANTONY, CLEOPATRA, her Ladies, the Train, with Eunuchs fanning her", 
     "line_id": 18579, 
-    "speaker": "PHILO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.11", 
@@ -181,7 +181,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter an Attendant", 
     "line_id": 18588, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.19", 
@@ -365,7 +365,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Embracing", 
     "line_id": 18611, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.41", 
@@ -541,7 +541,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt MARK ANTONY and CLEOPATRA with their train", 
     "line_id": 18633, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.62", 
@@ -613,7 +613,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 18642, 
-    "speaker": "DEMETRIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -621,7 +621,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE II. The same. Another room.", 
     "line_id": 18643, 
-    "speaker": "DEMETRIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -629,7 +629,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter CHARMIAN, IRAS, ALEXAS, and a Soothsayer", 
     "line_id": 18644, 
-    "speaker": "DEMETRIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -725,7 +725,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter DOMITIUS ENOBARBUS", 
     "line_id": 18656, 
-    "speaker": "ALEXAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.12", 
@@ -1253,7 +1253,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter CLEOPATRA", 
     "line_id": 18722, 
-    "speaker": "CHARMIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.77", 
@@ -1349,7 +1349,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 18734, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1357,7 +1357,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter MARK ANTONY with a Messenger and Attendants", 
     "line_id": 18735, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.88", 
@@ -1589,7 +1589,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit", 
     "line_id": 18764, 
-    "speaker": "Messenger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.116", 
@@ -1645,7 +1645,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter another Messenger", 
     "line_id": 18771, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.122", 
@@ -1701,7 +1701,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Gives a letter", 
     "line_id": 18778, 
-    "speaker": "Second Messenger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.128", 
@@ -1717,7 +1717,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit Second Messenger", 
     "line_id": 18780, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.129", 
@@ -1797,7 +1797,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Re-enter DOMITIUS ENOBARBUS", 
     "line_id": 18790, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.138", 
@@ -1925,7 +1925,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit ALEXAS", 
     "line_id": 18806, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.153", 
@@ -2349,7 +2349,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 18859, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2357,7 +2357,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE III. The same. Another room.", 
     "line_id": 18860, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2365,7 +2365,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter CLEOPATRA, CHARMIAN, IRAS, and ALEXAS", 
     "line_id": 18861, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -2421,7 +2421,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit ALEXAS", 
     "line_id": 18868, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.7", 
@@ -2501,7 +2501,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter MARK ANTONY", 
     "line_id": 18878, 
-    "speaker": "CHARMIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.16", 
@@ -3381,7 +3381,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 18988, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3389,7 +3389,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE IV. Rome. OCTAVIUS CAESAR's house.", 
     "line_id": 18989, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3397,7 +3397,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter OCTAVIUS CAESAR, reading a letter, LEPIDUS, and their Train", 
     "line_id": 18990, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.1", 
@@ -3685,7 +3685,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter a Messenger", 
     "line_id": 19026, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.36", 
@@ -4165,7 +4165,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 19086, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4173,7 +4173,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE V. Alexandria. CLEOPATRA's palace.", 
     "line_id": 19087, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4181,7 +4181,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter CLEOPATRA, CHARMIAN, IRAS, and MARDIAN", 
     "line_id": 19088, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.1", 
@@ -4501,7 +4501,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter ALEXAS, from OCTAVIUS CAESAR", 
     "line_id": 19128, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.40", 
@@ -4925,7 +4925,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 19181, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4933,7 +4933,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "ACT II", 
     "line_id": 19182, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4941,7 +4941,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE I. Messina. POMPEY's house.", 
     "line_id": 19183, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4949,7 +4949,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter POMPEY, MENECRATES, and MENAS, in warlike manner", 
     "line_id": 19184, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -5213,7 +5213,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter VARRIUS", 
     "line_id": 19217, 
-    "speaker": "POMPEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.33", 
@@ -5461,7 +5461,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 19248, 
-    "speaker": "POMPEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5469,7 +5469,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE II. Rome. The house of LEPIDUS.", 
     "line_id": 19249, 
-    "speaker": "POMPEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5477,7 +5477,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter DOMITIUS ENOBARBUS and LEPIDUS", 
     "line_id": 19250, 
-    "speaker": "POMPEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -5629,7 +5629,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter MARK ANTONY and VENTIDIUS", 
     "line_id": 19269, 
-    "speaker": "LEPIDUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.19", 
@@ -5645,7 +5645,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter OCTAVIUS CAESAR, MECAENAS, and AGRIPPA", 
     "line_id": 19271, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.20", 
@@ -5781,7 +5781,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Flourish", 
     "line_id": 19288, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.36", 
@@ -7189,7 +7189,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Flourish. Exeunt OCTAVIUS CAESAR, MARK ANTONY, and LEPIDUS", 
     "line_id": 19464, 
-    "speaker": "LEPIDUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.211", 
@@ -7837,7 +7837,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 19545, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7845,7 +7845,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE III. The same. OCTAVIUS CAESAR's house.", 
     "line_id": 19546, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7853,7 +7853,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter MARK ANTONY, OCTAVIUS CAESAR, OCTAVIA between them, and Attendants", 
     "line_id": 19547, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -7949,7 +7949,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt OCTAVIUS CAESAR and OCTAVIA", 
     "line_id": 19559, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7957,7 +7957,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter Soothsayer", 
     "line_id": 19560, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.12", 
@@ -8165,7 +8165,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit Soothsayer", 
     "line_id": 19586, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.37", 
@@ -8245,7 +8245,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter VENTIDIUS", 
     "line_id": 19596, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.46", 
@@ -8277,7 +8277,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 19600, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8285,7 +8285,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE IV. The same. A street.", 
     "line_id": 19601, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8293,7 +8293,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter LEPIDUS, MECAENAS, and AGRIPPA", 
     "line_id": 19602, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.1", 
@@ -8413,7 +8413,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 19617, 
-    "speaker": "LEPIDUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8421,7 +8421,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE V. Alexandria. CLEOPATRA's palace.", 
     "line_id": 19618, 
-    "speaker": "LEPIDUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8429,7 +8429,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter CLEOPATRA, CHARMIAN, IRAS, and ALEXAS", 
     "line_id": 19619, 
-    "speaker": "LEPIDUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.1", 
@@ -8461,7 +8461,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter MARDIAN", 
     "line_id": 19623, 
-    "speaker": "Attendants"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.4", 
@@ -8661,7 +8661,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter a Messenger", 
     "line_id": 19648, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.28", 
@@ -9061,7 +9061,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Strikes him down", 
     "line_id": 19698, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.77", 
@@ -9085,7 +9085,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Strikes him again", 
     "line_id": 19701, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.79", 
@@ -9109,7 +9109,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "She hales him up and down", 
     "line_id": 19704, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.81", 
@@ -9205,7 +9205,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Draws a knife", 
     "line_id": 19716, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.92", 
@@ -9229,7 +9229,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit", 
     "line_id": 19719, 
-    "speaker": "Messenger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.94", 
@@ -9301,7 +9301,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit CHARMIAN", 
     "line_id": 19728, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.102", 
@@ -9333,7 +9333,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Re-enter CHARMIAN and Messenger", 
     "line_id": 19732, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.105", 
@@ -9557,7 +9557,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit Messenger", 
     "line_id": 19760, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.132", 
@@ -9645,7 +9645,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit ALEXAS", 
     "line_id": 19771, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.142", 
@@ -9677,7 +9677,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "To MARDIAN", 
     "line_id": 19775, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.145", 
@@ -9701,7 +9701,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 19778, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9709,7 +9709,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE VI. Near Misenum.", 
     "line_id": 19779, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9717,7 +9717,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Flourish. Enter POMPEY and MENAS at one door,  with drum and trumpet: at another, OCTAVIUS CAESAR,  MARK ANTONY, LEPIDUS, DOMITIUS ENOBARBUS, MECAENAS, with Soldiers marching", 
     "line_id": 19780, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.6.1", 
@@ -10581,7 +10581,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt all but MENAS and ENOBARBUS", 
     "line_id": 19888, 
-    "speaker": "POMPEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.6.108", 
@@ -10989,7 +10989,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 19939, 
-    "speaker": "MENAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10997,7 +10997,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE VII. On board POMPEY's galley, off Misenum.", 
     "line_id": 19940, 
-    "speaker": "MENAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11005,7 +11005,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Music plays. Enter two or three Servants with a banquet", 
     "line_id": 19941, 
-    "speaker": "MENAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.7.1", 
@@ -11141,7 +11141,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "A sennet sounded. Enter OCTAVIUS CAESAR, MARK  ANTONY, LEPIDUS, POMPEY, AGRIPPA, MECAENAS, DOMITIUS ENOBARBUS, MENAS, with other captains", 
     "line_id": 19958, 
-    "speaker": "First Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.7.17", 
@@ -11533,7 +11533,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Rises, and walks aside", 
     "line_id": 20007, 
-    "speaker": "POMPEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.7.65", 
@@ -11861,7 +11861,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Pointing to the Attendant who carries off LEPIDUS", 
     "line_id": 20048, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.7.105", 
@@ -12013,7 +12013,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "To MARK ANTONY", 
     "line_id": 20067, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.7.123", 
@@ -12109,7 +12109,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Music plays. DOMITIUS ENOBARBUS places them hand in hand", 
     "line_id": 20079, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.7.134", 
@@ -12117,7 +12117,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "THE SONG.", 
     "line_id": 20080, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.7.135", 
@@ -12285,7 +12285,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt all but DOMITIUS ENOBARBUS and MENAS", 
     "line_id": 20101, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.7.155", 
@@ -12333,7 +12333,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Sound a flourish, with drums", 
     "line_id": 20107, 
-    "speaker": "MENAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.7.160", 
@@ -12357,7 +12357,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 20110, 
-    "speaker": "MENAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12365,7 +12365,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "ACT III", 
     "line_id": 20111, 
-    "speaker": "MENAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12373,7 +12373,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE I. A plain in Syria.", 
     "line_id": 20112, 
-    "speaker": "MENAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12381,7 +12381,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter VENTIDIUS as it were in triumph, with SILIUS,  and other Romans, Officers, and Soldiers; the dead body of PACORUS borne before him", 
     "line_id": 20113, 
-    "speaker": "MENAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -12725,7 +12725,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 20156, 
-    "speaker": "VENTIDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12733,7 +12733,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE II. Rome. An ante-chamber in OCTAVIUS CAESAR's house.", 
     "line_id": 20157, 
-    "speaker": "VENTIDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12741,7 +12741,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter AGRIPPA at one door, DOMITIUS ENOBARBUS at another", 
     "line_id": 20158, 
-    "speaker": "VENTIDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -12933,7 +12933,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Trumpets within", 
     "line_id": 20182, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.24", 
@@ -12965,7 +12965,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter OCTAVIUS CAESAR, MARK ANTONY, LEPIDUS, and OCTAVIA", 
     "line_id": 20186, 
-    "speaker": "AGRIPPA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.27", 
@@ -13429,7 +13429,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Kisses OCTAVIA", 
     "line_id": 20244, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.84", 
@@ -13445,7 +13445,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Trumpets sound. Exeunt", 
     "line_id": 20246, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13453,7 +13453,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE III. Alexandria. CLEOPATRA's palace.", 
     "line_id": 20247, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13461,7 +13461,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter CLEOPATRA, CHARMIAN, IRAS, and ALEXAS", 
     "line_id": 20248, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -13493,7 +13493,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter the Messenger as before", 
     "line_id": 20252, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.4", 
@@ -13909,7 +13909,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit Messenger", 
     "line_id": 20304, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.55", 
@@ -14013,7 +14013,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 20317, 
-    "speaker": "CHARMIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14021,7 +14021,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE IV. Athens. A room in MARK ANTONY's house.", 
     "line_id": 20318, 
-    "speaker": "CHARMIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14029,7 +14029,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter MARK ANTONY and OCTAVIA", 
     "line_id": 20319, 
-    "speaker": "CHARMIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.1", 
@@ -14365,7 +14365,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 20361, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14373,7 +14373,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE V. The same. Another room.", 
     "line_id": 20362, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14381,7 +14381,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter DOMITIUS ENOBARBUS and EROS, meeting", 
     "line_id": 20363, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.1", 
@@ -14589,7 +14589,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 20389, 
-    "speaker": "EROS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14597,7 +14597,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE VI. Rome. OCTAVIUS CAESAR's house.", 
     "line_id": 20390, 
-    "speaker": "EROS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14605,7 +14605,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter OCTAVIUS CAESAR, AGRIPPA, and MECAENAS", 
     "line_id": 20391, 
-    "speaker": "EROS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.1", 
@@ -14957,7 +14957,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter OCTAVIA with her train", 
     "line_id": 20435, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.44", 
@@ -15509,7 +15509,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 20504, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15517,7 +15517,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE VII. Near Actium. MARK ANTONY's camp.", 
     "line_id": 20505, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15525,7 +15525,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter CLEOPATRA and DOMITIUS ENOBARBUS", 
     "line_id": 20506, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.1", 
@@ -15741,7 +15741,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter MARK ANTONY and CANIDIUS", 
     "line_id": 20533, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.27", 
@@ -16069,7 +16069,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter a Messenger", 
     "line_id": 20574, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.67", 
@@ -16141,7 +16141,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter a Soldier", 
     "line_id": 20583, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.75", 
@@ -16213,7 +16213,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt MARK ANTONY, QUEEN CLEOPATRA, and DOMITIUS ENOBARBUS", 
     "line_id": 20592, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.83", 
@@ -16349,7 +16349,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter a Messenger", 
     "line_id": 20609, 
-    "speaker": "CANIDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.99", 
@@ -16381,7 +16381,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 20613, 
-    "speaker": "CANIDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16389,7 +16389,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE VIII. A plain near Actium.", 
     "line_id": 20614, 
-    "speaker": "CANIDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16397,7 +16397,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter OCTAVIUS CAESAR, and TAURUS, with his army, marching", 
     "line_id": 20615, 
-    "speaker": "CANIDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.8.1", 
@@ -16453,7 +16453,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 20622, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16461,7 +16461,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE IX. Another part of the plain.", 
     "line_id": 20623, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16469,7 +16469,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter MARK ANTONY and DOMITIUS ENOBARBUS", 
     "line_id": 20624, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.9.1", 
@@ -16509,7 +16509,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 20629, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16517,7 +16517,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE X. Another part of the plain.", 
     "line_id": 20630, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16525,7 +16525,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "CANIDIUS marcheth with his land army one way over  the stage; and TAURUS, the lieutenant of OCTAVIUS  CAESAR, the other way. After their going in, is heard the noise of a sea-fight", 
     "line_id": 20631, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16533,7 +16533,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Alarum. Enter DOMITIUS ENOBARBUS", 
     "line_id": 20632, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.10.1", 
@@ -16573,7 +16573,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter SCARUS", 
     "line_id": 20637, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.10.5", 
@@ -16781,7 +16781,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter CANIDIUS", 
     "line_id": 20663, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.10.30", 
@@ -16917,7 +16917,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 20680, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16925,7 +16925,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE XI. Alexandria. CLEOPATRA's palace.", 
     "line_id": 20681, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16933,7 +16933,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter MARK ANTONY with Attendants", 
     "line_id": 20682, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.11.1", 
@@ -17141,7 +17141,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Sits down", 
     "line_id": 20708, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17149,7 +17149,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter CLEOPATRA led by CHARMIAN and IRAS; EROS following", 
     "line_id": 20709, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.11.26", 
@@ -17605,7 +17605,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 20766, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17613,7 +17613,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE XII. Egypt. OCTAVIUS CAESAR's camp.", 
     "line_id": 20767, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17621,7 +17621,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter OCTAVIUS CAESAR, DOLABELLA, THYREUS, with others", 
     "line_id": 20768, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.12.1", 
@@ -17685,7 +17685,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter EUPHRONIUS, ambassador from MARK ANTONY", 
     "line_id": 20776, 
-    "speaker": "DOLABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.12.8", 
@@ -17877,7 +17877,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit EUPHRONIUS", 
     "line_id": 20800, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17885,7 +17885,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "To THYREUS", 
     "line_id": 20801, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.12.31", 
@@ -17989,7 +17989,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 20814, 
-    "speaker": "THYREUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17997,7 +17997,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE XIII. Alexandria. CLEOPATRA's palace.", 
     "line_id": 20815, 
-    "speaker": "THYREUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18005,7 +18005,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter CLEOPATRA, DOMITIUS ENOBARBUS, CHARMIAN, and IRAS", 
     "line_id": 20816, 
-    "speaker": "THYREUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.13.1", 
@@ -18125,7 +18125,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter MARK ANTONY with EUPHRONIUS, the Ambassador", 
     "line_id": 20831, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.13.15", 
@@ -18285,7 +18285,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt MARK ANTONY and EUPHRONIUS", 
     "line_id": 20851, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.13.34", 
@@ -18365,7 +18365,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter an Attendant", 
     "line_id": 20861, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.13.43", 
@@ -18405,7 +18405,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit Attendant", 
     "line_id": 20866, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.13.47", 
@@ -18461,7 +18461,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter THYREUS", 
     "line_id": 20873, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.13.53", 
@@ -18677,7 +18677,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit", 
     "line_id": 20900, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.13.79", 
@@ -18885,7 +18885,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Re-enter MARK ANTONY and DOMITIUS ENOBARBUS", 
     "line_id": 20926, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.13.104", 
@@ -18989,7 +18989,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter Attendants", 
     "line_id": 20939, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.13.116", 
@@ -19109,7 +19109,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt Attendants with THYREUS", 
     "line_id": 20954, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.13.130", 
@@ -19357,7 +19357,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Re-enter Attendants with THYREUS", 
     "line_id": 20985, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.13.160", 
@@ -19549,7 +19549,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit THYREUS", 
     "line_id": 21009, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.13.183", 
@@ -19941,7 +19941,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt all but DOMITIUS ENOBARBUS", 
     "line_id": 21058, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.13.231", 
@@ -20005,7 +20005,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit", 
     "line_id": 21066, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20013,7 +20013,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "ACT IV", 
     "line_id": 21067, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20021,7 +20021,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE I. Before Alexandria. OCTAVIUS CAESAR's camp.", 
     "line_id": 21068, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20029,7 +20029,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter OCTAVIUS CAESAR, AGRIPPA, and MECAENAS, with his Army; OCTAVIUS CAESAR reading a letter", 
     "line_id": 21069, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -20181,7 +20181,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 21088, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20189,7 +20189,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE II. Alexandria. CLEOPATRA's palace.", 
     "line_id": 21089, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20197,7 +20197,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter MARK ANTONY, CLEOPATRA, DOMITIUS ENOBARBUS, CHARMIAN, IRAS, ALEXAS, with others", 
     "line_id": 21090, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -20309,7 +20309,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter three or four Servitors", 
     "line_id": 21104, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.14", 
@@ -20677,7 +20677,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 21150, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20685,7 +20685,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE III. The same. Before the palace.", 
     "line_id": 21151, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20693,7 +20693,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter two Soldiers to their guard", 
     "line_id": 21152, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -20749,7 +20749,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter two other Soldiers", 
     "line_id": 21159, 
-    "speaker": "First Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.7", 
@@ -20773,7 +20773,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "They place themselves in every corner of the stage", 
     "line_id": 21162, 
-    "speaker": "Third Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.9", 
@@ -20821,7 +20821,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Music of the hautboys as under the stage", 
     "line_id": 21168, 
-    "speaker": "Third Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.14", 
@@ -20933,7 +20933,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "They advance to another post", 
     "line_id": 21182, 
-    "speaker": "First Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.27", 
@@ -21005,7 +21005,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 21191, 
-    "speaker": "All"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21013,7 +21013,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE IV. The same. A room in the palace.", 
     "line_id": 21192, 
-    "speaker": "All"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21021,7 +21021,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter MARK ANTONY and CLEOPATRA, CHARMIAN, and others attending", 
     "line_id": 21193, 
-    "speaker": "All"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.1", 
@@ -21053,7 +21053,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter EROS with armour", 
     "line_id": 21197, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.4", 
@@ -21229,7 +21229,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter an armed Soldier", 
     "line_id": 21219, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.25", 
@@ -21293,7 +21293,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Shout. Trumpets flourish", 
     "line_id": 21227, 
-    "speaker": "Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21301,7 +21301,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter Captains and Soldiers", 
     "line_id": 21228, 
-    "speaker": "Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.32", 
@@ -21373,7 +21373,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Kisses her", 
     "line_id": 21237, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.40", 
@@ -21413,7 +21413,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt MARK ANTONY, EROS, Captains, and Soldiers", 
     "line_id": 21242, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.44", 
@@ -21461,7 +21461,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 21248, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21469,7 +21469,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE V. Alexandria. MARK ANTONY's camp.", 
     "line_id": 21249, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21477,7 +21477,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Trumpets sound. Enter MARK ANTONY and EROS; a Soldier meeting them", 
     "line_id": 21250, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.1", 
@@ -21685,7 +21685,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 21276, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21693,7 +21693,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE VI. Alexandria. OCTAVIUS CAESAR's camp.", 
     "line_id": 21277, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21701,7 +21701,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Flourish. Enter OCTAVIUS CAESAR, AGRIPPA, with DOMITIUS ENOBARBUS, and others", 
     "line_id": 21278, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.1", 
@@ -21741,7 +21741,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit", 
     "line_id": 21283, 
-    "speaker": "AGRIPPA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.5", 
@@ -21773,7 +21773,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter a Messenger", 
     "line_id": 21287, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.8", 
@@ -21829,7 +21829,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt all but DOMITIUS ENOBARBUS", 
     "line_id": 21294, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.14", 
@@ -21909,7 +21909,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter a Soldier of CAESAR's", 
     "line_id": 21304, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.23", 
@@ -22005,7 +22005,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit", 
     "line_id": 21316, 
-    "speaker": "Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.34", 
@@ -22093,7 +22093,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit", 
     "line_id": 21327, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22101,7 +22101,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE VII. Field of battle between the camps.", 
     "line_id": 21328, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22109,7 +22109,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Alarum. Drums and trumpets. Enter AGRIPPA and others", 
     "line_id": 21329, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.1", 
@@ -22141,7 +22141,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 21333, 
-    "speaker": "AGRIPPA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22149,7 +22149,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Alarums. Enter MARK ANTONY and SCARUS wounded", 
     "line_id": 21334, 
-    "speaker": "AGRIPPA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.4", 
@@ -22229,7 +22229,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter EROS", 
     "line_id": 21344, 
-    "speaker": "SCARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.13", 
@@ -22309,7 +22309,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 21354, 
-    "speaker": "SCARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22317,7 +22317,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE VIII. Under the walls of Alexandria.", 
     "line_id": 21355, 
-    "speaker": "SCARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22325,7 +22325,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Alarum. Enter MARK ANTONY, in a march; SCARUS, with others", 
     "line_id": 21356, 
-    "speaker": "SCARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.8.1", 
@@ -22421,7 +22421,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "To SCARUS", 
     "line_id": 21368, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.8.12", 
@@ -22437,7 +22437,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter CLEOPATRA, attended", 
     "line_id": 21370, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.8.13", 
@@ -22461,7 +22461,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "To CLEOPATRA", 
     "line_id": 21373, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.8.15", 
@@ -22717,7 +22717,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 21405, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22725,7 +22725,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE IX. OCTAVIUS CAESAR's camp.", 
     "line_id": 21406, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22733,7 +22733,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Sentinels at their post", 
     "line_id": 21407, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.9.1", 
@@ -22789,7 +22789,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter DOMITIUS ENOBARBUS", 
     "line_id": 21414, 
-    "speaker": "Second Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.9.7", 
@@ -22973,7 +22973,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Dies", 
     "line_id": 21437, 
-    "speaker": "DOMITIUS ENOBARBUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.9.29", 
@@ -23061,7 +23061,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Drums afar off", 
     "line_id": 21448, 
-    "speaker": "First Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.9.39", 
@@ -23117,7 +23117,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt with the body", 
     "line_id": 21455, 
-    "speaker": "Third Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23125,7 +23125,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE X. Between the two camps.", 
     "line_id": 21456, 
-    "speaker": "Third Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23133,7 +23133,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter MARK ANTONY and SCARUS, with their Army", 
     "line_id": 21457, 
-    "speaker": "Third Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.10.1", 
@@ -23221,7 +23221,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 21468, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23229,7 +23229,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE XI. Another part of the same.", 
     "line_id": 21469, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23237,7 +23237,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter OCTAVIUS CAESAR, and his Army", 
     "line_id": 21470, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.11.1", 
@@ -23277,7 +23277,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 21475, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23285,7 +23285,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE XII. Another part of the same.", 
     "line_id": 21476, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23293,7 +23293,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter MARK ANTONY and SCARUS", 
     "line_id": 21477, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.12.1", 
@@ -23333,7 +23333,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit", 
     "line_id": 21482, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.12.5", 
@@ -23397,7 +23397,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Alarum afar off, as at a sea-fight", 
     "line_id": 21490, 
-    "speaker": "SCARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23405,7 +23405,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Re-enter MARK ANTONY", 
     "line_id": 21491, 
-    "speaker": "SCARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.12.12", 
@@ -23493,7 +23493,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit SCARUS", 
     "line_id": 21502, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.12.22", 
@@ -23605,7 +23605,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter CLEOPATRA", 
     "line_id": 21516, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.12.35", 
@@ -23693,7 +23693,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit CLEOPATRA", 
     "line_id": 21527, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.12.45", 
@@ -23789,7 +23789,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit", 
     "line_id": 21539, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23797,7 +23797,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE XIII. Alexandria. Cleopatra's palace.", 
     "line_id": 21540, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23805,7 +23805,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter CLEOPATRA, CHARMIAN, IRAS, and MARDIAN", 
     "line_id": 21541, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.13.1", 
@@ -23917,7 +23917,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 21555, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23925,7 +23925,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE XIV. The same. Another room.", 
     "line_id": 21556, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23933,7 +23933,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter MARK ANTONY and EROS", 
     "line_id": 21557, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.14.1", 
@@ -24149,7 +24149,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter MARDIAN", 
     "line_id": 21584, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.14.27", 
@@ -24309,7 +24309,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "To MARDIAN", 
     "line_id": 21604, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.14.46", 
@@ -24333,7 +24333,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit MARDIAN", 
     "line_id": 21607, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.14.48", 
@@ -24397,7 +24397,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit EROS", 
     "line_id": 21615, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.14.55", 
@@ -24493,7 +24493,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Re-enter EROS", 
     "line_id": 21627, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.14.66", 
@@ -24805,7 +24805,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Turning from him", 
     "line_id": 21666, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.14.104", 
@@ -24901,7 +24901,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Kills himself", 
     "line_id": 21678, 
-    "speaker": "EROS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.14.115", 
@@ -24973,7 +24973,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Falling on his sword", 
     "line_id": 21687, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.14.123", 
@@ -24997,7 +24997,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter DERCETAS and Guard", 
     "line_id": 21690, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.14.125", 
@@ -25085,7 +25085,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt Guard", 
     "line_id": 21701, 
-    "speaker": "Third Guard"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.14.135", 
@@ -25117,7 +25117,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter DIOMEDES", 
     "line_id": 21705, 
-    "speaker": "DERCETAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.14.138", 
@@ -25157,7 +25157,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit DERCETAS", 
     "line_id": 21710, 
-    "speaker": "DIOMEDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.14.142", 
@@ -25309,7 +25309,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter four or five of the Guard of MARK ANTONY", 
     "line_id": 21729, 
-    "speaker": "DIOMEDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.14.160", 
@@ -25405,7 +25405,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt, bearing MARK ANTONY", 
     "line_id": 21741, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -25413,7 +25413,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE XV. The same. A monument.", 
     "line_id": 21742, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -25421,7 +25421,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter CLEOPATRA and her maids aloft, with CHARMIAN and IRAS", 
     "line_id": 21743, 
-    "speaker": "MARK ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.15.1", 
@@ -25485,7 +25485,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter, below, DIOMEDES", 
     "line_id": 21751, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.15.8", 
@@ -25525,7 +25525,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter, below, MARK ANTONY, borne by the Guard", 
     "line_id": 21756, 
-    "speaker": "DIOMEDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.15.12", 
@@ -25805,7 +25805,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "They heave MARK ANTONY aloft to CLEOPATRA", 
     "line_id": 21791, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.15.46", 
@@ -26045,7 +26045,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "MARK ANTONY dies", 
     "line_id": 21821, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.15.75", 
@@ -26101,7 +26101,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Faints", 
     "line_id": 21828, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.15.81", 
@@ -26325,7 +26325,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt; those above bearing off MARK ANTONY's body", 
     "line_id": 21856, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.15.107", 
@@ -26333,7 +26333,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "ACT V", 
     "line_id": 21857, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.15.107", 
@@ -26341,7 +26341,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE I. Alexandria. OCTAVIUS CAESAR's camp.", 
     "line_id": 21858, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -26349,7 +26349,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter OCTAVIUS CAESAR, AGRIPPA, DOLABELLA, MECAENAS, GALLUS, PROCULEIUS, and others, his council of war", 
     "line_id": 21859, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -26389,7 +26389,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit", 
     "line_id": 21864, 
-    "speaker": "DOLABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -26397,7 +26397,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter DERCETAS, with the sword of MARK ANTONY", 
     "line_id": 21865, 
-    "speaker": "DOLABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.5", 
@@ -26837,7 +26837,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter an Egyptian", 
     "line_id": 21920, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.59", 
@@ -26949,7 +26949,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit", 
     "line_id": 21934, 
-    "speaker": "Egyptian"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.72", 
@@ -27029,7 +27029,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit", 
     "line_id": 21944, 
-    "speaker": "PROCULEIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.81", 
@@ -27045,7 +27045,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit GALLUS", 
     "line_id": 21946, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.82", 
@@ -27133,7 +27133,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 21957, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27141,7 +27141,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "SCENE II. Alexandria. A room in the monument.", 
     "line_id": 21958, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27149,7 +27149,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter CLEOPATRA, CHARMIAN, and IRAS", 
     "line_id": 21959, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -27221,7 +27221,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter, to the gates of the monument, PROCULEIUS, GALLUS and Soldiers", 
     "line_id": 21968, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.9", 
@@ -27485,7 +27485,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Here PROCULEIUS and two of the Guard ascend the  monument by a ladder placed against a window, and,  having descended, come behind CLEOPATRA. Some of the Guard unbar and open the gates", 
     "line_id": 22001, 
-    "speaker": "GALLUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27493,7 +27493,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "To PROCULEIUS and the Guard", 
     "line_id": 22002, 
-    "speaker": "GALLUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.41", 
@@ -27509,7 +27509,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit", 
     "line_id": 22004, 
-    "speaker": "GALLUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.42", 
@@ -27541,7 +27541,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Drawing a dagger", 
     "line_id": 22008, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.45", 
@@ -27557,7 +27557,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Seizes and disarms her", 
     "line_id": 22010, 
-    "speaker": "PROCULEIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.46", 
@@ -27805,7 +27805,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter DOLABELLA", 
     "line_id": 22041, 
-    "speaker": "PROCULEIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.76", 
@@ -27861,7 +27861,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "To CLEOPATRA", 
     "line_id": 22048, 
-    "speaker": "PROCULEIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.82", 
@@ -27893,7 +27893,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt PROCULEIUS and Soldiers", 
     "line_id": 22052, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.85", 
@@ -28301,7 +28301,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Flourish, and shout within, 'Make way there: Octavius Caesar!'", 
     "line_id": 22103, 
-    "speaker": "DOLABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -28309,7 +28309,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter OCTAVIUS CAESAR, GALLUS, PROCULEIUS, MECAENAS, SELEUCUS, and others of his Train", 
     "line_id": 22104, 
-    "speaker": "DOLABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.135", 
@@ -28333,7 +28333,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "CLEOPATRA kneels", 
     "line_id": 22107, 
-    "speaker": "DOLABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.137", 
@@ -28869,7 +28869,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "To SELEUCUS", 
     "line_id": 22174, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.203", 
@@ -28917,7 +28917,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit SELEUCUS", 
     "line_id": 22180, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.208", 
@@ -29061,7 +29061,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Flourish. Exeunt OCTAVIUS CAESAR and his train", 
     "line_id": 22198, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.225", 
@@ -29085,7 +29085,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Whispers CHARMIAN", 
     "line_id": 22201, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.227", 
@@ -29141,7 +29141,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Re-enter DOLABELLA", 
     "line_id": 22208, 
-    "speaker": "CHARMIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.233", 
@@ -29165,7 +29165,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit", 
     "line_id": 22211, 
-    "speaker": "CHARMIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.235", 
@@ -29277,7 +29277,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit DOLABELLA", 
     "line_id": 22225, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.248", 
@@ -29469,7 +29469,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Re-enter CHARMIAN", 
     "line_id": 22249, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.271", 
@@ -29541,7 +29541,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit IRAS. A noise within", 
     "line_id": 22258, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -29549,7 +29549,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter a Guardsman", 
     "line_id": 22259, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.279", 
@@ -29589,7 +29589,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit Guardsman", 
     "line_id": 22264, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.283", 
@@ -29645,7 +29645,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Re-enter Guardsman, with Clown bringing in a basket", 
     "line_id": 22271, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.289", 
@@ -29669,7 +29669,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit Guardsman", 
     "line_id": 22274, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.291", 
@@ -29821,7 +29821,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Setting down his basket", 
     "line_id": 22293, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.309", 
@@ -29981,7 +29981,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exit", 
     "line_id": 22313, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -30101,7 +30101,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Kisses them. IRAS falls and dies", 
     "line_id": 22328, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.341", 
@@ -30213,7 +30213,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "To an asp, which she applies to her breast", 
     "line_id": 22342, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.354", 
@@ -30317,7 +30317,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Applying another asp to her arm", 
     "line_id": 22355, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.366", 
@@ -30333,7 +30333,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Dies", 
     "line_id": 22357, 
-    "speaker": "CLEOPATRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.367", 
@@ -30389,7 +30389,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Enter the Guard, rushing in", 
     "line_id": 22364, 
-    "speaker": "CHARMIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.373", 
@@ -30429,7 +30429,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Applies an asp", 
     "line_id": 22369, 
-    "speaker": "CHARMIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.377", 
@@ -30493,7 +30493,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Dies", 
     "line_id": 22377, 
-    "speaker": "CHARMIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -30501,7 +30501,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Re-enter DOLABELLA", 
     "line_id": 22378, 
-    "speaker": "CHARMIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.384", 
@@ -30557,7 +30557,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Within  'A way there, a way for Caesar!'", 
     "line_id": 22385, 
-    "speaker": "DOLABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -30565,7 +30565,7 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Re-enter OCTAVIUS CAESAR and all his train marching", 
     "line_id": 22386, 
-    "speaker": "DOLABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.390", 
@@ -30893,6 +30893,6 @@
     "play_name": "Antony and Cleopatra", 
     "text_entry": "Exeunt", 
     "line_id": 22427, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }
 ]

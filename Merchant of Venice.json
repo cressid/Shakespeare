@@ -5,7 +5,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "ACT I", 
     "line_id": 61364, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SCENE I. Venice. A street.", 
     "line_id": 61365, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter ANTONIO, SALARINO, and SALANIO", 
     "line_id": 61366, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -493,7 +493,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter BASSANIO, LORENZO, and GRATIANO", 
     "line_id": 61425, 
-    "speaker": "SALARINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.59", 
@@ -597,7 +597,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt Salarino and Salanio", 
     "line_id": 61438, 
-    "speaker": "SALARINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.71", 
@@ -965,7 +965,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt GRATIANO and LORENZO", 
     "line_id": 61484, 
-    "speaker": "GRATIANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.116", 
@@ -1557,7 +1557,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt", 
     "line_id": 61558, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.189", 
@@ -1565,7 +1565,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SCENE II: Belmont. A room in PORTIA'S house.", 
     "line_id": 61559, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1573,7 +1573,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter PORTIA and NERISSA", 
     "line_id": 61560, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.190", 
@@ -2501,7 +2501,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter a Serving-man", 
     "line_id": 61676, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.305", 
@@ -2613,7 +2613,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt", 
     "line_id": 61690, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2621,7 +2621,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SCENE III. Venice. A public place.", 
     "line_id": 61691, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2629,7 +2629,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter BASSANIO and SHYLOCK", 
     "line_id": 61692, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -2909,7 +2909,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter ANTONIO", 
     "line_id": 61727, 
-    "speaker": "SHYLOCK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.35", 
@@ -3085,7 +3085,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "To ANTONIO", 
     "line_id": 61749, 
-    "speaker": "SHYLOCK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.56", 
@@ -4085,7 +4085,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exit Shylock", 
     "line_id": 61874, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.180", 
@@ -4125,7 +4125,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt", 
     "line_id": 61879, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4133,7 +4133,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "ACT II", 
     "line_id": 61880, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4141,7 +4141,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SCENE I. Belmont. A room in PORTIA'S house.", 
     "line_id": 61881, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4149,7 +4149,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Flourish of cornets. Enter the PRINCE OF MOROCCO  and his train; PORTIA, NERISSA, and others attending", 
     "line_id": 61882, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -4549,7 +4549,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Cornets, and exeunt", 
     "line_id": 61932, 
-    "speaker": "MOROCCO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4557,7 +4557,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SCENE II. Venice. A street.", 
     "line_id": 61933, 
-    "speaker": "MOROCCO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4565,7 +4565,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter LAUNCELOT", 
     "line_id": 61934, 
-    "speaker": "MOROCCO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -4821,7 +4821,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter Old GOBBO, with a basket", 
     "line_id": 61966, 
-    "speaker": "LAUNCELOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.32", 
@@ -4949,7 +4949,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Aside", 
     "line_id": 61982, 
-    "speaker": "LAUNCELOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.47", 
@@ -5469,7 +5469,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter BASSANIO, with LEONARDO and other followers", 
     "line_id": 62047, 
-    "speaker": "LAUNCELOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.111", 
@@ -5509,7 +5509,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exit a Servant", 
     "line_id": 62052, 
-    "speaker": "BASSANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.115", 
@@ -5885,7 +5885,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt Launcelot and Old Gobbo", 
     "line_id": 62099, 
-    "speaker": "LAUNCELOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.161", 
@@ -5933,7 +5933,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter GRATIANO", 
     "line_id": 62105, 
-    "speaker": "LEONARDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.166", 
@@ -5957,7 +5957,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exit", 
     "line_id": 62108, 
-    "speaker": "LEONARDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.168", 
@@ -6237,7 +6237,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt", 
     "line_id": 62143, 
-    "speaker": "GRATIANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6245,7 +6245,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SCENE III. The same. A room in SHYLOCK'S house.", 
     "line_id": 62144, 
-    "speaker": "GRATIANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6253,7 +6253,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter JESSICA and LAUNCELOT", 
     "line_id": 62145, 
-    "speaker": "GRATIANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -6381,7 +6381,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exit Launcelot", 
     "line_id": 62161, 
-    "speaker": "JESSICA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.16", 
@@ -6437,7 +6437,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exit", 
     "line_id": 62168, 
-    "speaker": "JESSICA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6445,7 +6445,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SCENE IV. The same. A street.", 
     "line_id": 62169, 
-    "speaker": "JESSICA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6453,7 +6453,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter GRATIANO, LORENZO, SALARINO, and SALANIO", 
     "line_id": 62170, 
-    "speaker": "JESSICA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.1", 
@@ -6533,7 +6533,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter LAUNCELOT, with a letter", 
     "line_id": 62180, 
-    "speaker": "LORENZO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.10", 
@@ -6653,7 +6653,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exit Launcelot", 
     "line_id": 62195, 
-    "speaker": "LORENZO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.24", 
@@ -6717,7 +6717,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt SALARINO and SALANIO", 
     "line_id": 62203, 
-    "speaker": "SALARINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.31", 
@@ -6821,7 +6821,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt", 
     "line_id": 62216, 
-    "speaker": "LORENZO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6829,7 +6829,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SCENE V. The same. Before SHYLOCK'S house.", 
     "line_id": 62217, 
-    "speaker": "LORENZO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6837,7 +6837,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter SHYLOCK and LAUNCELOT", 
     "line_id": 62218, 
-    "speaker": "LORENZO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.1", 
@@ -6925,7 +6925,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter Jessica", 
     "line_id": 62229, 
-    "speaker": "LAUNCELOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.11", 
@@ -7197,7 +7197,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exit", 
     "line_id": 62263, 
-    "speaker": "LAUNCELOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.44", 
@@ -7301,7 +7301,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exit", 
     "line_id": 62276, 
-    "speaker": "SHYLOCK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.56", 
@@ -7325,7 +7325,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exit", 
     "line_id": 62279, 
-    "speaker": "JESSICA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7333,7 +7333,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SCENE VI. The same.", 
     "line_id": 62280, 
-    "speaker": "JESSICA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7341,7 +7341,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter GRATIANO and SALARINO, masqued", 
     "line_id": 62281, 
-    "speaker": "JESSICA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.6.1", 
@@ -7517,7 +7517,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter LORENZO", 
     "line_id": 62303, 
-    "speaker": "SALARINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.6.22", 
@@ -7565,7 +7565,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter JESSICA, above, in boy's clothes", 
     "line_id": 62309, 
-    "speaker": "LORENZO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.6.27", 
@@ -7781,7 +7781,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exit above", 
     "line_id": 62336, 
-    "speaker": "JESSICA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.6.53", 
@@ -7845,7 +7845,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter JESSICA, below", 
     "line_id": 62344, 
-    "speaker": "LORENZO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.6.60", 
@@ -7869,7 +7869,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exit with Jessica and Salarino", 
     "line_id": 62347, 
-    "speaker": "LORENZO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7877,7 +7877,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter ANTONIO", 
     "line_id": 62348, 
-    "speaker": "LORENZO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.6.62", 
@@ -7957,7 +7957,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt", 
     "line_id": 62358, 
-    "speaker": "GRATIANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7965,7 +7965,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SCENE VII. Belmont. A room in PORTIA'S house.", 
     "line_id": 62359, 
-    "speaker": "GRATIANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7973,7 +7973,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Flourish of cornets. Enter PORTIA, with the PRINCE OF MOROCCO, and their trains", 
     "line_id": 62360, 
-    "speaker": "GRATIANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.7.1", 
@@ -8477,7 +8477,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "He unlocks the golden casket", 
     "line_id": 62423, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.7.63", 
@@ -8509,7 +8509,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Reads", 
     "line_id": 62427, 
-    "speaker": "MOROCCO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.7.66", 
@@ -8621,7 +8621,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exit with his train. Flourish of cornets", 
     "line_id": 62441, 
-    "speaker": "MOROCCO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.7.79", 
@@ -8645,7 +8645,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt", 
     "line_id": 62444, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8653,7 +8653,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SCENE VIII. Venice. A street.", 
     "line_id": 62445, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8661,7 +8661,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter SALARINO and SALANIO", 
     "line_id": 62446, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.8.1", 
@@ -9109,7 +9109,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt", 
     "line_id": 62502, 
-    "speaker": "SALARINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9117,7 +9117,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SCENE IX. Belmont. A room in PORTIA'S house.", 
     "line_id": 62503, 
-    "speaker": "SALARINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9125,7 +9125,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter NERISSA with a Servitor", 
     "line_id": 62504, 
-    "speaker": "SALARINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.9.1", 
@@ -9157,7 +9157,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Flourish of cornets. Enter the PRINCE OF ARRAGON, PORTIA, and their trains", 
     "line_id": 62508, 
-    "speaker": "NERISSA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.9.4", 
@@ -9549,7 +9549,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "He opens the silver casket", 
     "line_id": 62557, 
-    "speaker": "ARRAGON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.9.52", 
@@ -9645,7 +9645,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Reads", 
     "line_id": 62569, 
-    "speaker": "ARRAGON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.9.63", 
@@ -9781,7 +9781,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt Arragon and train", 
     "line_id": 62586, 
-    "speaker": "ARRAGON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.9.79", 
@@ -9837,7 +9837,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter a Servant", 
     "line_id": 62593, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.9.85", 
@@ -9989,7 +9989,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt", 
     "line_id": 62612, 
-    "speaker": "NERISSA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9997,7 +9997,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "ACT III", 
     "line_id": 62613, 
-    "speaker": "NERISSA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10005,7 +10005,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SCENE I. Venice. A street.", 
     "line_id": 62614, 
-    "speaker": "NERISSA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10013,7 +10013,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter SALANIO and SALARINO", 
     "line_id": 62615, 
-    "speaker": "NERISSA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -10181,7 +10181,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter SHYLOCK", 
     "line_id": 62636, 
-    "speaker": "SALANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.21", 
@@ -10573,7 +10573,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter a Servant", 
     "line_id": 62685, 
-    "speaker": "SHYLOCK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.69", 
@@ -10605,7 +10605,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter TUBAL", 
     "line_id": 62689, 
-    "speaker": "SALARINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.72", 
@@ -10629,7 +10629,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt SALANIO, SALARINO, and Servant", 
     "line_id": 62692, 
-    "speaker": "SALANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.74", 
@@ -11005,7 +11005,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt", 
     "line_id": 62739, 
-    "speaker": "SHYLOCK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11013,7 +11013,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SCENE II. Belmont. A room in PORTIA'S house.", 
     "line_id": 62740, 
-    "speaker": "SHYLOCK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11021,7 +11021,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter BASSANIO, PORTIA, GRATIANO, NERISSA, and Attendants", 
     "line_id": 62741, 
-    "speaker": "SHYLOCK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -11541,7 +11541,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Music, whilst BASSANIO comments on the caskets to himself", 
     "line_id": 62806, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.65", 
@@ -11549,7 +11549,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SONG.", 
     "line_id": 62807, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.66", 
@@ -11981,7 +11981,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Opening the leaden casket", 
     "line_id": 62861, 
-    "speaker": "BASSANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.119", 
@@ -12117,7 +12117,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Reads", 
     "line_id": 62878, 
-    "speaker": "BASSANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.135", 
@@ -12829,7 +12829,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter LORENZO, JESSICA, and SALERIO, a Messenger from Venice", 
     "line_id": 62967, 
-    "speaker": "GRATIANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.223", 
@@ -12957,7 +12957,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Gives Bassanio a letter", 
     "line_id": 62983, 
-    "speaker": "SALERIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.238", 
@@ -13757,7 +13757,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt", 
     "line_id": 63083, 
-    "speaker": "BASSANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13765,7 +13765,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SCENE III. Venice. A street.", 
     "line_id": 63084, 
-    "speaker": "BASSANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13773,7 +13773,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter SHYLOCK, SALARINO, ANTONIO, and Gaoler", 
     "line_id": 63085, 
-    "speaker": "BASSANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -13925,7 +13925,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exit", 
     "line_id": 63104, 
-    "speaker": "SHYLOCK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.19", 
@@ -14101,7 +14101,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt", 
     "line_id": 63126, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14109,7 +14109,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SCENE IV. Belmont. A room in PORTIA'S house.", 
     "line_id": 63127, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14117,7 +14117,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter PORTIA, NERISSA, LORENZO, JESSICA, and BALTHASAR", 
     "line_id": 63128, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.1", 
@@ -14485,7 +14485,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt JESSICA and LORENZO", 
     "line_id": 63174, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.46", 
@@ -14589,7 +14589,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exit", 
     "line_id": 63187, 
-    "speaker": "BALTHASAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.58", 
@@ -14837,7 +14837,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt", 
     "line_id": 63218, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14845,7 +14845,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SCENE V. The same. A garden.", 
     "line_id": 63219, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14853,7 +14853,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter LAUNCELOT and JESSICA", 
     "line_id": 63220, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.1", 
@@ -15053,7 +15053,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter LORENZO", 
     "line_id": 63245, 
-    "speaker": "LAUNCELOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.25", 
@@ -15333,7 +15333,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exit", 
     "line_id": 63280, 
-    "speaker": "LAUNCELOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.59", 
@@ -15565,7 +15565,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt", 
     "line_id": 63309, 
-    "speaker": "JESSICA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15573,7 +15573,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "ACT IV", 
     "line_id": 63310, 
-    "speaker": "JESSICA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15581,7 +15581,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SCENE I. Venice. A court of justice.", 
     "line_id": 63311, 
-    "speaker": "JESSICA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15589,7 +15589,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter the DUKE, the Magnificoes, ANTONIO, BASSANIO, GRATIANO, SALERIO, and others", 
     "line_id": 63312, 
-    "speaker": "JESSICA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -15725,7 +15725,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter SHYLOCK", 
     "line_id": 63329, 
-    "speaker": "SALERIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.17", 
@@ -16565,7 +16565,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter NERISSA, dressed like a lawyer's clerk", 
     "line_id": 63434, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.121", 
@@ -16589,7 +16589,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Presenting a letter", 
     "line_id": 63437, 
-    "speaker": "NERISSA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.123", 
@@ -16837,7 +16837,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "[Reads]", 
     "line_id": 63468, 
-    "speaker": "Clerk"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.154", 
@@ -16989,7 +16989,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter PORTIA, dressed like a doctor of laws", 
     "line_id": 63487, 
-    "speaker": "DUKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.172", 
@@ -18093,7 +18093,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Aside", 
     "line_id": 63625, 
-    "speaker": "SHYLOCK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.309", 
@@ -18965,7 +18965,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exit SHYLOCK", 
     "line_id": 63734, 
-    "speaker": "GRATIANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.417", 
@@ -19029,7 +19029,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt Duke and his train", 
     "line_id": 63742, 
-    "speaker": "DUKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.424", 
@@ -19181,7 +19181,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "To ANTONIO", 
     "line_id": 63761, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.442", 
@@ -19197,7 +19197,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "To BASSANIO", 
     "line_id": 63763, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.443", 
@@ -19381,7 +19381,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt Portia and Nerissa", 
     "line_id": 63786, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.465", 
@@ -19437,7 +19437,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exit Gratiano", 
     "line_id": 63793, 
-    "speaker": "BASSANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.471", 
@@ -19469,7 +19469,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt", 
     "line_id": 63797, 
-    "speaker": "BASSANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19477,7 +19477,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SCENE II. The same. A street.", 
     "line_id": 63798, 
-    "speaker": "BASSANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19485,7 +19485,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter PORTIA and NERISSA", 
     "line_id": 63799, 
-    "speaker": "BASSANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -19525,7 +19525,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter GRATIANO", 
     "line_id": 63804, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.5", 
@@ -19613,7 +19613,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Aside to PORTIA", 
     "line_id": 63815, 
-    "speaker": "NERISSA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.15", 
@@ -19669,7 +19669,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Aloud", 
     "line_id": 63822, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.21", 
@@ -19693,7 +19693,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt", 
     "line_id": 63825, 
-    "speaker": "NERISSA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19701,7 +19701,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "ACT V", 
     "line_id": 63826, 
-    "speaker": "NERISSA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19709,7 +19709,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "SCENE I. Belmont. Avenue to PORTIA'S house.", 
     "line_id": 63827, 
-    "speaker": "NERISSA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19717,7 +19717,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter LORENZO and JESSICA", 
     "line_id": 63828, 
-    "speaker": "NERISSA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -19965,7 +19965,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter STEPHANO", 
     "line_id": 63859, 
-    "speaker": "JESSICA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.31", 
@@ -20093,7 +20093,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter LAUNCELOT", 
     "line_id": 63875, 
-    "speaker": "LORENZO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.46", 
@@ -20181,7 +20181,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exit", 
     "line_id": 63886, 
-    "speaker": "LAUNCELOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.56", 
@@ -20229,7 +20229,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exit Stephano", 
     "line_id": 63892, 
-    "speaker": "LORENZO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.61", 
@@ -20333,7 +20333,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter Musicians", 
     "line_id": 63905, 
-    "speaker": "LORENZO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.73", 
@@ -20365,7 +20365,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Music", 
     "line_id": 63909, 
-    "speaker": "LORENZO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.76", 
@@ -20533,7 +20533,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter PORTIA and NERISSA", 
     "line_id": 63930, 
-    "speaker": "LORENZO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.96", 
@@ -20717,7 +20717,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Music ceases", 
     "line_id": 63953, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.118", 
@@ -20845,7 +20845,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "A tucket sounds", 
     "line_id": 63969, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.133", 
@@ -20893,7 +20893,7 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Enter BASSANIO, ANTONIO, GRATIANO, and their followers", 
     "line_id": 63975, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.138", 
@@ -22413,6 +22413,6 @@
     "play_name": "Merchant of Venice", 
     "text_entry": "Exeunt", 
     "line_id": 64165, 
-    "speaker": "GRATIANO"
+    "speaker": "Stage Directions"
   }
 ]

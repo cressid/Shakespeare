@@ -5,7 +5,7 @@
     "play_name": "Richard III", 
     "text_entry": "ACT I", 
     "line_id": 81341, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE I. London. A street.", 
     "line_id": 81342, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter GLOUCESTER, solus", 
     "line_id": 81343, 
-    "speaker": "HENRY BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -365,7 +365,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter CLARENCE, guarded, and BRAKENBURY", 
     "line_id": 81386, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.43", 
@@ -989,7 +989,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt CLARENCE, BRAKENBURY, and Guard", 
     "line_id": 81464, 
-    "speaker": "CLARENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.120", 
@@ -1037,7 +1037,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter HASTINGS", 
     "line_id": 81470, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.125", 
@@ -1229,7 +1229,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit HASTINGS", 
     "line_id": 81494, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.148", 
@@ -1381,7 +1381,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit", 
     "line_id": 81513, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1389,7 +1389,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE II. The same. Another street.", 
     "line_id": 81514, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1397,7 +1397,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter the corpse of KING HENRY the Sixth, Gentlemen with halberds to guard it; LADY ANNE being the mourner", 
     "line_id": 81515, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -1661,7 +1661,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter GLOUCESTER", 
     "line_id": 81548, 
-    "speaker": "LADY ANNE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.33", 
@@ -2637,7 +2637,7 @@
     "play_name": "Richard III", 
     "text_entry": "She spitteth at him", 
     "line_id": 81670, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.154", 
@@ -2861,7 +2861,7 @@
     "play_name": "Richard III", 
     "text_entry": "She looks scornfully at him", 
     "line_id": 81698, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.181", 
@@ -2933,7 +2933,7 @@
     "play_name": "Richard III", 
     "text_entry": "He lays his breast open: she offers at it with his sword", 
     "line_id": 81707, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.189", 
@@ -2973,7 +2973,7 @@
     "play_name": "Richard III", 
     "text_entry": "Here she lets fall the sword", 
     "line_id": 81712, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.193", 
@@ -3147,7 +3147,7 @@
     "line_number": "1.2.214", 
     "speech_number": 80, 
     "play_name": "Richard III", 
-    "text_entry": "Look, how this ring encompasseth thy finger.", 
+    "text_entry": "Look, how this ring encompasseth finger.", 
     "line_id": 81734, 
     "speaker": "GLOUCESTER"
   }, 
@@ -3333,7 +3333,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt LADY ANNE, TRESSEL, and BERKELEY", 
     "line_id": 81757, 
-    "speaker": "LADY ANNE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.237", 
@@ -3365,7 +3365,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt all but GLOUCESTER", 
     "line_id": 81761, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.240", 
@@ -3677,7 +3677,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit", 
     "line_id": 81800, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3685,7 +3685,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE III. The palace.", 
     "line_id": 81801, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3693,7 +3693,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter QUEEN ELIZABETH, RIVERS, and GREY", 
     "line_id": 81802, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -3829,7 +3829,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter BUCKINGHAM and DERBY", 
     "line_id": 81819, 
-    "speaker": "QUEEN ELIZABETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.17", 
@@ -4037,7 +4037,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter GLOUCESTER, HASTINGS, and DORSET", 
     "line_id": 81845, 
-    "speaker": "QUEEN ELIZABETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.42", 
@@ -4597,7 +4597,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter QUEEN MARGARET, behind", 
     "line_id": 81915, 
-    "speaker": "QUEEN ELIZABETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.111", 
@@ -4989,7 +4989,7 @@
     "play_name": "Richard III", 
     "text_entry": "Advancing", 
     "line_id": 81964, 
-    "speaker": "QUEEN MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.159", 
@@ -6189,7 +6189,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit", 
     "line_id": 82114, 
-    "speaker": "QUEEN MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.308", 
@@ -6317,7 +6317,7 @@
     "play_name": "Richard III", 
     "text_entry": "Aside", 
     "line_id": 82130, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.323", 
@@ -6341,7 +6341,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter CATESBY", 
     "line_id": 82133, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.325", 
@@ -6381,7 +6381,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt all but GLOUCESTER", 
     "line_id": 82138, 
-    "speaker": "RIVERS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.329", 
@@ -6509,7 +6509,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter two Murderers", 
     "line_id": 82154, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.344", 
@@ -6565,7 +6565,7 @@
     "play_name": "Richard III", 
     "text_entry": "Gives the warrant", 
     "line_id": 82161, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.350", 
@@ -6677,7 +6677,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 82175, 
-    "speaker": "First Murderer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6685,7 +6685,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE IV. London. The Tower.", 
     "line_id": 82176, 
-    "speaker": "First Murderer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6693,7 +6693,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter CLARENCE and BRAKENBURY", 
     "line_id": 82177, 
-    "speaker": "First Murderer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.1", 
@@ -7301,7 +7301,7 @@
     "play_name": "Richard III", 
     "text_entry": "CLARENCE sleeps", 
     "line_id": 82253, 
-    "speaker": "BRAKENBURY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.76", 
@@ -7373,7 +7373,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter the two Murderers", 
     "line_id": 82262, 
-    "speaker": "BRAKENBURY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.84", 
@@ -7429,7 +7429,7 @@
     "play_name": "Richard III", 
     "text_entry": "BRAKENBURY reads it", 
     "line_id": 82269, 
-    "speaker": "Second Murderer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.90", 
@@ -7501,7 +7501,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit BRAKENBURY", 
     "line_id": 82278, 
-    "speaker": "First Murderer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.98", 
@@ -8829,7 +8829,7 @@
     "play_name": "Richard III", 
     "text_entry": "Stabs him", 
     "line_id": 82444, 
-    "speaker": "First Murderer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.263", 
@@ -8845,7 +8845,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit, with the body", 
     "line_id": 82446, 
-    "speaker": "First Murderer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.264", 
@@ -8877,7 +8877,7 @@
     "play_name": "Richard III", 
     "text_entry": "Re-enter First Murderer", 
     "line_id": 82450, 
-    "speaker": "Second Murderer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.267", 
@@ -8925,7 +8925,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit", 
     "line_id": 82456, 
-    "speaker": "Second Murderer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.272", 
@@ -8973,7 +8973,7 @@
     "play_name": "Richard III", 
     "text_entry": "ACT II", 
     "line_id": 82462, 
-    "speaker": "First Murderer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.276", 
@@ -8981,7 +8981,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE I. London. The palace.", 
     "line_id": 82463, 
-    "speaker": "First Murderer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8989,7 +8989,7 @@
     "play_name": "Richard III", 
     "text_entry": "Flourish. Enter KING EDWARD IV sick, QUEEN  ELIZABETH, DORSET, RIVERS, HASTINGS, BUCKINGHAM, GREY, and others", 
     "line_id": 82464, 
-    "speaker": "First Murderer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -9221,7 +9221,7 @@
     "play_name": "Richard III", 
     "text_entry": "They embrace", 
     "line_id": 82493, 
-    "speaker": "HASTINGS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.29", 
@@ -9269,7 +9269,7 @@
     "play_name": "Richard III", 
     "text_entry": "To the Queen", 
     "line_id": 82499, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.34", 
@@ -9381,7 +9381,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter GLOUCESTER", 
     "line_id": 82513, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.47", 
@@ -9661,7 +9661,7 @@
     "play_name": "Richard III", 
     "text_entry": "They all start", 
     "line_id": 82548, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.81", 
@@ -9789,7 +9789,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter DERBY", 
     "line_id": 82564, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.96", 
@@ -10117,7 +10117,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt some with KING EDWARD IV and QUEEN MARGARET", 
     "line_id": 82605, 
-    "speaker": "KING EDWARD IV"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.136", 
@@ -10181,7 +10181,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 82613, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10189,7 +10189,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE II. The palace.", 
     "line_id": 82614, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10197,7 +10197,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter the DUCHESS OF YORK, with the two children of CLARENCE", 
     "line_id": 82615, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -10469,7 +10469,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter QUEEN ELIZABETH, with her hair about her ears; RIVERS, and DORSET after her", 
     "line_id": 82649, 
-    "speaker": "Boy"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.34", 
@@ -11013,7 +11013,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter GLOUCESTER, BUCKINGHAM, DERBY, HASTINGS, and RATCLIFF", 
     "line_id": 82717, 
-    "speaker": "RIVERS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.101", 
@@ -11381,7 +11381,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt all but BUCKINGHAM and GLOUCESTER", 
     "line_id": 82763, 
-    "speaker": "DUCHESS OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.146", 
@@ -11461,7 +11461,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 82773, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11469,7 +11469,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE III. London. A street.", 
     "line_id": 82774, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11477,7 +11477,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter two Citizens meeting", 
     "line_id": 82775, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -11533,7 +11533,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter another Citizen", 
     "line_id": 82782, 
-    "speaker": "Second Citizen"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.7", 
@@ -11885,7 +11885,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 82826, 
-    "speaker": "Third Citizen"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11893,7 +11893,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE IV. London. The palace.", 
     "line_id": 82827, 
-    "speaker": "Third Citizen"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11901,7 +11901,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter the ARCHBISHOP OF YORK, young YORK, QUEEN ELIZABETH, and the DUCHESS OF YORK", 
     "line_id": 82828, 
-    "speaker": "Third Citizen"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.1", 
@@ -12213,7 +12213,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter a Messenger", 
     "line_id": 82867, 
-    "speaker": "QUEEN ELIZABETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.39", 
@@ -12549,7 +12549,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 82909, 
-    "speaker": "ARCHBISHOP OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12557,7 +12557,7 @@
     "play_name": "Richard III", 
     "text_entry": "ACT III", 
     "line_id": 82910, 
-    "speaker": "ARCHBISHOP OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12565,7 +12565,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE I. London. A street.", 
     "line_id": 82911, 
-    "speaker": "ARCHBISHOP OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12573,7 +12573,7 @@
     "play_name": "Richard III", 
     "text_entry": "The trumpets sound. Enter the young PRINCE EDWARD, GLOUCESTER, BUCKINGHAM, CARDINAL, CATESBY, and others", 
     "line_id": 82912, 
-    "speaker": "ARCHBISHOP OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -12717,7 +12717,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter the Lord Mayor and his train", 
     "line_id": 82930, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.18", 
@@ -12773,7 +12773,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter HASTINGS", 
     "line_id": 82937, 
-    "speaker": "PRINCE EDWARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.24", 
@@ -13077,7 +13077,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt CARDINAL and HASTINGS", 
     "line_id": 82975, 
-    "speaker": "PRINCE EDWARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.61", 
@@ -13261,7 +13261,7 @@
     "play_name": "Richard III", 
     "text_entry": "Aside", 
     "line_id": 82998, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.83", 
@@ -13373,7 +13373,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter young YORK, HASTINGS, and the CARDINAL", 
     "line_id": 83012, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.96", 
@@ -13837,7 +13837,7 @@
     "play_name": "Richard III", 
     "text_entry": "A Sennet. Exeunt all but GLOUCESTER, BUCKINGHAM and CATESBY", 
     "line_id": 83070, 
-    "speaker": "PRINCE EDWARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.153", 
@@ -14165,7 +14165,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit CATESBY", 
     "line_id": 83111, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.193", 
@@ -14253,7 +14253,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 83122, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14261,7 +14261,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE II. Before Lord Hastings' house.", 
     "line_id": 83123, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14269,7 +14269,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter a Messenger", 
     "line_id": 83124, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -14301,7 +14301,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter HASTINGS", 
     "line_id": 83128, 
-    "speaker": "Messenger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.4", 
@@ -14557,7 +14557,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit", 
     "line_id": 83160, 
-    "speaker": "Messenger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14565,7 +14565,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter CATESBY", 
     "line_id": 83161, 
-    "speaker": "Messenger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.35", 
@@ -14869,7 +14869,7 @@
     "play_name": "Richard III", 
     "text_entry": "Aside", 
     "line_id": 83199, 
-    "speaker": "CATESBY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.72", 
@@ -14893,7 +14893,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter STANLEY", 
     "line_id": 83202, 
-    "speaker": "HASTINGS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.74", 
@@ -15085,7 +15085,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter a Pursuivant", 
     "line_id": 83226, 
-    "speaker": "LORD STANLEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.97", 
@@ -15101,7 +15101,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt STANLEY and CATESBY", 
     "line_id": 83228, 
-    "speaker": "HASTINGS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.98", 
@@ -15197,7 +15197,7 @@
     "play_name": "Richard III", 
     "text_entry": "Throws him his purse", 
     "line_id": 83240, 
-    "speaker": "HASTINGS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.109", 
@@ -15213,7 +15213,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit", 
     "line_id": 83242, 
-    "speaker": "Pursuivant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15221,7 +15221,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter a Priest", 
     "line_id": 83243, 
-    "speaker": "Pursuivant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.110", 
@@ -15261,7 +15261,7 @@
     "play_name": "Richard III", 
     "text_entry": "He whispers in his ear", 
     "line_id": 83248, 
-    "speaker": "HASTINGS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15269,7 +15269,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter BUCKINGHAM", 
     "line_id": 83249, 
-    "speaker": "HASTINGS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.114", 
@@ -15373,7 +15373,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 83262, 
-    "speaker": "HASTINGS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15381,7 +15381,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE III. Pomfret Castle.", 
     "line_id": 83263, 
-    "speaker": "HASTINGS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15389,7 +15389,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter RATCLIFF, with halberds, carrying RIVERS, GREY, and VAUGHAN to death", 
     "line_id": 83264, 
-    "speaker": "HASTINGS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -15597,7 +15597,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 83290, 
-    "speaker": "RIVERS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15605,7 +15605,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE IV. The Tower of London.", 
     "line_id": 83291, 
-    "speaker": "RIVERS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15613,7 +15613,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter BUCKINGHAM, DERBY, HASTINGS, the BISHOP OF  ELY, RATCLIFF, LOVEL, with others, and take their seats at a table", 
     "line_id": 83292, 
-    "speaker": "RIVERS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.1", 
@@ -15789,7 +15789,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter GLOUCESTER", 
     "line_id": 83314, 
-    "speaker": "HASTINGS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.22", 
@@ -15933,7 +15933,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit", 
     "line_id": 83332, 
-    "speaker": "BISHOP OF ELY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.39", 
@@ -15949,7 +15949,7 @@
     "play_name": "Richard III", 
     "text_entry": "Drawing him aside", 
     "line_id": 83334, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.40", 
@@ -16005,7 +16005,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit GLOUCESTER, BUCKINGHAM following", 
     "line_id": 83341, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.46", 
@@ -16045,7 +16045,7 @@
     "play_name": "Richard III", 
     "text_entry": "Re-enter BISHOP OF ELY", 
     "line_id": 83346, 
-    "speaker": "DERBY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.50", 
@@ -16157,7 +16157,7 @@
     "play_name": "Richard III", 
     "text_entry": "Re-enter GLOUCESTER and BUCKINGHAM", 
     "line_id": 83360, 
-    "speaker": "DERBY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.63", 
@@ -16333,7 +16333,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt all but HASTINGS, RATCLIFF, and LOVEL", 
     "line_id": 83382, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.84", 
@@ -16565,7 +16565,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 83411, 
-    "speaker": "HASTINGS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16573,7 +16573,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE V. The Tower-walls.", 
     "line_id": 83412, 
-    "speaker": "HASTINGS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16581,7 +16581,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter GLOUCESTER and BUCKINGHAM, in rotten armour, marvellous ill-favoured", 
     "line_id": 83413, 
-    "speaker": "HASTINGS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.1", 
@@ -16693,7 +16693,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter the Lord Mayor and CATESBY", 
     "line_id": 83427, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.14", 
@@ -16765,7 +16765,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter LOVEL and RATCLIFF, with HASTINGS' head", 
     "line_id": 83436, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.22", 
@@ -17173,7 +17173,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit Lord Mayor", 
     "line_id": 83487, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.72", 
@@ -17429,7 +17429,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit BUCKINGHAM", 
     "line_id": 83519, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.103", 
@@ -17445,7 +17445,7 @@
     "play_name": "Richard III", 
     "text_entry": "To CATESBY", 
     "line_id": 83521, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.104", 
@@ -17469,7 +17469,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt all but GLOUCESTER", 
     "line_id": 83524, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.106", 
@@ -17509,7 +17509,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit", 
     "line_id": 83529, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17517,7 +17517,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE VI. The same.", 
     "line_id": 83530, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17525,7 +17525,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter a Scrivener, with a paper in his hand", 
     "line_id": 83531, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.1", 
@@ -17645,7 +17645,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit", 
     "line_id": 83546, 
-    "speaker": "Scrivener"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17653,7 +17653,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE VII. Baynard's Castle.", 
     "line_id": 83547, 
-    "speaker": "Scrivener"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17661,7 +17661,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter GLOUCESTER and BUCKINGHAM, at several doors", 
     "line_id": 83548, 
-    "speaker": "Scrivener"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.1", 
@@ -18109,7 +18109,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit GLOUCESTER", 
     "line_id": 83604, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18117,7 +18117,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter the Lord Mayor and Citizens", 
     "line_id": 83605, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.56", 
@@ -18141,7 +18141,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter CATESBY", 
     "line_id": 83608, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.58", 
@@ -18261,7 +18261,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit", 
     "line_id": 83623, 
-    "speaker": "CATESBY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.72", 
@@ -18365,7 +18365,7 @@
     "play_name": "Richard III", 
     "text_entry": "Re-enter CATESBY", 
     "line_id": 83636, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.84", 
@@ -18453,7 +18453,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit CATESBY", 
     "line_id": 83647, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.94", 
@@ -18485,7 +18485,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter GLOUCESTER aloft, between two Bishops. CATESBY returns", 
     "line_id": 83651, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.97", 
@@ -19501,7 +19501,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit BUCKINGHAM with the Citizens", 
     "line_id": 83778, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.223", 
@@ -19557,7 +19557,7 @@
     "play_name": "Richard III", 
     "text_entry": "Re-enter BUCKINGHAM and the rest", 
     "line_id": 83785, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.229", 
@@ -19733,7 +19733,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 83807, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19741,7 +19741,7 @@
     "play_name": "Richard III", 
     "text_entry": "ACT IV", 
     "line_id": 83808, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19749,7 +19749,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE I. Before the Tower.", 
     "line_id": 83809, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19757,7 +19757,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter, on one side, QUEEN ELIZABETH, DUCHESS OF  YORK, and DORSET; on the other, ANNE, Duchess of  Gloucester, leading Lady Margaret Plantagenet, CLARENCE's young Daughter", 
     "line_id": 83810, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -19861,7 +19861,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter BRAKENBURY", 
     "line_id": 83823, 
-    "speaker": "QUEEN ELIZABETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.13", 
@@ -20005,7 +20005,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit", 
     "line_id": 83841, 
-    "speaker": "BRAKENBURY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20013,7 +20013,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter LORD STANLEY", 
     "line_id": 83842, 
-    "speaker": "BRAKENBURY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.30", 
@@ -20045,7 +20045,7 @@
     "play_name": "Richard III", 
     "text_entry": "To LADY ANNE", 
     "line_id": 83846, 
-    "speaker": "LORD STANLEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.33", 
@@ -20549,7 +20549,7 @@
     "play_name": "Richard III", 
     "text_entry": "To LADY ANNE", 
     "line_id": 83909, 
-    "speaker": "DUCHESS OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.95", 
@@ -20565,7 +20565,7 @@
     "play_name": "Richard III", 
     "text_entry": "To QUEEN ELIZABETH", 
     "line_id": 83911, 
-    "speaker": "DUCHESS OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.96", 
@@ -20661,7 +20661,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 83923, 
-    "speaker": "QUEEN ELIZABETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20669,7 +20669,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE II. London. The palace.", 
     "line_id": 83924, 
-    "speaker": "QUEEN ELIZABETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20677,7 +20677,7 @@
     "play_name": "Richard III", 
     "text_entry": "Sennet. Enter KING RICHARD III, in pomp, crowned; BUCKINGHAM, CATESBY, a page, and others", 
     "line_id": 83925, 
-    "speaker": "QUEEN ELIZABETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -20709,7 +20709,7 @@
     "play_name": "Richard III", 
     "text_entry": "Here he ascendeth his throne", 
     "line_id": 83929, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.4", 
@@ -20917,7 +20917,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit", 
     "line_id": 83955, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.29", 
@@ -21061,7 +21061,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit Page", 
     "line_id": 83973, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.46", 
@@ -21101,7 +21101,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter STANLEY", 
     "line_id": 83978, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.50", 
@@ -21141,7 +21141,7 @@
     "play_name": "Richard III", 
     "text_entry": "Stands apart", 
     "line_id": 83983, 
-    "speaker": "STANLEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.54", 
@@ -21245,7 +21245,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit CATESBY", 
     "line_id": 83996, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.66", 
@@ -21301,7 +21301,7 @@
     "play_name": "Richard III", 
     "text_entry": "Re-enter Page, with TYRREL", 
     "line_id": 84003, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.72", 
@@ -21429,7 +21429,7 @@
     "play_name": "Richard III", 
     "text_entry": "Whispers", 
     "line_id": 84019, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.87", 
@@ -21477,7 +21477,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit", 
     "line_id": 84025, 
-    "speaker": "TYRREL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21485,7 +21485,7 @@
     "play_name": "Richard III", 
     "text_entry": "Re-enter BUCKINGHAM", 
     "line_id": 84026, 
-    "speaker": "TYRREL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.92", 
@@ -21805,7 +21805,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt all but BUCKINGHAM", 
     "line_id": 84066, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.131", 
@@ -21845,7 +21845,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit", 
     "line_id": 84071, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21853,7 +21853,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE III. The same.", 
     "line_id": 84072, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21861,7 +21861,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter TYRREL", 
     "line_id": 84073, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -22053,7 +22053,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter KING RICHARD III", 
     "line_id": 84097, 
-    "speaker": "TYRREL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.24", 
@@ -22181,7 +22181,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit TYRREL", 
     "line_id": 84113, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.39", 
@@ -22253,7 +22253,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter CATESBY", 
     "line_id": 84122, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.47", 
@@ -22373,7 +22373,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 84137, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22381,7 +22381,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE IV. Before the palace.", 
     "line_id": 84138, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22389,7 +22389,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter QUEEN MARGARET", 
     "line_id": 84139, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.1", 
@@ -22461,7 +22461,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter QUEEN ELIZABETH and the DUCHESS OF YORK", 
     "line_id": 84148, 
-    "speaker": "QUEEN MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.9", 
@@ -22637,7 +22637,7 @@
     "play_name": "Richard III", 
     "text_entry": "Sitting down", 
     "line_id": 84170, 
-    "speaker": "DUCHESS OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.30", 
@@ -22685,7 +22685,7 @@
     "play_name": "Richard III", 
     "text_entry": "Sitting down by her", 
     "line_id": 84176, 
-    "speaker": "QUEEN ELIZABETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.35", 
@@ -22725,7 +22725,7 @@
     "play_name": "Richard III", 
     "text_entry": "Sitting down with them", 
     "line_id": 84181, 
-    "speaker": "QUEEN MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.39", 
@@ -23429,7 +23429,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit", 
     "line_id": 84269, 
-    "speaker": "QUEEN MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.126", 
@@ -23517,7 +23517,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter KING RICHARD III, marching, with drums and trumpets", 
     "line_id": 84280, 
-    "speaker": "DUCHESS OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.136", 
@@ -23645,7 +23645,7 @@
     "play_name": "Richard III", 
     "text_entry": "Flourish. Alarums", 
     "line_id": 84296, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.151", 
@@ -24053,7 +24053,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit", 
     "line_id": 84347, 
-    "speaker": "DUCHESS OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.201", 
@@ -26021,7 +26021,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit QUEEN ELIZABETH", 
     "line_id": 84593, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.446", 
@@ -26037,7 +26037,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter RATCLIFF; CATESBY following", 
     "line_id": 84595, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.447", 
@@ -26141,7 +26141,7 @@
     "play_name": "Richard III", 
     "text_entry": "To RATCLIFF", 
     "line_id": 84608, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.459", 
@@ -26165,7 +26165,7 @@
     "play_name": "Richard III", 
     "text_entry": "To CATESBY", 
     "line_id": 84611, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.461", 
@@ -26237,7 +26237,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit", 
     "line_id": 84620, 
-    "speaker": "CATESBY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.469", 
@@ -26285,7 +26285,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter STANLEY", 
     "line_id": 84626, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.474", 
@@ -26653,7 +26653,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit", 
     "line_id": 84672, 
-    "speaker": "STANLEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -26661,7 +26661,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter a Messenger", 
     "line_id": 84673, 
-    "speaker": "STANLEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.519", 
@@ -26709,7 +26709,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter another Messenger", 
     "line_id": 84679, 
-    "speaker": "Messenger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.524", 
@@ -26741,7 +26741,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter another Messenger", 
     "line_id": 84683, 
-    "speaker": "Second Messenger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.527", 
@@ -26765,7 +26765,7 @@
     "play_name": "Richard III", 
     "text_entry": "He striketh him", 
     "line_id": 84686, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.529", 
@@ -26861,7 +26861,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter another Messenger", 
     "line_id": 84698, 
-    "speaker": "Third Messenger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.540", 
@@ -26973,7 +26973,7 @@
     "play_name": "Richard III", 
     "text_entry": "Re-enter CATESBY", 
     "line_id": 84712, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.553", 
@@ -27045,7 +27045,7 @@
     "play_name": "Richard III", 
     "text_entry": "Flourish. Exeunt", 
     "line_id": 84721, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27053,7 +27053,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE V. Lord Derby's house.", 
     "line_id": 84722, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27061,7 +27061,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter DERBY and SIR CHRISTOPHER URSWICK", 
     "line_id": 84723, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.1", 
@@ -27221,7 +27221,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 84743, 
-    "speaker": "DERBY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27229,7 +27229,7 @@
     "play_name": "Richard III", 
     "text_entry": "ACT V", 
     "line_id": 84744, 
-    "speaker": "DERBY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27237,7 +27237,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE I. Salisbury. An open place.", 
     "line_id": 84745, 
-    "speaker": "DERBY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27245,7 +27245,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter the Sheriff, and BUCKINGHAM, with halberds, led to execution", 
     "line_id": 84746, 
-    "speaker": "DERBY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -27485,7 +27485,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 84776, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27493,7 +27493,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE II. The camp near Tamworth.", 
     "line_id": 84777, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27501,7 +27501,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter RICHMOND, OXFORD, BLUNT, HERBERT, and others, with drum and colours", 
     "line_id": 84778, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -27701,7 +27701,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 84803, 
-    "speaker": "RICHMOND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27709,7 +27709,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE III. Bosworth Field.", 
     "line_id": 84804, 
-    "speaker": "RICHMOND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27717,7 +27717,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter KING RICHARD III in arms, with NORFOLK, SURREY, and others", 
     "line_id": 84805, 
-    "speaker": "RICHMOND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.1", 
@@ -27877,7 +27877,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 84825, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27885,7 +27885,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter, on the other side of the field, RICHMOND,  Sir William Brandon, OXFORD, and others. Some of the Soldiers pitch RICHMOND's tent", 
     "line_id": 84826, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.20", 
@@ -28117,7 +28117,7 @@
     "play_name": "Richard III", 
     "text_entry": "They withdraw into the tent", 
     "line_id": 84855, 
-    "speaker": "RICHMOND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -28125,7 +28125,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter, to his tent, KING RICHARD III, NORFOLK, RATCLIFF, CATESBY, and others", 
     "line_id": 84856, 
-    "speaker": "RICHMOND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.48", 
@@ -28237,7 +28237,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit", 
     "line_id": 84870, 
-    "speaker": "NORFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.61", 
@@ -28293,7 +28293,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exit CATESBY", 
     "line_id": 84877, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.67", 
@@ -28437,7 +28437,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt RATCLIFF and the other Attendants", 
     "line_id": 84895, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -28445,7 +28445,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter DERBY to RICHMOND in his tent, Lords and others attending", 
     "line_id": 84896, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.84", 
@@ -28685,7 +28685,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt all but RICHMOND", 
     "line_id": 84926, 
-    "speaker": "RICHMOND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.113", 
@@ -28773,7 +28773,7 @@
     "play_name": "Richard III", 
     "text_entry": "Sleeps", 
     "line_id": 84937, 
-    "speaker": "RICHMOND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -28781,7 +28781,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter the Ghost of Prince Edward, son to King Henry VI", 
     "line_id": 84938, 
-    "speaker": "RICHMOND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.123", 
@@ -28829,7 +28829,7 @@
     "play_name": "Richard III", 
     "text_entry": "To RICHMOND", 
     "line_id": 84944, 
-    "speaker": "of Prince Edward"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.128", 
@@ -28861,7 +28861,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter the Ghost of King Henry VI", 
     "line_id": 84948, 
-    "speaker": "of Prince Edward"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.131", 
@@ -28917,7 +28917,7 @@
     "play_name": "Richard III", 
     "text_entry": "To RICHMOND", 
     "line_id": 84955, 
-    "speaker": "of King Henry VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.137", 
@@ -28949,7 +28949,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter the Ghost of CLARENCE", 
     "line_id": 84959, 
-    "speaker": "of King Henry VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.140", 
@@ -29005,7 +29005,7 @@
     "play_name": "Richard III", 
     "text_entry": "To RICHMOND", 
     "line_id": 84966, 
-    "speaker": "Ghost of CLARENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.146", 
@@ -29037,7 +29037,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter the Ghosts of RIVERS, GRAY, and VAUGHAN", 
     "line_id": 84970, 
-    "speaker": "Ghost of CLARENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.149", 
@@ -29109,7 +29109,7 @@
     "play_name": "Richard III", 
     "text_entry": "[To RICHMOND]", 
     "line_id": 84979, 
-    "speaker": "All"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.158", 
@@ -29133,7 +29133,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter the Ghost of HASTINGS", 
     "line_id": 84982, 
-    "speaker": "All"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.160", 
@@ -29173,7 +29173,7 @@
     "play_name": "Richard III", 
     "text_entry": "To RICHMOND", 
     "line_id": 84987, 
-    "speaker": "Ghost of HASTINGS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.164", 
@@ -29197,7 +29197,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter the Ghosts of the two young Princes", 
     "line_id": 84990, 
-    "speaker": "Ghost of HASTINGS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.166", 
@@ -29253,7 +29253,7 @@
     "play_name": "Richard III", 
     "text_entry": "To RICHMOND", 
     "line_id": 84997, 
-    "speaker": "of young Princes"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.172", 
@@ -29293,7 +29293,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter the Ghost of LADY ANNE", 
     "line_id": 85002, 
-    "speaker": "of young Princes"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.176", 
@@ -29349,7 +29349,7 @@
     "play_name": "Richard III", 
     "text_entry": "To RICHMOND", 
     "line_id": 85009, 
-    "speaker": "Ghost of LADY ANNE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.182", 
@@ -29381,7 +29381,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter the Ghost of BUCKINGHAM", 
     "line_id": 85013, 
-    "speaker": "Ghost of LADY ANNE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.185", 
@@ -29453,7 +29453,7 @@
     "play_name": "Richard III", 
     "text_entry": "To RICHMOND", 
     "line_id": 85022, 
-    "speaker": "of BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.193", 
@@ -29493,7 +29493,7 @@
     "play_name": "Richard III", 
     "text_entry": "The Ghosts vanish", 
     "line_id": 85027, 
-    "speaker": "of BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -29501,7 +29501,7 @@
     "play_name": "Richard III", 
     "text_entry": "KING RICHARD III starts out of his dream", 
     "line_id": 85028, 
-    "speaker": "of BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.197", 
@@ -29749,7 +29749,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter RATCLIFF", 
     "line_id": 85059, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.227", 
@@ -29893,7 +29893,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 85077, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -29901,7 +29901,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter the Lords to RICHMOND, sitting in his tent", 
     "line_id": 85078, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.244", 
@@ -30021,7 +30021,7 @@
     "play_name": "Richard III", 
     "text_entry": "His oration to his soldiers", 
     "line_id": 85093, 
-    "speaker": "RICHMOND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.258", 
@@ -30301,7 +30301,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 85128, 
-    "speaker": "RICHMOND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -30309,7 +30309,7 @@
     "play_name": "Richard III", 
     "text_entry": "Re-enter KING RICHARD, RATCLIFF, Attendants and Forces", 
     "line_id": 85129, 
-    "speaker": "RICHMOND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.292", 
@@ -30357,7 +30357,7 @@
     "play_name": "Richard III", 
     "text_entry": "Clock striketh", 
     "line_id": 85135, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.297", 
@@ -30469,7 +30469,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter NORFOLK", 
     "line_id": 85149, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.310", 
@@ -30605,7 +30605,7 @@
     "play_name": "Richard III", 
     "text_entry": "He sheweth him a paper", 
     "line_id": 85166, 
-    "speaker": "NORFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.326", 
@@ -30613,7 +30613,7 @@
     "play_name": "Richard III", 
     "text_entry": "[Reads]", 
     "line_id": 85167, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.327", 
@@ -30701,7 +30701,7 @@
     "play_name": "Richard III", 
     "text_entry": "His oration to his Army", 
     "line_id": 85178, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.337", 
@@ -30901,7 +30901,7 @@
     "play_name": "Richard III", 
     "text_entry": "Drum afar off", 
     "line_id": 85203, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.361", 
@@ -30949,7 +30949,7 @@
     "play_name": "Richard III", 
     "text_entry": "Enter a Messenger", 
     "line_id": 85209, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.366", 
@@ -31037,7 +31037,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 85220, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -31045,7 +31045,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE IV. Another part of the field.", 
     "line_id": 85221, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -31053,7 +31053,7 @@
     "play_name": "Richard III", 
     "text_entry": "Alarum: excursions. Enter NORFOLK and forces fighting; to him CATESBY", 
     "line_id": 85222, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.1", 
@@ -31109,7 +31109,7 @@
     "play_name": "Richard III", 
     "text_entry": "Alarums. Enter KING RICHARD III", 
     "line_id": 85229, 
-    "speaker": "CATESBY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.7", 
@@ -31173,7 +31173,7 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 85237, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -31181,7 +31181,7 @@
     "play_name": "Richard III", 
     "text_entry": "SCENE V. Another part of the field.", 
     "line_id": 85238, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -31189,7 +31189,7 @@
     "play_name": "Richard III", 
     "text_entry": "Alarum. Enter KING RICHARD III and RICHMOND; they  fight. KING RICHARD III is slain. Retreat and  flourish. Re-enter RICHMOND, DERBY bearing the crown, with divers other Lords", 
     "line_id": 85239, 
-    "speaker": "KING RICHARD III"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.1", 
@@ -31525,6 +31525,6 @@
     "play_name": "Richard III", 
     "text_entry": "Exeunt", 
     "line_id": 85281, 
-    "speaker": "RICHMOND"
+    "speaker": "Stage Directions"
   }
 ]

@@ -5,7 +5,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "ACT I", 
     "line_id": 105551, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SCENE I. Verona. An open place.", 
     "line_id": 105552, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter VALENTINE and PROTEUS", 
     "line_id": 105553, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -533,7 +533,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit", 
     "line_id": 105617, 
-    "speaker": "VALENTINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.64", 
@@ -597,7 +597,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter SPEED", 
     "line_id": 105625, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.71", 
@@ -1173,7 +1173,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit SPEED", 
     "line_id": 105697, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.142", 
@@ -1205,7 +1205,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit", 
     "line_id": 105701, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1213,7 +1213,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SCENE II. The same. Garden of JULIA's house.", 
     "line_id": 105702, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1221,7 +1221,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter JULlA and LUCETTA", 
     "line_id": 105703, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -1629,7 +1629,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit", 
     "line_id": 105754, 
-    "speaker": "LUCETTA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.51", 
@@ -1773,7 +1773,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Re-enter LUCETTA", 
     "line_id": 105772, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.68", 
@@ -2077,7 +2077,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Tears the letter", 
     "line_id": 105810, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.105", 
@@ -2117,7 +2117,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit", 
     "line_id": 105815, 
-    "speaker": "LUCETTA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.109", 
@@ -2333,7 +2333,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Re-enter LUCETTA", 
     "line_id": 105842, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.135", 
@@ -2429,7 +2429,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exeunt", 
     "line_id": 105854, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2437,7 +2437,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SCENE III. The same. ANTONIO's house.", 
     "line_id": 105855, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2445,7 +2445,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter ANTONIO and PANTHINO", 
     "line_id": 105856, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -2813,7 +2813,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter PROTEUS", 
     "line_id": 105902, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.46", 
@@ -3085,7 +3085,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exeunt ANTONIO and PANTHINO", 
     "line_id": 105936, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.79", 
@@ -3173,7 +3173,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Re-enter PANTHINO", 
     "line_id": 105947, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.89", 
@@ -3213,7 +3213,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exeunt", 
     "line_id": 105952, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3221,7 +3221,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "ACT II", 
     "line_id": 105953, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3229,7 +3229,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SCENE I. Milan. The DUKE's palace.", 
     "line_id": 105954, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3237,7 +3237,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter VALENTINE and SPEED", 
     "line_id": 105955, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -3957,7 +3957,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter SILVIA", 
     "line_id": 106045, 
-    "speaker": "SPEED"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.90", 
@@ -4237,7 +4237,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit", 
     "line_id": 106080, 
-    "speaker": "SILVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.124", 
@@ -4557,7 +4557,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exeunt", 
     "line_id": 106120, 
-    "speaker": "SPEED"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4565,7 +4565,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SCENE II. Verona. JULIA'S house.", 
     "line_id": 106121, 
-    "speaker": "SPEED"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4573,7 +4573,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter PROTEUS and JULIA", 
     "line_id": 106122, 
-    "speaker": "SPEED"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -4621,7 +4621,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Giving a ring", 
     "line_id": 106128, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.6", 
@@ -4717,7 +4717,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit JULIA", 
     "line_id": 106140, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.17", 
@@ -4749,7 +4749,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter PANTHINO", 
     "line_id": 106144, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.20", 
@@ -4781,7 +4781,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exeunt", 
     "line_id": 106148, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4789,7 +4789,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SCENE III. The same. A street.", 
     "line_id": 106149, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4797,7 +4797,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter LAUNCE, leading a dog", 
     "line_id": 106150, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -5069,7 +5069,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter PANTHINO", 
     "line_id": 106184, 
-    "speaker": "LAUNCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.34", 
@@ -5277,7 +5277,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exeunt", 
     "line_id": 106210, 
-    "speaker": "LAUNCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5285,7 +5285,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SCENE IV. Milan. The DUKE's palace.", 
     "line_id": 106211, 
-    "speaker": "LAUNCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5293,7 +5293,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter SILVIA, VALENTINE, THURIO, and SPEED", 
     "line_id": 106212, 
-    "speaker": "LAUNCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.1", 
@@ -5357,7 +5357,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit", 
     "line_id": 106220, 
-    "speaker": "SPEED"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.8", 
@@ -5645,7 +5645,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter DUKE", 
     "line_id": 106256, 
-    "speaker": "SILVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.43", 
@@ -5965,7 +5965,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit", 
     "line_id": 106296, 
-    "speaker": "DUKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.82", 
@@ -6077,7 +6077,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit THURIO", 
     "line_id": 106310, 
-    "speaker": "SILVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6085,7 +6085,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter PROTEUS", 
     "line_id": 106311, 
-    "speaker": "SILVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.95", 
@@ -6229,7 +6229,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Re-enter THURIO", 
     "line_id": 106329, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.112", 
@@ -6285,7 +6285,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exeunt SILVIA and THURIO", 
     "line_id": 106336, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.118", 
@@ -6893,7 +6893,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit VALENTINE", 
     "line_id": 106412, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.193", 
@@ -7085,7 +7085,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit", 
     "line_id": 106436, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7093,7 +7093,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SCENE V. The same. A street.", 
     "line_id": 106437, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7101,7 +7101,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter SPEED and LAUNCE severally", 
     "line_id": 106438, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.1", 
@@ -7509,7 +7509,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exeunt", 
     "line_id": 106489, 
-    "speaker": "SPEED"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7517,7 +7517,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SCENE VI. The same. The DUKE'S palace.", 
     "line_id": 106490, 
-    "speaker": "SPEED"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7525,7 +7525,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter PROTEUS", 
     "line_id": 106491, 
-    "speaker": "SPEED"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.6.1", 
@@ -7877,7 +7877,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit", 
     "line_id": 106535, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7885,7 +7885,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SCENE VII. Verona. JULIA'S house.", 
     "line_id": 106536, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7893,7 +7893,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter JULIA and LUCETTA", 
     "line_id": 106537, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.7.1", 
@@ -8621,7 +8621,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exeunt", 
     "line_id": 106628, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8629,7 +8629,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "ACT III", 
     "line_id": 106629, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8637,7 +8637,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SCENE I. Milan. The DUKE's palace.", 
     "line_id": 106630, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8645,7 +8645,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter DUKE, THURIO, and PROTEUS", 
     "line_id": 106631, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -8669,7 +8669,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit THURIO", 
     "line_id": 106634, 
-    "speaker": "DUKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.3", 
@@ -9061,7 +9061,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit", 
     "line_id": 106683, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9069,7 +9069,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter VALENTINE", 
     "line_id": 106684, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.51", 
@@ -9797,7 +9797,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Reads", 
     "line_id": 106775, 
-    "speaker": "DUKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.141", 
@@ -10045,7 +10045,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit", 
     "line_id": 106806, 
-    "speaker": "DUKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.171", 
@@ -10197,7 +10197,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter PROTEUS and LAUNCE", 
     "line_id": 106825, 
-    "speaker": "VALENTINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.189", 
@@ -10789,7 +10789,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exeunt VALENTINE and PROTEUS", 
     "line_id": 106899, 
-    "speaker": "VALENTINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.262", 
@@ -10885,7 +10885,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Pulling out a paper", 
     "line_id": 106911, 
-    "speaker": "LAUNCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.273", 
@@ -10941,7 +10941,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter SPEED", 
     "line_id": 106918, 
-    "speaker": "LAUNCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.279", 
@@ -11677,7 +11677,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit", 
     "line_id": 107010, 
-    "speaker": "SPEED"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.370", 
@@ -11709,7 +11709,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit", 
     "line_id": 107014, 
-    "speaker": "LAUNCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11717,7 +11717,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SCENE II. The same. The DUKE's palace.", 
     "line_id": 107015, 
-    "speaker": "LAUNCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11725,7 +11725,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter DUKE and THURIO", 
     "line_id": 107016, 
-    "speaker": "LAUNCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -11813,7 +11813,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter PROTEUS", 
     "line_id": 107027, 
-    "speaker": "DUKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.11", 
@@ -12525,7 +12525,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exeunt", 
     "line_id": 107116, 
-    "speaker": "DUKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12533,7 +12533,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "ACT IV", 
     "line_id": 107117, 
-    "speaker": "DUKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12541,7 +12541,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SCENE I. The frontiers of Mantua. A forest.", 
     "line_id": 107118, 
-    "speaker": "DUKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12549,7 +12549,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter certain Outlaws", 
     "line_id": 107119, 
-    "speaker": "DUKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -12573,7 +12573,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter VALENTINE and SPEED", 
     "line_id": 107122, 
-    "speaker": "Second Outlaw"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.3", 
@@ -13165,7 +13165,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exeunt", 
     "line_id": 107196, 
-    "speaker": "Third Outlaw"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13173,7 +13173,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SCENE II. Milan. Outside the DUKE's palace, under SILVIA's chamber.", 
     "line_id": 107197, 
-    "speaker": "Third Outlaw"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13181,7 +13181,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter PROTEUS", 
     "line_id": 107198, 
-    "speaker": "Third Outlaw"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -13325,7 +13325,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter THURIO and Musicians", 
     "line_id": 107216, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.18", 
@@ -13405,7 +13405,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter, at a distance, Host, and JULIA in boy's clothes", 
     "line_id": 107226, 
-    "speaker": "THURIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.27", 
@@ -13477,7 +13477,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Music plays", 
     "line_id": 107235, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.35", 
@@ -13509,7 +13509,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SONG.", 
     "line_id": 107239, 
-    "speaker": "Host"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.39", 
@@ -13869,7 +13869,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exeunt THURIO and Musicians", 
     "line_id": 107284, 
-    "speaker": "THURIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13877,7 +13877,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter SILVIA above", 
     "line_id": 107285, 
-    "speaker": "THURIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.83", 
@@ -14309,7 +14309,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exeunt PROTEUS and SILVIA severally", 
     "line_id": 107339, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.136", 
@@ -14373,7 +14373,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exeunt", 
     "line_id": 107347, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14381,7 +14381,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SCENE III. The same.", 
     "line_id": 107348, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14389,7 +14389,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter EGLAMOUR", 
     "line_id": 107349, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -14429,7 +14429,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter SILVIA above", 
     "line_id": 107354, 
-    "speaker": "EGLAMOUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.5", 
@@ -14805,7 +14805,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exeunt severally", 
     "line_id": 107401, 
-    "speaker": "SILVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14813,7 +14813,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SCENE IV. The same.", 
     "line_id": 107402, 
-    "speaker": "SILVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14821,7 +14821,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter LAUNCE, with his his Dog", 
     "line_id": 107403, 
-    "speaker": "SILVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.1", 
@@ -15141,7 +15141,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter PROTEUS and JULIA", 
     "line_id": 107443, 
-    "speaker": "LAUNCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.40", 
@@ -15181,7 +15181,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "To LAUNCE", 
     "line_id": 107448, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.44", 
@@ -15325,7 +15325,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit LAUNCE", 
     "line_id": 107466, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.61", 
@@ -15581,7 +15581,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit", 
     "line_id": 107498, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.92", 
@@ -15733,7 +15733,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter SILVIA, attended", 
     "line_id": 107517, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.110", 
@@ -16309,7 +16309,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit SILVIA, with attendants", 
     "line_id": 107589, 
-    "speaker": "SILVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.181", 
@@ -16533,7 +16533,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit", 
     "line_id": 107617, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16541,7 +16541,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "ACT V", 
     "line_id": 107618, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16549,7 +16549,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SCENE I. Milan. An abbey.", 
     "line_id": 107619, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16557,7 +16557,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter EGLAMOUR", 
     "line_id": 107620, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -16621,7 +16621,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter SILVIA", 
     "line_id": 107628, 
-    "speaker": "EGLAMOUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.8", 
@@ -16677,7 +16677,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exeunt", 
     "line_id": 107635, 
-    "speaker": "EGLAMOUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16685,7 +16685,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SCENE II. The same. The DUKE's palace.", 
     "line_id": 107636, 
-    "speaker": "EGLAMOUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16693,7 +16693,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter THURIO, PROTEUS, and JULIA", 
     "line_id": 107637, 
-    "speaker": "EGLAMOUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -16957,7 +16957,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter DUKE", 
     "line_id": 107670, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.33", 
@@ -17133,7 +17133,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit", 
     "line_id": 107692, 
-    "speaker": "DUKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.54", 
@@ -17173,7 +17173,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit", 
     "line_id": 107697, 
-    "speaker": "THURIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.58", 
@@ -17197,7 +17197,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit", 
     "line_id": 107700, 
-    "speaker": "PROTEUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.60", 
@@ -17221,7 +17221,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exit", 
     "line_id": 107703, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17229,7 +17229,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SCENE III. The frontiers of Mantua. The forest.", 
     "line_id": 107704, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17237,7 +17237,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter Outlaws with SILVIA", 
     "line_id": 107705, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.1", 
@@ -17365,7 +17365,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exeunt", 
     "line_id": 107721, 
-    "speaker": "SILVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17373,7 +17373,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "SCENE IV. Another part of the forest.", 
     "line_id": 107722, 
-    "speaker": "SILVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17381,7 +17381,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter VALENTINE", 
     "line_id": 107723, 
-    "speaker": "SILVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.1", 
@@ -17533,7 +17533,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter PROTEUS, SILVIA, and JULIA", 
     "line_id": 107742, 
-    "speaker": "VALENTINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.19", 
@@ -18109,7 +18109,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Swoons", 
     "line_id": 107814, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.90", 
@@ -18413,7 +18413,7 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Enter Outlaws, with DUKE and THURIO", 
     "line_id": 107852, 
-    "speaker": "JULIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.127", 
@@ -18853,6 +18853,6 @@
     "play_name": "Two Gentlemen of Verona", 
     "text_entry": "Exeunt", 
     "line_id": 107907, 
-    "speaker": "VALENTINE"
+    "speaker": "Stage Directions"
   }
 ]

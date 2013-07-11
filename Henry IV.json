@@ -5,7 +5,7 @@
     "play_name": "Henry IV", 
     "text_entry": "ACT I", 
     "line_id": 1, 
-    "speaker": ""
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Henry IV", 
     "text_entry": "SCENE I. London. The palace.", 
     "line_id": 2, 
-    "speaker": ""
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter KING HENRY, LORD JOHN OF LANCASTER, the EARL of WESTMORELAND, SIR WALTER BLUNT, and others", 
     "line_id": 3, 
-    "speaker": ""
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -893,7 +893,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt", 
     "line_id": 112, 
-    "speaker": "WESTMORELAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -901,7 +901,7 @@
     "play_name": "Henry IV", 
     "text_entry": "SCENE II. London. An apartment of the Prince's.", 
     "line_id": 113, 
-    "speaker": "WESTMORELAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -909,7 +909,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter the PRINCE OF WALES and FALSTAFF", 
     "line_id": 114, 
-    "speaker": "WESTMORELAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -1717,7 +1717,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter POINS", 
     "line_id": 215, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.101", 
@@ -2117,7 +2117,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit Falstaff", 
     "line_id": 265, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.150", 
@@ -2397,7 +2397,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit Poins", 
     "line_id": 300, 
-    "speaker": "POINS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.184", 
@@ -2589,7 +2589,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit", 
     "line_id": 324, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2597,7 +2597,7 @@
     "play_name": "Henry IV", 
     "text_entry": "SCENE III. London. The palace.", 
     "line_id": 325, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2605,7 +2605,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter the KING, NORTHUMBERLAND, WORCESTER, HOTSPUR, SIR WALTER BLUNT, with others", 
     "line_id": 326, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -2781,7 +2781,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit Worcester", 
     "line_id": 348, 
-    "speaker": "KING HENRY IV"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.22", 
@@ -2797,7 +2797,7 @@
     "play_name": "Henry IV", 
     "text_entry": "To North", 
     "line_id": 350, 
-    "speaker": "KING HENRY IV"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.23", 
@@ -3637,7 +3637,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt King Henry, Blunt, and train", 
     "line_id": 455, 
-    "speaker": "KING HENRY IV"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.127", 
@@ -3693,7 +3693,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Re-enter WORCESTER", 
     "line_id": 462, 
-    "speaker": "NORTHUMBERLAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.133", 
@@ -4837,7 +4837,7 @@
     "play_name": "Henry IV", 
     "text_entry": "To Northumberland", 
     "line_id": 605, 
-    "speaker": "EARL OF WORCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.275", 
@@ -5157,7 +5157,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt", 
     "line_id": 645, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5165,7 +5165,7 @@
     "play_name": "Henry IV", 
     "text_entry": "ACT II", 
     "line_id": 646, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5173,7 +5173,7 @@
     "play_name": "Henry IV", 
     "text_entry": "SCENE I. Rochester. An inn yard.", 
     "line_id": 647, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5181,7 +5181,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter a Carrier with a lantern in his hand", 
     "line_id": 648, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -5245,7 +5245,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter another Carrier", 
     "line_id": 656, 
-    "speaker": "First Carrier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.8", 
@@ -5429,7 +5429,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter GADSHILL", 
     "line_id": 679, 
-    "speaker": "First Carrier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.30", 
@@ -5541,7 +5541,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt carriers", 
     "line_id": 693, 
-    "speaker": "Second Carrier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.43", 
@@ -5597,7 +5597,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter Chamberlain", 
     "line_id": 700, 
-    "speaker": "GADSHILL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.49", 
@@ -5957,7 +5957,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt", 
     "line_id": 745, 
-    "speaker": "GADSHILL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5965,7 +5965,7 @@
     "play_name": "Henry IV", 
     "text_entry": "SCENE II. The highway, near Gadshill.", 
     "line_id": 746, 
-    "speaker": "GADSHILL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5973,7 +5973,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter PRINCE HENRY and POINS", 
     "line_id": 747, 
-    "speaker": "GADSHILL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -6005,7 +6005,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter FALSTAFF", 
     "line_id": 751, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.4", 
@@ -6205,7 +6205,7 @@
     "play_name": "Henry IV", 
     "text_entry": "They whistle", 
     "line_id": 776, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.28", 
@@ -6357,7 +6357,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter GADSHILL, BARDOLPH and PETO", 
     "line_id": 795, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.46", 
@@ -6573,7 +6573,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt PRINCE HENRY and POINS", 
     "line_id": 822, 
-    "speaker": "POINS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.72", 
@@ -6597,7 +6597,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter the Travellers", 
     "line_id": 825, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.74", 
@@ -6701,7 +6701,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Here they rob them and bind them. Exeunt", 
     "line_id": 838, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6709,7 +6709,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Re-enter PRINCE HENRY and POINS", 
     "line_id": 839, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.86", 
@@ -6757,7 +6757,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter the Thieves again", 
     "line_id": 845, 
-    "speaker": "POINS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.91", 
@@ -6813,7 +6813,7 @@
     "play_name": "Henry IV", 
     "text_entry": "As they are sharing, the Prince and Poins set upon  them; they all run away; and Falstaff, after a blow or two, runs away too, leaving the booty behind them", 
     "line_id": 852, 
-    "speaker": "POINS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.97", 
@@ -6885,7 +6885,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt", 
     "line_id": 861, 
-    "speaker": "POINS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6893,7 +6893,7 @@
     "play_name": "Henry IV", 
     "text_entry": "SCENE III. Warkworth castle", 
     "line_id": 862, 
-    "speaker": "POINS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6901,7 +6901,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter HOTSPUR, solus, reading a letter", 
     "line_id": 863, 
-    "speaker": "POINS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -7197,7 +7197,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter LADY PERCY", 
     "line_id": 900, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.37", 
@@ -7445,7 +7445,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter Servant", 
     "line_id": 931, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.67", 
@@ -7525,7 +7525,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit Servant", 
     "line_id": 941, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.76", 
@@ -7909,7 +7909,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt", 
     "line_id": 989, 
-    "speaker": "LADY PERCY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7917,7 +7917,7 @@
     "play_name": "Henry IV", 
     "text_entry": "SCENE IV. The Boar's-Head Tavern, Eastcheap.", 
     "line_id": 990, 
-    "speaker": "LADY PERCY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7925,7 +7925,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter PRINCE HENRY and POINS", 
     "line_id": 991, 
-    "speaker": "LADY PERCY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.1", 
@@ -8229,7 +8229,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit POINS", 
     "line_id": 1029, 
-    "speaker": "POINS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8237,7 +8237,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter FRANCIS", 
     "line_id": 1030, 
-    "speaker": "POINS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.38", 
@@ -8565,7 +8565,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Here they both call him; the drawer stands amazed, not knowing which way to go", 
     "line_id": 1071, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8573,7 +8573,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter Vintner", 
     "line_id": 1072, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.78", 
@@ -8597,7 +8597,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit Francis", 
     "line_id": 1075, 
-    "speaker": "Vintner"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.80", 
@@ -8629,7 +8629,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit Vintner", 
     "line_id": 1079, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.83", 
@@ -8645,7 +8645,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Re-enter POINS", 
     "line_id": 1081, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.84", 
@@ -8725,7 +8725,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Re-enter FRANCIS", 
     "line_id": 1091, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.93", 
@@ -8749,7 +8749,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit", 
     "line_id": 1094, 
-    "speaker": "FRANCIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.95", 
@@ -8869,7 +8869,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter FALSTAFF, GADSHILL, BARDOLPH, and PETO; FRANCIS following with wine", 
     "line_id": 1109, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.109", 
@@ -8925,7 +8925,7 @@
     "play_name": "Henry IV", 
     "text_entry": "He drinks", 
     "line_id": 1116, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.115", 
@@ -9205,7 +9205,7 @@
     "play_name": "Henry IV", 
     "text_entry": "He drinks", 
     "line_id": 1151, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.149", 
@@ -10189,7 +10189,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter Hostess", 
     "line_id": 1274, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.271", 
@@ -10309,7 +10309,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit FALSTAFF", 
     "line_id": 1289, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.285", 
@@ -10533,7 +10533,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Re-enter FALSTAFF", 
     "line_id": 1317, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.312", 
@@ -11765,7 +11765,7 @@
     "play_name": "Henry IV", 
     "text_entry": "A knocking heard", 
     "line_id": 1471, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11773,7 +11773,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt Hostess, FRANCIS, and BARDOLPH", 
     "line_id": 1472, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11781,7 +11781,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Re-enter BARDOLPH, running", 
     "line_id": 1473, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.465", 
@@ -11821,7 +11821,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Re-enter the Hostess", 
     "line_id": 1478, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.469", 
@@ -11981,7 +11981,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt all except PRINCE HENRY and PETO", 
     "line_id": 1498, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11989,7 +11989,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter Sheriff and the Carrier", 
     "line_id": 1499, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.488", 
@@ -12165,7 +12165,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt Sheriff and Carrier", 
     "line_id": 1521, 
-    "speaker": "Sheriff"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.509", 
@@ -12213,7 +12213,7 @@
     "play_name": "Henry IV", 
     "text_entry": "He searcheth his pockets, and findeth certain papers", 
     "line_id": 1527, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.514", 
@@ -12365,7 +12365,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt", 
     "line_id": 1546, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.532", 
@@ -12381,7 +12381,7 @@
     "play_name": "Henry IV", 
     "text_entry": "ACT III", 
     "line_id": 1548, 
-    "speaker": "PETO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.532", 
@@ -12389,7 +12389,7 @@
     "play_name": "Henry IV", 
     "text_entry": "SCENE I. Bangor. The Archdeacon's house.", 
     "line_id": 1549, 
-    "speaker": "PETO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12397,7 +12397,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter HOTSPUR, WORCESTER, MORTIMER, and GLENDOWER", 
     "line_id": 1550, 
-    "speaker": "PETO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -13589,7 +13589,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit GLENDOWER", 
     "line_id": 1699, 
-    "speaker": "GLENDOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.149", 
@@ -13957,7 +13957,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Re-enter GLENDOWER with the ladies", 
     "line_id": 1745, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.194", 
@@ -14013,7 +14013,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Glendower speaks to her in Welsh, and she answers him in the same", 
     "line_id": 1752, 
-    "speaker": "MORTIMER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.200", 
@@ -14037,7 +14037,7 @@
     "play_name": "Henry IV", 
     "text_entry": "The lady speaks in Welsh", 
     "line_id": 1755, 
-    "speaker": "GLENDOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.202", 
@@ -14077,7 +14077,7 @@
     "play_name": "Henry IV", 
     "text_entry": "The lady speaks again in Welsh", 
     "line_id": 1760, 
-    "speaker": "MORTIMER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.206", 
@@ -14149,7 +14149,7 @@
     "play_name": "Henry IV", 
     "text_entry": "The lady speaks again in Welsh", 
     "line_id": 1769, 
-    "speaker": "GLENDOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.214", 
@@ -14309,7 +14309,7 @@
     "play_name": "Henry IV", 
     "text_entry": "The music plays", 
     "line_id": 1789, 
-    "speaker": "LADY PERCY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.233", 
@@ -14437,7 +14437,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Here the lady sings a Welsh song", 
     "line_id": 1805, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.248", 
@@ -14581,7 +14581,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit", 
     "line_id": 1823, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.265", 
@@ -14629,7 +14629,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt", 
     "line_id": 1829, 
-    "speaker": "MORTIMER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14637,7 +14637,7 @@
     "play_name": "Henry IV", 
     "text_entry": "SCENE II. London. The palace.", 
     "line_id": 1830, 
-    "speaker": "MORTIMER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14645,7 +14645,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter KING HENRY IV, PRINCE HENRY, and others", 
     "line_id": 1831, 
-    "speaker": "MORTIMER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -14677,7 +14677,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt Lords", 
     "line_id": 1835, 
-    "speaker": "KING HENRY IV"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.4", 
@@ -15957,7 +15957,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter BLUNT", 
     "line_id": 1995, 
-    "speaker": "KING HENRY IV"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.163", 
@@ -16117,7 +16117,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt", 
     "line_id": 2015, 
-    "speaker": "KING HENRY IV"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16133,7 +16133,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter FALSTAFF and BARDOLPH", 
     "line_id": 2017, 
-    "speaker": ""
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.183", 
@@ -16557,7 +16557,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter Hostess", 
     "line_id": 2070, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.235", 
@@ -16853,7 +16853,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter PRINCE HENRY and PETO, marching, and FALSTAFF meets them playing on his truncheon like a life", 
     "line_id": 2107, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.271", 
@@ -17541,7 +17541,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit Hostess", 
     "line_id": 2193, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.356", 
@@ -17709,7 +17709,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit Bardolph", 
     "line_id": 2214, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.376", 
@@ -17733,7 +17733,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit Peto", 
     "line_id": 2217, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.378", 
@@ -17789,7 +17789,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit PRINCE HENRY", 
     "line_id": 2224, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.384", 
@@ -17813,7 +17813,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit", 
     "line_id": 2227, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17821,7 +17821,7 @@
     "play_name": "Henry IV", 
     "text_entry": "ACT IV", 
     "line_id": 2228, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17829,7 +17829,7 @@
     "play_name": "Henry IV", 
     "text_entry": "SCENE I. The rebel camp near Shrewsbury.", 
     "line_id": 2229, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17837,7 +17837,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter HOTSPUR, WORCESTER, and DOUGLAS", 
     "line_id": 2230, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -17949,7 +17949,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter a Messenger with letters", 
     "line_id": 2244, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.14", 
@@ -18557,7 +18557,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter SIR RICHARD VERNON", 
     "line_id": 2320, 
-    "speaker": "EARL OF DOUGLAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.89", 
@@ -19005,7 +19005,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt", 
     "line_id": 2376, 
-    "speaker": "EARL OF DOUGLAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19013,7 +19013,7 @@
     "play_name": "Henry IV", 
     "text_entry": "SCENE II. A public road near Coventry.", 
     "line_id": 2377, 
-    "speaker": "EARL OF DOUGLAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19021,7 +19021,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter FALSTAFF and BARDOLPH", 
     "line_id": 2378, 
-    "speaker": "EARL OF DOUGLAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -19109,7 +19109,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit", 
     "line_id": 2389, 
-    "speaker": "BARDOLPH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.11", 
@@ -19429,7 +19429,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter the PRINCE and WESTMORELAND", 
     "line_id": 2429, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.50", 
@@ -19693,7 +19693,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt", 
     "line_id": 2462, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19701,7 +19701,7 @@
     "play_name": "Henry IV", 
     "text_entry": "SCENE III. The rebel camp near Shrewsbury.", 
     "line_id": 2463, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19709,7 +19709,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter HOTSPUR, WORCESTER, DOUGLAS, and VERNON", 
     "line_id": 2464, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -19997,7 +19997,7 @@
     "play_name": "Henry IV", 
     "text_entry": "The trumpet sounds a parley", 
     "line_id": 2500, 
-    "speaker": "EARL OF WORCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20005,7 +20005,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter SIR WALTER BLUNT", 
     "line_id": 2501, 
-    "speaker": "EARL OF WORCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.36", 
@@ -20701,7 +20701,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt", 
     "line_id": 2588, 
-    "speaker": "SIR WALTER BLUNT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20709,7 +20709,7 @@
     "play_name": "Henry IV", 
     "text_entry": "SCENE IV. York. The ARCHBISHOP'S palace.", 
     "line_id": 2589, 
-    "speaker": "SIR WALTER BLUNT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20717,7 +20717,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter the ARCHBISHOP OF YORK and SIR MICHAEL", 
     "line_id": 2590, 
-    "speaker": "SIR WALTER BLUNT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.1", 
@@ -21061,7 +21061,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt", 
     "line_id": 2633, 
-    "speaker": "ARCHBISHOP OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21069,7 +21069,7 @@
     "play_name": "Henry IV", 
     "text_entry": "ACT V", 
     "line_id": 2634, 
-    "speaker": "ARCHBISHOP OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21077,7 +21077,7 @@
     "play_name": "Henry IV", 
     "text_entry": "SCENE I. KING HENRY IV's camp near Shrewsbury.", 
     "line_id": 2635, 
-    "speaker": "ARCHBISHOP OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21085,7 +21085,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter KING HENRY, PRINCE HENRY, Lord John of  LANCASTER, EARL OF WESTMORELAND, SIR WALTER BLUNT, and FALSTAFF", 
     "line_id": 2636, 
-    "speaker": "ARCHBISHOP OF YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -21165,7 +21165,7 @@
     "play_name": "Henry IV", 
     "text_entry": "The trumpet sounds", 
     "line_id": 2646, 
-    "speaker": "KING HENRY IV"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21173,7 +21173,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter WORCESTER and VERNON", 
     "line_id": 2647, 
-    "speaker": "KING HENRY IV"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.10", 
@@ -22029,7 +22029,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt WORCESTER and VERNON", 
     "line_id": 2754, 
-    "speaker": "KING HENRY IV"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.116", 
@@ -22085,7 +22085,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt all but PRINCE HENRY and FALSTAFF", 
     "line_id": 2761, 
-    "speaker": "KING HENRY IV"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.122", 
@@ -22141,7 +22141,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit PRINCE HENRY", 
     "line_id": 2768, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.128", 
@@ -22269,7 +22269,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit", 
     "line_id": 2784, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22277,7 +22277,7 @@
     "play_name": "Henry IV", 
     "text_entry": "SCENE II. The rebel camp.", 
     "line_id": 2785, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22285,7 +22285,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter WORCESTER and VERNON", 
     "line_id": 2786, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -22517,7 +22517,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter HOTSPUR and DOUGLAS", 
     "line_id": 2815, 
-    "speaker": "VERNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.29", 
@@ -22581,7 +22581,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit", 
     "line_id": 2823, 
-    "speaker": "EARL OF DOUGLAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.36", 
@@ -22645,7 +22645,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Re-enter the EARL OF DOUGLAS", 
     "line_id": 2831, 
-    "speaker": "EARL OF WORCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.43", 
@@ -22957,7 +22957,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter a Messenger", 
     "line_id": 2870, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.81", 
@@ -23045,7 +23045,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter another Messenger", 
     "line_id": 2881, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.91", 
@@ -23149,7 +23149,7 @@
     "play_name": "Henry IV", 
     "text_entry": "The trumpets sound. They embrace, and exeunt", 
     "line_id": 2894, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23157,7 +23157,7 @@
     "play_name": "Henry IV", 
     "text_entry": "SCENE III. Plain between the camps.", 
     "line_id": 2895, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23165,7 +23165,7 @@
     "play_name": "Henry IV", 
     "text_entry": "KING HENRY enters with his power. Alarum to the battle. Then enter DOUGLAS and SIR WALTER BLUNT", 
     "line_id": 2896, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.1", 
@@ -23285,7 +23285,7 @@
     "play_name": "Henry IV", 
     "text_entry": "They fight. DOUGLAS kills SIR WALTER BLUNT. Enter HOTSPUR", 
     "line_id": 2911, 
-    "speaker": "SIR WALTER BLUNT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.15", 
@@ -23429,7 +23429,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt", 
     "line_id": 2929, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23437,7 +23437,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Alarum. Enter FALSTAFF, solus", 
     "line_id": 2930, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.32", 
@@ -23525,7 +23525,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter PRINCE HENRY", 
     "line_id": 2941, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.42", 
@@ -23645,7 +23645,7 @@
     "play_name": "Henry IV", 
     "text_entry": "PRINCE HENRY draws it out, and finds it to be a bottle of sack", 
     "line_id": 2956, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.56", 
@@ -23661,7 +23661,7 @@
     "play_name": "Henry IV", 
     "text_entry": "He throws the bottle at him. Exit", 
     "line_id": 2958, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.57", 
@@ -23717,7 +23717,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit FALSTAFF", 
     "line_id": 2965, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23725,7 +23725,7 @@
     "play_name": "Henry IV", 
     "text_entry": "SCENE IV. Another part of the field.", 
     "line_id": 2966, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23733,7 +23733,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Alarum. Excursions. Enter PRINCE HENRY, LORD JOHN OF LANCASTER, and EARL OF WESTMORELAND", 
     "line_id": 2967, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.1", 
@@ -23869,7 +23869,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt LANCASTER and WESTMORELAND", 
     "line_id": 2984, 
-    "speaker": "LANCASTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.17", 
@@ -23949,7 +23949,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit", 
     "line_id": 2994, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23957,7 +23957,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter DOUGLAS", 
     "line_id": 2995, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.26", 
@@ -24077,7 +24077,7 @@
     "play_name": "Henry IV", 
     "text_entry": "They fight. KING HENRY being in danger, PRINCE HENRY enters", 
     "line_id": 3010, 
-    "speaker": "EARL OF DOUGLAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.40", 
@@ -24125,7 +24125,7 @@
     "play_name": "Henry IV", 
     "text_entry": "They fight: DOUGLAS flies", 
     "line_id": 3016, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.45", 
@@ -24253,7 +24253,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit", 
     "line_id": 3032, 
-    "speaker": "KING HENRY IV"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -24261,7 +24261,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter HOTSPUR", 
     "line_id": 3033, 
-    "speaker": "KING HENRY IV"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.60", 
@@ -24405,7 +24405,7 @@
     "play_name": "Henry IV", 
     "text_entry": "They fight", 
     "line_id": 3051, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -24413,7 +24413,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Enter FALSTAFF", 
     "line_id": 3052, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.77", 
@@ -24437,7 +24437,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Re-enter DOUGLAS; he fights with FALSTAFF,  who falls down as if he were dead, and exit DOUGLAS. HOTSPUR is wounded, and falls", 
     "line_id": 3055, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.79", 
@@ -24525,7 +24525,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Dies", 
     "line_id": 3066, 
-    "speaker": "HOTSPUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.89", 
@@ -24653,7 +24653,7 @@
     "play_name": "Henry IV", 
     "text_entry": "He spieth FALSTAFF on the ground", 
     "line_id": 3082, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.104", 
@@ -24733,7 +24733,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit PRINCE HENRY", 
     "line_id": 3092, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.113", 
@@ -24893,7 +24893,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Stabbing him", 
     "line_id": 3112, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.132", 
@@ -24909,7 +24909,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Takes up HOTSPUR on his back", 
     "line_id": 3114, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -24917,7 +24917,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Re-enter PRINCE HENRY and LORD JOHN OF LANCASTER", 
     "line_id": 3115, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.133", 
@@ -25021,7 +25021,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Throwing the body down", 
     "line_id": 3128, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.145", 
@@ -25173,7 +25173,7 @@
     "play_name": "Henry IV", 
     "text_entry": "A retreat is sounded", 
     "line_id": 3147, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.163", 
@@ -25205,7 +25205,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt PRINCE HENRY and LANCASTER", 
     "line_id": 3151, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.166", 
@@ -25245,7 +25245,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exit", 
     "line_id": 3156, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -25253,7 +25253,7 @@
     "play_name": "Henry IV", 
     "text_entry": "SCENE V. Another part of the field.", 
     "line_id": 3157, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -25261,7 +25261,7 @@
     "play_name": "Henry IV", 
     "text_entry": "The trumpets sound. Enter KING HENRY IV, PRINCE  HENRY, LORD JOHN LANCASTER, EARL OF WESTMORELAND, with WORCESTER and VERNON prisoners", 
     "line_id": 3158, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.1", 
@@ -25389,7 +25389,7 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt WORCESTER and VERNON, guarded", 
     "line_id": 3174, 
-    "speaker": "KING HENRY IV"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.16", 
@@ -25637,6 +25637,6 @@
     "play_name": "Henry IV", 
     "text_entry": "Exeunt", 
     "line_id": 3205, 
-    "speaker": "KING HENRY IV"
+    "speaker": "Stage Directions"
   }
 ]

@@ -5,7 +5,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "ACT I", 
     "line_id": 64166, 
-    "speaker": "GRATIANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE I. Windsor. Before PAGE's house.", 
     "line_id": 64167, 
-    "speaker": "GRATIANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter SHALLOW, SLENDER, and SIR HUGH EVANS", 
     "line_id": 64168, 
-    "speaker": "GRATIANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -525,7 +525,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Knocks", 
     "line_id": 64231, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.63", 
@@ -549,7 +549,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter PAGE", 
     "line_id": 64234, 
-    "speaker": "PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.65", 
@@ -821,7 +821,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter FALSTAFF, BARDOLPH, NYM, and PISTOL", 
     "line_id": 64268, 
-    "speaker": "PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.98", 
@@ -1365,7 +1365,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter ANNE PAGE, with wine; MISTRESS FORD and MISTRESS PAGE, following", 
     "line_id": 64336, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.165", 
@@ -1381,7 +1381,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit ANNE PAGE", 
     "line_id": 64338, 
-    "speaker": "PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.166", 
@@ -1421,7 +1421,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Kisses her", 
     "line_id": 64343, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.170", 
@@ -1453,7 +1453,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt all except SHALLOW, SLENDER, and SIR HUGH EVANS", 
     "line_id": 64347, 
-    "speaker": "PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.173", 
@@ -1477,7 +1477,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter SIMPLE", 
     "line_id": 64350, 
-    "speaker": "SLENDER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.175", 
@@ -1917,7 +1917,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Re-enter ANNE PAGE", 
     "line_id": 64405, 
-    "speaker": "SHALLOW"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.229", 
@@ -1965,7 +1965,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt SHALLOW and SIR HUGH EVANS", 
     "line_id": 64411, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.234", 
@@ -2021,7 +2021,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit SIMPLE", 
     "line_id": 64418, 
-    "speaker": "SLENDER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.240", 
@@ -2237,7 +2237,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Re-enter PAGE", 
     "line_id": 64445, 
-    "speaker": "SLENDER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.266", 
@@ -2317,7 +2317,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt", 
     "line_id": 64455, 
-    "speaker": "SLENDER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2325,7 +2325,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE II. The same.", 
     "line_id": 64456, 
-    "speaker": "SLENDER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2333,7 +2333,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter SIR HUGH EVANS and SIMPLE", 
     "line_id": 64457, 
-    "speaker": "SLENDER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -2437,7 +2437,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt", 
     "line_id": 64470, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2445,7 +2445,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE III. A room in the Garter Inn.", 
     "line_id": 64471, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2453,7 +2453,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter FALSTAFF, Host, BARDOLPH, NYM, PISTOL, and ROBIN", 
     "line_id": 64472, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -2549,7 +2549,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "To BARDOLPH", 
     "line_id": 64484, 
-    "speaker": "Host"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.12", 
@@ -2565,7 +2565,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 64486, 
-    "speaker": "Host"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.13", 
@@ -2613,7 +2613,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit BARDOLPH", 
     "line_id": 64492, 
-    "speaker": "PISTOL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.18", 
@@ -3077,7 +3077,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt FALSTAFF and ROBIN", 
     "line_id": 64550, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.75", 
@@ -3237,7 +3237,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt", 
     "line_id": 64570, 
-    "speaker": "PISTOL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3245,7 +3245,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE IV. A room in DOCTOR CAIUS' house.", 
     "line_id": 64571, 
-    "speaker": "PISTOL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3253,7 +3253,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter MISTRESS QUICKLY, SIMPLE, and RUGBY", 
     "line_id": 64572, 
-    "speaker": "PISTOL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.1", 
@@ -3325,7 +3325,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit RUGBY", 
     "line_id": 64581, 
-    "speaker": "MISTRESS QUICKLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.9", 
@@ -3517,7 +3517,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Re-enter RUGBY", 
     "line_id": 64605, 
-    "speaker": "MISTRESS QUICKLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.32", 
@@ -3549,7 +3549,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Shuts SIMPLE in the closet", 
     "line_id": 64609, 
-    "speaker": "MISTRESS QUICKLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.35", 
@@ -3581,7 +3581,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Singing", 
     "line_id": 64613, 
-    "speaker": "MISTRESS QUICKLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.38", 
@@ -3597,7 +3597,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter DOCTOR CAIUS", 
     "line_id": 64615, 
-    "speaker": "MISTRESS QUICKLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.39", 
@@ -3637,7 +3637,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Aside", 
     "line_id": 64620, 
-    "speaker": "MISTRESS QUICKLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.43", 
@@ -3781,7 +3781,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Pulling SIMPLE out", 
     "line_id": 64638, 
-    "speaker": "DOCTOR CAIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.60", 
@@ -3941,7 +3941,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Writes", 
     "line_id": 64658, 
-    "speaker": "DOCTOR CAIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.79", 
@@ -4149,7 +4149,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit SIMPLE", 
     "line_id": 64684, 
-    "speaker": "DOCTOR CAIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.104", 
@@ -4245,7 +4245,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt DOCTOR CAIUS and RUGBY", 
     "line_id": 64696, 
-    "speaker": "DOCTOR CAIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.115", 
@@ -4301,7 +4301,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter FENTON", 
     "line_id": 64703, 
-    "speaker": "MISTRESS QUICKLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.121", 
@@ -4517,7 +4517,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit FENTON", 
     "line_id": 64730, 
-    "speaker": "MISTRESS QUICKLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.147", 
@@ -4549,7 +4549,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 64734, 
-    "speaker": "MISTRESS QUICKLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4557,7 +4557,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "ACT II", 
     "line_id": 64735, 
-    "speaker": "MISTRESS QUICKLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4565,7 +4565,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE I. Before PAGE'S house.", 
     "line_id": 64736, 
-    "speaker": "MISTRESS QUICKLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4573,7 +4573,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter MISTRESS PAGE, with a letter", 
     "line_id": 64737, 
-    "speaker": "MISTRESS QUICKLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -4605,7 +4605,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Reads", 
     "line_id": 64741, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.4", 
@@ -4829,7 +4829,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter MISTRESS FORD", 
     "line_id": 64769, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.31", 
@@ -5381,7 +5381,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "They retire", 
     "line_id": 64838, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5389,7 +5389,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter FORD with PISTOL, and PAGE with NYM", 
     "line_id": 64839, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.99", 
@@ -5533,7 +5533,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 64857, 
-    "speaker": "PISTOL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.116", 
@@ -5621,7 +5621,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 64868, 
-    "speaker": "NYM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.126", 
@@ -5701,7 +5701,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "MISTRESS PAGE and MISTRESS FORD come forward", 
     "line_id": 64878, 
-    "speaker": "PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.135", 
@@ -5757,7 +5757,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Aside to MISTRESS FORD", 
     "line_id": 64885, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.141", 
@@ -5797,7 +5797,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter MISTRESS QUICKLY", 
     "line_id": 64890, 
-    "speaker": "MISTRESS FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.145", 
@@ -5837,7 +5837,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt MISTRESS PAGE, MISTRESS FORD, and MISTRESS QUICKLY", 
     "line_id": 64895, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.149", 
@@ -6021,7 +6021,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter Host", 
     "line_id": 64918, 
-    "speaker": "PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.171", 
@@ -6053,7 +6053,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter SHALLOW", 
     "line_id": 64922, 
-    "speaker": "Host"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.174", 
@@ -6117,7 +6117,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Drawing him aside", 
     "line_id": 64930, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.181", 
@@ -6173,7 +6173,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "They converse apart", 
     "line_id": 64937, 
-    "speaker": "SHALLOW"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.187", 
@@ -6325,7 +6325,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt Host, SHALLOW, and PAGE", 
     "line_id": 64956, 
-    "speaker": "PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.205", 
@@ -6389,7 +6389,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 64964, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6397,7 +6397,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE II. A room in the Garter Inn.", 
     "line_id": 64965, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6405,7 +6405,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter FALSTAFF and PISTOL", 
     "line_id": 64966, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -6645,7 +6645,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter ROBIN", 
     "line_id": 64996, 
-    "speaker": "PISTOL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.30", 
@@ -6669,7 +6669,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter MISTRESS QUICKLY", 
     "line_id": 64999, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.32", 
@@ -7445,7 +7445,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt MISTRESS QUICKLY and ROBIN", 
     "line_id": 65096, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.128", 
@@ -7485,7 +7485,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 65101, 
-    "speaker": "PISTOL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.132", 
@@ -7541,7 +7541,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter BARDOLPH", 
     "line_id": 65108, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.138", 
@@ -7597,7 +7597,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit BARDOLPH", 
     "line_id": 65115, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.144", 
@@ -7629,7 +7629,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Re-enter BARDOLPH, with FORD disguised", 
     "line_id": 65119, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.147", 
@@ -7677,7 +7677,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit BARDOLPH", 
     "line_id": 65125, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.152", 
@@ -8621,7 +8621,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 65243, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.269", 
@@ -8845,7 +8845,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 65271, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8853,7 +8853,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE III. A field near Windsor.", 
     "line_id": 65272, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8861,7 +8861,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter DOCTOR CAIUS and RUGBY", 
     "line_id": 65273, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -8981,7 +8981,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter Host, SHALLOW, SLENDER, and PAGE", 
     "line_id": 65288, 
-    "speaker": "RUGBY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.15", 
@@ -9389,7 +9389,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Aside to them", 
     "line_id": 65339, 
-    "speaker": "Host"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.65", 
@@ -9437,7 +9437,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt PAGE, SHALLOW, and SLENDER", 
     "line_id": 65345, 
-    "speaker": "SLENDER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.70", 
@@ -9565,7 +9565,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt", 
     "line_id": 65361, 
-    "speaker": "DOCTOR CAIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9573,7 +9573,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "ACT III", 
     "line_id": 65362, 
-    "speaker": "DOCTOR CAIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9581,7 +9581,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE I. A field near Frogmore.", 
     "line_id": 65363, 
-    "speaker": "DOCTOR CAIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9589,7 +9589,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter SIR HUGH EVANS and SIMPLE", 
     "line_id": 65364, 
-    "speaker": "DOCTOR CAIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -9669,7 +9669,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 65374, 
-    "speaker": "SIMPLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.10", 
@@ -9717,7 +9717,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Sings", 
     "line_id": 65380, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.15", 
@@ -9773,7 +9773,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Sings", 
     "line_id": 65387, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.21", 
@@ -9813,7 +9813,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Re-enter SIMPLE", 
     "line_id": 65392, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.25", 
@@ -9837,7 +9837,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Sings", 
     "line_id": 65395, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.27", 
@@ -9893,7 +9893,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter PAGE, SHALLOW, and SLENDER", 
     "line_id": 65402, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.33", 
@@ -10165,7 +10165,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter Host, DOCTOR CAIUS, and RUGBY", 
     "line_id": 65436, 
-    "speaker": "SHALLOW"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.66", 
@@ -10269,7 +10269,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Aloud", 
     "line_id": 65449, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.78", 
@@ -10477,7 +10477,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt SHALLOW, SLENDER, PAGE, and Host", 
     "line_id": 65475, 
-    "speaker": "SLENDER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.103", 
@@ -10557,7 +10557,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt", 
     "line_id": 65485, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10565,7 +10565,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE II. A street.", 
     "line_id": 65486, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10573,7 +10573,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter MISTRESS PAGE and ROBIN", 
     "line_id": 65487, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -10629,7 +10629,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter FORD", 
     "line_id": 65494, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.7", 
@@ -10773,7 +10773,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt MISTRESS PAGE and ROBIN", 
     "line_id": 65512, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.24", 
@@ -10901,7 +10901,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Clock heard", 
     "line_id": 65528, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.39", 
@@ -10949,7 +10949,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter PAGE, SHALLOW, SLENDER, Host, SIR HUGH EVANS, DOCTOR CAIUS, and RUGBY", 
     "line_id": 65534, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.44", 
@@ -11213,7 +11213,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt SHALLOW, and SLENDER", 
     "line_id": 65567, 
-    "speaker": "SHALLOW"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.76", 
@@ -11229,7 +11229,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit RUGBY", 
     "line_id": 65569, 
-    "speaker": "DOCTOR CAIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.77", 
@@ -11253,7 +11253,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 65572, 
-    "speaker": "Host"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.79", 
@@ -11285,7 +11285,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt", 
     "line_id": 65576, 
-    "speaker": "All"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11293,7 +11293,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE III. A room in FORD'S house.", 
     "line_id": 65577, 
-    "speaker": "All"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11301,7 +11301,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter MISTRESS FORD and MISTRESS PAGE", 
     "line_id": 65578, 
-    "speaker": "All"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -11333,7 +11333,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter Servants with a basket", 
     "line_id": 65582, 
-    "speaker": "MISTRESS FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.4", 
@@ -11445,7 +11445,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt Servants", 
     "line_id": 65596, 
-    "speaker": "MISTRESS FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.17", 
@@ -11461,7 +11461,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter ROBIN", 
     "line_id": 65598, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.18", 
@@ -11565,7 +11565,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit ROBIN", 
     "line_id": 65611, 
-    "speaker": "MISTRESS FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.30", 
@@ -11589,7 +11589,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 65614, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.32", 
@@ -11621,7 +11621,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter FALSTAFF", 
     "line_id": 65618, 
-    "speaker": "MISTRESS FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.35", 
@@ -11981,7 +11981,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "FALSTAFF hides himself", 
     "line_id": 65663, 
-    "speaker": "MISTRESS FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11989,7 +11989,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Re-enter MISTRESS PAGE and ROBIN", 
     "line_id": 65664, 
-    "speaker": "MISTRESS FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.79", 
@@ -12333,7 +12333,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Gets into the basket; they cover him with foul linen", 
     "line_id": 65707, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.121", 
@@ -12365,7 +12365,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit ROBIN", 
     "line_id": 65711, 
-    "speaker": "MISTRESS FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12373,7 +12373,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Re-enter Servants", 
     "line_id": 65712, 
-    "speaker": "MISTRESS FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.124", 
@@ -12405,7 +12405,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter FORD, PAGE, DOCTOR CAIUS, and SIR HUGH EVANS", 
     "line_id": 65716, 
-    "speaker": "MISTRESS FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.127", 
@@ -12485,7 +12485,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt Servants with the basket", 
     "line_id": 65726, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.136", 
@@ -12525,7 +12525,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Locking the door", 
     "line_id": 65731, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.140", 
@@ -12565,7 +12565,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 65736, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.144", 
@@ -12605,7 +12605,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt PAGE, DOCTOR CAIUS, and SIR HUGH EVANS", 
     "line_id": 65741, 
-    "speaker": "PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.148", 
@@ -12781,7 +12781,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Re-enter FORD, PAGE, DOCTOR CAIUS, and SIR HUGH EVANS", 
     "line_id": 65763, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.169", 
@@ -13101,7 +13101,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt", 
     "line_id": 65803, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13109,7 +13109,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE IV. A room in PAGE'S house.", 
     "line_id": 65804, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13117,7 +13117,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter FENTON and ANNE PAGE", 
     "line_id": 65805, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.1", 
@@ -13309,7 +13309,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "They converse apart", 
     "line_id": 65829, 
-    "speaker": "ANNE PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13317,7 +13317,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter SHALLOW, SLENDER, and MISTRESS QUICKLY", 
     "line_id": 65830, 
-    "speaker": "ANNE PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.24", 
@@ -13397,7 +13397,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Aside", 
     "line_id": 65840, 
-    "speaker": "ANNE PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.33", 
@@ -13653,7 +13653,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter PAGE and MISTRESS PAGE", 
     "line_id": 65872, 
-    "speaker": "SLENDER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.64", 
@@ -13749,7 +13749,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt PAGE, SHALLOW, and SLENDER", 
     "line_id": 65884, 
-    "speaker": "PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.75", 
@@ -13901,7 +13901,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt MISTRESS PAGE and ANNE PAGE", 
     "line_id": 65903, 
-    "speaker": "FENTON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.93", 
@@ -13957,7 +13957,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit FENTON", 
     "line_id": 65910, 
-    "speaker": "MISTRESS QUICKLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.99", 
@@ -14037,7 +14037,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 65920, 
-    "speaker": "MISTRESS QUICKLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14045,7 +14045,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE V. A room in the Garter Inn.", 
     "line_id": 65921, 
-    "speaker": "MISTRESS QUICKLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14053,7 +14053,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter FALSTAFF and BARDOLPH", 
     "line_id": 65922, 
-    "speaker": "MISTRESS QUICKLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.1", 
@@ -14085,7 +14085,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit BARDOLPH", 
     "line_id": 65926, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.4", 
@@ -14205,7 +14205,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Re-enter BARDOLPH with sack", 
     "line_id": 65941, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.18", 
@@ -14253,7 +14253,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter MISTRESS QUICKLY", 
     "line_id": 65947, 
-    "speaker": "BARDOLPH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.23", 
@@ -14309,7 +14309,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit BARDOLPH", 
     "line_id": 65954, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.29", 
@@ -14477,7 +14477,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 65975, 
-    "speaker": "MISTRESS QUICKLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.49", 
@@ -14501,7 +14501,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter FORD", 
     "line_id": 65978, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.51", 
@@ -15093,7 +15093,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 66052, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.124", 
@@ -15213,7 +15213,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 66067, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15221,7 +15221,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "ACT IV", 
     "line_id": 66068, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15229,7 +15229,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE I. A street.", 
     "line_id": 66069, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15237,7 +15237,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter MISTRESS PAGE, MISTRESS QUICKLY, and WILLIAM PAGE", 
     "line_id": 66070, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -15301,7 +15301,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter SIR HUGH EVANS", 
     "line_id": 66078, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.8", 
@@ -15813,7 +15813,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit SIR HUGH EVANS", 
     "line_id": 66142, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.71", 
@@ -15829,7 +15829,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt", 
     "line_id": 66144, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15837,7 +15837,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE II. A room in FORD'S house.", 
     "line_id": 66145, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15845,7 +15845,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter FALSTAFF and MISTRESS FORD", 
     "line_id": 66146, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -15933,7 +15933,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit FALSTAFF", 
     "line_id": 66157, 
-    "speaker": "MISTRESS FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15941,7 +15941,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter MISTRESS PAGE", 
     "line_id": 66158, 
-    "speaker": "MISTRESS FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.11", 
@@ -15981,7 +15981,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Aside to her", 
     "line_id": 66163, 
-    "speaker": "MISTRESS FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.15", 
@@ -16197,7 +16197,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Re-enter FALSTAFF", 
     "line_id": 66190, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.41", 
@@ -16453,7 +16453,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit FALSTAFF", 
     "line_id": 66222, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.72", 
@@ -16589,7 +16589,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 66239, 
-    "speaker": "MISTRESS FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.88", 
@@ -16637,7 +16637,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 66245, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16645,7 +16645,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Re-enter MISTRESS FORD with two Servants", 
     "line_id": 66246, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.93", 
@@ -16677,7 +16677,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 66250, 
-    "speaker": "MISTRESS FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.96", 
@@ -16709,7 +16709,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter FORD, PAGE, SHALLOW, DOCTOR CAIUS, and SIR HUGH EVANS", 
     "line_id": 66254, 
-    "speaker": "First Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.99", 
@@ -16813,7 +16813,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Re-enter MISTRESS FORD", 
     "line_id": 66267, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.111", 
@@ -16877,7 +16877,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Pulling clothes out of the basket", 
     "line_id": 66275, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.118", 
@@ -17205,7 +17205,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Re-enter FALSTAFF in woman's clothes, and MISTRESS PAGE", 
     "line_id": 66316, 
-    "speaker": "MISTRESS FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.158", 
@@ -17229,7 +17229,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Beating him", 
     "line_id": 66319, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.160", 
@@ -17261,7 +17261,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit FALSTAFF", 
     "line_id": 66323, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.163", 
@@ -17365,7 +17365,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt FORD, PAGE, SHALLOW, DOCTOR CAIUS, and SIR HUGH EVANS", 
     "line_id": 66336, 
-    "speaker": "PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.175", 
@@ -17557,7 +17557,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt", 
     "line_id": 66360, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17565,7 +17565,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE III. A room in the Garter Inn.", 
     "line_id": 66361, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17573,7 +17573,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter Host and BARDOLPH", 
     "line_id": 66362, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -17669,7 +17669,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt", 
     "line_id": 66374, 
-    "speaker": "Host"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17677,7 +17677,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE IV. A room in FORD'S house.", 
     "line_id": 66375, 
-    "speaker": "Host"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17685,7 +17685,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter PAGE, FORD, MISTRESS PAGE, MISTRESS FORD, and SIR HUGH EVANS", 
     "line_id": 66376, 
-    "speaker": "Host"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.1", 
@@ -18301,7 +18301,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Aside", 
     "line_id": 66453, 
-    "speaker": "PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.77", 
@@ -18381,7 +18381,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt PAGE, FORD, and SIR HUGH EVANS", 
     "line_id": 66463, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.86", 
@@ -18405,7 +18405,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit MISTRESS FORD", 
     "line_id": 66466, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.88", 
@@ -18469,7 +18469,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 66474, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18477,7 +18477,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE V. A room in the Garter Inn.", 
     "line_id": 66475, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18485,7 +18485,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter Host and SIMPLE", 
     "line_id": 66476, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.1", 
@@ -18661,7 +18661,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter FALSTAFF", 
     "line_id": 66498, 
-    "speaker": "Host"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.22", 
@@ -18917,7 +18917,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 66530, 
-    "speaker": "SIMPLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.53", 
@@ -18973,7 +18973,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter BARDOLPH", 
     "line_id": 66537, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.59", 
@@ -19045,7 +19045,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter SIR HUGH EVANS", 
     "line_id": 66546, 
-    "speaker": "Host"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.67", 
@@ -19125,7 +19125,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 66556, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19133,7 +19133,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter DOCTOR CAIUS", 
     "line_id": 66557, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.76", 
@@ -19189,7 +19189,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 66564, 
-    "speaker": "DOCTOR CAIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.82", 
@@ -19213,7 +19213,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt Host and BARDOLPH", 
     "line_id": 66567, 
-    "speaker": "Host"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.84", 
@@ -19301,7 +19301,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter MISTRESS QUICKLY", 
     "line_id": 66578, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.94", 
@@ -19501,7 +19501,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt", 
     "line_id": 66603, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19509,7 +19509,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE VI. Another room in the Garter Inn.", 
     "line_id": 66604, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19517,7 +19517,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter FENTON and Host", 
     "line_id": 66605, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.1", 
@@ -19957,7 +19957,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt", 
     "line_id": 66660, 
-    "speaker": "FENTON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19965,7 +19965,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "ACT V", 
     "line_id": 66661, 
-    "speaker": "FENTON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19973,7 +19973,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE I. A room in the Garter Inn.", 
     "line_id": 66662, 
-    "speaker": "FENTON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19981,7 +19981,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter FALSTAFF and MISTRESS QUICKLY", 
     "line_id": 66663, 
-    "speaker": "FENTON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -20045,7 +20045,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit MISTRESS QUICKLY", 
     "line_id": 66671, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20053,7 +20053,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter FORD", 
     "line_id": 66672, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.8", 
@@ -20237,7 +20237,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt", 
     "line_id": 66695, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20245,7 +20245,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE II. Windsor Park.", 
     "line_id": 66696, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20253,7 +20253,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter PAGE, SHALLOW, and SLENDER", 
     "line_id": 66697, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -20373,7 +20373,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt", 
     "line_id": 66712, 
-    "speaker": "PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20381,7 +20381,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE III. A street leading to the Park.", 
     "line_id": 66713, 
-    "speaker": "PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20389,7 +20389,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter MISTRESS PAGE, MISTRESS FORD, and DOCTOR CAIUS", 
     "line_id": 66714, 
-    "speaker": "PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.1", 
@@ -20445,7 +20445,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit DOCTOR CAIUS", 
     "line_id": 66721, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.7", 
@@ -20589,7 +20589,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt", 
     "line_id": 66739, 
-    "speaker": "MISTRESS FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20597,7 +20597,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE IV. Windsor Park.", 
     "line_id": 66740, 
-    "speaker": "MISTRESS FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20605,7 +20605,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter SIR HUGH EVANS, disguised, with others as Fairies", 
     "line_id": 66741, 
-    "speaker": "MISTRESS FORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.1", 
@@ -20645,7 +20645,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt", 
     "line_id": 66746, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20653,7 +20653,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SCENE V. Another part of the Park.", 
     "line_id": 66747, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20661,7 +20661,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter FALSTAFF disguised as Herne", 
     "line_id": 66748, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.1", 
@@ -20797,7 +20797,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter MISTRESS FORD and MISTRESS PAGE", 
     "line_id": 66765, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.17", 
@@ -20901,7 +20901,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Noise within", 
     "line_id": 66778, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.29", 
@@ -20941,7 +20941,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "They run off", 
     "line_id": 66783, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.33", 
@@ -20973,7 +20973,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter SIR HUGH EVANS, disguised as before; PISTOL,  as Hobgoblin; MISTRESS QUICKLY, ANNE PAGE, and others, as Fairies, with tapers", 
     "line_id": 66787, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.36", 
@@ -21077,7 +21077,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Lies down upon his face", 
     "line_id": 66800, 
-    "speaker": "FALSTAFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.48", 
@@ -21413,7 +21413,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "They burn him with their tapers", 
     "line_id": 66842, 
-    "speaker": "SIR HUGH EVANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.89", 
@@ -21453,7 +21453,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "SONG.", 
     "line_id": 66847, 
-    "speaker": "MISTRESS QUICKLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.94", 
@@ -21541,7 +21541,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "During this song they pinch FALSTAFF. DOCTOR CAIUS  comes one way, and steals away a boy in green;  SLENDER another way, and takes off a boy in white;  and FENTON comes and steals away ANN PAGE.  A noise of hunting is heard within. All the  Fairies run away. FALSTAFF pulls off his buck's head, and rises", 
     "line_id": 66858, 
-    "speaker": "MISTRESS QUICKLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21549,7 +21549,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter PAGE, FORD, MISTRESS PAGE, and MISTRESS FORD", 
     "line_id": 66859, 
-    "speaker": "MISTRESS QUICKLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.104", 
@@ -22117,7 +22117,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter SLENDER", 
     "line_id": 66930, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.174", 
@@ -22317,7 +22317,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter DOCTOR CAIUS", 
     "line_id": 66955, 
-    "speaker": "MISTRESS PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.198", 
@@ -22365,7 +22365,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exit", 
     "line_id": 66961, 
-    "speaker": "DOCTOR CAIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.203", 
@@ -22389,7 +22389,7 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Enter FENTON and ANNE PAGE", 
     "line_id": 66964, 
-    "speaker": "PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.205", 
@@ -22645,6 +22645,6 @@
     "play_name": "Merry Wives of Windsor", 
     "text_entry": "Exeunt", 
     "line_id": 66996, 
-    "speaker": "FORD"
+    "speaker": "Stage Directions"
   }
 ]

@@ -5,7 +5,7 @@
     "play_name": "As you like it", 
     "text_entry": "ACT I", 
     "line_id": 15744, 
-    "speaker": "KING"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE I. Orchard of Oliver's house.", 
     "line_id": 15745, 
-    "speaker": "KING"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter ORLANDO and ADAM", 
     "line_id": 15746, 
-    "speaker": "KING"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -253,7 +253,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter OLIVER", 
     "line_id": 15775, 
-    "speaker": "ORLANDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.29", 
@@ -669,7 +669,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt ORLANDO and ADAM", 
     "line_id": 15827, 
-    "speaker": "ADAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.80", 
@@ -701,7 +701,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter DENNIS", 
     "line_id": 15831, 
-    "speaker": "OLIVER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.83", 
@@ -749,7 +749,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exit DENNIS", 
     "line_id": 15837, 
-    "speaker": "OLIVER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.88", 
@@ -765,7 +765,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter CHARLES", 
     "line_id": 15839, 
-    "speaker": "OLIVER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.89", 
@@ -1285,7 +1285,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exit CHARLES", 
     "line_id": 15904, 
-    "speaker": "OLIVER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.153", 
@@ -1373,7 +1373,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exit", 
     "line_id": 15915, 
-    "speaker": "OLIVER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1381,7 +1381,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE II. Lawn before the Duke's palace.", 
     "line_id": 15916, 
-    "speaker": "OLIVER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1389,7 +1389,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter CELIA and ROSALIND", 
     "line_id": 15917, 
-    "speaker": "OLIVER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -1709,7 +1709,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter TOUCHSTONE", 
     "line_id": 15957, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.40", 
@@ -2101,7 +2101,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter LE BEAU", 
     "line_id": 16006, 
-    "speaker": "CELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.88", 
@@ -2461,7 +2461,7 @@
     "play_name": "As you like it", 
     "text_entry": "Flourish. Enter DUKE FREDERICK, Lords, ORLANDO, CHARLES, and Attendants", 
     "line_id": 16051, 
-    "speaker": "CELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.132", 
@@ -2933,7 +2933,7 @@
     "play_name": "As you like it", 
     "text_entry": "They wrestle", 
     "line_id": 16110, 
-    "speaker": "CELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.190", 
@@ -2965,7 +2965,7 @@
     "play_name": "As you like it", 
     "text_entry": "Shout. CHARLES is thrown", 
     "line_id": 16114, 
-    "speaker": "CELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.193", 
@@ -3077,7 +3077,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt DUKE FREDERICK, train, and LE BEAU", 
     "line_id": 16128, 
-    "speaker": "DUKE FREDERICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.206", 
@@ -3221,7 +3221,7 @@
     "play_name": "As you like it", 
     "text_entry": "Giving him a chain from her neck", 
     "line_id": 16146, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.223", 
@@ -3333,7 +3333,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt ROSALIND and CELIA", 
     "line_id": 16160, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.236", 
@@ -3373,7 +3373,7 @@
     "play_name": "As you like it", 
     "text_entry": "Re-enter LE BEAU", 
     "line_id": 16165, 
-    "speaker": "ORLANDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.240", 
@@ -3589,7 +3589,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exit LE BEAU", 
     "line_id": 16192, 
-    "speaker": "ORLANDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.266", 
@@ -3621,7 +3621,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exit", 
     "line_id": 16196, 
-    "speaker": "ORLANDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3629,7 +3629,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE III. A room in the palace.", 
     "line_id": 16197, 
-    "speaker": "ORLANDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3637,7 +3637,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter CELIA and ROSALIND", 
     "line_id": 16198, 
-    "speaker": "ORLANDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -3909,7 +3909,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter DUKE FREDERICK, with Lords", 
     "line_id": 16232, 
-    "speaker": "CELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.34", 
@@ -4341,7 +4341,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt DUKE FREDERICK and Lords", 
     "line_id": 16286, 
-    "speaker": "DUKE FREDERICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.87", 
@@ -4765,7 +4765,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt", 
     "line_id": 16339, 
-    "speaker": "CELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4773,7 +4773,7 @@
     "play_name": "As you like it", 
     "text_entry": "ACT II", 
     "line_id": 16340, 
-    "speaker": "CELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4781,7 +4781,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE I. The Forest of Arden.", 
     "line_id": 16341, 
-    "speaker": "CELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4789,7 +4789,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter DUKE SENIOR, AMIENS, and two or three Lords, like foresters", 
     "line_id": 16342, 
-    "speaker": "CELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -5381,7 +5381,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt", 
     "line_id": 16416, 
-    "speaker": "First Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5389,7 +5389,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE II. A room in the palace.", 
     "line_id": 16417, 
-    "speaker": "First Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5397,7 +5397,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter DUKE FREDERICK, with Lords", 
     "line_id": 16418, 
-    "speaker": "First Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -5573,7 +5573,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt", 
     "line_id": 16440, 
-    "speaker": "DUKE FREDERICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5581,7 +5581,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE III. Before OLIVER'S house.", 
     "line_id": 16441, 
-    "speaker": "DUKE FREDERICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5589,7 +5589,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter ORLANDO and ADAM, meeting", 
     "line_id": 16442, 
-    "speaker": "DUKE FREDERICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -6213,7 +6213,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt", 
     "line_id": 16520, 
-    "speaker": "ADAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6221,7 +6221,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE IV. The Forest of Arden.", 
     "line_id": 16521, 
-    "speaker": "ADAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6229,7 +6229,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter ROSALIND for Ganymede, CELIA for Aliena, and TOUCHSTONE", 
     "line_id": 16522, 
-    "speaker": "ADAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.1", 
@@ -6365,7 +6365,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter CORIN and SILVIUS", 
     "line_id": 16539, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.17", 
@@ -6565,7 +6565,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exit", 
     "line_id": 16564, 
-    "speaker": "SILVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.41", 
@@ -7045,7 +7045,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt", 
     "line_id": 16624, 
-    "speaker": "CORIN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7053,7 +7053,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE V. The Forest.", 
     "line_id": 16625, 
-    "speaker": "CORIN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7061,7 +7061,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter AMIENS, JAQUES, and others", 
     "line_id": 16626, 
-    "speaker": "CORIN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.1", 
@@ -7069,7 +7069,7 @@
     "play_name": "As you like it", 
     "text_entry": "SONG.", 
     "line_id": 16627, 
-    "speaker": "CORIN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.2", 
@@ -7333,7 +7333,7 @@
     "play_name": "As you like it", 
     "text_entry": "SONG.", 
     "line_id": 16660, 
-    "speaker": "JAQUES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.35", 
@@ -7349,7 +7349,7 @@
     "play_name": "As you like it", 
     "text_entry": "All together here", 
     "line_id": 16662, 
-    "speaker": "JAQUES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.36", 
@@ -7541,7 +7541,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt severally", 
     "line_id": 16686, 
-    "speaker": "AMIENS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7549,7 +7549,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE VI. The forest.", 
     "line_id": 16687, 
-    "speaker": "AMIENS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7557,7 +7557,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter ORLANDO and ADAM", 
     "line_id": 16688, 
-    "speaker": "AMIENS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.6.1", 
@@ -7709,7 +7709,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt", 
     "line_id": 16707, 
-    "speaker": "ORLANDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7717,7 +7717,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE VII. The forest.", 
     "line_id": 16708, 
-    "speaker": "ORLANDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7725,7 +7725,7 @@
     "play_name": "As you like it", 
     "text_entry": "A table set out. Enter DUKE SENIOR, AMIENS, and Lords like outlaws", 
     "line_id": 16709, 
-    "speaker": "ORLANDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.7.1", 
@@ -7789,7 +7789,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter JAQUES", 
     "line_id": 16717, 
-    "speaker": "DUKE SENIOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.7.8", 
@@ -8445,7 +8445,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter ORLANDO, with his sword drawn", 
     "line_id": 16799, 
-    "speaker": "JAQUES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.7.89", 
@@ -8845,7 +8845,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exit", 
     "line_id": 16849, 
-    "speaker": "ORLANDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.7.138", 
@@ -9109,7 +9109,7 @@
     "play_name": "As you like it", 
     "text_entry": "Re-enter ORLANDO, with ADAM", 
     "line_id": 16882, 
-    "speaker": "JAQUES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.7.170", 
@@ -9181,7 +9181,7 @@
     "play_name": "As you like it", 
     "text_entry": "SONG.", 
     "line_id": 16891, 
-    "speaker": "DUKE SENIOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.7.179", 
@@ -9405,7 +9405,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt", 
     "line_id": 16919, 
-    "speaker": "DUKE SENIOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9413,7 +9413,7 @@
     "play_name": "As you like it", 
     "text_entry": "ACT III", 
     "line_id": 16920, 
-    "speaker": "DUKE SENIOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9421,7 +9421,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE I. A room in the palace.", 
     "line_id": 16921, 
-    "speaker": "DUKE SENIOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9429,7 +9429,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter DUKE FREDERICK, Lords, and OLIVER", 
     "line_id": 16922, 
-    "speaker": "DUKE SENIOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -9581,7 +9581,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt", 
     "line_id": 16941, 
-    "speaker": "DUKE FREDERICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9589,7 +9589,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE II. The forest.", 
     "line_id": 16942, 
-    "speaker": "DUKE FREDERICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9597,7 +9597,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter ORLANDO, with a paper", 
     "line_id": 16943, 
-    "speaker": "DUKE FREDERICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -9685,7 +9685,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exit", 
     "line_id": 16954, 
-    "speaker": "ORLANDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9693,7 +9693,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter CORIN and TOUCHSTONE", 
     "line_id": 16955, 
-    "speaker": "ORLANDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.11", 
@@ -10277,7 +10277,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter ROSALIND, with a paper, reading", 
     "line_id": 17028, 
-    "speaker": "CORIN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.83", 
@@ -10565,7 +10565,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter CELIA, with a writing", 
     "line_id": 17064, 
-    "speaker": "TOUCHSTONE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.118", 
@@ -10581,7 +10581,7 @@
     "play_name": "As you like it", 
     "text_entry": "[Reads]", 
     "line_id": 17066, 
-    "speaker": "CELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.120", 
@@ -10885,7 +10885,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt CORIN and TOUCHSTONE", 
     "line_id": 17104, 
-    "speaker": "TOUCHSTONE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.157", 
@@ -11573,7 +11573,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter ORLANDO and JAQUES", 
     "line_id": 17190, 
-    "speaker": "CELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.242", 
@@ -11917,7 +11917,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exit JAQUES", 
     "line_id": 17233, 
-    "speaker": "ORLANDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.284", 
@@ -12933,7 +12933,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt", 
     "line_id": 17360, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12941,7 +12941,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE III. The forest.", 
     "line_id": 17361, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12949,7 +12949,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter TOUCHSTONE and AUDREY; JAQUES behind", 
     "line_id": 17362, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -13397,7 +13397,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter SIR OLIVER MARTEXT", 
     "line_id": 17418, 
-    "speaker": "TOUCHSTONE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.56", 
@@ -13453,7 +13453,7 @@
     "play_name": "As you like it", 
     "text_entry": "[Advancing]", 
     "line_id": 17425, 
-    "speaker": "JAQUES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.63", 
@@ -13693,7 +13693,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt JAQUES, TOUCHSTONE and AUDREY", 
     "line_id": 17455, 
-    "speaker": "TOUCHSTONE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.92", 
@@ -13717,7 +13717,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exit", 
     "line_id": 17458, 
-    "speaker": "SIR OLIVER MARTEXT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13725,7 +13725,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE IV. The forest.", 
     "line_id": 17459, 
-    "speaker": "SIR OLIVER MARTEXT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13733,7 +13733,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter ROSALIND and CELIA", 
     "line_id": 17460, 
-    "speaker": "SIR OLIVER MARTEXT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.1", 
@@ -14077,7 +14077,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter CORIN", 
     "line_id": 17503, 
-    "speaker": "CELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.43", 
@@ -14205,7 +14205,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt", 
     "line_id": 17519, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14213,7 +14213,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE V. Another part of the forest.", 
     "line_id": 17520, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14221,7 +14221,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter SILVIUS and PHEBE", 
     "line_id": 17521, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.1", 
@@ -14285,7 +14285,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter ROSALIND, CELIA, and CORIN, behind", 
     "line_id": 17529, 
-    "speaker": "SILVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.8", 
@@ -14885,7 +14885,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt ROSALIND, CELIA and CORIN", 
     "line_id": 17604, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.82", 
@@ -15389,7 +15389,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt", 
     "line_id": 17667, 
-    "speaker": "PHEBE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15397,7 +15397,7 @@
     "play_name": "As you like it", 
     "text_entry": "ACT IV", 
     "line_id": 17668, 
-    "speaker": "PHEBE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15405,7 +15405,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE I. The forest.", 
     "line_id": 17669, 
-    "speaker": "PHEBE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15413,7 +15413,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter ROSALIND, CELIA, and JAQUES", 
     "line_id": 17670, 
-    "speaker": "PHEBE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -15637,7 +15637,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter ORLANDO", 
     "line_id": 17698, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.28", 
@@ -15661,7 +15661,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exit", 
     "line_id": 17701, 
-    "speaker": "JAQUES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.30", 
@@ -16885,7 +16885,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exit ORLANDO", 
     "line_id": 17854, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.182", 
@@ -17037,7 +17037,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt", 
     "line_id": 17873, 
-    "speaker": "CELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17045,7 +17045,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE II. The forest.", 
     "line_id": 17874, 
-    "speaker": "CELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17053,7 +17053,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter JAQUES, Lords, and Foresters", 
     "line_id": 17875, 
-    "speaker": "CELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -17133,7 +17133,7 @@
     "play_name": "As you like it", 
     "text_entry": "SONG.", 
     "line_id": 17885, 
-    "speaker": "JAQUES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.11", 
@@ -17165,7 +17165,7 @@
     "play_name": "As you like it", 
     "text_entry": "The rest shall bear this burden", 
     "line_id": 17889, 
-    "speaker": "Forester"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.14", 
@@ -17221,7 +17221,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt", 
     "line_id": 17896, 
-    "speaker": "Forester"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17229,7 +17229,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE III. The forest.", 
     "line_id": 17897, 
-    "speaker": "Forester"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17237,7 +17237,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter ROSALIND and CELIA", 
     "line_id": 17898, 
-    "speaker": "Forester"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -17285,7 +17285,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter SILVIUS", 
     "line_id": 17904, 
-    "speaker": "CELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.6", 
@@ -17573,7 +17573,7 @@
     "play_name": "As you like it", 
     "text_entry": "Reads", 
     "line_id": 17940, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.41", 
@@ -17613,7 +17613,7 @@
     "play_name": "As you like it", 
     "text_entry": "[Reads]", 
     "line_id": 17945, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.46", 
@@ -17869,7 +17869,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exit SILVIUS", 
     "line_id": 17977, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17877,7 +17877,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter OLIVER", 
     "line_id": 17978, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.77", 
@@ -18573,7 +18573,7 @@
     "play_name": "As you like it", 
     "text_entry": "ROSALIND swoons", 
     "line_id": 18065, 
-    "speaker": "OLIVER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.163", 
@@ -18773,7 +18773,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt", 
     "line_id": 18090, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18781,7 +18781,7 @@
     "play_name": "As you like it", 
     "text_entry": "ACT V", 
     "line_id": 18091, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18789,7 +18789,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE I. The forest.", 
     "line_id": 18092, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18797,7 +18797,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter TOUCHSTONE and AUDREY", 
     "line_id": 18093, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -18893,7 +18893,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter WILLIAM", 
     "line_id": 18105, 
-    "speaker": "TOUCHSTONE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.12", 
@@ -19269,7 +19269,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exit", 
     "line_id": 18152, 
-    "speaker": "WILLIAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19277,7 +19277,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter CORIN", 
     "line_id": 18153, 
-    "speaker": "WILLIAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.58", 
@@ -19301,7 +19301,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt", 
     "line_id": 18156, 
-    "speaker": "TOUCHSTONE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19309,7 +19309,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE II. The forest.", 
     "line_id": 18157, 
-    "speaker": "TOUCHSTONE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19317,7 +19317,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter ORLANDO and OLIVER", 
     "line_id": 18158, 
-    "speaker": "TOUCHSTONE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -19453,7 +19453,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter ROSALIND", 
     "line_id": 18175, 
-    "speaker": "ORLANDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.17", 
@@ -19477,7 +19477,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exit", 
     "line_id": 18178, 
-    "speaker": "OLIVER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.19", 
@@ -19909,7 +19909,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter SILVIUS and PHEBE", 
     "line_id": 18232, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.72", 
@@ -20189,7 +20189,7 @@
     "play_name": "As you like it", 
     "text_entry": "To SILVIUS", 
     "line_id": 18267, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.106", 
@@ -20205,7 +20205,7 @@
     "play_name": "As you like it", 
     "text_entry": "To PHEBE", 
     "line_id": 18269, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.107", 
@@ -20221,7 +20221,7 @@
     "play_name": "As you like it", 
     "text_entry": "To PHEBE", 
     "line_id": 18271, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.108", 
@@ -20245,7 +20245,7 @@
     "play_name": "As you like it", 
     "text_entry": "To ORLANDO", 
     "line_id": 18274, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.110", 
@@ -20269,7 +20269,7 @@
     "play_name": "As you like it", 
     "text_entry": "To SILVIUS", 
     "line_id": 18277, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.112", 
@@ -20293,7 +20293,7 @@
     "play_name": "As you like it", 
     "text_entry": "To ORLANDO", 
     "line_id": 18280, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.114", 
@@ -20309,7 +20309,7 @@
     "play_name": "As you like it", 
     "text_entry": "To SILVIUS", 
     "line_id": 18282, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.115", 
@@ -20357,7 +20357,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt", 
     "line_id": 18288, 
-    "speaker": "ORLANDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20365,7 +20365,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE III. The forest.", 
     "line_id": 18289, 
-    "speaker": "ORLANDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20373,7 +20373,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter TOUCHSTONE and AUDREY", 
     "line_id": 18290, 
-    "speaker": "ORLANDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.1", 
@@ -20421,7 +20421,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter two Pages", 
     "line_id": 18296, 
-    "speaker": "AUDREY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.6", 
@@ -20493,7 +20493,7 @@
     "play_name": "As you like it", 
     "text_entry": "SONG.", 
     "line_id": 18305, 
-    "speaker": "Second Page"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.15", 
@@ -20701,7 +20701,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt", 
     "line_id": 18331, 
-    "speaker": "TOUCHSTONE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20709,7 +20709,7 @@
     "play_name": "As you like it", 
     "text_entry": "SCENE IV. The forest.", 
     "line_id": 18332, 
-    "speaker": "TOUCHSTONE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20717,7 +20717,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter DUKE SENIOR, AMIENS, JAQUES, ORLANDO, OLIVER, and CELIA", 
     "line_id": 18333, 
-    "speaker": "TOUCHSTONE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.1", 
@@ -20757,7 +20757,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter ROSALIND, SILVIUS, and PHEBE", 
     "line_id": 18338, 
-    "speaker": "ORLANDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.5", 
@@ -20933,7 +20933,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt ROSALIND and CELIA", 
     "line_id": 18360, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.26", 
@@ -21013,7 +21013,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter TOUCHSTONE and AUDREY", 
     "line_id": 18370, 
-    "speaker": "ORLANDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.35", 
@@ -21557,7 +21557,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter HYMEN, ROSALIND, and CELIA", 
     "line_id": 18438, 
-    "speaker": "DUKE SENIOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21565,7 +21565,7 @@
     "play_name": "As you like it", 
     "text_entry": "Still Music", 
     "line_id": 18439, 
-    "speaker": "DUKE SENIOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.102", 
@@ -21645,7 +21645,7 @@
     "play_name": "As you like it", 
     "text_entry": "To ORLANDO", 
     "line_id": 18449, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.111", 
@@ -21845,7 +21845,7 @@
     "play_name": "As you like it", 
     "text_entry": "SONG.", 
     "line_id": 18474, 
-    "speaker": "HYMEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.136", 
@@ -21933,7 +21933,7 @@
     "play_name": "As you like it", 
     "text_entry": "Enter JAQUES DE BOYS", 
     "line_id": 18485, 
-    "speaker": "PHEBE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.146", 
@@ -22229,7 +22229,7 @@
     "play_name": "As you like it", 
     "text_entry": "To DUKE SENIOR", 
     "line_id": 18522, 
-    "speaker": "JAQUES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.182", 
@@ -22253,7 +22253,7 @@
     "play_name": "As you like it", 
     "text_entry": "To ORLANDO", 
     "line_id": 18525, 
-    "speaker": "JAQUES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.184", 
@@ -22269,7 +22269,7 @@
     "play_name": "As you like it", 
     "text_entry": "To OLIVER", 
     "line_id": 18527, 
-    "speaker": "JAQUES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.185", 
@@ -22285,7 +22285,7 @@
     "play_name": "As you like it", 
     "text_entry": "To SILVIUS", 
     "line_id": 18529, 
-    "speaker": "JAQUES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.186", 
@@ -22301,7 +22301,7 @@
     "play_name": "As you like it", 
     "text_entry": "To TOUCHSTONE", 
     "line_id": 18531, 
-    "speaker": "JAQUES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.187", 
@@ -22357,7 +22357,7 @@
     "play_name": "As you like it", 
     "text_entry": "Exit", 
     "line_id": 18538, 
-    "speaker": "JAQUES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.193", 
@@ -22381,7 +22381,7 @@
     "play_name": "As you like it", 
     "text_entry": "A dance", 
     "line_id": 18541, 
-    "speaker": "DUKE SENIOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.195", 
@@ -22573,6 +22573,6 @@
     "play_name": "As you like it", 
     "text_entry": "Exeunt", 
     "line_id": 18565, 
-    "speaker": "ROSALIND"
+    "speaker": "Stage Directions"
   }
 ]

@@ -5,7 +5,7 @@
     "play_name": "King John", 
     "text_entry": "ACT I", 
     "line_id": 43491, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.97", 
@@ -13,7 +13,7 @@
     "play_name": "King John", 
     "text_entry": "SCENE I. KING JOHN'S palace.", 
     "line_id": 43492, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "King John", 
     "text_entry": "Enter KING JOHN, QUEEN ELINOR, PEMBROKE, ESSEX, SALISBURY, and others, with CHATILLON", 
     "line_id": 43493, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -269,7 +269,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt CHATILLON and PEMBROKE", 
     "line_id": 43524, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.31", 
@@ -381,7 +381,7 @@
     "play_name": "King John", 
     "text_entry": "Enter a Sheriff", 
     "line_id": 43538, 
-    "speaker": "QUEEN ELINOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.44", 
@@ -437,7 +437,7 @@
     "play_name": "King John", 
     "text_entry": "Enter ROBERT and the BASTARD", 
     "line_id": 43545, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.50", 
@@ -1509,7 +1509,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt all but BASTARD", 
     "line_id": 43679, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.183", 
@@ -1821,7 +1821,7 @@
     "play_name": "King John", 
     "text_entry": "Enter LADY FAULCONBRIDGE and GURNEY", 
     "line_id": 43718, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.221", 
@@ -1941,7 +1941,7 @@
     "play_name": "King John", 
     "text_entry": "Exit GURNEY", 
     "line_id": 43733, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.235", 
@@ -2301,7 +2301,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt", 
     "line_id": 43778, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2309,7 +2309,7 @@
     "play_name": "King John", 
     "text_entry": "ACT II", 
     "line_id": 43779, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2317,7 +2317,7 @@
     "play_name": "King John", 
     "text_entry": "SCENE I. France. Before Angiers.", 
     "line_id": 43780, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2325,7 +2325,7 @@
     "play_name": "King John", 
     "text_entry": "Enter AUSTRIA and forces, drums, etc. on one side:  on the other KING PHILIP and his power; LEWIS, ARTHUR, CONSTANCE and attendants", 
     "line_id": 43781, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -2725,7 +2725,7 @@
     "play_name": "King John", 
     "text_entry": "Enter CHATILLON", 
     "line_id": 43831, 
-    "speaker": "CONSTANCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.50", 
@@ -2941,7 +2941,7 @@
     "play_name": "King John", 
     "text_entry": "Drum beats", 
     "line_id": 43858, 
-    "speaker": "CHATILLON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.76", 
@@ -3013,7 +3013,7 @@
     "play_name": "King John", 
     "text_entry": "Enter KING JOHN, QUEEN ELINOR, BLANCH, the BASTARD, Lords, and forces", 
     "line_id": 43867, 
-    "speaker": "AUSTRIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.84", 
@@ -3997,7 +3997,7 @@
     "play_name": "King John", 
     "text_entry": "Trumpet sounds. Enter certain Citizens upon the walls", 
     "line_id": 43990, 
-    "speaker": "KING PHILIP"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.206", 
@@ -4733,7 +4733,7 @@
     "play_name": "King John", 
     "text_entry": "To AUSTRIA", 
     "line_id": 44082, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.297", 
@@ -4829,7 +4829,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt", 
     "line_id": 44094, 
-    "speaker": "KING PHILIP"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4837,7 +4837,7 @@
     "play_name": "King John", 
     "text_entry": "Here after excursions, enter the Herald of France, with trumpets, to the gates", 
     "line_id": 44095, 
-    "speaker": "KING PHILIP"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.308", 
@@ -4941,7 +4941,7 @@
     "play_name": "King John", 
     "text_entry": "Enter English Herald, with trumpet", 
     "line_id": 44108, 
-    "speaker": "French Herald"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.320", 
@@ -5125,7 +5125,7 @@
     "play_name": "King John", 
     "text_entry": "Re-enter KING JOHN and KING PHILIP, with their powers, severally", 
     "line_id": 44131, 
-    "speaker": "First Citizen"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.342", 
@@ -6509,7 +6509,7 @@
     "play_name": "King John", 
     "text_entry": "Whispers with BLANCH", 
     "line_id": 44304, 
-    "speaker": "LEWIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.514", 
@@ -6981,7 +6981,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt all but the BASTARD", 
     "line_id": 44363, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.572", 
@@ -7293,7 +7293,7 @@
     "play_name": "King John", 
     "text_entry": "Exit", 
     "line_id": 44402, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7301,7 +7301,7 @@
     "play_name": "King John", 
     "text_entry": "ACT III", 
     "line_id": 44403, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7309,7 +7309,7 @@
     "play_name": "King John", 
     "text_entry": "SCENE I. The French King's pavilion.", 
     "line_id": 44404, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7317,7 +7317,7 @@
     "play_name": "King John", 
     "text_entry": "Enter CONSTANCE, ARTHUR, and SALISBURY", 
     "line_id": 44405, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -7925,7 +7925,7 @@
     "play_name": "King John", 
     "text_entry": "Seats herself on the ground", 
     "line_id": 44481, 
-    "speaker": "CONSTANCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7933,7 +7933,7 @@
     "play_name": "King John", 
     "text_entry": "Enter KING JOHN, KING PHILLIP, LEWIS, BLANCH, QUEEN ELINOR, the BASTARD, AUSTRIA, and Attendants", 
     "line_id": 44482, 
-    "speaker": "CONSTANCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.76", 
@@ -8013,7 +8013,7 @@
     "play_name": "King John", 
     "text_entry": "Rising", 
     "line_id": 44492, 
-    "speaker": "CONSTANCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.85", 
@@ -8437,7 +8437,7 @@
     "play_name": "King John", 
     "text_entry": "Enter CARDINAL PANDULPH", 
     "line_id": 44545, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.137", 
@@ -10133,7 +10133,7 @@
     "play_name": "King John", 
     "text_entry": "Exit BASTARD", 
     "line_id": 44757, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.348", 
@@ -10205,7 +10205,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt", 
     "line_id": 44766, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10213,7 +10213,7 @@
     "play_name": "King John", 
     "text_entry": "SCENE II. The same. Plains near Angiers.", 
     "line_id": 44767, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10221,7 +10221,7 @@
     "play_name": "King John", 
     "text_entry": "Alarums, excursions. Enter the BASTARD, with AUSTRIA'S head", 
     "line_id": 44768, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -10261,7 +10261,7 @@
     "play_name": "King John", 
     "text_entry": "Enter KING JOHN, ARTHUR, and HUBERT", 
     "line_id": 44773, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.5", 
@@ -10325,7 +10325,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt", 
     "line_id": 44781, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10333,7 +10333,7 @@
     "play_name": "King John", 
     "text_entry": "SCENE III. The same.", 
     "line_id": 44782, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10341,7 +10341,7 @@
     "play_name": "King John", 
     "text_entry": "Alarums, excursions, retreat. Enter KING JOHN,  QUEEN ELINOR, ARTHUR, the BASTARD, HUBERT, and Lords", 
     "line_id": 44783, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -10373,7 +10373,7 @@
     "play_name": "King John", 
     "text_entry": "To ARTHUR", 
     "line_id": 44787, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.4", 
@@ -10525,7 +10525,7 @@
     "play_name": "King John", 
     "text_entry": "Exit the BASTARD", 
     "line_id": 44806, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.22", 
@@ -11037,7 +11037,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt", 
     "line_id": 44870, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11045,7 +11045,7 @@
     "play_name": "King John", 
     "text_entry": "SCENE IV. The same. KING PHILIP'S tent.", 
     "line_id": 44871, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11053,7 +11053,7 @@
     "play_name": "King John", 
     "text_entry": "Enter KING PHILIP, LEWIS, CARDINAL PANDULPH, and Attendants", 
     "line_id": 44872, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.1", 
@@ -11189,7 +11189,7 @@
     "play_name": "King John", 
     "text_entry": "Enter CONSTANCE", 
     "line_id": 44889, 
-    "speaker": "KING PHILIP"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.17", 
@@ -11925,7 +11925,7 @@
     "play_name": "King John", 
     "text_entry": "Exit", 
     "line_id": 44981, 
-    "speaker": "CONSTANCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.108", 
@@ -11941,7 +11941,7 @@
     "play_name": "King John", 
     "text_entry": "Exit", 
     "line_id": 44983, 
-    "speaker": "KING PHILIP"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.109", 
@@ -12565,7 +12565,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt", 
     "line_id": 45061, 
-    "speaker": "LEWIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12573,7 +12573,7 @@
     "play_name": "King John", 
     "text_entry": "ACT IV", 
     "line_id": 45062, 
-    "speaker": "LEWIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12581,7 +12581,7 @@
     "play_name": "King John", 
     "text_entry": "SCENE I. A room in a castle.", 
     "line_id": 45063, 
-    "speaker": "LEWIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12589,7 +12589,7 @@
     "play_name": "King John", 
     "text_entry": "Enter HUBERT and Executioners", 
     "line_id": 45064, 
-    "speaker": "LEWIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -12653,7 +12653,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt Executioners", 
     "line_id": 45072, 
-    "speaker": "HUBERT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.8", 
@@ -12669,7 +12669,7 @@
     "play_name": "King John", 
     "text_entry": "Enter ARTHUR", 
     "line_id": 45074, 
-    "speaker": "HUBERT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.9", 
@@ -12893,7 +12893,7 @@
     "play_name": "King John", 
     "text_entry": "Showing a paper", 
     "line_id": 45102, 
-    "speaker": "HUBERT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12901,7 +12901,7 @@
     "play_name": "King John", 
     "text_entry": "Aside", 
     "line_id": 45103, 
-    "speaker": "HUBERT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.36", 
@@ -13245,7 +13245,7 @@
     "play_name": "King John", 
     "text_entry": "Stamps", 
     "line_id": 45146, 
-    "speaker": "HUBERT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13381,7 +13381,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt Executioners", 
     "line_id": 45163, 
-    "speaker": "First Executioner"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.93", 
@@ -13813,7 +13813,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt", 
     "line_id": 45217, 
-    "speaker": "HUBERT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13821,7 +13821,7 @@
     "play_name": "King John", 
     "text_entry": "SCENE II. KING JOHN'S palace.", 
     "line_id": 45218, 
-    "speaker": "HUBERT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13829,7 +13829,7 @@
     "play_name": "King John", 
     "text_entry": "Enter KING JOHN, PEMBROKE, SALISBURY, and other Lords", 
     "line_id": 45219, 
-    "speaker": "HUBERT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -14365,7 +14365,7 @@
     "play_name": "King John", 
     "text_entry": "Enter HUBERT", 
     "line_id": 45286, 
-    "speaker": "PEMBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.67", 
@@ -14389,7 +14389,7 @@
     "play_name": "King John", 
     "text_entry": "Taking him apart", 
     "line_id": 45289, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.69", 
@@ -14669,7 +14669,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt Lords", 
     "line_id": 45324, 
-    "speaker": "PEMBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.103", 
@@ -14701,7 +14701,7 @@
     "play_name": "King John", 
     "text_entry": "Enter a Messenger", 
     "line_id": 45328, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.106", 
@@ -14941,7 +14941,7 @@
     "play_name": "King John", 
     "text_entry": "Enter the BASTARD and PETER of Pomfret", 
     "line_id": 45358, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.135", 
@@ -15173,7 +15173,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt HUBERT with PETER", 
     "line_id": 45387, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.163", 
@@ -15341,7 +15341,7 @@
     "play_name": "King John", 
     "text_entry": "Exit", 
     "line_id": 45408, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.183", 
@@ -15389,7 +15389,7 @@
     "play_name": "King John", 
     "text_entry": "Exit", 
     "line_id": 45414, 
-    "speaker": "Messenger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.188", 
@@ -15405,7 +15405,7 @@
     "play_name": "King John", 
     "text_entry": "Re-enter HUBERT", 
     "line_id": 45416, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.189", 
@@ -16125,7 +16125,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt", 
     "line_id": 45506, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16133,7 +16133,7 @@
     "play_name": "King John", 
     "text_entry": "SCENE III. Before the castle.", 
     "line_id": 45507, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16141,7 +16141,7 @@
     "play_name": "King John", 
     "text_entry": "Enter ARTHUR, on the walls", 
     "line_id": 45508, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -16213,7 +16213,7 @@
     "play_name": "King John", 
     "text_entry": "Leaps down", 
     "line_id": 45517, 
-    "speaker": "ARTHUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.9", 
@@ -16237,7 +16237,7 @@
     "play_name": "King John", 
     "text_entry": "Dies", 
     "line_id": 45520, 
-    "speaker": "ARTHUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16245,7 +16245,7 @@
     "play_name": "King John", 
     "text_entry": "Enter PEMBROKE, SALISBURY, and BIGOT", 
     "line_id": 45521, 
-    "speaker": "ARTHUR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.11", 
@@ -16333,7 +16333,7 @@
     "play_name": "King John", 
     "text_entry": "Enter the BASTARD", 
     "line_id": 45532, 
-    "speaker": "SALISBURY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.21", 
@@ -16453,7 +16453,7 @@
     "play_name": "King John", 
     "text_entry": "Seeing ARTHUR", 
     "line_id": 45547, 
-    "speaker": "SALISBURY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.35", 
@@ -16773,7 +16773,7 @@
     "play_name": "King John", 
     "text_entry": "Enter HUBERT", 
     "line_id": 45587, 
-    "speaker": "BIGOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.74", 
@@ -16829,7 +16829,7 @@
     "play_name": "King John", 
     "text_entry": "Drawing his sword", 
     "line_id": 45594, 
-    "speaker": "SALISBURY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.80", 
@@ -17157,7 +17157,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt Lords", 
     "line_id": 45635, 
-    "speaker": "PEMBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.120", 
@@ -17541,7 +17541,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt", 
     "line_id": 45683, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17549,7 +17549,7 @@
     "play_name": "King John", 
     "text_entry": "ACT V", 
     "line_id": 45684, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17557,7 +17557,7 @@
     "play_name": "King John", 
     "text_entry": "SCENE I. KING JOHN'S palace.", 
     "line_id": 45685, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17565,7 +17565,7 @@
     "play_name": "King John", 
     "text_entry": "Enter KING JOHN, CARDINAL PANDULPH, and Attendants", 
     "line_id": 45686, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -17589,7 +17589,7 @@
     "play_name": "King John", 
     "text_entry": "Giving the crown", 
     "line_id": 45689, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.3", 
@@ -17781,7 +17781,7 @@
     "play_name": "King John", 
     "text_entry": "Exit", 
     "line_id": 45713, 
-    "speaker": "CARDINAL PANDULPH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.26", 
@@ -17829,7 +17829,7 @@
     "play_name": "King John", 
     "text_entry": "Enter the BASTARD", 
     "line_id": 45719, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.31", 
@@ -18245,7 +18245,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt", 
     "line_id": 45771, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18253,7 +18253,7 @@
     "play_name": "King John", 
     "text_entry": "SCENE II. LEWIS's camp at St. Edmundsbury.", 
     "line_id": 45772, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18261,7 +18261,7 @@
     "play_name": "King John", 
     "text_entry": "Enter, in arms, LEWIS, SALISBURY, MELUN, PEMBROKE, BIGOT, and Soldiers", 
     "line_id": 45773, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -18781,7 +18781,7 @@
     "play_name": "King John", 
     "text_entry": "Enter CARDINAL PANDULPH", 
     "line_id": 45838, 
-    "speaker": "LEWIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.65", 
@@ -19213,7 +19213,7 @@
     "play_name": "King John", 
     "text_entry": "Trumpet sounds", 
     "line_id": 45892, 
-    "speaker": "LEWIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.118", 
@@ -19229,7 +19229,7 @@
     "play_name": "King John", 
     "text_entry": "Enter the BASTARD, attended", 
     "line_id": 45894, 
-    "speaker": "LEWIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.119", 
@@ -19757,7 +19757,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt", 
     "line_id": 45960, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19765,7 +19765,7 @@
     "play_name": "King John", 
     "text_entry": "SCENE III. The field of battle.", 
     "line_id": 45961, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19773,7 +19773,7 @@
     "play_name": "King John", 
     "text_entry": "Alarums. Enter KING JOHN and HUBERT", 
     "line_id": 45962, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.1", 
@@ -19813,7 +19813,7 @@
     "play_name": "King John", 
     "text_entry": "Enter a Messenger", 
     "line_id": 45967, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.5", 
@@ -19925,7 +19925,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt", 
     "line_id": 45981, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19933,7 +19933,7 @@
     "play_name": "King John", 
     "text_entry": "SCENE IV. Another part of the field.", 
     "line_id": 45982, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19941,7 +19941,7 @@
     "play_name": "King John", 
     "text_entry": "Enter SALISBURY, PEMBROKE, and BIGOT", 
     "line_id": 45983, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.1", 
@@ -19997,7 +19997,7 @@
     "play_name": "King John", 
     "text_entry": "Enter MELUN, wounded", 
     "line_id": 45990, 
-    "speaker": "PEMBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.7", 
@@ -20453,7 +20453,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt, leading off MELUN", 
     "line_id": 46047, 
-    "speaker": "SALISBURY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20461,7 +20461,7 @@
     "play_name": "King John", 
     "text_entry": "SCENE V. The French camp.", 
     "line_id": 46048, 
-    "speaker": "SALISBURY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20469,7 +20469,7 @@
     "play_name": "King John", 
     "text_entry": "Enter LEWIS and his train", 
     "line_id": 46049, 
-    "speaker": "SALISBURY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.1", 
@@ -20541,7 +20541,7 @@
     "play_name": "King John", 
     "text_entry": "Enter a Messenger", 
     "line_id": 46058, 
-    "speaker": "LEWIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.9", 
@@ -20669,7 +20669,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt", 
     "line_id": 46074, 
-    "speaker": "LEWIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20677,7 +20677,7 @@
     "play_name": "King John", 
     "text_entry": "SCENE VI. An open place in the neighbourhood of Swinstead Abbey.", 
     "line_id": 46075, 
-    "speaker": "LEWIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20685,7 +20685,7 @@
     "play_name": "King John", 
     "text_entry": "Enter the BASTARD and HUBERT, severally", 
     "line_id": 46076, 
-    "speaker": "LEWIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.6.1", 
@@ -21077,7 +21077,7 @@
     "play_name": "King John", 
     "text_entry": "Exeunt", 
     "line_id": 46125, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21085,7 +21085,7 @@
     "play_name": "King John", 
     "text_entry": "SCENE VII. The orchard in Swinstead Abbey.", 
     "line_id": 46126, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21093,7 +21093,7 @@
     "play_name": "King John", 
     "text_entry": "Enter PRINCE HENRY, SALISBURY, and BIGOT", 
     "line_id": 46127, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.7.1", 
@@ -21141,7 +21141,7 @@
     "play_name": "King John", 
     "text_entry": "Enter PEMBROKE", 
     "line_id": 46133, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.7.6", 
@@ -21197,7 +21197,7 @@
     "play_name": "King John", 
     "text_entry": "Exit BIGOT", 
     "line_id": 46140, 
-    "speaker": "PRINCE HENRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.7.12", 
@@ -21349,7 +21349,7 @@
     "play_name": "King John", 
     "text_entry": "Enter Attendants, and BIGOT, carrying KING JOHN in a chair", 
     "line_id": 46159, 
-    "speaker": "SALISBURY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.7.30", 
@@ -21541,7 +21541,7 @@
     "play_name": "King John", 
     "text_entry": "Enter the BASTARD", 
     "line_id": 46183, 
-    "speaker": "KING JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.7.53", 
@@ -21677,7 +21677,7 @@
     "play_name": "King John", 
     "text_entry": "KING JOHN dies", 
     "line_id": 46200, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.7.69", 
@@ -22125,6 +22125,6 @@
     "play_name": "King John", 
     "text_entry": "Exeunt", 
     "line_id": 46256, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }
 ]

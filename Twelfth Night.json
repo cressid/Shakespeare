@@ -5,7 +5,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "ACT I", 
     "line_id": 102903, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "SCENE I. DUKE ORSINO's palace.", 
     "line_id": 102904, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter DUKE ORSINO, CURIO, and other Lords; Musicians attending", 
     "line_id": 102905, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -221,7 +221,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter VALENTINE", 
     "line_id": 102930, 
-    "speaker": "DUKE ORSINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.25", 
@@ -381,7 +381,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt", 
     "line_id": 102950, 
-    "speaker": "DUKE ORSINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -389,7 +389,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "SCENE II. The sea-coast.", 
     "line_id": 102951, 
-    "speaker": "DUKE ORSINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -397,7 +397,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter VIOLA, a Captain, and Sailors", 
     "line_id": 102952, 
-    "speaker": "DUKE ORSINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -933,7 +933,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt", 
     "line_id": 103019, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -941,7 +941,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "SCENE III. OLIVIA'S house.", 
     "line_id": 103020, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -949,7 +949,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter SIR TOBY BELCH and MARIA", 
     "line_id": 103021, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -1277,7 +1277,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter SIR ANDREW", 
     "line_id": 103062, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.41", 
@@ -1541,7 +1541,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 103095, 
-    "speaker": "MARIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.73", 
@@ -1989,7 +1989,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt", 
     "line_id": 103151, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1997,7 +1997,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "SCENE IV. DUKE ORSINO's palace.", 
     "line_id": 103152, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2005,7 +2005,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter VALENTINE and VIOLA in man's attire", 
     "line_id": 103153, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.1", 
@@ -2077,7 +2077,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter DUKE ORSINO, CURIO, and Attendants", 
     "line_id": 103162, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.9", 
@@ -2365,7 +2365,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Aside", 
     "line_id": 103198, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.44", 
@@ -2389,7 +2389,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt", 
     "line_id": 103201, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2397,7 +2397,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "SCENE V. OLIVIA'S house.", 
     "line_id": 103202, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2405,7 +2405,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter MARIA and Clown", 
     "line_id": 103203, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.1", 
@@ -2621,7 +2621,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 103230, 
-    "speaker": "MARIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.27", 
@@ -2669,7 +2669,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter OLIVIA with MALVOLIO", 
     "line_id": 103236, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.32", 
@@ -3157,7 +3157,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Re-enter MARIA", 
     "line_id": 103297, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.92", 
@@ -3229,7 +3229,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit MARIA", 
     "line_id": 103306, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.100", 
@@ -3253,7 +3253,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit MALVOLIO", 
     "line_id": 103309, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.102", 
@@ -3309,7 +3309,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter SIR TOBY BELCH", 
     "line_id": 103316, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.108", 
@@ -3405,7 +3405,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 103328, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.119", 
@@ -3485,7 +3485,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 103338, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3493,7 +3493,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Re-enter MALVOLIO", 
     "line_id": 103339, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.128", 
@@ -3693,7 +3693,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 103364, 
-    "speaker": "MALVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3701,7 +3701,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Re-enter MARIA", 
     "line_id": 103365, 
-    "speaker": "MALVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.152", 
@@ -3725,7 +3725,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter VIOLA, and Attendants", 
     "line_id": 103368, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.154", 
@@ -4117,7 +4117,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt MARIA and Attendants", 
     "line_id": 103417, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.202", 
@@ -4237,7 +4237,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Unveiling", 
     "line_id": 103432, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.216", 
@@ -4701,7 +4701,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 103490, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.273", 
@@ -4805,7 +4805,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Re-enter MALVOLIO", 
     "line_id": 103503, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.285", 
@@ -4885,7 +4885,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 103513, 
-    "speaker": "MALVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.294", 
@@ -4925,7 +4925,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 103518, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4933,7 +4933,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "ACT II", 
     "line_id": 103519, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4941,7 +4941,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "SCENE I. The sea-coast.", 
     "line_id": 103520, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4949,7 +4949,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter ANTONIO and SEBASTIAN", 
     "line_id": 103521, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -5261,7 +5261,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 103560, 
-    "speaker": "SEBASTIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.39", 
@@ -5309,7 +5309,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 103566, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5317,7 +5317,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "SCENE II. A street.", 
     "line_id": 103567, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5325,7 +5325,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter VIOLA, MALVOLIO following", 
     "line_id": 103568, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -5453,7 +5453,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 103584, 
-    "speaker": "MALVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.16", 
@@ -5661,7 +5661,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 103610, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5669,7 +5669,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "SCENE III. OLIVIA's house.", 
     "line_id": 103611, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5677,7 +5677,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter SIR TOBY BELCH and SIR ANDREW", 
     "line_id": 103612, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -5797,7 +5797,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter Clown", 
     "line_id": 103627, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.15", 
@@ -5981,7 +5981,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "[Sings]", 
     "line_id": 103650, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.38", 
@@ -6053,7 +6053,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "[Sings]", 
     "line_id": 103659, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.47", 
@@ -6237,7 +6237,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Catch sung", 
     "line_id": 103682, 
-    "speaker": "SIR ANDREW"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6245,7 +6245,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter MARIA", 
     "line_id": 103683, 
-    "speaker": "SIR ANDREW"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.69", 
@@ -6309,7 +6309,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Sings", 
     "line_id": 103691, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.76", 
@@ -6373,7 +6373,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter MALVOLIO", 
     "line_id": 103699, 
-    "speaker": "MARIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.83", 
@@ -6669,7 +6669,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 103736, 
-    "speaker": "MALVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.119", 
@@ -7077,7 +7077,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 103787, 
-    "speaker": "MARIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.169", 
@@ -7189,7 +7189,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt", 
     "line_id": 103801, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7197,7 +7197,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "SCENE IV. DUKE ORSINO's palace.", 
     "line_id": 103802, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7205,7 +7205,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter DUKE ORSINO, VIOLA, CURIO, and others", 
     "line_id": 103803, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.1", 
@@ -7309,7 +7309,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit CURIO. Music plays", 
     "line_id": 103816, 
-    "speaker": "DUKE ORSINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.13", 
@@ -7565,7 +7565,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Re-enter CURIO and Clown", 
     "line_id": 103848, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.44", 
@@ -7645,7 +7645,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Music", 
     "line_id": 103858, 
-    "speaker": "DUKE ORSINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.53", 
@@ -7653,7 +7653,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "SONG.", 
     "line_id": 103859, 
-    "speaker": "DUKE ORSINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.54", 
@@ -7877,7 +7877,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 103887, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.81", 
@@ -7893,7 +7893,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "CURIO and Attendants retire", 
     "line_id": 103889, 
-    "speaker": "DUKE ORSINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.82", 
@@ -8301,7 +8301,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt", 
     "line_id": 103940, 
-    "speaker": "DUKE ORSINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8309,7 +8309,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "SCENE V. OLIVIA's garden.", 
     "line_id": 103941, 
-    "speaker": "DUKE ORSINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8317,7 +8317,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter SIR TOBY BELCH, SIR ANDREW, and FABIAN", 
     "line_id": 103942, 
-    "speaker": "DUKE ORSINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.1", 
@@ -8413,7 +8413,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter MARIA", 
     "line_id": 103954, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.12", 
@@ -8477,7 +8477,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Throws down a letter", 
     "line_id": 103962, 
-    "speaker": "MARIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.19", 
@@ -8493,7 +8493,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 103964, 
-    "speaker": "MARIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8501,7 +8501,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter MALVOLIO", 
     "line_id": 103965, 
-    "speaker": "MARIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.20", 
@@ -8949,7 +8949,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Taking up the letter", 
     "line_id": 104021, 
-    "speaker": "MALVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.75", 
@@ -9053,7 +9053,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "[Reads]", 
     "line_id": 104034, 
-    "speaker": "MALVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.88", 
@@ -9117,7 +9117,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "[Reads]", 
     "line_id": 104042, 
-    "speaker": "MALVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.96", 
@@ -9405,7 +9405,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Reads", 
     "line_id": 104078, 
-    "speaker": "MALVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.131", 
@@ -9677,7 +9677,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Reads", 
     "line_id": 104112, 
-    "speaker": "MALVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.164", 
@@ -9733,7 +9733,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 104119, 
-    "speaker": "MALVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.170", 
@@ -9797,7 +9797,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Re-enter MARIA", 
     "line_id": 104127, 
-    "speaker": "FABIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.177", 
@@ -9965,7 +9965,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt", 
     "line_id": 104148, 
-    "speaker": "SIR ANDREW"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9973,7 +9973,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "ACT III", 
     "line_id": 104149, 
-    "speaker": "SIR ANDREW"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9981,7 +9981,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "SCENE I. OLIVIA's garden.", 
     "line_id": 104150, 
-    "speaker": "SIR ANDREW"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9989,7 +9989,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter VIOLA, and Clown with a tabour", 
     "line_id": 104151, 
-    "speaker": "SIR ANDREW"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -10349,7 +10349,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Aside", 
     "line_id": 104196, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.45", 
@@ -10453,7 +10453,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 104209, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.57", 
@@ -10533,7 +10533,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter SIR TOBY BELCH, and SIR ANDREW", 
     "line_id": 104219, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.66", 
@@ -10661,7 +10661,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter OLIVIA and MARIA", 
     "line_id": 104235, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.81", 
@@ -10733,7 +10733,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt SIR TOBY BELCH, SIR ANDREW, and MARIA", 
     "line_id": 104244, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.89", 
@@ -11053,7 +11053,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Clock strikes", 
     "line_id": 104284, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.128", 
@@ -11349,7 +11349,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt", 
     "line_id": 104321, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11357,7 +11357,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "SCENE II. OLIVIA's house.", 
     "line_id": 104322, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11365,7 +11365,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter SIR TOBY BELCH, SIR ANDREW, and FABIAN", 
     "line_id": 104323, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -11757,7 +11757,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit SIR ANDREW", 
     "line_id": 104372, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.49", 
@@ -11869,7 +11869,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter MARIA", 
     "line_id": 104386, 
-    "speaker": "FABIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.62", 
@@ -12021,7 +12021,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt", 
     "line_id": 104405, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12029,7 +12029,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "SCENE III. A street.", 
     "line_id": 104406, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12037,7 +12037,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter SEBASTIAN and ANTONIO", 
     "line_id": 104407, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -12469,7 +12469,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt", 
     "line_id": 104461, 
-    "speaker": "SEBASTIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12477,7 +12477,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "SCENE IV. OLIVIA's garden.", 
     "line_id": 104462, 
-    "speaker": "SEBASTIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12485,7 +12485,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter OLIVIA and MARIA", 
     "line_id": 104463, 
-    "speaker": "SEBASTIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.1", 
@@ -12605,7 +12605,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit MARIA", 
     "line_id": 104478, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.15", 
@@ -12629,7 +12629,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Re-enter MARIA, with MALVOLIO", 
     "line_id": 104481, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.17", 
@@ -12925,7 +12925,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter Servant", 
     "line_id": 104518, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.53", 
@@ -12965,7 +12965,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit Servant", 
     "line_id": 104523, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.57", 
@@ -13005,7 +13005,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt OLIVIA and MARIA", 
     "line_id": 104528, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.61", 
@@ -13181,7 +13181,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Re-enter MARIA, with SIR TOBY BELCH and FABIAN", 
     "line_id": 104550, 
-    "speaker": "MALVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.82", 
@@ -13493,7 +13493,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 104589, 
-    "speaker": "MALVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.120", 
@@ -13613,7 +13613,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter SIR ANDREW", 
     "line_id": 104604, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.134", 
@@ -13669,7 +13669,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Reads", 
     "line_id": 104611, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.140", 
@@ -13925,7 +13925,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 104643, 
-    "speaker": "SIR ANDREW"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.171", 
@@ -14037,7 +14037,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Re-enter OLIVIA, with VIOLA", 
     "line_id": 104657, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.184", 
@@ -14077,7 +14077,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt SIR TOBY BELCH, FABIAN, and MARIA", 
     "line_id": 104662, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.188", 
@@ -14229,7 +14229,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 104681, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14237,7 +14237,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Re-enter SIR TOBY BELCH and FABIAN", 
     "line_id": 104682, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.206", 
@@ -14565,7 +14565,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 104723, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.246", 
@@ -14685,7 +14685,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt", 
     "line_id": 104738, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14693,7 +14693,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Re-enter SIR TOBY BELCH, with SIR ANDREW", 
     "line_id": 104739, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.260", 
@@ -14821,7 +14821,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Aside", 
     "line_id": 104755, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.275", 
@@ -14837,7 +14837,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Re-enter FABIAN and VIOLA", 
     "line_id": 104757, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14845,7 +14845,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "To FABIAN", 
     "line_id": 104758, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.276", 
@@ -15005,7 +15005,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "They draw", 
     "line_id": 104778, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15013,7 +15013,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter ANTONIO", 
     "line_id": 104779, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.295", 
@@ -15077,7 +15077,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "They draw", 
     "line_id": 104787, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15085,7 +15085,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter Officers", 
     "line_id": 104788, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.302", 
@@ -15197,7 +15197,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "To VIOLA", 
     "line_id": 104802, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.315", 
@@ -15557,7 +15557,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit with Officers", 
     "line_id": 104847, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.359", 
@@ -15661,7 +15661,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 104860, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.371", 
@@ -15749,7 +15749,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt", 
     "line_id": 104871, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15757,7 +15757,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "ACT IV", 
     "line_id": 104872, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15765,7 +15765,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "SCENE I. Before OLIVIA's house.", 
     "line_id": 104873, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15773,7 +15773,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter SEBASTIAN and Clown", 
     "line_id": 104874, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -15949,7 +15949,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter SIR ANDREW, SIR TOBY BELCH, and FABIAN", 
     "line_id": 104896, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.22", 
@@ -16005,7 +16005,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 104903, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.28", 
@@ -16109,7 +16109,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter OLIVIA", 
     "line_id": 104916, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.40", 
@@ -16173,7 +16173,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt SIR TOBY BELCH, SIR ANDREW, and FABIAN", 
     "line_id": 104924, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.47", 
@@ -16309,7 +16309,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt", 
     "line_id": 104941, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16317,7 +16317,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "SCENE II. OLIVIA's house.", 
     "line_id": 104942, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16325,7 +16325,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter MARIA and Clown", 
     "line_id": 104943, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -16357,7 +16357,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 104947, 
-    "speaker": "MARIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.4", 
@@ -16421,7 +16421,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter SIR TOBY BELCH and MARIA", 
     "line_id": 104955, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.11", 
@@ -16869,7 +16869,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt SIR TOBY BELCH and MARIA", 
     "line_id": 105011, 
-    "speaker": "SIR TOBY BELCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.66", 
@@ -16877,7 +16877,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "[Singing]", 
     "line_id": 105012, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.67", 
@@ -17261,7 +17261,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "[Singing]", 
     "line_id": 105060, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.115", 
@@ -17365,7 +17365,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 105073, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17373,7 +17373,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "SCENE III. OLIVIA's garden.", 
     "line_id": 105074, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17381,7 +17381,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter SEBASTIAN", 
     "line_id": 105075, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -17557,7 +17557,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter OLIVIA and Priest", 
     "line_id": 105097, 
-    "speaker": "SEBASTIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.22", 
@@ -17677,7 +17677,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt", 
     "line_id": 105112, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17685,7 +17685,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "ACT V", 
     "line_id": 105113, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17693,7 +17693,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "SCENE I. Before OLIVIA's house.", 
     "line_id": 105114, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17701,7 +17701,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter Clown and FABIAN", 
     "line_id": 105115, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -17757,7 +17757,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter DUKE ORSINO, VIOLA, CURIO, and Lords", 
     "line_id": 105122, 
-    "speaker": "FABIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.7", 
@@ -18077,7 +18077,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 105162, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.46", 
@@ -18093,7 +18093,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter ANTONIO and Officers", 
     "line_id": 105164, 
-    "speaker": "VIOLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.47", 
@@ -18485,7 +18485,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter OLIVIA and Attendants", 
     "line_id": 105213, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.95", 
@@ -18965,7 +18965,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter Priest", 
     "line_id": 105273, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.154", 
@@ -19157,7 +19157,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter SIR ANDREW", 
     "line_id": 105297, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.177", 
@@ -19309,7 +19309,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter SIR TOBY BELCH and Clown", 
     "line_id": 105316, 
-    "speaker": "SIR ANDREW"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.195", 
@@ -19437,7 +19437,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt Clown, FABIAN, SIR TOBY BELCH, and SIR ANDREW", 
     "line_id": 105332, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19445,7 +19445,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Enter SEBASTIAN", 
     "line_id": 105333, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.210", 
@@ -19933,7 +19933,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "To VIOLA", 
     "line_id": 105394, 
-    "speaker": "DUKE ORSINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.270", 
@@ -20061,7 +20061,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Re-enter Clown with a letter, and FABIAN", 
     "line_id": 105410, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.285", 
@@ -20157,7 +20157,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Reads", 
     "line_id": 105422, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.296", 
@@ -20229,7 +20229,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "To FABIAN", 
     "line_id": 105431, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.304", 
@@ -20349,7 +20349,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit FABIAN", 
     "line_id": 105446, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.318", 
@@ -20405,7 +20405,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "To VIOLA", 
     "line_id": 105453, 
-    "speaker": "DUKE ORSINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.324", 
@@ -20469,7 +20469,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Re-enter FABIAN, with MALVOLIO", 
     "line_id": 105461, 
-    "speaker": "OLIVIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.331", 
@@ -20917,7 +20917,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 105517, 
-    "speaker": "MALVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.386", 
@@ -21005,7 +21005,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exeunt all, except Clown", 
     "line_id": 105528, 
-    "speaker": "DUKE ORSINO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.396", 
@@ -21013,7 +21013,7 @@
     "play_name": "Twelfth Night", 
     "text_entry": "[Sings]", 
     "line_id": 105529, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.397", 
@@ -21181,6 +21181,6 @@
     "play_name": "Twelfth Night", 
     "text_entry": "Exit", 
     "line_id": 105550, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }
 ]

@@ -5,7 +5,7 @@
     "play_name": "Henry V", 
     "text_entry": "ACT I", 
     "line_id": 36677, 
-    "speaker": "PRINCE FORTINBRAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.424", 
@@ -13,7 +13,7 @@
     "play_name": "Henry V", 
     "text_entry": "PROLOGUE", 
     "line_id": 36678, 
-    "speaker": "PRINCE FORTINBRAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter Chorus", 
     "line_id": 36679, 
-    "speaker": "PRINCE FORTINBRAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.0.1", 
@@ -301,7 +301,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exit", 
     "line_id": 36714, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -309,7 +309,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE I. London. An ante-chamber in the KING'S palace.", 
     "line_id": 36715, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -317,7 +317,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter the ARCHBISHOP OF CANTERBURY, and the BISHOP OF ELY", 
     "line_id": 36716, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -1141,7 +1141,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt", 
     "line_id": 36819, 
-    "speaker": "ELY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1149,7 +1149,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE II. The same. The Presence chamber.", 
     "line_id": 36820, 
-    "speaker": "ELY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1157,7 +1157,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter KING HENRY V, GLOUCESTER, BEDFORD, EXETER, WARWICK, WESTMORELAND, and Attendants", 
     "line_id": 36821, 
-    "speaker": "ELY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -1221,7 +1221,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter the ARCHBISHOP OF CANTERBURY, and the BISHOP of ELY", 
     "line_id": 36829, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.8", 
@@ -2965,7 +2965,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt some Attendants", 
     "line_id": 37047, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.225", 
@@ -3069,7 +3069,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter Ambassadors of France", 
     "line_id": 37060, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.237", 
@@ -3605,7 +3605,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt Ambassadors", 
     "line_id": 37127, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.303", 
@@ -3717,7 +3717,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt. Flourish", 
     "line_id": 37141, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3725,7 +3725,7 @@
     "play_name": "Henry V", 
     "text_entry": "ACT II", 
     "line_id": 37142, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3733,7 +3733,7 @@
     "play_name": "Henry V", 
     "text_entry": "PROLOGUE", 
     "line_id": 37143, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3741,7 +3741,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter Chorus", 
     "line_id": 37144, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.0.1", 
@@ -4085,7 +4085,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exit", 
     "line_id": 37187, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4093,7 +4093,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE I. London. A street.", 
     "line_id": 37188, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4101,7 +4101,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter Corporal NYM and Lieutenant BARDOLPH", 
     "line_id": 37189, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -4317,7 +4317,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter PISTOL and Hostess", 
     "line_id": 37216, 
-    "speaker": "NYM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.27", 
@@ -4389,7 +4389,7 @@
     "play_name": "Henry V", 
     "text_entry": "NYM and PISTOL draw", 
     "line_id": 37225, 
-    "speaker": "Hostess"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.35", 
@@ -4605,7 +4605,7 @@
     "play_name": "Henry V", 
     "text_entry": "Draws", 
     "line_id": 37252, 
-    "speaker": "BARDOLPH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.61", 
@@ -4725,7 +4725,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter the Boy", 
     "line_id": 37267, 
-    "speaker": "PISTOL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.75", 
@@ -4797,7 +4797,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt Hostess and Boy", 
     "line_id": 37276, 
-    "speaker": "Hostess"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.83", 
@@ -4869,7 +4869,7 @@
     "play_name": "Henry V", 
     "text_entry": "They draw", 
     "line_id": 37285, 
-    "speaker": "PISTOL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.91", 
@@ -5013,7 +5013,7 @@
     "play_name": "Henry V", 
     "text_entry": "Re-enter Hostess", 
     "line_id": 37303, 
-    "speaker": "NYM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.108", 
@@ -5109,7 +5109,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE II. Southampton. A council-chamber.", 
     "line_id": 37315, 
-    "speaker": "PISTOL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5117,7 +5117,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter EXETER, BEDFORD, and WESTMORELAND", 
     "line_id": 37316, 
-    "speaker": "PISTOL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -5213,7 +5213,7 @@
     "play_name": "Henry V", 
     "text_entry": "Trumpets sound. Enter KING HENRY V, SCROOP, CAMBRIDGE, GREY, and Attendants", 
     "line_id": 37328, 
-    "speaker": "EXETER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.12", 
@@ -6589,7 +6589,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt CAMBRIDGE, SCROOP and GREY, guarded", 
     "line_id": 37500, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.183", 
@@ -6693,7 +6693,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt", 
     "line_id": 37513, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6701,7 +6701,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE III. London. Before a tavern.", 
     "line_id": 37514, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6709,7 +6709,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter PISTOL, Hostess, NYM, BARDOLPH, and Boy", 
     "line_id": 37515, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -7173,7 +7173,7 @@
     "play_name": "Henry V", 
     "text_entry": "Kissing her", 
     "line_id": 37573, 
-    "speaker": "BARDOLPH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.58", 
@@ -7205,7 +7205,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt", 
     "line_id": 37577, 
-    "speaker": "Hostess"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7213,7 +7213,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE IV. France. The KING'S palace.", 
     "line_id": 37578, 
-    "speaker": "Hostess"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7221,7 +7221,7 @@
     "play_name": "Henry V", 
     "text_entry": "Flourish. Enter the FRENCH KING, the DAUPHIN, the DUKES of BERRI and BRETAGNE, the Constable, and others", 
     "line_id": 37579, 
-    "speaker": "Hostess"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.1", 
@@ -7765,7 +7765,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter a Messenger", 
     "line_id": 37647, 
-    "speaker": "KING OF FRANCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.68", 
@@ -7797,7 +7797,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt Messenger and certain Lords", 
     "line_id": 37651, 
-    "speaker": "KING OF FRANCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.71", 
@@ -7869,7 +7869,7 @@
     "play_name": "Henry V", 
     "text_entry": "Re-enter Lords, with EXETER and train", 
     "line_id": 37660, 
-    "speaker": "DAUPHIN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.79", 
@@ -8461,7 +8461,7 @@
     "play_name": "Henry V", 
     "text_entry": "Flourish. Exeunt", 
     "line_id": 37734, 
-    "speaker": "KING OF FRANCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8469,7 +8469,7 @@
     "play_name": "Henry V", 
     "text_entry": "ACT III", 
     "line_id": 37735, 
-    "speaker": "KING OF FRANCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8477,7 +8477,7 @@
     "play_name": "Henry V", 
     "text_entry": "PROLOGUE", 
     "line_id": 37736, 
-    "speaker": "KING OF FRANCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8485,7 +8485,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter Chorus", 
     "line_id": 37737, 
-    "speaker": "KING OF FRANCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.0.1", 
@@ -8757,7 +8757,7 @@
     "play_name": "Henry V", 
     "text_entry": "Alarum, and chambers go off", 
     "line_id": 37771, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.0.34", 
@@ -8781,7 +8781,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exit", 
     "line_id": 37774, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8789,7 +8789,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE I. France. Before Harfleur.", 
     "line_id": 37775, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8797,7 +8797,7 @@
     "play_name": "Henry V", 
     "text_entry": "Alarum. Enter KING HENRY, EXETER, BEDFORD, GLOUCESTER, and Soldiers, with scaling-ladders", 
     "line_id": 37776, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -9077,7 +9077,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt. Alarum, and chambers go off", 
     "line_id": 37811, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9085,7 +9085,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE II. The same.", 
     "line_id": 37812, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9093,7 +9093,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter NYM, BARDOLPH, PISTOL, and Boy", 
     "line_id": 37813, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -9245,7 +9245,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter FLUELLEN", 
     "line_id": 37832, 
-    "speaker": "Boy"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.19", 
@@ -9261,7 +9261,7 @@
     "play_name": "Henry V", 
     "text_entry": "Driving them forward", 
     "line_id": 37834, 
-    "speaker": "FLUELLEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.20", 
@@ -9309,7 +9309,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt all but Boy", 
     "line_id": 37840, 
-    "speaker": "NYM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.25", 
@@ -9541,7 +9541,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exit", 
     "line_id": 37869, 
-    "speaker": "Boy"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9549,7 +9549,7 @@
     "play_name": "Henry V", 
     "text_entry": "Re-enter FLUELLEN, GOWER following", 
     "line_id": 37870, 
-    "speaker": "Boy"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.53", 
@@ -9709,7 +9709,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter MACMORRIS and Captain JAMY", 
     "line_id": 37890, 
-    "speaker": "FLUELLEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.72", 
@@ -10197,7 +10197,7 @@
     "play_name": "Henry V", 
     "text_entry": "A parley sounded", 
     "line_id": 37951, 
-    "speaker": "JAMY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.132", 
@@ -10245,7 +10245,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt", 
     "line_id": 37957, 
-    "speaker": "FLUELLEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10253,7 +10253,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE III. The same. Before the gates.", 
     "line_id": 37958, 
-    "speaker": "FLUELLEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10261,7 +10261,7 @@
     "play_name": "Henry V", 
     "text_entry": "The Governor and some Citizens on the walls; the English forces below. Enter KING HENRY and his train", 
     "line_id": 37959, 
-    "speaker": "FLUELLEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -10733,7 +10733,7 @@
     "play_name": "Henry V", 
     "text_entry": "Flourish. The King and his train enter the town", 
     "line_id": 38018, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10741,7 +10741,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE IV. The FRENCH KING's palace.", 
     "line_id": 38019, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10749,7 +10749,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter KATHARINE and ALICE", 
     "line_id": 38020, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.1", 
@@ -11197,7 +11197,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt", 
     "line_id": 38076, 
-    "speaker": "KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11205,7 +11205,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE V. The same.", 
     "line_id": 38077, 
-    "speaker": "KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11213,7 +11213,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter the KING OF FRANCE, the DAUPHIN, the DUKE oF BOURBON, the Constable Of France, and others", 
     "line_id": 38078, 
-    "speaker": "KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.1", 
@@ -11773,7 +11773,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt", 
     "line_id": 38148, 
-    "speaker": "KING OF FRANCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11781,7 +11781,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE VI. The English camp in Picardy.", 
     "line_id": 38149, 
-    "speaker": "KING OF FRANCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11789,7 +11789,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter GOWER and FLUELLEN, meeting", 
     "line_id": 38150, 
-    "speaker": "KING OF FRANCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.1", 
@@ -11941,7 +11941,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter PISTOL", 
     "line_id": 38169, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.19", 
@@ -12269,7 +12269,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exit", 
     "line_id": 38210, 
-    "speaker": "PISTOL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.59", 
@@ -12485,7 +12485,7 @@
     "play_name": "Henry V", 
     "text_entry": "Drum heard", 
     "line_id": 38237, 
-    "speaker": "FLUELLEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.85", 
@@ -12509,7 +12509,7 @@
     "play_name": "Henry V", 
     "text_entry": "Drum and colours. Enter KING HENRY, GLOUCESTER, and Soldiers", 
     "line_id": 38240, 
-    "speaker": "FLUELLEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.87", 
@@ -12733,7 +12733,7 @@
     "play_name": "Henry V", 
     "text_entry": "Tucket. Enter MONTJOY", 
     "line_id": 38268, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.114", 
@@ -13181,7 +13181,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exit", 
     "line_id": 38324, 
-    "speaker": "MONTJOY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.169", 
@@ -13229,7 +13229,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt", 
     "line_id": 38330, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13237,7 +13237,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE VII. The French camp, near Agincourt:", 
     "line_id": 38331, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13245,7 +13245,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter the Constable of France, the LORD RAMBURES, ORLEANS, DAUPHIN, with others", 
     "line_id": 38332, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.1", 
@@ -13893,7 +13893,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exit", 
     "line_id": 38413, 
-    "speaker": "DAUPHIN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.81", 
@@ -14133,7 +14133,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter a Messenger", 
     "line_id": 38443, 
-    "speaker": "ORLEANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.110", 
@@ -14389,7 +14389,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt", 
     "line_id": 38475, 
-    "speaker": "ORLEANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14397,7 +14397,7 @@
     "play_name": "Henry V", 
     "text_entry": "ACT IV", 
     "line_id": 38476, 
-    "speaker": "ORLEANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14405,7 +14405,7 @@
     "play_name": "Henry V", 
     "text_entry": "PROLOGUE", 
     "line_id": 38477, 
-    "speaker": "ORLEANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14413,7 +14413,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter Chorus", 
     "line_id": 38478, 
-    "speaker": "ORLEANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.0.1", 
@@ -14845,7 +14845,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exit", 
     "line_id": 38532, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14853,7 +14853,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE I. The English camp at Agincourt.", 
     "line_id": 38533, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14861,7 +14861,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter KING HENRY, BEDFORD, and GLOUCESTER", 
     "line_id": 38534, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -14965,7 +14965,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter ERPINGHAM", 
     "line_id": 38547, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.13", 
@@ -15149,7 +15149,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt all but KING HENRY", 
     "line_id": 38570, 
-    "speaker": "ERPINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.35", 
@@ -15165,7 +15165,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter PISTOL", 
     "line_id": 38572, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.36", 
@@ -15397,7 +15397,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exit", 
     "line_id": 38601, 
-    "speaker": "PISTOL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.64", 
@@ -15413,7 +15413,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter FLUELLEN and GOWER", 
     "line_id": 38603, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.65", 
@@ -15565,7 +15565,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt GOWER and FLUELLEN", 
     "line_id": 38622, 
-    "speaker": "FLUELLEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.83", 
@@ -15589,7 +15589,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter three soldiers, JOHN BATES, ALEXANDER COURT, and MICHAEL WILLIAMS", 
     "line_id": 38625, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.85", 
@@ -16725,7 +16725,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt soldiers", 
     "line_id": 38767, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.226", 
@@ -17173,7 +17173,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter ERPINGHAM", 
     "line_id": 38823, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.281", 
@@ -17229,7 +17229,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exit", 
     "line_id": 38830, 
-    "speaker": "ERPINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.287", 
@@ -17373,7 +17373,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter GLOUCESTER", 
     "line_id": 38848, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.304", 
@@ -17413,7 +17413,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt", 
     "line_id": 38853, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17421,7 +17421,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE II. The French camp.", 
     "line_id": 38854, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17429,7 +17429,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter the DAUPHIN, ORLEANS, RAMBURES, and others", 
     "line_id": 38855, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -17485,7 +17485,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter Constable", 
     "line_id": 38862, 
-    "speaker": "DAUPHIN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.7", 
@@ -17549,7 +17549,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter Messenger", 
     "line_id": 38870, 
-    "speaker": "RAMBURES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.14", 
@@ -17749,7 +17749,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter GRANDPRE", 
     "line_id": 38895, 
-    "speaker": "Constable"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.38", 
@@ -17965,7 +17965,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt", 
     "line_id": 38922, 
-    "speaker": "Constable"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17973,7 +17973,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE III. The English camp.", 
     "line_id": 38923, 
-    "speaker": "Constable"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17981,7 +17981,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter GLOUCESTER, BEDFORD, EXETER, ERPINGHAM, with all his host: SALISBURY and WESTMORELAND", 
     "line_id": 38924, 
-    "speaker": "Constable"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -18101,7 +18101,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exit SALISBURY", 
     "line_id": 38939, 
-    "speaker": "EXETER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.15", 
@@ -18125,7 +18125,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter the KING", 
     "line_id": 38942, 
-    "speaker": "BEDFORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.17", 
@@ -18557,7 +18557,7 @@
     "play_name": "Henry V", 
     "text_entry": "Re-enter SALISBURY", 
     "line_id": 38996, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.70", 
@@ -18653,7 +18653,7 @@
     "play_name": "Henry V", 
     "text_entry": "Tucket. Enter MONTJOY", 
     "line_id": 39008, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.81", 
@@ -19061,7 +19061,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exit", 
     "line_id": 39059, 
-    "speaker": "MONTJOY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.131", 
@@ -19077,7 +19077,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter YORK", 
     "line_id": 39061, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.132", 
@@ -19117,7 +19117,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt", 
     "line_id": 39066, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19125,7 +19125,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE IV. The field of battle.", 
     "line_id": 39067, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19133,7 +19133,7 @@
     "play_name": "Henry V", 
     "text_entry": "Alarum. Excursions. Enter PISTOL, French Soldier, and Boy", 
     "line_id": 39068, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.1", 
@@ -19629,7 +19629,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt PISTOL, and French Soldier", 
     "line_id": 39130, 
-    "speaker": "Boy"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.62", 
@@ -19725,7 +19725,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exit", 
     "line_id": 39142, 
-    "speaker": "Boy"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19733,7 +19733,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE V. Another part of the field.", 
     "line_id": 39143, 
-    "speaker": "Boy"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19741,7 +19741,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter Constable, ORLEANS, BOURBON, DAUPHIN, and RAMBURES", 
     "line_id": 39144, 
-    "speaker": "Boy"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.1", 
@@ -19797,7 +19797,7 @@
     "play_name": "Henry V", 
     "text_entry": "A short alarum", 
     "line_id": 39151, 
-    "speaker": "DAUPHIN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.7", 
@@ -19949,7 +19949,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt", 
     "line_id": 39170, 
-    "speaker": "BOURBON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19957,7 +19957,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE VI. Another part of the field.", 
     "line_id": 39171, 
-    "speaker": "BOURBON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19965,7 +19965,7 @@
     "play_name": "Henry V", 
     "text_entry": "Alarums. Enter KING HENRY and forces, EXETER, and others", 
     "line_id": 39172, 
-    "speaker": "BOURBON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.1", 
@@ -20253,7 +20253,7 @@
     "play_name": "Henry V", 
     "text_entry": "Alarum", 
     "line_id": 39208, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.36", 
@@ -20293,7 +20293,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt", 
     "line_id": 39213, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20301,7 +20301,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE VII. Another part of the field.", 
     "line_id": 39214, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20309,7 +20309,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter FLUELLEN and GOWER", 
     "line_id": 39215, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.1", 
@@ -20733,7 +20733,7 @@
     "play_name": "Henry V", 
     "text_entry": "Alarum. Enter KING HENRY, and forces; WARWICK, GLOUCESTER, EXETER, and others", 
     "line_id": 39268, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.53", 
@@ -20829,7 +20829,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter MONTJOY", 
     "line_id": 39280, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.64", 
@@ -21277,7 +21277,7 @@
     "play_name": "Henry V", 
     "text_entry": "Points to WILLIAMS. Exeunt Heralds with Montjoy", 
     "line_id": 39336, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.119", 
@@ -21541,7 +21541,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exit", 
     "line_id": 39369, 
-    "speaker": "WILLIAMS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.151", 
@@ -21677,7 +21677,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exit", 
     "line_id": 39386, 
-    "speaker": "FLUELLEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.167", 
@@ -21797,7 +21797,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt", 
     "line_id": 39401, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21805,7 +21805,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE VIII. Before KING HENRY'S pavilion.", 
     "line_id": 39402, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21813,7 +21813,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter GOWER and WILLIAMS", 
     "line_id": 39403, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.8.1", 
@@ -21829,7 +21829,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter FLUELLEN", 
     "line_id": 39405, 
-    "speaker": "WILLIAMS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.8.2", 
@@ -21885,7 +21885,7 @@
     "play_name": "Henry V", 
     "text_entry": "Strikes him", 
     "line_id": 39412, 
-    "speaker": "WILLIAMS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.8.8", 
@@ -21973,7 +21973,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter WARWICK and GLOUCESTER", 
     "line_id": 39423, 
-    "speaker": "FLUELLEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.8.18", 
@@ -22021,7 +22021,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter KING HENRY and EXETER", 
     "line_id": 39429, 
-    "speaker": "FLUELLEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.8.23", 
@@ -22405,7 +22405,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter an English Herald", 
     "line_id": 39477, 
-    "speaker": "FLUELLEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.8.70", 
@@ -22653,7 +22653,7 @@
     "play_name": "Henry V", 
     "text_entry": "Herald shews him another paper", 
     "line_id": 39508, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.8.100", 
@@ -22861,7 +22861,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt", 
     "line_id": 39534, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22869,7 +22869,7 @@
     "play_name": "Henry V", 
     "text_entry": "ACT V", 
     "line_id": 39535, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22877,7 +22877,7 @@
     "play_name": "Henry V", 
     "text_entry": "PROLOGUE", 
     "line_id": 39536, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22885,7 +22885,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter Chorus", 
     "line_id": 39537, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.0.1", 
@@ -23253,7 +23253,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exit", 
     "line_id": 39583, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23261,7 +23261,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE I. France. The English camp.", 
     "line_id": 39584, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23269,7 +23269,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter FLUELLEN and GOWER", 
     "line_id": 39585, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -23389,7 +23389,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter PISTOL", 
     "line_id": 39600, 
-    "speaker": "FLUELLEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.15", 
@@ -23517,7 +23517,7 @@
     "play_name": "Henry V", 
     "text_entry": "Strikes him", 
     "line_id": 39616, 
-    "speaker": "FLUELLEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.30", 
@@ -23565,7 +23565,7 @@
     "play_name": "Henry V", 
     "text_entry": "Strikes him", 
     "line_id": 39622, 
-    "speaker": "FLUELLEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.35", 
@@ -23805,7 +23805,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exit", 
     "line_id": 39652, 
-    "speaker": "FLUELLEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.64", 
@@ -23909,7 +23909,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exit", 
     "line_id": 39665, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.76", 
@@ -23997,7 +23997,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exit", 
     "line_id": 39676, 
-    "speaker": "PISTOL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -24005,7 +24005,7 @@
     "play_name": "Henry V", 
     "text_entry": "SCENE II. France. A royal palace.", 
     "line_id": 39677, 
-    "speaker": "PISTOL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -24013,7 +24013,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter, at one door KING HENRY, EXETER, BEDFORD,  GLOUCESTER, WARWICK, WESTMORELAND, and other Lords;  at another, the FRENCH KING, QUEEN ISABEL, the  PRINCESS KATHARINE, ALICE and other Ladies; the DUKE of BURGUNDY, and his train", 
     "line_id": 39678, 
-    "speaker": "PISTOL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -24813,7 +24813,7 @@
     "play_name": "Henry V", 
     "text_entry": "Exeunt all except HENRY, KATHARINE, and ALICE", 
     "line_id": 39778, 
-    "speaker": "QUEEN ISABEL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.100", 
@@ -26245,7 +26245,7 @@
     "play_name": "Henry V", 
     "text_entry": "Kissing her", 
     "line_id": 39957, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.278", 
@@ -26293,7 +26293,7 @@
     "play_name": "Henry V", 
     "text_entry": "Re-enter the FRENCH KING and his QUEEN, BURGUNDY, and other Lords", 
     "line_id": 39963, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.283", 
@@ -26885,7 +26885,7 @@
     "play_name": "Henry V", 
     "text_entry": "Flourish", 
     "line_id": 40037, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.356", 
@@ -27021,7 +27021,7 @@
     "play_name": "Henry V", 
     "text_entry": "Sennet. Exeunt", 
     "line_id": 40054, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.372", 
@@ -27037,7 +27037,7 @@
     "play_name": "Henry V", 
     "text_entry": "Enter Chorus", 
     "line_id": 40056, 
-    "speaker": "KING HENRY V"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.373", 
@@ -27157,6 +27157,6 @@
     "play_name": "Henry V", 
     "text_entry": "Exit", 
     "line_id": 40071, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }
 ]

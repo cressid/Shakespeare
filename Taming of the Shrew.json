@@ -5,7 +5,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "SCENE I. Before an alehouse on a heath.", 
     "line_id": 88595, 
-    "speaker": "PRINCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter Hostess and SLY", 
     "line_id": 88596, 
-    "speaker": "PRINCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "0.1.1", 
@@ -101,7 +101,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit", 
     "line_id": 88607, 
-    "speaker": "Hostess"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "0.1.11", 
@@ -133,7 +133,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Falls asleep", 
     "line_id": 88611, 
-    "speaker": "SLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -141,7 +141,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Horns winded. Enter a Lord from hunting, with his train", 
     "line_id": 88612, 
-    "speaker": "SLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "0.1.14", 
@@ -613,7 +613,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Some bear out SLY. A trumpet sounds", 
     "line_id": 88671, 
-    "speaker": "Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "0.1.72", 
@@ -629,7 +629,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit Servingman", 
     "line_id": 88673, 
-    "speaker": "Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "0.1.73", 
@@ -653,7 +653,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Re-enter Servingman", 
     "line_id": 88676, 
-    "speaker": "Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "0.1.75", 
@@ -693,7 +693,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter Players", 
     "line_id": 88681, 
-    "speaker": "Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "0.1.79", 
@@ -909,7 +909,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit one with the Players", 
     "line_id": 88708, 
-    "speaker": "Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "0.1.105", 
@@ -1125,7 +1125,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit a Servingman", 
     "line_id": 88735, 
-    "speaker": "Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "0.1.131", 
@@ -1197,7 +1197,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt", 
     "line_id": 88744, 
-    "speaker": "Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1205,7 +1205,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "SCENE II. A bedchamber in the Lord's house.", 
     "line_id": 88745, 
-    "speaker": "Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1213,7 +1213,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter aloft SLY, with Attendants; some with apparel, others with basin and ewer and appurtenances; and Lord", 
     "line_id": 88746, 
-    "speaker": "Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "0.2.1", 
@@ -1501,7 +1501,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Music", 
     "line_id": 88782, 
-    "speaker": "Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "0.2.36", 
@@ -2021,7 +2021,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter the Page as a lady, with attendants", 
     "line_id": 88847, 
-    "speaker": "SLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "0.2.100", 
@@ -2269,7 +2269,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter a Messenger", 
     "line_id": 88878, 
-    "speaker": "SLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "0.2.130", 
@@ -2397,7 +2397,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Flourish", 
     "line_id": 88894, 
-    "speaker": "SLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2405,7 +2405,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "ACT I", 
     "line_id": 88895, 
-    "speaker": "SLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2413,7 +2413,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "SCENE I. Padua. A public place.", 
     "line_id": 88896, 
-    "speaker": "SLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2421,7 +2421,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter LUCENTIO and his man TRANIO", 
     "line_id": 88897, 
-    "speaker": "SLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -2805,7 +2805,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter BAPTISTA, KATHARINA, BIANCA, GREMIO, and HORTENSIO. LUCENTIO and TRANIO stand by", 
     "line_id": 88945, 
-    "speaker": "TRANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.48", 
@@ -3173,7 +3173,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit BIANCA", 
     "line_id": 88991, 
-    "speaker": "BAPTISTA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.93", 
@@ -3261,7 +3261,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit", 
     "line_id": 89002, 
-    "speaker": "BAPTISTA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.103", 
@@ -3293,7 +3293,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit", 
     "line_id": 89006, 
-    "speaker": "KATHARINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.106", 
@@ -3621,7 +3621,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt GREMIO and HORTENSIO", 
     "line_id": 89047, 
-    "speaker": "GREMIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.146", 
@@ -4261,7 +4261,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter BIONDELLO", 
     "line_id": 89127, 
-    "speaker": "LUCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.225", 
@@ -4493,7 +4493,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt", 
     "line_id": 89156, 
-    "speaker": "LUCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4501,7 +4501,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "The presenters above speak", 
     "line_id": 89157, 
-    "speaker": "LUCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.253", 
@@ -4557,7 +4557,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "They sit and mark", 
     "line_id": 89164, 
-    "speaker": "SLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4565,7 +4565,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "SCENE II. Padua. Before HORTENSIO'S house.", 
     "line_id": 89165, 
-    "speaker": "SLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4573,7 +4573,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter PETRUCHIO and his man GRUMIO", 
     "line_id": 89166, 
-    "speaker": "SLY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -4725,7 +4725,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "He wrings him by the ears", 
     "line_id": 89185, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.19", 
@@ -4749,7 +4749,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter HORTENSIO", 
     "line_id": 89188, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.21", 
@@ -5693,7 +5693,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter GREMIO, and LUCENTIO disguised", 
     "line_id": 89306, 
-    "speaker": "GRUMIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.138", 
@@ -6341,7 +6341,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter TRANIO brave, and BIONDELLO", 
     "line_id": 89387, 
-    "speaker": "GRUMIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.218", 
@@ -6877,7 +6877,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt", 
     "line_id": 89454, 
-    "speaker": "HORTENSIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6885,7 +6885,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "ACT II", 
     "line_id": 89455, 
-    "speaker": "HORTENSIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6893,7 +6893,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "SCENE I. Padua. A room in BAPTISTA'S house.", 
     "line_id": 89456, 
-    "speaker": "HORTENSIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6901,7 +6901,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter KATHARINA and BIANCA", 
     "line_id": 89457, 
-    "speaker": "HORTENSIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -7093,7 +7093,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Strikes her", 
     "line_id": 89481, 
-    "speaker": "KATHARINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7101,7 +7101,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter BAPTISTA", 
     "line_id": 89482, 
-    "speaker": "KATHARINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.24", 
@@ -7165,7 +7165,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Flies after BIANCA", 
     "line_id": 89490, 
-    "speaker": "KATHARINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.31", 
@@ -7181,7 +7181,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit BIANCA", 
     "line_id": 89492, 
-    "speaker": "BAPTISTA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.32", 
@@ -7237,7 +7237,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit", 
     "line_id": 89499, 
-    "speaker": "KATHARINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.38", 
@@ -7261,7 +7261,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter GREMIO, LUCENTIO in the habit of a mean man;  PETRUCHIO, with HORTENSIO as a musician; and TRANIO, with BIONDELLO bearing a lute and books", 
     "line_id": 89502, 
-    "speaker": "BAPTISTA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.40", 
@@ -7405,7 +7405,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Presenting HORTENSIO", 
     "line_id": 89520, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.57", 
@@ -7605,7 +7605,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Presenting LUCENTIO", 
     "line_id": 89545, 
-    "speaker": "GREMIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.81", 
@@ -7661,7 +7661,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "To TRANIO", 
     "line_id": 89552, 
-    "speaker": "BAPTISTA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.87", 
@@ -7853,7 +7853,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter a Servant", 
     "line_id": 89576, 
-    "speaker": "BAPTISTA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.110", 
@@ -7885,7 +7885,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit Servant, with LUCENTIO and HORTENSIO, BIONDELLO following", 
     "line_id": 89580, 
-    "speaker": "BAPTISTA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.113", 
@@ -8141,7 +8141,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Re-enter HORTENSIO, with his head broke", 
     "line_id": 89612, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.144", 
@@ -8373,7 +8373,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt all but PETRUCHIO", 
     "line_id": 89641, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.172", 
@@ -8493,7 +8493,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter KATHARINA", 
     "line_id": 89656, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.186", 
@@ -8837,7 +8837,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "She strikes him", 
     "line_id": 89699, 
-    "speaker": "KATHARINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.228", 
@@ -9333,7 +9333,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Re-enter BAPTISTA, GREMIO, and TRANIO", 
     "line_id": 89761, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.289", 
@@ -9701,7 +9701,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt PETRUCHIO and KATHARINA severally", 
     "line_id": 89807, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.334", 
@@ -10317,7 +10317,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit BAPTISTA", 
     "line_id": 89884, 
-    "speaker": "GREMIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.410", 
@@ -10365,7 +10365,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit", 
     "line_id": 89890, 
-    "speaker": "GREMIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.415", 
@@ -10437,7 +10437,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit", 
     "line_id": 89899, 
-    "speaker": "TRANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10445,7 +10445,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "ACT III", 
     "line_id": 89900, 
-    "speaker": "TRANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10453,7 +10453,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "SCENE I. Padua. BAPTISTA'S house.", 
     "line_id": 89901, 
-    "speaker": "TRANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10461,7 +10461,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter LUCENTIO, HORTENSIO, and BIANCA", 
     "line_id": 89902, 
-    "speaker": "TRANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -10853,7 +10853,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Aside", 
     "line_id": 89951, 
-    "speaker": "HORTENSIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.49", 
@@ -10973,7 +10973,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Aside", 
     "line_id": 89966, 
-    "speaker": "LUCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.63", 
@@ -11141,7 +11141,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter a Servant", 
     "line_id": 89987, 
-    "speaker": "BIANCA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.83", 
@@ -11181,7 +11181,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt BIANCA and Servant", 
     "line_id": 89992, 
-    "speaker": "BIANCA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.87", 
@@ -11197,7 +11197,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit", 
     "line_id": 89994, 
-    "speaker": "LUCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.88", 
@@ -11253,7 +11253,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit", 
     "line_id": 90001, 
-    "speaker": "HORTENSIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11261,7 +11261,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "SCENE II. Padua. Before BAPTISTA'S house.", 
     "line_id": 90002, 
-    "speaker": "HORTENSIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11269,7 +11269,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter BAPTISTA, GREMIO, TRANIO, KATHARINA, BIANCA, LUCENTIO, and others, attendants", 
     "line_id": 90003, 
-    "speaker": "HORTENSIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -11493,7 +11493,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit weeping, followed by BIANCA and others", 
     "line_id": 90031, 
-    "speaker": "KATHARINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.28", 
@@ -11525,7 +11525,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter BIONDELLO", 
     "line_id": 90035, 
-    "speaker": "BAPTISTA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.31", 
@@ -11957,7 +11957,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter PETRUCHIO and GRUMIO", 
     "line_id": 90089, 
-    "speaker": "BIONDELLO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.84", 
@@ -12277,7 +12277,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt PETRUCHIO and GRUMIO", 
     "line_id": 90129, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.123", 
@@ -12317,7 +12317,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt BAPTISTA, GREMIO, and attendants", 
     "line_id": 90134, 
-    "speaker": "BAPTISTA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.127", 
@@ -12493,7 +12493,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Re-enter GREMIO", 
     "line_id": 90156, 
-    "speaker": "TRANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.148", 
@@ -12781,7 +12781,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Music", 
     "line_id": 90192, 
-    "speaker": "GREMIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12789,7 +12789,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Re-enter PETRUCHIO, KATHARINA, BIANCA, BAPTISTA, HORTENSIO, GRUMIO, and Train", 
     "line_id": 90193, 
-    "speaker": "GREMIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.183", 
@@ -13277,7 +13277,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt PETRUCHIO, KATHARINA, and GRUMIO", 
     "line_id": 90254, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.243", 
@@ -13397,7 +13397,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt", 
     "line_id": 90269, 
-    "speaker": "BAPTISTA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13405,7 +13405,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "ACT IV", 
     "line_id": 90270, 
-    "speaker": "BAPTISTA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13413,7 +13413,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "SCENE I. PETRUCHIO'S country house.", 
     "line_id": 90271, 
-    "speaker": "BAPTISTA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13421,7 +13421,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter GRUMIO", 
     "line_id": 90272, 
-    "speaker": "BAPTISTA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -13517,7 +13517,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter CURTIS", 
     "line_id": 90284, 
-    "speaker": "GRUMIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.12", 
@@ -13869,7 +13869,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Strikes him", 
     "line_id": 90328, 
-    "speaker": "GRUMIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.55", 
@@ -14197,7 +14197,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter four or five Serving-men", 
     "line_id": 90369, 
-    "speaker": "GRUMIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.95", 
@@ -14293,7 +14293,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter PETRUCHIO and KATHARINA", 
     "line_id": 90381, 
-    "speaker": "GRUMIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.106", 
@@ -14461,7 +14461,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt Servants", 
     "line_id": 90402, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14469,7 +14469,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Singing", 
     "line_id": 90403, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.126", 
@@ -14501,7 +14501,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Re-enter Servants with supper", 
     "line_id": 90407, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.129", 
@@ -14525,7 +14525,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Sings", 
     "line_id": 90410, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.131", 
@@ -14565,7 +14565,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Strikes him", 
     "line_id": 90415, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.135", 
@@ -14613,7 +14613,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter one with water", 
     "line_id": 90421, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.140", 
@@ -14637,7 +14637,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Strikes him", 
     "line_id": 90424, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.142", 
@@ -14861,7 +14861,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt", 
     "line_id": 90452, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14869,7 +14869,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Re-enter Servants severally", 
     "line_id": 90453, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.168", 
@@ -14893,7 +14893,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Re-enter CURTIS", 
     "line_id": 90456, 
-    "speaker": "PETER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.170", 
@@ -14949,7 +14949,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt", 
     "line_id": 90463, 
-    "speaker": "CURTIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14957,7 +14957,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Re-enter PETRUCHIO", 
     "line_id": 90464, 
-    "speaker": "CURTIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.176", 
@@ -15157,7 +15157,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit", 
     "line_id": 90489, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15165,7 +15165,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "SCENE II. Padua. Before BAPTISTA'S house.", 
     "line_id": 90490, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15173,7 +15173,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter TRANIO and HORTENSIO", 
     "line_id": 90491, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -15221,7 +15221,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter BIANCA and LUCENTIO", 
     "line_id": 90497, 
-    "speaker": "HORTENSIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.6", 
@@ -15533,7 +15533,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit", 
     "line_id": 90536, 
-    "speaker": "HORTENSIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.44", 
@@ -15677,7 +15677,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter BIONDELLO", 
     "line_id": 90554, 
-    "speaker": "TRANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.61", 
@@ -15797,7 +15797,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt LUCENTIO and BIANCA", 
     "line_id": 90569, 
-    "speaker": "TRANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15805,7 +15805,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter a Pedant", 
     "line_id": 90570, 
-    "speaker": "TRANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.75", 
@@ -16229,7 +16229,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt", 
     "line_id": 90623, 
-    "speaker": "TRANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16237,7 +16237,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "SCENE III. A room in PETRUCHIO'S house.", 
     "line_id": 90624, 
-    "speaker": "TRANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16245,7 +16245,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter KATHARINA and GRUMIO", 
     "line_id": 90625, 
-    "speaker": "TRANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -16501,7 +16501,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Beats him", 
     "line_id": 90657, 
-    "speaker": "KATHARINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.32", 
@@ -16541,7 +16541,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter PETRUCHIO and HORTENSIO with meat", 
     "line_id": 90662, 
-    "speaker": "KATHARINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.36", 
@@ -16765,7 +16765,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter Tailor", 
     "line_id": 90690, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.63", 
@@ -16789,7 +16789,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter Haberdasher", 
     "line_id": 90693, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.65", 
@@ -16997,7 +16997,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit Haberdasher", 
     "line_id": 90719, 
-    "speaker": "KATHARINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.90", 
@@ -17645,7 +17645,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit Tailor", 
     "line_id": 90800, 
-    "speaker": "HORTENSIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.170", 
@@ -17877,7 +17877,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt", 
     "line_id": 90829, 
-    "speaker": "HORTENSIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17885,7 +17885,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "SCENE IV. Padua. Before BAPTISTA'S house.", 
     "line_id": 90830, 
-    "speaker": "HORTENSIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17893,7 +17893,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter TRANIO, and the Pedant dressed like VINCENTIO", 
     "line_id": 90831, 
-    "speaker": "HORTENSIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.1", 
@@ -17965,7 +17965,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter BIONDELLO", 
     "line_id": 90840, 
-    "speaker": "Pedant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.9", 
@@ -18061,7 +18061,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter BAPTISTA and LUCENTIO", 
     "line_id": 90852, 
-    "speaker": "TRANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.20", 
@@ -18077,7 +18077,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "To the Pedant", 
     "line_id": 90854, 
-    "speaker": "TRANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.21", 
@@ -18477,7 +18477,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit BIONDELLO", 
     "line_id": 90904, 
-    "speaker": "TRANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.70", 
@@ -18517,7 +18517,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt TRANIO, Pedant, and BAPTISTA", 
     "line_id": 90909, 
-    "speaker": "BAPTISTA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18525,7 +18525,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Re-enter BIONDELLO", 
     "line_id": 90910, 
-    "speaker": "BAPTISTA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.74", 
@@ -18765,7 +18765,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit", 
     "line_id": 90940, 
-    "speaker": "BIONDELLO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.103", 
@@ -18805,7 +18805,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit", 
     "line_id": 90945, 
-    "speaker": "LUCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18813,7 +18813,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "SCENE V. A public road.", 
     "line_id": 90946, 
-    "speaker": "LUCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18821,7 +18821,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter PETRUCHIO, KATHARINA, HORTENSIO, and Servants", 
     "line_id": 90947, 
-    "speaker": "LUCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.1", 
@@ -19045,7 +19045,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter VINCENTIO", 
     "line_id": 90975, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19053,7 +19053,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "To VINCENTIO", 
     "line_id": 90976, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.28", 
@@ -19461,7 +19461,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt all but HORTENSIO", 
     "line_id": 91027, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.78", 
@@ -19493,7 +19493,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit", 
     "line_id": 91031, 
-    "speaker": "HORTENSIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19501,7 +19501,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "ACT V", 
     "line_id": 91032, 
-    "speaker": "HORTENSIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19509,7 +19509,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "SCENE I. Padua. Before LUCENTIO'S house.", 
     "line_id": 91033, 
-    "speaker": "HORTENSIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19517,7 +19517,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "GREMIO discovered. Enter behind BIONDELLO, LUCENTIO, and BIANCA", 
     "line_id": 91034, 
-    "speaker": "HORTENSIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -19565,7 +19565,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt LUCENTIO, BIANCA, and BIONDELLO", 
     "line_id": 91040, 
-    "speaker": "BIONDELLO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.6", 
@@ -19581,7 +19581,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter PETRUCHIO, KATHARINA, VINCENTIO, GRUMIO, with Attendants", 
     "line_id": 91042, 
-    "speaker": "GREMIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.7", 
@@ -19637,7 +19637,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Knocks", 
     "line_id": 91049, 
-    "speaker": "VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.13", 
@@ -19653,7 +19653,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Pedant looks out of the window", 
     "line_id": 91051, 
-    "speaker": "GREMIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.14", 
@@ -19813,7 +19813,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Re-enter BIONDELLO", 
     "line_id": 91071, 
-    "speaker": "Pedant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.33", 
@@ -19933,7 +19933,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Beats BIONDELLO", 
     "line_id": 91086, 
-    "speaker": "VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.47", 
@@ -19949,7 +19949,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit", 
     "line_id": 91088, 
-    "speaker": "BIONDELLO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.48", 
@@ -19965,7 +19965,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit from above", 
     "line_id": 91090, 
-    "speaker": "Pedant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.49", 
@@ -19989,7 +19989,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "They retire", 
     "line_id": 91093, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19997,7 +19997,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Re-enter Pedant below; TRANIO, BAPTISTA, and Servants", 
     "line_id": 91094, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.51", 
@@ -20205,7 +20205,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter one with an Officer", 
     "line_id": 91120, 
-    "speaker": "TRANIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.76", 
@@ -20333,7 +20333,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Re-enter BIONDELLO, with LUCENTIO and BIANCA", 
     "line_id": 91136, 
-    "speaker": "VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.91", 
@@ -20373,7 +20373,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt BIONDELLO, TRANIO, and Pedant, as fast as may be", 
     "line_id": 91141, 
-    "speaker": "VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.95", 
@@ -20581,7 +20581,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit", 
     "line_id": 91167, 
-    "speaker": "VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.120", 
@@ -20597,7 +20597,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit", 
     "line_id": 91169, 
-    "speaker": "BAPTISTA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.121", 
@@ -20613,7 +20613,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt LUCENTIO and BIANCA", 
     "line_id": 91171, 
-    "speaker": "LUCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.122", 
@@ -20637,7 +20637,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit", 
     "line_id": 91174, 
-    "speaker": "GREMIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.124", 
@@ -20717,7 +20717,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt", 
     "line_id": 91184, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20725,7 +20725,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "SCENE II. Padua. LUCENTIO'S house.", 
     "line_id": 91185, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20733,7 +20733,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Enter BAPTISTA, VINCENTIO, GREMIO, the Pedant,  LUCENTIO, BIANCA, PETRUCHIO, KATHARINA, HORTENSIO,  and Widow, TRANIO, BIONDELLO, and GRUMIO the Serving-men with Tranio bringing in a banquet", 
     "line_id": 91186, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -21053,7 +21053,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Drinks to HORTENSIO", 
     "line_id": 91226, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.40", 
@@ -21149,7 +21149,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt BIANCA, KATHARINA, and Widow", 
     "line_id": 91238, 
-    "speaker": "BIANCA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.51", 
@@ -21421,7 +21421,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit", 
     "line_id": 91272, 
-    "speaker": "BIONDELLO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.84", 
@@ -21445,7 +21445,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Re-enter BIONDELLO", 
     "line_id": 91275, 
-    "speaker": "LUCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.86", 
@@ -21533,7 +21533,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit BIONDELLO", 
     "line_id": 91286, 
-    "speaker": "HORTENSIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.96", 
@@ -21573,7 +21573,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Re-enter BIONDELLO", 
     "line_id": 91291, 
-    "speaker": "HORTENSIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.100", 
@@ -21637,7 +21637,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit GRUMIO", 
     "line_id": 91299, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.107", 
@@ -21685,7 +21685,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Re-enter KATARINA", 
     "line_id": 91305, 
-    "speaker": "BAPTISTA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.112", 
@@ -21741,7 +21741,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exit KATHARINA", 
     "line_id": 91312, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.118", 
@@ -21869,7 +21869,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Re-enter KATHARINA, with BIANCA and Widow", 
     "line_id": 91328, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.133", 
@@ -22397,7 +22397,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "To LUCENTIO", 
     "line_id": 91394, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.198", 
@@ -22421,7 +22421,7 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt PETRUCHIO and KATHARINA", 
     "line_id": 91397, 
-    "speaker": "PETRUCHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.200", 
@@ -22445,6 +22445,6 @@
     "play_name": "Taming of the Shrew", 
     "text_entry": "Exeunt", 
     "line_id": 91400, 
-    "speaker": "LUCENTIO"
+    "speaker": "Stage Directions"
   }
 ]

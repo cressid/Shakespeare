@@ -5,7 +5,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "ACT I", 
     "line_id": 93804, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.383", 
@@ -13,7 +13,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "SCENE I. Athens. A hall in Timon's house.", 
     "line_id": 93805, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter Poet, Painter, Jeweller, Merchant, and others, at several doors", 
     "line_id": 93806, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -213,7 +213,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Looking at the jewel", 
     "line_id": 93830, 
-    "speaker": "Merchant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.24", 
@@ -421,7 +421,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter certain Senators, and pass over", 
     "line_id": 93856, 
-    "speaker": "Poet"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.49", 
@@ -925,7 +925,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Trumpets sound. Enter TIMON, addressing himself  courteously to every suitor; a Messenger from  VENTIDIUS talking with him; LUCILIUS and other servants following", 
     "line_id": 93919, 
-    "speaker": "Painter"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.111", 
@@ -1077,7 +1077,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 93938, 
-    "speaker": "Messenger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1085,7 +1085,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter an old Athenian", 
     "line_id": 93939, 
-    "speaker": "Messenger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.129", 
@@ -1485,7 +1485,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exeunt LUCILIUS and Old Athenian", 
     "line_id": 93989, 
-    "speaker": "LUCILIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.178", 
@@ -1725,7 +1725,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter APEMANTUS", 
     "line_id": 94019, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.207", 
@@ -2205,7 +2205,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Trumpet sounds. Enter a Messenger", 
     "line_id": 94079, 
-    "speaker": "APEMANTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.266", 
@@ -2245,7 +2245,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exeunt some Attendants", 
     "line_id": 94084, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.270", 
@@ -2277,7 +2277,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter ALCIBIADES, with the rest", 
     "line_id": 94088, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.273", 
@@ -2381,7 +2381,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exeunt all except APEMANTUS", 
     "line_id": 94101, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2389,7 +2389,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter two Lords", 
     "line_id": 94102, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.285", 
@@ -2525,7 +2525,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 94119, 
-    "speaker": "APEMANTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.301", 
@@ -2629,7 +2629,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exeunt", 
     "line_id": 94132, 
-    "speaker": "First Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2637,7 +2637,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "SCENE II. A banqueting-room in Timon's house.", 
     "line_id": 94133, 
-    "speaker": "First Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2645,7 +2645,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Hautboys playing loud music. A great banquet  served in; FLAVIUS and others attending; then enter  TIMON, ALCIBIADES, Lords, Senators, and VENTIDIUS.  Then comes, dropping, after all, APEMANTUS, discontentedly, like himself", 
     "line_id": 94134, 
-    "speaker": "First Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -2781,7 +2781,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "They all stand ceremoniously looking on TIMON", 
     "line_id": 94151, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.17", 
@@ -2837,7 +2837,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "They sit", 
     "line_id": 94158, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.23", 
@@ -3253,7 +3253,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Eats and drinks", 
     "line_id": 94210, 
-    "speaker": "APEMANTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.74", 
@@ -3581,7 +3581,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Tucket, within", 
     "line_id": 94251, 
-    "speaker": "APEMANTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.114", 
@@ -3597,7 +3597,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter a Servant", 
     "line_id": 94253, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.115", 
@@ -3661,7 +3661,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter Cupid", 
     "line_id": 94261, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.122", 
@@ -3733,7 +3733,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit Cupid", 
     "line_id": 94270, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.130", 
@@ -3749,7 +3749,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Music. Re-enter Cupid with a mask of Ladies  as Amazons, with lutes in their hands, dancing and playing", 
     "line_id": 94272, 
-    "speaker": "First Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.131", 
@@ -3869,7 +3869,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "The Lords rise from table, with much adoring of  TIMON; and to show their loves, each singles out an  Amazon, and all dance, men with women, a lofty strain or two to the hautboys, and cease", 
     "line_id": 94287, 
-    "speaker": "APEMANTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.145", 
@@ -3973,7 +3973,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exeunt Cupid and Ladies", 
     "line_id": 94300, 
-    "speaker": "All Ladies"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.157", 
@@ -4021,7 +4021,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Aside", 
     "line_id": 94306, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.162", 
@@ -4061,7 +4061,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 94311, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.166", 
@@ -4093,7 +4093,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Re-enter FLAVIUS, with the casket", 
     "line_id": 94315, 
-    "speaker": "Second Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.169", 
@@ -4157,7 +4157,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter a Servant", 
     "line_id": 94323, 
-    "speaker": "All"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.176", 
@@ -4237,7 +4237,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter a Second Servant", 
     "line_id": 94333, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.185", 
@@ -4285,7 +4285,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter a third Servant", 
     "line_id": 94339, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.190", 
@@ -4469,7 +4469,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 94362, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.212", 
@@ -4725,7 +4725,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exeunt all but APEMANTUS and TIMON", 
     "line_id": 94394, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.243", 
@@ -4869,7 +4869,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 94412, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.260", 
@@ -4917,7 +4917,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 94418, 
-    "speaker": "APEMANTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4925,7 +4925,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "ACT II", 
     "line_id": 94419, 
-    "speaker": "APEMANTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4933,7 +4933,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "SCENE I. A Senator's house.", 
     "line_id": 94420, 
-    "speaker": "APEMANTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4941,7 +4941,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter Senator, with papers in his hand", 
     "line_id": 94421, 
-    "speaker": "APEMANTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -5061,7 +5061,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter CAPHIS", 
     "line_id": 94436, 
-    "speaker": "Senator"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.15", 
@@ -5261,7 +5261,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exeunt", 
     "line_id": 94461, 
-    "speaker": "Senator"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5269,7 +5269,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "SCENE II. The same. A hall in Timon's house.", 
     "line_id": 94462, 
-    "speaker": "Senator"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5277,7 +5277,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter FLAVIUS, with many bills in his hand", 
     "line_id": 94463, 
-    "speaker": "Senator"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -5357,7 +5357,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter CAPHIS, and the Servants of Isidore and Varro", 
     "line_id": 94473, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.10", 
@@ -5645,7 +5645,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exeunt ALCIBIADES and Lords", 
     "line_id": 94509, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5653,7 +5653,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "To FLAVIUS", 
     "line_id": 94510, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.44", 
@@ -5749,7 +5749,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 94522, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.55", 
@@ -5765,7 +5765,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 94524, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5773,7 +5773,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter APEMANTUS and Fool", 
     "line_id": 94525, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.56", 
@@ -5845,7 +5845,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "To the Fool", 
     "line_id": 94534, 
-    "speaker": "APEMANTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.64", 
@@ -5981,7 +5981,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter Page", 
     "line_id": 94551, 
-    "speaker": "APEMANTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.80", 
@@ -6109,7 +6109,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 94567, 
-    "speaker": "Page"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.95", 
@@ -6357,7 +6357,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Re-enter TIMON and FLAVIUS", 
     "line_id": 94598, 
-    "speaker": "All Servants"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.125", 
@@ -6389,7 +6389,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exeunt APEMANTUS and Fool", 
     "line_id": 94602, 
-    "speaker": "Fool"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.128", 
@@ -6405,7 +6405,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exeunt Servants", 
     "line_id": 94604, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.129", 
@@ -6981,7 +6981,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter FLAMINIUS, SERVILIUS, and other Servants", 
     "line_id": 94676, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.200", 
@@ -7277,7 +7277,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "To a Servant", 
     "line_id": 94713, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.236", 
@@ -7293,7 +7293,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "To FLAVIUS", 
     "line_id": 94715, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.237", 
@@ -7325,7 +7325,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "To Servant", 
     "line_id": 94719, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.240", 
@@ -7397,7 +7397,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit Servant", 
     "line_id": 94728, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7405,7 +7405,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "To FLAVIUS", 
     "line_id": 94729, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.248", 
@@ -7461,7 +7461,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exeunt", 
     "line_id": 94736, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7469,7 +7469,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "ACT III", 
     "line_id": 94737, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7477,7 +7477,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "SCENE I. A room in Lucullus' house.", 
     "line_id": 94738, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7485,7 +7485,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "FLAMINIUS waiting. Enter a Servant to him", 
     "line_id": 94739, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -7509,7 +7509,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter LUCULLUS", 
     "line_id": 94742, 
-    "speaker": "FLAMINIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.3", 
@@ -7565,7 +7565,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit Servants", 
     "line_id": 94749, 
-    "speaker": "LUCULLUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.9", 
@@ -7741,7 +7741,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Re-enter Servant, with wine", 
     "line_id": 94771, 
-    "speaker": "LUCULLUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.30", 
@@ -7805,7 +7805,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "To Servant", 
     "line_id": 94779, 
-    "speaker": "LUCULLUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.37", 
@@ -7821,7 +7821,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit Servant", 
     "line_id": 94781, 
-    "speaker": "LUCULLUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.38", 
@@ -7909,7 +7909,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Throwing the money back", 
     "line_id": 94792, 
-    "speaker": "FLAMINIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.48", 
@@ -7925,7 +7925,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 94794, 
-    "speaker": "LUCULLUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.49", 
@@ -8037,7 +8037,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 94808, 
-    "speaker": "FLAMINIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8045,7 +8045,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "SCENE II. A public place.", 
     "line_id": 94809, 
-    "speaker": "FLAMINIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8053,7 +8053,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter LUCILIUS, with three Strangers", 
     "line_id": 94810, 
-    "speaker": "FLAMINIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -8237,7 +8237,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter SERVILIUS", 
     "line_id": 94833, 
-    "speaker": "LUCILIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.23", 
@@ -8261,7 +8261,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "To LUCIUS", 
     "line_id": 94836, 
-    "speaker": "SERVILIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.25", 
@@ -8549,7 +8549,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit SERVILIUS", 
     "line_id": 94872, 
-    "speaker": "LUCILIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.60", 
@@ -8573,7 +8573,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 94875, 
-    "speaker": "LUCILIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.62", 
@@ -8805,7 +8805,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exeunt", 
     "line_id": 94904, 
-    "speaker": "First Stranger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8813,7 +8813,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "SCENE III. A room in Sempronius' house.", 
     "line_id": 94905, 
-    "speaker": "First Stranger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8821,7 +8821,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter SEMPRONIUS, and a Servant of TIMON's", 
     "line_id": 94906, 
-    "speaker": "First Stranger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -9069,7 +9069,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 94937, 
-    "speaker": "SEMPRONIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.31", 
@@ -9205,7 +9205,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 94954, 
-    "speaker": "Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9213,7 +9213,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "SCENE IV. The same. A hall in Timon's house.", 
     "line_id": 94955, 
-    "speaker": "Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9221,7 +9221,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter two Servants of Varro, and the Servant of  LUCIUS, meeting TITUS, HORTENSIUS, and other Servants of TIMON's creditors, waiting his coming out", 
     "line_id": 94956, 
-    "speaker": "Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.1", 
@@ -9293,7 +9293,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter PHILOTUS", 
     "line_id": 94965, 
-    "speaker": "TITUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.9", 
@@ -9645,7 +9645,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 95009, 
-    "speaker": "FLAMINIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9653,7 +9653,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter FLAVIUS in a cloak, muffled", 
     "line_id": 95010, 
-    "speaker": "FLAMINIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.52", 
@@ -9837,7 +9837,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 95033, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.74", 
@@ -9901,7 +9901,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter SERVILIUS", 
     "line_id": 95041, 
-    "speaker": "Second Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.81", 
@@ -10013,7 +10013,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter TIMON, in a rage, FLAMINIUS following", 
     "line_id": 95055, 
-    "speaker": "FLAMINIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.94", 
@@ -10221,7 +10221,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 95081, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.119", 
@@ -10253,7 +10253,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exeunt", 
     "line_id": 95085, 
-    "speaker": "HORTENSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10261,7 +10261,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Re-enter TIMON and FLAVIUS", 
     "line_id": 95086, 
-    "speaker": "HORTENSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.122", 
@@ -10413,7 +10413,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exeunt", 
     "line_id": 95105, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10421,7 +10421,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "SCENE V. The same. The senate-house. The Senate sitting.", 
     "line_id": 95106, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.1", 
@@ -10461,7 +10461,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter ALCIBIADES, with Attendants", 
     "line_id": 95111, 
-    "speaker": "Second Senator"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.5", 
@@ -11325,7 +11325,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exeunt Senators", 
     "line_id": 95219, 
-    "speaker": "First Senator"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.112", 
@@ -11445,7 +11445,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 95234, 
-    "speaker": "ALCIBIADES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11453,7 +11453,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "SCENE VI. The same. A banqueting-room in Timon's house.", 
     "line_id": 95235, 
-    "speaker": "ALCIBIADES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11461,7 +11461,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Music. Tables set out: Servants attending.  Enter divers Lords, Senators and others, at several doors", 
     "line_id": 95236, 
-    "speaker": "ALCIBIADES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.1", 
@@ -11653,7 +11653,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter TIMON and Attendants", 
     "line_id": 95260, 
-    "speaker": "Second Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.24", 
@@ -11821,7 +11821,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "The banquet brought in", 
     "line_id": 95281, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.44", 
@@ -12141,7 +12141,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "The dishes are uncovered and seen to be full of warm water", 
     "line_id": 95321, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.83", 
@@ -12213,7 +12213,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Throwing the water in their faces", 
     "line_id": 95330, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.91", 
@@ -12293,7 +12293,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Throws the dishes at them, and drives them out", 
     "line_id": 95340, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.100", 
@@ -12333,7 +12333,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 95345, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12461,7 +12461,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exeunt", 
     "line_id": 95361, 
-    "speaker": "Fourth Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12469,7 +12469,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "ACT IV", 
     "line_id": 95362, 
-    "speaker": "Fourth Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12477,7 +12477,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "SCENE I. Without the walls of Athens.", 
     "line_id": 95363, 
-    "speaker": "Fourth Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12485,7 +12485,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter TIMON", 
     "line_id": 95364, 
-    "speaker": "Fourth Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -12813,7 +12813,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 95405, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12821,7 +12821,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "SCENE II. Athens. A room in Timon's house.", 
     "line_id": 95406, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12829,7 +12829,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter FLAVIUS, with two or three Servants", 
     "line_id": 95407, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -12973,7 +12973,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter other Servants", 
     "line_id": 95425, 
-    "speaker": "Second Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.18", 
@@ -13101,7 +13101,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Servants embrace, and part several ways", 
     "line_id": 95441, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.33", 
@@ -13277,7 +13277,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 95463, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13285,7 +13285,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "SCENE III. Woods and cave, near the seashore.", 
     "line_id": 95464, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13293,7 +13293,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter TIMON, from the cave", 
     "line_id": 95465, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -13485,7 +13485,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Digging", 
     "line_id": 95489, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.24", 
@@ -13661,7 +13661,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "March afar off", 
     "line_id": 95511, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.45", 
@@ -13701,7 +13701,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Keeping some gold", 
     "line_id": 95516, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13709,7 +13709,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter ALCIBIADES, with drum and fife, in warlike manner; PHRYNIA and TIMANDRA", 
     "line_id": 95517, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.49", 
@@ -14869,7 +14869,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Drum beats. Exeunt ALCIBIADES, PHRYNIA, and TIMANDRA", 
     "line_id": 95662, 
-    "speaker": "ALCIBIADES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.193", 
@@ -14893,7 +14893,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Digging", 
     "line_id": 95665, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.195", 
@@ -15053,7 +15053,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter APEMANTUS", 
     "line_id": 95685, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.214", 
@@ -15829,7 +15829,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Eating a root", 
     "line_id": 95782, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.310", 
@@ -15845,7 +15845,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Offering him a root", 
     "line_id": 95784, 
-    "speaker": "APEMANTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.311", 
@@ -16573,7 +16573,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Throws a stone at him", 
     "line_id": 95875, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.401", 
@@ -16661,7 +16661,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "To the gold", 
     "line_id": 95886, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.411", 
@@ -16837,7 +16837,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit APEMANTUS", 
     "line_id": 95908, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.432", 
@@ -16861,7 +16861,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter Banditti", 
     "line_id": 95911, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.434", 
@@ -17341,7 +17341,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exeunt Banditti", 
     "line_id": 95971, 
-    "speaker": "First Bandit"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17349,7 +17349,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter FLAVIUS", 
     "line_id": 95972, 
-    "speaker": "First Bandit"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.493", 
@@ -18037,7 +18037,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit FLAVIUS. TIMON retires to his cave", 
     "line_id": 96058, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18045,7 +18045,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "ACT V", 
     "line_id": 96059, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18053,7 +18053,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "SCENE I. The woods. Before Timon's cave.", 
     "line_id": 96060, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18061,7 +18061,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter Poet and Painter; TIMON watching them from his cave", 
     "line_id": 96061, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -18301,7 +18301,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "TIMON comes from his cave, behind", 
     "line_id": 96091, 
-    "speaker": "Painter"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.30", 
@@ -18501,7 +18501,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Coming forward", 
     "line_id": 96116, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.54", 
@@ -19045,7 +19045,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "To Painter", 
     "line_id": 96184, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.121", 
@@ -19061,7 +19061,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "To Poet", 
     "line_id": 96186, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.122", 
@@ -19085,7 +19085,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Beats them out, and then retires to his cave", 
     "line_id": 96189, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19093,7 +19093,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter FLAVIUS and two Senators", 
     "line_id": 96190, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.124", 
@@ -19245,7 +19245,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "TIMON comes from his cave", 
     "line_id": 96209, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.142", 
@@ -20093,7 +20093,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Retires to his cave", 
     "line_id": 96315, 
-    "speaker": "TIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.247", 
@@ -20149,7 +20149,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exeunt", 
     "line_id": 96322, 
-    "speaker": "First Senator"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20157,7 +20157,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "SCENE II. Before the walls of Athens.", 
     "line_id": 96323, 
-    "speaker": "First Senator"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20165,7 +20165,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter two Senators and a Messenger", 
     "line_id": 96324, 
-    "speaker": "First Senator"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -20293,7 +20293,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter the Senators from TIMON", 
     "line_id": 96340, 
-    "speaker": "First Senator"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.16", 
@@ -20333,7 +20333,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exeunt", 
     "line_id": 96345, 
-    "speaker": "Third Senator"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20341,7 +20341,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "SCENE III. The woods. Timon's cave, and a rude tomb seen.", 
     "line_id": 96346, 
-    "speaker": "Third Senator"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20349,7 +20349,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter a Soldier, seeking TIMON", 
     "line_id": 96347, 
-    "speaker": "Third Senator"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.1", 
@@ -20437,7 +20437,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exit", 
     "line_id": 96358, 
-    "speaker": "Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20445,7 +20445,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "SCENE IV. Before the walls of Athens.", 
     "line_id": 96359, 
-    "speaker": "Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20453,7 +20453,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Trumpets sound. Enter ALCIBIADES with his powers", 
     "line_id": 96360, 
-    "speaker": "Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.1", 
@@ -20477,7 +20477,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "A parley sounded", 
     "line_id": 96363, 
-    "speaker": "ALCIBIADES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20485,7 +20485,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter Senators on the walls", 
     "line_id": 96364, 
-    "speaker": "ALCIBIADES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.3", 
@@ -21077,7 +21077,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "The Senators descend, and open the gates", 
     "line_id": 96438, 
-    "speaker": "ALCIBIADES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21085,7 +21085,7 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Enter Soldier", 
     "line_id": 96439, 
-    "speaker": "ALCIBIADES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.76", 
@@ -21293,6 +21293,6 @@
     "play_name": "Timon of Athens", 
     "text_entry": "Exeunt", 
     "line_id": 96465, 
-    "speaker": "ALCIBIADES"
+    "speaker": "Stage Directions"
   }
 ]

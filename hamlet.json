@@ -5,7 +5,7 @@
     "play_name": "Hamlet", 
     "text_entry": "ACT I", 
     "line_id": 32433, 
-    "speaker": "CYMBELINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Hamlet", 
     "text_entry": "SCENE I. Elsinore. A platform before the castle.", 
     "line_id": 32434, 
-    "speaker": "CYMBELINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "Hamlet", 
     "text_entry": "FRANCISCO at his post. Enter to him BERNARDO", 
     "line_id": 32435, 
-    "speaker": "CYMBELINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -149,7 +149,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter HORATIO and MARCELLUS", 
     "line_id": 32451, 
-    "speaker": "FRANCISCO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.16", 
@@ -213,7 +213,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit", 
     "line_id": 32459, 
-    "speaker": "FRANCISCO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.23", 
@@ -429,7 +429,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter Ghost", 
     "line_id": 32486, 
-    "speaker": "BERNARDO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.49", 
@@ -549,7 +549,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit Ghost", 
     "line_id": 32501, 
-    "speaker": "HORATIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.63", 
@@ -1173,7 +1173,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Re-enter Ghost", 
     "line_id": 32579, 
-    "speaker": "HORATIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.140", 
@@ -1229,7 +1229,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Cock crows", 
     "line_id": 32586, 
-    "speaker": "HORATIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.146", 
@@ -1325,7 +1325,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit Ghost", 
     "line_id": 32598, 
-    "speaker": "MARCELLUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.157", 
@@ -1597,7 +1597,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt", 
     "line_id": 32632, 
-    "speaker": "MARCELLUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1605,7 +1605,7 @@
     "play_name": "Hamlet", 
     "text_entry": "SCENE II. A room of state in the castle.", 
     "line_id": 32633, 
-    "speaker": "MARCELLUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1613,7 +1613,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter KING CLAUDIUS, QUEEN GERTRUDE, HAMLET,  POLONIUS, LAERTES, VOLTIMAND, CORNELIUS, Lords, and Attendants", 
     "line_id": 32634, 
-    "speaker": "MARCELLUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -1949,7 +1949,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt VOLTIMAND and CORNELIUS", 
     "line_id": 32676, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.42", 
@@ -2669,7 +2669,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt all but HAMLET", 
     "line_id": 32766, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.131", 
@@ -2925,7 +2925,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter HORATIO, MARCELLUS, and BERNARDO", 
     "line_id": 32798, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.162", 
@@ -3805,7 +3805,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt all but HAMLET", 
     "line_id": 32908, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.271", 
@@ -3845,7 +3845,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit", 
     "line_id": 32913, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3853,7 +3853,7 @@
     "play_name": "Hamlet", 
     "text_entry": "SCENE III. A room in Polonius' house.", 
     "line_id": 32914, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3861,7 +3861,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter LAERTES and OPHELIA", 
     "line_id": 32915, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -4309,7 +4309,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter POLONIUS", 
     "line_id": 32971, 
-    "speaker": "LAERTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.56", 
@@ -4605,7 +4605,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit", 
     "line_id": 33008, 
-    "speaker": "LAERTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.92", 
@@ -5005,7 +5005,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt", 
     "line_id": 33058, 
-    "speaker": "OPHELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5013,7 +5013,7 @@
     "play_name": "Hamlet", 
     "text_entry": "SCENE IV. The platform.", 
     "line_id": 33059, 
-    "speaker": "OPHELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5021,7 +5021,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter HAMLET, HORATIO, and MARCELLUS", 
     "line_id": 33060, 
-    "speaker": "OPHELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.1", 
@@ -5085,7 +5085,7 @@
     "play_name": "Hamlet", 
     "text_entry": "A flourish of trumpets, and ordnance shot off, within", 
     "line_id": 33068, 
-    "speaker": "HORATIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.8", 
@@ -5365,7 +5365,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter Ghost", 
     "line_id": 33103, 
-    "speaker": "HORATIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.42", 
@@ -5525,7 +5525,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Ghost beckons HAMLET", 
     "line_id": 33123, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.61", 
@@ -5813,7 +5813,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt Ghost and HAMLET", 
     "line_id": 33159, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.96", 
@@ -5869,7 +5869,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt", 
     "line_id": 33166, 
-    "speaker": "MARCELLUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5877,7 +5877,7 @@
     "play_name": "Hamlet", 
     "text_entry": "SCENE V. Another part of the platform.", 
     "line_id": 33167, 
-    "speaker": "MARCELLUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5885,7 +5885,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter GHOST and HAMLET", 
     "line_id": 33168, 
-    "speaker": "MARCELLUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.1", 
@@ -6661,7 +6661,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit", 
     "line_id": 33265, 
-    "speaker": "Ghost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.97", 
@@ -6813,7 +6813,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Writing", 
     "line_id": 33284, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.115", 
@@ -6893,7 +6893,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter HORATIO and MARCELLUS", 
     "line_id": 33294, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.124", 
@@ -7517,7 +7517,7 @@
     "play_name": "Hamlet", 
     "text_entry": "They swear", 
     "line_id": 33372, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.201", 
@@ -7597,7 +7597,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt", 
     "line_id": 33382, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7605,7 +7605,7 @@
     "play_name": "Hamlet", 
     "text_entry": "ACT II", 
     "line_id": 33383, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7613,7 +7613,7 @@
     "play_name": "Hamlet", 
     "text_entry": "SCENE I. A room in POLONIUS' house.", 
     "line_id": 33384, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7621,7 +7621,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter POLONIUS and REYNALDO", 
     "line_id": 33385, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -8277,7 +8277,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit REYNALDO", 
     "line_id": 33467, 
-    "speaker": "LORD POLONIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8285,7 +8285,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter OPHELIA", 
     "line_id": 33468, 
-    "speaker": "LORD POLONIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.82", 
@@ -8693,7 +8693,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt", 
     "line_id": 33519, 
-    "speaker": "LORD POLONIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8701,7 +8701,7 @@
     "play_name": "Hamlet", 
     "text_entry": "SCENE II. A room in the castle.", 
     "line_id": 33520, 
-    "speaker": "LORD POLONIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8709,7 +8709,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter KING CLAUDIUS, QUEEN GERTRUDE, ROSENCRANTZ, GUILDENSTERN, and Attendants", 
     "line_id": 33521, 
-    "speaker": "LORD POLONIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -9053,7 +9053,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt ROSENCRANTZ, GUILDENSTERN, and some Attendants", 
     "line_id": 33564, 
-    "speaker": "QUEEN GERTRUDE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9061,7 +9061,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter POLONIUS", 
     "line_id": 33565, 
-    "speaker": "QUEEN GERTRUDE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.43", 
@@ -9181,7 +9181,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit POLONIUS", 
     "line_id": 33580, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.57", 
@@ -9229,7 +9229,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Re-enter POLONIUS, with VOLTIMAND and CORNELIUS", 
     "line_id": 33586, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.62", 
@@ -9389,7 +9389,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Giving a paper", 
     "line_id": 33606, 
-    "speaker": "VOLTIMAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.81", 
@@ -9477,7 +9477,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt VOLTIMAND and CORNELIUS", 
     "line_id": 33617, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.91", 
@@ -9677,7 +9677,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Reads", 
     "line_id": 33642, 
-    "speaker": "LORD POLONIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.115", 
@@ -9717,7 +9717,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Reads", 
     "line_id": 33647, 
-    "speaker": "LORD POLONIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.119", 
@@ -9749,7 +9749,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Reads", 
     "line_id": 33651, 
-    "speaker": "LORD POLONIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.122", 
@@ -10261,7 +10261,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt KING CLAUDIUS, QUEEN GERTRUDE, and Attendants", 
     "line_id": 33715, 
-    "speaker": "LORD POLONIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10269,7 +10269,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter HAMLET, reading", 
     "line_id": 33716, 
-    "speaker": "LORD POLONIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.185", 
@@ -10597,7 +10597,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Aside", 
     "line_id": 33757, 
-    "speaker": "LORD POLONIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.225", 
@@ -10693,7 +10693,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter ROSENCRANTZ and GUILDENSTERN", 
     "line_id": 33769, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.236", 
@@ -10717,7 +10717,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit POLONIUS", 
     "line_id": 33772, 
-    "speaker": "ROSENCRANTZ"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.238", 
@@ -11845,7 +11845,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Flourish of trumpets within", 
     "line_id": 33913, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.378", 
@@ -11941,7 +11941,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter POLONIUS", 
     "line_id": 33925, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.389", 
@@ -12269,7 +12269,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter four or five Players", 
     "line_id": 33966, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.429", 
@@ -13205,7 +13205,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit POLONIUS with all the Players but the First", 
     "line_id": 34083, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.545", 
@@ -13285,7 +13285,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit First Player", 
     "line_id": 34093, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.554", 
@@ -13325,7 +13325,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt ROSENCRANTZ and GUILDENSTERN", 
     "line_id": 34098, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.558", 
@@ -13805,7 +13805,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit", 
     "line_id": 34158, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13813,7 +13813,7 @@
     "play_name": "Hamlet", 
     "text_entry": "ACT III", 
     "line_id": 34159, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13821,7 +13821,7 @@
     "play_name": "Hamlet", 
     "text_entry": "SCENE I. A room in the castle.", 
     "line_id": 34160, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13829,7 +13829,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter KING CLAUDIUS, QUEEN GERTRUDE, POLONIUS, OPHELIA, ROSENCRANTZ, and GUILDENSTERN", 
     "line_id": 34161, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -14085,7 +14085,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt ROSENCRANTZ and GUILDENSTERN", 
     "line_id": 34193, 
-    "speaker": "ROSENCRANTZ"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.32", 
@@ -14229,7 +14229,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit QUEEN GERTRUDE", 
     "line_id": 34211, 
-    "speaker": "OPHELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.49", 
@@ -14253,7 +14253,7 @@
     "play_name": "Hamlet", 
     "text_entry": "To OPHELIA", 
     "line_id": 34214, 
-    "speaker": "LORD POLONIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.51", 
@@ -14365,7 +14365,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt KING CLAUDIUS and POLONIUS", 
     "line_id": 34228, 
-    "speaker": "LORD POLONIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14373,7 +14373,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter HAMLET", 
     "line_id": 34229, 
-    "speaker": "LORD POLONIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.64", 
@@ -15173,7 +15173,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit", 
     "line_id": 34329, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.163", 
@@ -15277,7 +15277,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Re-enter KING CLAUDIUS and POLONIUS", 
     "line_id": 34342, 
-    "speaker": "OPHELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.175", 
@@ -15509,7 +15509,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt", 
     "line_id": 34371, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15517,7 +15517,7 @@
     "play_name": "Hamlet", 
     "text_entry": "SCENE II. A hall in the castle.", 
     "line_id": 34372, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15525,7 +15525,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter HAMLET and Players", 
     "line_id": 34373, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -15901,7 +15901,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt Players", 
     "line_id": 34420, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15909,7 +15909,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter POLONIUS, ROSENCRANTZ, and GUILDENSTERN", 
     "line_id": 34421, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.47", 
@@ -15941,7 +15941,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit POLONIUS", 
     "line_id": 34425, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.50", 
@@ -15965,7 +15965,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt ROSENCRANTZ and GUILDENSTERN", 
     "line_id": 34428, 
-    "speaker": "GUILDENSTERN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.52", 
@@ -15981,7 +15981,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter HORATIO", 
     "line_id": 34430, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.53", 
@@ -16317,7 +16317,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Danish march. A flourish. Enter KING CLAUDIUS,  QUEEN GERTRUDE, POLONIUS, OPHELIA, ROSENCRANTZ, GUILDENSTERN, and others", 
     "line_id": 34472, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.94", 
@@ -16373,7 +16373,7 @@
     "play_name": "Hamlet", 
     "text_entry": "To POLONIUS", 
     "line_id": 34479, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.100", 
@@ -16477,7 +16477,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Lying down at OPHELIA's feet", 
     "line_id": 34492, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.112", 
@@ -16669,7 +16669,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Hautboys play. The dumb-show enters", 
     "line_id": 34516, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16677,7 +16677,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter a King and a Queen very lovingly; the Queen  embracing him, and he her. She kneels, and makes  show of protestation unto him. He takes her up,  and declines his head upon her neck: lays him down  upon a bank of flowers: she, seeing him asleep,  leaves him. Anon comes in a fellow, takes off his  crown, kisses it, and pours poison in the King's  ears, and exit. The Queen returns; finds the King  dead, and makes passionate action. The Poisoner,  with some two or three Mutes, comes in again,  seeming to lament with her. The dead body is  carried away. The Poisoner wooes the Queen with  gifts: she seems loath and unwilling awhile, but in the end accepts his love", 
     "line_id": 34517, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16685,7 +16685,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt", 
     "line_id": 34518, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.135", 
@@ -16717,7 +16717,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter Prologue", 
     "line_id": 34522, 
-    "speaker": "OPHELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.138", 
@@ -16797,7 +16797,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit", 
     "line_id": 34532, 
-    "speaker": "Prologue"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.147", 
@@ -16829,7 +16829,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter two Players, King and Queen", 
     "line_id": 34536, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.150", 
@@ -17429,7 +17429,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Sleeps", 
     "line_id": 34611, 
-    "speaker": "Player King"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.224", 
@@ -17453,7 +17453,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit", 
     "line_id": 34614, 
-    "speaker": "Player Queen"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.226", 
@@ -17573,7 +17573,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter LUCIANUS", 
     "line_id": 34629, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.240", 
@@ -17709,7 +17709,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Pours the poison into the sleeper's ears", 
     "line_id": 34646, 
-    "speaker": "LUCIANUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.256", 
@@ -17797,7 +17797,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt all but HAMLET and HORATIO", 
     "line_id": 34657, 
-    "speaker": "All"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.266", 
@@ -17997,7 +17997,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Re-enter ROSENCRANTZ and GUILDENSTERN", 
     "line_id": 34682, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.290", 
@@ -18381,7 +18381,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Re-enter Players with recorders", 
     "line_id": 34730, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.337", 
@@ -18613,7 +18613,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter POLONIUS", 
     "line_id": 34759, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.365", 
@@ -18725,7 +18725,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit POLONIUS", 
     "line_id": 34773, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.378", 
@@ -18741,7 +18741,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt all but HAMLET", 
     "line_id": 34775, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.379", 
@@ -18845,7 +18845,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit", 
     "line_id": 34788, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18853,7 +18853,7 @@
     "play_name": "Hamlet", 
     "text_entry": "SCENE III. A room in the castle.", 
     "line_id": 34789, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18861,7 +18861,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter KING CLAUDIUS, ROSENCRANTZ, and GUILDENSTERN", 
     "line_id": 34790, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -19093,7 +19093,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt ROSENCRANTZ and GUILDENSTERN", 
     "line_id": 34819, 
-    "speaker": "GUILDENSTERN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19101,7 +19101,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter POLONIUS", 
     "line_id": 34820, 
-    "speaker": "GUILDENSTERN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.29", 
@@ -19189,7 +19189,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit POLONIUS", 
     "line_id": 34831, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.39", 
@@ -19493,7 +19493,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Retires and kneels", 
     "line_id": 34869, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19501,7 +19501,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter HAMLET", 
     "line_id": 34870, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.76", 
@@ -19701,7 +19701,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit", 
     "line_id": 34895, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.100", 
@@ -19725,7 +19725,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit", 
     "line_id": 34898, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19733,7 +19733,7 @@
     "play_name": "Hamlet", 
     "text_entry": "SCENE IV. The Queen's closet.", 
     "line_id": 34899, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19741,7 +19741,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter QUEEN GERTRUDE and POLONIUS", 
     "line_id": 34900, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.1", 
@@ -19813,7 +19813,7 @@
     "play_name": "Hamlet", 
     "text_entry": "POLONIUS hides behind the arras", 
     "line_id": 34909, 
-    "speaker": "QUEEN GERTRUDE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19821,7 +19821,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter HAMLET", 
     "line_id": 34910, 
-    "speaker": "QUEEN GERTRUDE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.9", 
@@ -19981,7 +19981,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Makes a pass through the arras", 
     "line_id": 34930, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.28", 
@@ -19997,7 +19997,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Falls and dies", 
     "line_id": 34932, 
-    "speaker": "LORD POLONIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.29", 
@@ -20069,7 +20069,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Lifts up the array and discovers POLONIUS", 
     "line_id": 34941, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.37", 
@@ -20709,7 +20709,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter Ghost", 
     "line_id": 35021, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.116", 
@@ -21005,7 +21005,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit Ghost", 
     "line_id": 35058, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.152", 
@@ -21309,7 +21309,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Pointing to POLONIUS", 
     "line_id": 35096, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.189", 
@@ -21693,7 +21693,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt severally; HAMLET dragging in POLONIUS", 
     "line_id": 35144, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.235", 
@@ -21701,7 +21701,7 @@
     "play_name": "Hamlet", 
     "text_entry": "ACT IV", 
     "line_id": 35145, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.235", 
@@ -21709,7 +21709,7 @@
     "play_name": "Hamlet", 
     "text_entry": "SCENE I. A room in the castle.", 
     "line_id": 35146, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21717,7 +21717,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter KING CLAUDIUS, QUEEN GERTRUDE, ROSENCRANTZ, and GUILDENSTERN", 
     "line_id": 35147, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -21757,7 +21757,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt ROSENCRANTZ and GUILDENSTERN", 
     "line_id": 35152, 
-    "speaker": "QUEEN GERTRUDE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.5", 
@@ -21997,7 +21997,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Re-enter ROSENCRANTZ and GUILDENSTERN", 
     "line_id": 35182, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.34", 
@@ -22045,7 +22045,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt ROSENCRANTZ and GUILDENSTERN", 
     "line_id": 35188, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.39", 
@@ -22085,7 +22085,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt", 
     "line_id": 35193, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22093,7 +22093,7 @@
     "play_name": "Hamlet", 
     "text_entry": "SCENE II. Another room in the castle.", 
     "line_id": 35194, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22101,7 +22101,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter HAMLET", 
     "line_id": 35195, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -22157,7 +22157,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter ROSENCRANTZ and GUILDENSTERN", 
     "line_id": 35202, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.5", 
@@ -22373,7 +22373,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt", 
     "line_id": 35229, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22381,7 +22381,7 @@
     "play_name": "Hamlet", 
     "text_entry": "SCENE III. Another room in the castle.", 
     "line_id": 35230, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22389,7 +22389,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter KING CLAUDIUS, attended", 
     "line_id": 35231, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -22485,7 +22485,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter ROSENCRANTZ", 
     "line_id": 35243, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.12", 
@@ -22549,7 +22549,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter HAMLET and GUILDENSTERN", 
     "line_id": 35251, 
-    "speaker": "ROSENCRANTZ"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.19", 
@@ -22741,7 +22741,7 @@
     "play_name": "Hamlet", 
     "text_entry": "To some Attendants", 
     "line_id": 35275, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.42", 
@@ -22757,7 +22757,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt Attendants", 
     "line_id": 35277, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.43", 
@@ -22893,7 +22893,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit", 
     "line_id": 35294, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.59", 
@@ -22933,7 +22933,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt ROSENCRANTZ and GUILDENSTERN", 
     "line_id": 35299, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.63", 
@@ -23029,7 +23029,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit", 
     "line_id": 35311, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23037,7 +23037,7 @@
     "play_name": "Hamlet", 
     "text_entry": "SCENE IV. A plain in Denmark.", 
     "line_id": 35312, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23045,7 +23045,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter FORTINBRAS, a Captain, and Soldiers, marching", 
     "line_id": 35313, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.1", 
@@ -23125,7 +23125,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt FORTINBRAS and Soldiers", 
     "line_id": 35323, 
-    "speaker": "PRINCE FORTINBRAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23133,7 +23133,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter HAMLET, ROSENCRANTZ, GUILDENSTERN, and others", 
     "line_id": 35324, 
-    "speaker": "PRINCE FORTINBRAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.10", 
@@ -23317,7 +23317,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit", 
     "line_id": 35347, 
-    "speaker": "Captain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.32", 
@@ -23341,7 +23341,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt all except HAMLET", 
     "line_id": 35350, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.34", 
@@ -23629,7 +23629,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit", 
     "line_id": 35386, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23637,7 +23637,7 @@
     "play_name": "Hamlet", 
     "text_entry": "SCENE V. Elsinore. A room in the castle.", 
     "line_id": 35387, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23645,7 +23645,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter QUEEN GERTRUDE, HORATIO, and a Gentleman", 
     "line_id": 35388, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.1", 
@@ -23797,7 +23797,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit HORATIO", 
     "line_id": 35407, 
-    "speaker": "QUEEN GERTRUDE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.19", 
@@ -23837,7 +23837,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Re-enter HORATIO, with OPHELIA", 
     "line_id": 35412, 
-    "speaker": "QUEEN GERTRUDE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.23", 
@@ -23861,7 +23861,7 @@
     "play_name": "Hamlet", 
     "text_entry": "[Sings]", 
     "line_id": 35415, 
-    "speaker": "OPHELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.26", 
@@ -23917,7 +23917,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Sings", 
     "line_id": 35422, 
-    "speaker": "OPHELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.32", 
@@ -23973,7 +23973,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Sings", 
     "line_id": 35429, 
-    "speaker": "OPHELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.38", 
@@ -23989,7 +23989,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter KING CLAUDIUS", 
     "line_id": 35431, 
-    "speaker": "OPHELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.39", 
@@ -24005,7 +24005,7 @@
     "play_name": "Hamlet", 
     "text_entry": "[Sings]", 
     "line_id": 35433, 
-    "speaker": "OPHELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.41", 
@@ -24093,7 +24093,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Sings", 
     "line_id": 35444, 
-    "speaker": "OPHELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.51", 
@@ -24181,7 +24181,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Sings", 
     "line_id": 35455, 
-    "speaker": "OPHELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.61", 
@@ -24309,7 +24309,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit", 
     "line_id": 35471, 
-    "speaker": "OPHELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.76", 
@@ -24333,7 +24333,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit HORATIO", 
     "line_id": 35474, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.78", 
@@ -24509,7 +24509,7 @@
     "play_name": "Hamlet", 
     "text_entry": "A noise within", 
     "line_id": 35496, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.99", 
@@ -24533,7 +24533,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter another Gentleman", 
     "line_id": 35499, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.101", 
@@ -24661,7 +24661,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Noise within", 
     "line_id": 35515, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -24669,7 +24669,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter LAERTES, armed; Danes following", 
     "line_id": 35516, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.116", 
@@ -24709,7 +24709,7 @@
     "play_name": "Hamlet", 
     "text_entry": "They retire without the door", 
     "line_id": 35521, 
-    "speaker": "Danes"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.120", 
@@ -25101,7 +25101,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Re-enter OPHELIA", 
     "line_id": 35570, 
-    "speaker": "LAERTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.168", 
@@ -25189,7 +25189,7 @@
     "play_name": "Hamlet", 
     "text_entry": "[Sings]", 
     "line_id": 35581, 
-    "speaker": "OPHELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.179", 
@@ -25245,7 +25245,7 @@
     "play_name": "Hamlet", 
     "text_entry": "[Sings]", 
     "line_id": 35588, 
-    "speaker": "OPHELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.186", 
@@ -25365,7 +25365,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Sings", 
     "line_id": 35603, 
-    "speaker": "OPHELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.200", 
@@ -25397,7 +25397,7 @@
     "play_name": "Hamlet", 
     "text_entry": "[Sings]", 
     "line_id": 35607, 
-    "speaker": "OPHELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.204", 
@@ -25493,7 +25493,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit", 
     "line_id": 35619, 
-    "speaker": "OPHELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.215", 
@@ -25669,7 +25669,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt", 
     "line_id": 35641, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -25677,7 +25677,7 @@
     "play_name": "Hamlet", 
     "text_entry": "SCENE VI. Another room in the castle.", 
     "line_id": 35642, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -25685,7 +25685,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter HORATIO and a Servant", 
     "line_id": 35643, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.1", 
@@ -25717,7 +25717,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit Servant", 
     "line_id": 35647, 
-    "speaker": "HORATIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.4", 
@@ -25741,7 +25741,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter Sailors", 
     "line_id": 35650, 
-    "speaker": "HORATIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.6", 
@@ -25973,7 +25973,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt", 
     "line_id": 35679, 
-    "speaker": "HORATIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -25981,7 +25981,7 @@
     "play_name": "Hamlet", 
     "text_entry": "SCENE VII. Another room in the castle.", 
     "line_id": 35680, 
-    "speaker": "HORATIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -25989,7 +25989,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter KING CLAUDIUS and LAERTES", 
     "line_id": 35681, 
-    "speaker": "HORATIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.1", 
@@ -26293,7 +26293,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter a Messenger", 
     "line_id": 35719, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.38", 
@@ -26365,7 +26365,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit Messenger", 
     "line_id": 35728, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -26373,7 +26373,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Reads", 
     "line_id": 35729, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.46", 
@@ -27429,7 +27429,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter QUEEN GERTRUDE", 
     "line_id": 35861, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.177", 
@@ -27685,7 +27685,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit", 
     "line_id": 35893, 
-    "speaker": "LAERTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.208", 
@@ -27725,7 +27725,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt", 
     "line_id": 35898, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27733,7 +27733,7 @@
     "play_name": "Hamlet", 
     "text_entry": "ACT V", 
     "line_id": 35899, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27741,7 +27741,7 @@
     "play_name": "Hamlet", 
     "text_entry": "SCENE I. A churchyard.", 
     "line_id": 35900, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -28197,7 +28197,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter HAMLET and HORATIO, at a distance", 
     "line_id": 35957, 
-    "speaker": "Second Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.56", 
@@ -28253,7 +28253,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit Second Clown", 
     "line_id": 35964, 
-    "speaker": "First Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -28261,7 +28261,7 @@
     "play_name": "Hamlet", 
     "text_entry": "He digs and sings", 
     "line_id": 35965, 
-    "speaker": "First Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.62", 
@@ -28341,7 +28341,7 @@
     "play_name": "Hamlet", 
     "text_entry": "[Sings]", 
     "line_id": 35975, 
-    "speaker": "First Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.72", 
@@ -28381,7 +28381,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Throws up a skull", 
     "line_id": 35980, 
-    "speaker": "First Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.76", 
@@ -28525,7 +28525,7 @@
     "play_name": "Hamlet", 
     "text_entry": "[Sings]", 
     "line_id": 35998, 
-    "speaker": "First Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.94", 
@@ -28565,7 +28565,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Throws up another skull", 
     "line_id": 36003, 
-    "speaker": "First Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.98", 
@@ -28749,7 +28749,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Sings", 
     "line_id": 36026, 
-    "speaker": "First Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.120", 
@@ -29245,7 +29245,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Takes the skull", 
     "line_id": 36088, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.181", 
@@ -29397,7 +29397,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Puts down the skull", 
     "line_id": 36107, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.199", 
@@ -29581,7 +29581,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Retiring with HORATIO", 
     "line_id": 36130, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.220", 
@@ -29789,7 +29789,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Scattering flowers", 
     "line_id": 36156, 
-    "speaker": "QUEEN GERTRUDE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.245", 
@@ -29861,7 +29861,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Leaps into the grave", 
     "line_id": 36165, 
-    "speaker": "LAERTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.253", 
@@ -29941,7 +29941,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Leaps into the grave", 
     "line_id": 36175, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.262", 
@@ -29957,7 +29957,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Grappling with him", 
     "line_id": 36177, 
-    "speaker": "LAERTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.263", 
@@ -30037,7 +30037,7 @@
     "play_name": "Hamlet", 
     "text_entry": "The Attendants part them, and they come out of the grave", 
     "line_id": 36187, 
-    "speaker": "HORATIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.272", 
@@ -30277,7 +30277,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit", 
     "line_id": 36217, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.301", 
@@ -30293,7 +30293,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit HORATIO", 
     "line_id": 36219, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -30301,7 +30301,7 @@
     "play_name": "Hamlet", 
     "text_entry": "To LAERTES", 
     "line_id": 36220, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.302", 
@@ -30357,7 +30357,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exeunt", 
     "line_id": 36227, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -30365,7 +30365,7 @@
     "play_name": "Hamlet", 
     "text_entry": "SCENE II. A hall in the castle.", 
     "line_id": 36228, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -30373,7 +30373,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter HAMLET and HORATIO", 
     "line_id": 36229, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -31069,7 +31069,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter OSRIC", 
     "line_id": 36316, 
-    "speaker": "HORATIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.87", 
@@ -31261,7 +31261,7 @@
     "play_name": "Hamlet", 
     "text_entry": "HAMLET moves him to put on his hat", 
     "line_id": 36340, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.110", 
@@ -31829,7 +31829,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit OSRIC", 
     "line_id": 36411, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.180", 
@@ -31917,7 +31917,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter a Lord", 
     "line_id": 36422, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.190", 
@@ -32021,7 +32021,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Exit Lord", 
     "line_id": 36435, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.202", 
@@ -32181,7 +32181,7 @@
     "play_name": "Hamlet", 
     "text_entry": "KING CLAUDIUS puts LAERTES' hand into HAMLET's", 
     "line_id": 36455, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.220", 
@@ -32549,7 +32549,7 @@
     "play_name": "Hamlet", 
     "text_entry": "They prepare to play", 
     "line_id": 36501, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.265", 
@@ -32685,7 +32685,7 @@
     "play_name": "Hamlet", 
     "text_entry": "They play", 
     "line_id": 36518, 
-    "speaker": "LAERTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.281", 
@@ -32749,7 +32749,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Trumpets sound, and cannon shot off within", 
     "line_id": 36526, 
-    "speaker": "KING CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.288", 
@@ -32773,7 +32773,7 @@
     "play_name": "Hamlet", 
     "text_entry": "They play", 
     "line_id": 36529, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.290", 
@@ -32933,7 +32933,7 @@
     "play_name": "Hamlet", 
     "text_entry": "They play", 
     "line_id": 36549, 
-    "speaker": "LAERTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.309", 
@@ -32957,7 +32957,7 @@
     "play_name": "Hamlet", 
     "text_entry": "LAERTES wounds HAMLET; then in scuffling, they change rapiers, and HAMLET wounds LAERTES", 
     "line_id": 36552, 
-    "speaker": "LAERTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.311", 
@@ -32981,7 +32981,7 @@
     "play_name": "Hamlet", 
     "text_entry": "QUEEN GERTRUDE falls", 
     "line_id": 36555, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.313", 
@@ -33061,7 +33061,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Dies", 
     "line_id": 36565, 
-    "speaker": "QUEEN GERTRUDE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.322", 
@@ -33165,7 +33165,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Stabs KING CLAUDIUS", 
     "line_id": 36578, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.334", 
@@ -33213,7 +33213,7 @@
     "play_name": "Hamlet", 
     "text_entry": "KING CLAUDIUS dies", 
     "line_id": 36584, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.339", 
@@ -33261,7 +33261,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Dies", 
     "line_id": 36590, 
-    "speaker": "LAERTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.344", 
@@ -33429,7 +33429,7 @@
     "play_name": "Hamlet", 
     "text_entry": "March afar off, and shot within", 
     "line_id": 36611, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.364", 
@@ -33525,7 +33525,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Dies", 
     "line_id": 36623, 
-    "speaker": "HAMLET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.375", 
@@ -33557,7 +33557,7 @@
     "play_name": "Hamlet", 
     "text_entry": "March within", 
     "line_id": 36627, 
-    "speaker": "HORATIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -33565,7 +33565,7 @@
     "play_name": "Hamlet", 
     "text_entry": "Enter FORTINBRAS, the English Ambassadors, and others", 
     "line_id": 36628, 
-    "speaker": "HORATIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.378", 
@@ -33949,6 +33949,6 @@
     "play_name": "Hamlet", 
     "text_entry": "A dead march. Exeunt, bearing off the dead bodies; after which a peal of ordnance is shot off", 
     "line_id": 36676, 
-    "speaker": "PRINCE FORTINBRAS"
+    "speaker": "Stage Directions"
   }
 ]

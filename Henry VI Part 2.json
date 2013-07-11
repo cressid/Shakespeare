@@ -5,7 +5,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "ACT I", 
     "line_id": 6189, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE I. London. The palace.", 
     "line_id": 6190, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Flourish of trumpets: then hautboys. Enter KING  HENRY VI, GLOUCESTER, SALISBURY, WARWICK, and  CARDINAL, on the one side; QUEEN MARGARET, SUFFOLK, YORK, SOMERSET, and BUCKINGHAM, on the other", 
     "line_id": 6191, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -341,7 +341,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Flourish", 
     "line_id": 6231, 
-    "speaker": "QUEEN MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.40", 
@@ -453,7 +453,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Lets the paper fall", 
     "line_id": 6245, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.53", 
@@ -637,7 +637,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt KING HENRY VI, QUEEN MARGARET, and SUFFOLK", 
     "line_id": 6268, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.75", 
@@ -1221,7 +1221,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit", 
     "line_id": 6341, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.147", 
@@ -1437,7 +1437,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit", 
     "line_id": 6368, 
-    "speaker": "CARDINAL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.173", 
@@ -1509,7 +1509,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt BUCKINGHAM and SOMERSET", 
     "line_id": 6377, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.181", 
@@ -1789,7 +1789,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt WARWICK and SALISBURY", 
     "line_id": 6412, 
-    "speaker": "WARWICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.215", 
@@ -2165,7 +2165,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit", 
     "line_id": 6459, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2173,7 +2173,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE II. GLOUCESTER'S house.", 
     "line_id": 6460, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2181,7 +2181,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter GLOUCESTER and his DUCHESS", 
     "line_id": 6461, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -2629,7 +2629,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter Messenger", 
     "line_id": 6517, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.56", 
@@ -2677,7 +2677,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt GLOUCESTER and Messenger", 
     "line_id": 6523, 
-    "speaker": "DUCHESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.61", 
@@ -2757,7 +2757,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter HUME", 
     "line_id": 6533, 
-    "speaker": "DUCHESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.70", 
@@ -2901,7 +2901,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit", 
     "line_id": 6551, 
-    "speaker": "DUCHESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.87", 
@@ -3077,7 +3077,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit", 
     "line_id": 6573, 
-    "speaker": "HUME"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3085,7 +3085,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE III. The palace.", 
     "line_id": 6574, 
-    "speaker": "HUME"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3093,7 +3093,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter three or four Petitioners, PETER, the Armourer's man, being one", 
     "line_id": 6575, 
-    "speaker": "HUME"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -3141,7 +3141,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter SUFFOLK and QUEEN MARGARET", 
     "line_id": 6581, 
-    "speaker": "Second Petitioner"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.6", 
@@ -3269,7 +3269,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Reads", 
     "line_id": 6597, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.21", 
@@ -3365,7 +3365,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter Servant", 
     "line_id": 6609, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.32", 
@@ -3397,7 +3397,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit Servant with PETER", 
     "line_id": 6613, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.35", 
@@ -3429,7 +3429,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Tears the supplication", 
     "line_id": 6617, 
-    "speaker": "QUEEN MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.38", 
@@ -3453,7 +3453,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt", 
     "line_id": 6620, 
-    "speaker": "ALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.40", 
@@ -3933,7 +3933,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Sound a sennet. Enter KING HENRY VI, GLOUCESTER,  CARDINAL, BUCKINGHAM, YORK, SOMERSET, SALISBURY, WARWICK, and the DUCHESS", 
     "line_id": 6680, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.99", 
@@ -4237,7 +4237,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit GLOUCESTER. QUEEN MARGARET drops her fan", 
     "line_id": 6718, 
-    "speaker": "QUEEN MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.136", 
@@ -4253,7 +4253,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "She gives the DUCHESS a box on the ear", 
     "line_id": 6720, 
-    "speaker": "QUEEN MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.137", 
@@ -4333,7 +4333,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit", 
     "line_id": 6730, 
-    "speaker": "DUCHESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.146", 
@@ -4373,7 +4373,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit", 
     "line_id": 6735, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4381,7 +4381,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Re-enter GLOUCESTER", 
     "line_id": 6736, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.150", 
@@ -4589,7 +4589,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter HORNER, the Armourer, and his man PETER, guarded", 
     "line_id": 6762, 
-    "speaker": "WARWICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.175", 
@@ -4957,7 +4957,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Flourish. Exeunt", 
     "line_id": 6808, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4965,7 +4965,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE IV. GLOUCESTER's garden.", 
     "line_id": 6809, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4973,7 +4973,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter MARGARET JOURDAIN, HUME, SOUTHWELL, and BOLINGBROKE", 
     "line_id": 6810, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.1", 
@@ -5061,7 +5061,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit HUME", 
     "line_id": 6821, 
-    "speaker": "BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.11", 
@@ -5093,7 +5093,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter the DUCHESS aloft, HUME following", 
     "line_id": 6825, 
-    "speaker": "BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.14", 
@@ -5245,7 +5245,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Reading out of a paper", 
     "line_id": 6844, 
-    "speaker": "BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.31", 
@@ -5269,7 +5269,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "As the Spirit speaks, SOUTHWELL writes the answer", 
     "line_id": 6847, 
-    "speaker": "Spirit"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.33", 
@@ -5349,7 +5349,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Thunder and lightning. Exit Spirit", 
     "line_id": 6857, 
-    "speaker": "BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5357,7 +5357,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter YORK and BUCKINGHAM with their Guard and break in", 
     "line_id": 6858, 
-    "speaker": "BOLINGBROKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.42", 
@@ -5461,7 +5461,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt above DUCHESS and HUME, guarded", 
     "line_id": 6871, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.54", 
@@ -5525,7 +5525,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Reads", 
     "line_id": 6879, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.60", 
@@ -5717,7 +5717,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter a Servingman", 
     "line_id": 6903, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.83", 
@@ -5741,7 +5741,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt", 
     "line_id": 6906, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5749,7 +5749,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "ACT II", 
     "line_id": 6907, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5757,7 +5757,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE I. Saint Alban's.", 
     "line_id": 6908, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5765,7 +5765,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter KING HENRY VI, QUEEN MARGARET, GLOUCESTER, CARDINAL, and SUFFOLK, with Falconers halloing", 
     "line_id": 6909, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -6181,7 +6181,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Aside to GLOUCESTER", 
     "line_id": 6961, 
-    "speaker": "CARDINAL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.52", 
@@ -6245,7 +6245,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Aside to CARDINAL", 
     "line_id": 6969, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.59", 
@@ -6317,7 +6317,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter a Townsman of Saint Alban's, crying 'A miracle!'", 
     "line_id": 6978, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.67", 
@@ -6397,7 +6397,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter the Mayor of Saint Alban's and his  brethren, bearing SIMPCOX, between two in a chair, SIMPCOX's Wife following", 
     "line_id": 6988, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.76", 
@@ -7029,7 +7029,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit an Attendant", 
     "line_id": 7067, 
-    "speaker": "Mayor"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.154", 
@@ -7077,7 +7077,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter a Beadle with whips", 
     "line_id": 7073, 
-    "speaker": "SIMPCOX"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.159", 
@@ -7125,7 +7125,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "After the Beadle hath hit him once, he leaps over the stool and runs away; and they follow and cry, 'A miracle!'", 
     "line_id": 7079, 
-    "speaker": "SIMPCOX"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.164", 
@@ -7221,7 +7221,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter BUCKINGHAM", 
     "line_id": 7091, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.174", 
@@ -7565,7 +7565,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Flourish. Exeunt", 
     "line_id": 7134, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7573,7 +7573,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE II. London. YORK'S garden.", 
     "line_id": 7135, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7581,7 +7581,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter YORK, SALISBURY, and WARWICK", 
     "line_id": 7136, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -8253,7 +8253,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt", 
     "line_id": 7220, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8261,7 +8261,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE III. A hall of justice.", 
     "line_id": 7221, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8269,7 +8269,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Sound trumpets. Enter KING HENRY VI, QUEEN  MARGARET, GLOUCESTER, YORK, SUFFOLK, and SALISBURY;  the DUCHESS, MARGARET JOURDAIN, SOUTHWELL, HUME, and BOLINGBROKE, under guard", 
     "line_id": 7222, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -8405,7 +8405,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt DUCHESS and other prisoners, guarded", 
     "line_id": 7239, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.17", 
@@ -8589,7 +8589,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit", 
     "line_id": 7262, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.39", 
@@ -8757,7 +8757,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter at one door, HORNER, the Armourer, and his  Neighbours, drinking to him so much that he is drunk;  and he enters with a drum before him and his staff  with a sand-bag fastened to it; and at the other  door PETER, his man, with a drum and sand-bag, and 'Prentices drinking to him", 
     "line_id": 7283, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.59", 
@@ -9013,7 +9013,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Alarum. They fight, and PETER strikes him down", 
     "line_id": 7315, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.90", 
@@ -9029,7 +9029,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Dies", 
     "line_id": 7317, 
-    "speaker": "HORNER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.91", 
@@ -9117,7 +9117,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Sound a flourish. Exeunt", 
     "line_id": 7328, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9125,7 +9125,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE IV. A street.", 
     "line_id": 7329, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9133,7 +9133,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter GLOUCESTER and his Servingmen, in mourning cloaks", 
     "line_id": 7330, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.1", 
@@ -9277,7 +9277,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter the DUCHESS in a white sheet, and a taper  burning in her hand; with STANLEY, the Sheriff, and Officers", 
     "line_id": 7348, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.18", 
@@ -9709,7 +9709,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter a Herald", 
     "line_id": 7402, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.71", 
@@ -9749,7 +9749,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit Herald", 
     "line_id": 7407, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.75", 
@@ -9861,7 +9861,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt GLOUCESTER and Servingmen", 
     "line_id": 7421, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.88", 
@@ -10061,7 +10061,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt", 
     "line_id": 7446, 
-    "speaker": "DUCHESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10069,7 +10069,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "ACT III", 
     "line_id": 7447, 
-    "speaker": "DUCHESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10077,7 +10077,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE I. The Abbey at Bury St. Edmund's.", 
     "line_id": 7448, 
-    "speaker": "DUCHESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10085,7 +10085,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Sound a sennet. Enter KING HENRY VI, QUEEN  MARGARET, CARDINAL, SUFFOLK, YORK, BUCKINGHAM, SALISBURY and WARWICK to the Parliament", 
     "line_id": 7449, 
-    "speaker": "DUCHESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -10749,7 +10749,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter SOMERSET", 
     "line_id": 7532, 
-    "speaker": "QUEEN MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.83", 
@@ -10845,7 +10845,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter GLOUCESTER", 
     "line_id": 7544, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.94", 
@@ -11677,7 +11677,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit, guarded", 
     "line_id": 7648, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.197", 
@@ -11909,7 +11909,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt all but QUEEN MARGARET, CARDINAL, SUFFOLK, and YORK; SOMERSET remains apart", 
     "line_id": 7677, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.225", 
@@ -12389,7 +12389,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter a Post", 
     "line_id": 7737, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.284", 
@@ -12789,7 +12789,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt all but YORK", 
     "line_id": 7787, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.333", 
@@ -13237,7 +13237,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit", 
     "line_id": 7843, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13245,7 +13245,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE II. Bury St. Edmund's. A room of state.", 
     "line_id": 7844, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13253,7 +13253,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter certain Murderers, hastily", 
     "line_id": 7845, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -13293,7 +13293,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter SUFFOLK", 
     "line_id": 7850, 
-    "speaker": "Second Murderer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.5", 
@@ -13381,7 +13381,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt Murderers", 
     "line_id": 7861, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13389,7 +13389,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Sound trumpets. Enter KING HENRY VI, QUEEN MARGARET, CARDINAL, SOMERSET, with Attendants", 
     "line_id": 7862, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.15", 
@@ -13429,7 +13429,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit", 
     "line_id": 7867, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.19", 
@@ -13501,7 +13501,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Re-enter SUFFOLK", 
     "line_id": 7876, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.27", 
@@ -13557,7 +13557,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "KING HENRY VI swoons", 
     "line_id": 7883, 
-    "speaker": "CARDINAL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.33", 
@@ -14285,7 +14285,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Noise within. Enter WARWICK, SALISBURY, and many Commons", 
     "line_id": 7974, 
-    "speaker": "QUEEN MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.123", 
@@ -14405,7 +14405,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit", 
     "line_id": 7989, 
-    "speaker": "WARWICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.137", 
@@ -14517,7 +14517,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Re-enter WARWICK and others, bearing GLOUCESTER'S body on a bed", 
     "line_id": 8003, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.150", 
@@ -14957,7 +14957,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt CARDINAL, SOMERSET, and others", 
     "line_id": 8058, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.204", 
@@ -15197,7 +15197,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt SUFFOLK and WARWICK", 
     "line_id": 8088, 
-    "speaker": "WARWICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.233", 
@@ -15237,7 +15237,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "A noise within", 
     "line_id": 8093, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.237", 
@@ -15253,7 +15253,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Re-enter SUFFOLK and WARWICK, with their weapons drawn", 
     "line_id": 8095, 
-    "speaker": "QUEEN MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.238", 
@@ -15693,7 +15693,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit SALISBURY", 
     "line_id": 8150, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.292", 
@@ -15789,7 +15789,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt all but QUEEN MARGARET and SUFFOLK", 
     "line_id": 8162, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.303", 
@@ -16333,7 +16333,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter VAUX", 
     "line_id": 8230, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.370", 
@@ -16445,7 +16445,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit VAUX", 
     "line_id": 8244, 
-    "speaker": "QUEEN MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.383", 
@@ -16733,7 +16733,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt severally", 
     "line_id": 8280, 
-    "speaker": "QUEEN MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16741,7 +16741,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE III. A bedchamber.", 
     "line_id": 8281, 
-    "speaker": "QUEEN MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16749,7 +16749,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter the KING, SALISBURY, WARWICK, to the CARDINAL in bed", 
     "line_id": 8282, 
-    "speaker": "QUEEN MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -17029,7 +17029,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt", 
     "line_id": 8317, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17037,7 +17037,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "ACT IV", 
     "line_id": 8318, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17045,7 +17045,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE I. The coast of Kent.", 
     "line_id": 8319, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17053,7 +17053,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Alarum. Fight at sea. Ordnance goes off. Enter a  Captain, a Master, a Master's-mate, WALTER WHITMORE, and others; with them SUFFOLK, and others, prisoners", 
     "line_id": 8320, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -17269,7 +17269,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "To SUFFOLK", 
     "line_id": 8347, 
-    "speaker": "WHITMORE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.27", 
@@ -18205,7 +18205,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt Whitmore and others with Suffolk", 
     "line_id": 8464, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.143", 
@@ -18237,7 +18237,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt all but the First Gentleman", 
     "line_id": 8468, 
-    "speaker": "Captain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18245,7 +18245,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Re-enter WHITMORE with SUFFOLK's body", 
     "line_id": 8469, 
-    "speaker": "Captain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.146", 
@@ -18269,7 +18269,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit", 
     "line_id": 8472, 
-    "speaker": "WHITMORE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.148", 
@@ -18309,7 +18309,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit with the body", 
     "line_id": 8477, 
-    "speaker": "First Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18317,7 +18317,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE II. Blackheath.", 
     "line_id": 8478, 
-    "speaker": "First Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18325,7 +18325,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter GEORGE BEVIS and JOHN HOLLAND", 
     "line_id": 8479, 
-    "speaker": "First Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -18541,7 +18541,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Drum. Enter CADE, DICK the Butcher, SMITH the Weaver, and a Sawyer, with infinite numbers", 
     "line_id": 8506, 
-    "speaker": "HOLLAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.27", 
@@ -18941,7 +18941,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter some, bringing forward the Clerk of Chatham", 
     "line_id": 8556, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.76", 
@@ -19133,7 +19133,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit one with the Clerk", 
     "line_id": 8580, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19141,7 +19141,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter MICHAEL", 
     "line_id": 8581, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.99", 
@@ -19221,7 +19221,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Kneels", 
     "line_id": 8591, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.108", 
@@ -19237,7 +19237,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Rises", 
     "line_id": 8593, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.109", 
@@ -19253,7 +19253,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter SIR HUMPHREY and WILLIAM STAFFORD, with drum and soldiers", 
     "line_id": 8595, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.110", 
@@ -19741,7 +19741,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt WILLIAM STAFFORD and SIR HUMPHREY, and soldiers", 
     "line_id": 8656, 
-    "speaker": "SIR HUMPHREY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.170", 
@@ -19821,7 +19821,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt", 
     "line_id": 8666, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19829,7 +19829,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE III. Another part of Blackheath.", 
     "line_id": 8667, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19837,7 +19837,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Alarums to the fight, wherein SIR HUMPHREY and WILLIAM STAFFORD are slain. Enter CADE and the rest", 
     "line_id": 8668, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -19933,7 +19933,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Putting on SIR HUMPHREY'S brigandine", 
     "line_id": 8680, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.12", 
@@ -19997,7 +19997,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt", 
     "line_id": 8688, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20005,7 +20005,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE IV. London. The palace.", 
     "line_id": 8689, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20013,7 +20013,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter KING HENRY VI with a supplication, and the QUEEN with SUFFOLK'S head, BUCKINGHAM and Lord SAY", 
     "line_id": 8690, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.1", 
@@ -20221,7 +20221,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter a Messenger", 
     "line_id": 8716, 
-    "speaker": "QUEEN MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.26", 
@@ -20413,7 +20413,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter another Messenger", 
     "line_id": 8740, 
-    "speaker": "SAY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.49", 
@@ -20517,7 +20517,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt", 
     "line_id": 8753, 
-    "speaker": "SAY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20525,7 +20525,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE V. London. The Tower.", 
     "line_id": 8754, 
-    "speaker": "SAY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20533,7 +20533,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter SCALES upon the Tower, walking. Then enter two or three Citizens below", 
     "line_id": 8755, 
-    "speaker": "SAY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.1", 
@@ -20637,7 +20637,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt", 
     "line_id": 8768, 
-    "speaker": "SCALES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20645,7 +20645,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE VI. London. Cannon Street.", 
     "line_id": 8769, 
-    "speaker": "SCALES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20653,7 +20653,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter CADE and the rest, and strikes his staff on London-stone", 
     "line_id": 8770, 
-    "speaker": "SCALES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.1", 
@@ -20709,7 +20709,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter a Soldier, running", 
     "line_id": 8777, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.7", 
@@ -20733,7 +20733,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "They kill him", 
     "line_id": 8780, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.9", 
@@ -20797,7 +20797,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt", 
     "line_id": 8788, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20805,7 +20805,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE VII. London. Smithfield.", 
     "line_id": 8789, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20813,7 +20813,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Alarums. MATTHEW GOFFE is slain, and all the rest. Then enter CADE, with his company.", 
     "line_id": 8790, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.1", 
@@ -20949,7 +20949,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter a Messenger", 
     "line_id": 8807, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.17", 
@@ -20989,7 +20989,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter BEVIS, with Lord SAY", 
     "line_id": 8812, 
-    "speaker": "Messenger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.21", 
@@ -21717,7 +21717,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt some with Lord SAY", 
     "line_id": 8903, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.111", 
@@ -21805,7 +21805,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Re-enter one with the heads", 
     "line_id": 8914, 
-    "speaker": "ALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.121", 
@@ -21869,7 +21869,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt", 
     "line_id": 8922, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21877,7 +21877,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE VIII. Southwark.", 
     "line_id": 8923, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21885,7 +21885,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Alarum and retreat. Enter CADE and all his rabblement", 
     "line_id": 8924, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.8.1", 
@@ -21909,7 +21909,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Sound a parley", 
     "line_id": 8927, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.8.3", 
@@ -21933,7 +21933,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter BUCKINGHAM and CLIFFORD, attended", 
     "line_id": 8930, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.8.5", 
@@ -22413,7 +22413,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit", 
     "line_id": 8990, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.8.64", 
@@ -22445,7 +22445,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt some of them", 
     "line_id": 8994, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.8.67", 
@@ -22469,7 +22469,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt", 
     "line_id": 8997, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22477,7 +22477,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE IX. Kenilworth Castle.", 
     "line_id": 8998, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22485,7 +22485,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Sound Trumpets. Enter KING HENRY VI, QUEEN MARGARET, and SOMERSET, on the terrace", 
     "line_id": 8999, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.9.1", 
@@ -22541,7 +22541,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter BUCKINGHAM and CLIFFORD", 
     "line_id": 9006, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.9.7", 
@@ -22573,7 +22573,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter below, multitudes, with halters about their necks", 
     "line_id": 9010, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.9.10", 
@@ -22685,7 +22685,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter a Messenger", 
     "line_id": 9024, 
-    "speaker": "ALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.9.23", 
@@ -22909,7 +22909,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Flourish. Exeunt", 
     "line_id": 9052, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22917,7 +22917,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE X. Kent. IDEN's garden.", 
     "line_id": 9053, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22925,7 +22925,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter CADE", 
     "line_id": 9054, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.10.1", 
@@ -23061,7 +23061,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter IDEN", 
     "line_id": 9071, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.10.17", 
@@ -23413,7 +23413,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Here they fight. CADE falls", 
     "line_id": 9115, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.10.60", 
@@ -23549,7 +23549,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Dies", 
     "line_id": 9132, 
-    "speaker": "CADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.10.76", 
@@ -23629,7 +23629,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit", 
     "line_id": 9142, 
-    "speaker": "IDEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23637,7 +23637,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "ACT V", 
     "line_id": 9143, 
-    "speaker": "IDEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23645,7 +23645,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE I. Fields between Dartford and Blackheath.", 
     "line_id": 9144, 
-    "speaker": "IDEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23653,7 +23653,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter YORK, and his army of Irish, with drum and colours", 
     "line_id": 9145, 
-    "speaker": "IDEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -23749,7 +23749,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter BUCKINGHAM", 
     "line_id": 9157, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.12", 
@@ -24109,7 +24109,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter KING HENRY VI and Attendants", 
     "line_id": 9202, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.56", 
@@ -24181,7 +24181,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter IDEN, with CADE'S head", 
     "line_id": 9211, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.64", 
@@ -24309,7 +24309,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "He kneels", 
     "line_id": 9227, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.79", 
@@ -24357,7 +24357,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Rises", 
     "line_id": 9233, 
-    "speaker": "IDEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -24365,7 +24365,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter QUEEN MARGARET and SOMERSET", 
     "line_id": 9234, 
-    "speaker": "IDEN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.84", 
@@ -24605,7 +24605,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit Attendant", 
     "line_id": 9264, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.113", 
@@ -24653,7 +24653,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit BUCKINGHAM", 
     "line_id": 9270, 
-    "speaker": "QUEEN MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.118", 
@@ -24701,7 +24701,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter EDWARD and RICHARD", 
     "line_id": 9276, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.123", 
@@ -24725,7 +24725,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter CLIFFORD and YOUNG CLIFFORD", 
     "line_id": 9279, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.125", 
@@ -24749,7 +24749,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Kneels", 
     "line_id": 9282, 
-    "speaker": "CLIFFORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.127", 
@@ -24941,7 +24941,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter the WARWICK and SALISBURY", 
     "line_id": 9306, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.150", 
@@ -25501,7 +25501,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt severally", 
     "line_id": 9376, 
-    "speaker": "RICHARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -25509,7 +25509,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE II. Saint Alban's.", 
     "line_id": 9377, 
-    "speaker": "RICHARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -25517,7 +25517,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Alarums to the battle. Enter WARWICK", 
     "line_id": 9378, 
-    "speaker": "RICHARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -25581,7 +25581,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter YORK", 
     "line_id": 9386, 
-    "speaker": "WARWICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.8", 
@@ -25629,7 +25629,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter CLIFFORD", 
     "line_id": 9392, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.13", 
@@ -25685,7 +25685,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit", 
     "line_id": 9399, 
-    "speaker": "WARWICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.19", 
@@ -25765,7 +25765,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "They fight, and CLIFFORD falls", 
     "line_id": 9409, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.28", 
@@ -25781,7 +25781,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Dies", 
     "line_id": 9411, 
-    "speaker": "CLIFFORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.29", 
@@ -25805,7 +25805,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit", 
     "line_id": 9414, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -25813,7 +25813,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter YOUNG CLIFFORD", 
     "line_id": 9415, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.31", 
@@ -25901,7 +25901,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Seeing his dead father", 
     "line_id": 9426, 
-    "speaker": "YOUNG CLIFFORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.41", 
@@ -26117,7 +26117,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit, bearing off his father", 
     "line_id": 9453, 
-    "speaker": "YOUNG CLIFFORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -26125,7 +26125,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter RICHARD and SOMERSET to fight. SOMERSET is killed", 
     "line_id": 9454, 
-    "speaker": "YOUNG CLIFFORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.67", 
@@ -26181,7 +26181,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exit", 
     "line_id": 9461, 
-    "speaker": "RICHARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -26189,7 +26189,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Fight: excursions. Enter KING HENRY VI, QUEEN MARGARET, and others", 
     "line_id": 9462, 
-    "speaker": "RICHARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.73", 
@@ -26245,7 +26245,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Alarum afar off", 
     "line_id": 9469, 
-    "speaker": "QUEEN MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.79", 
@@ -26301,7 +26301,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Re-enter YOUNG CLIFFORD", 
     "line_id": 9476, 
-    "speaker": "QUEEN MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.85", 
@@ -26365,7 +26365,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt", 
     "line_id": 9484, 
-    "speaker": "YOUNG CLIFFORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -26373,7 +26373,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "SCENE III. Fields near St. Alban's.", 
     "line_id": 9485, 
-    "speaker": "YOUNG CLIFFORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -26381,7 +26381,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Alarum. Retreat. Enter YORK, RICHARD, WARWICK, and Soldiers, with drum and colours", 
     "line_id": 9486, 
-    "speaker": "YOUNG CLIFFORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.1", 
@@ -26509,7 +26509,7 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Enter SALISBURY", 
     "line_id": 9502, 
-    "speaker": "RICHARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.16", 
@@ -26669,6 +26669,6 @@
     "play_name": "Henry VI Part 2", 
     "text_entry": "Exeunt", 
     "line_id": 9522, 
-    "speaker": "WARWICK"
+    "speaker": "Stage Directions"
   }
 ]

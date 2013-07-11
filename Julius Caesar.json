@@ -5,7 +5,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "ACT I", 
     "line_id": 46257, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "SCENE I. Rome. A street.", 
     "line_id": 46258, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter FLAVIUS, MARULLUS, and certain Commoners", 
     "line_id": 46259, 
-    "speaker": "BASTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -501,7 +501,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt all the Commoners", 
     "line_id": 46319, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.60", 
@@ -629,7 +629,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt", 
     "line_id": 46335, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -637,7 +637,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "SCENE II. A public place.", 
     "line_id": 46336, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -645,7 +645,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Flourish. Enter CAESAR; ANTONY, for the course;  CALPURNIA, PORTIA, DECIUS BRUTUS, CICERO, BRUTUS,  CASSIUS, and CASCA; a great crowd following, among them a Soothsayer", 
     "line_id": 46337, 
-    "speaker": "FLAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -765,7 +765,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Flourish", 
     "line_id": 46352, 
-    "speaker": "CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.15", 
@@ -885,7 +885,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Sennet. Exeunt all except BRUTUS and CASSIUS", 
     "line_id": 46367, 
-    "speaker": "CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.29", 
@@ -1333,7 +1333,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Flourish, and shout", 
     "line_id": 46423, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.84", 
@@ -1773,7 +1773,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Shout. Flourish", 
     "line_id": 46478, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.138", 
@@ -2181,7 +2181,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Re-enter CAESAR and his Train", 
     "line_id": 46529, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.188", 
@@ -2453,7 +2453,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Sennet. Exeunt CAESAR and all his Train, but CASCA", 
     "line_id": 46563, 
-    "speaker": "CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.221", 
@@ -3109,7 +3109,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit", 
     "line_id": 46645, 
-    "speaker": "CASCA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.302", 
@@ -3221,7 +3221,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit BRUTUS", 
     "line_id": 46659, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.315", 
@@ -3349,7 +3349,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit", 
     "line_id": 46675, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3357,7 +3357,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "SCENE III. The same. A street.", 
     "line_id": 46676, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3365,7 +3365,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Thunder and lightning. Enter from opposite sides, CASCA, with his sword drawn, and CICERO", 
     "line_id": 46677, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -3701,7 +3701,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit CICERO", 
     "line_id": 46719, 
-    "speaker": "CASCA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3709,7 +3709,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter CASSIUS", 
     "line_id": 46720, 
-    "speaker": "CASCA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.42", 
@@ -4213,7 +4213,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Thunder still", 
     "line_id": 46783, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.104", 
@@ -4501,7 +4501,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter CINNA", 
     "line_id": 46819, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.139", 
@@ -4677,7 +4677,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit CINNA", 
     "line_id": 46841, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.160", 
@@ -4781,7 +4781,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt", 
     "line_id": 46854, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4789,7 +4789,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "ACT II", 
     "line_id": 46855, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4797,7 +4797,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "SCENE I. Rome. BRUTUS's orchard.", 
     "line_id": 46856, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4805,7 +4805,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter BRUTUS", 
     "line_id": 46857, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -4853,7 +4853,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter LUCIUS", 
     "line_id": 46863, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.6", 
@@ -4893,7 +4893,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit", 
     "line_id": 46868, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.10", 
@@ -5101,7 +5101,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Re-enter LUCIUS", 
     "line_id": 46894, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.35", 
@@ -5141,7 +5141,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Gives him the letter", 
     "line_id": 46899, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.39", 
@@ -5189,7 +5189,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit", 
     "line_id": 46905, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.44", 
@@ -5213,7 +5213,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Opens the letter and reads", 
     "line_id": 46908, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.46", 
@@ -5325,7 +5325,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Re-enter LUCIUS", 
     "line_id": 46922, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.59", 
@@ -5341,7 +5341,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Knocking within", 
     "line_id": 46924, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.60", 
@@ -5357,7 +5357,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit LUCIUS", 
     "line_id": 46926, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.61", 
@@ -5437,7 +5437,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Re-enter LUCIUS", 
     "line_id": 46936, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.70", 
@@ -5525,7 +5525,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit LUCIUS", 
     "line_id": 46947, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.80", 
@@ -5605,7 +5605,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter the conspirators, CASSIUS, CASCA, DECIUS BRUTUS, CINNA, METELLUS CIMBER, and TREBONIUS", 
     "line_id": 46957, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.89", 
@@ -5749,7 +5749,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "BRUTUS and CASSIUS whisper", 
     "line_id": 46975, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.106", 
@@ -6509,7 +6509,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Clock strikes", 
     "line_id": 47070, 
-    "speaker": "TREBONIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.200", 
@@ -6829,7 +6829,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt all but BRUTUS", 
     "line_id": 47110, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.239", 
@@ -6877,7 +6877,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter PORTIA", 
     "line_id": 47116, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.244", 
@@ -7469,7 +7469,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Knocking within", 
     "line_id": 47190, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.317", 
@@ -7525,7 +7525,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit PORTIA", 
     "line_id": 47197, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.323", 
@@ -7541,7 +7541,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Re-enter LUCIUS with LIGARIUS", 
     "line_id": 47199, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.324", 
@@ -7765,7 +7765,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt", 
     "line_id": 47227, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7773,7 +7773,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "SCENE II. CAESAR's house.", 
     "line_id": 47228, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7781,7 +7781,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Thunder and lightning. Enter CAESAR, in his night-gown", 
     "line_id": 47229, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -7813,7 +7813,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter a Servant", 
     "line_id": 47233, 
-    "speaker": "CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.4", 
@@ -7853,7 +7853,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit", 
     "line_id": 47238, 
-    "speaker": "Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7861,7 +7861,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter CALPURNIA", 
     "line_id": 47239, 
-    "speaker": "Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.8", 
@@ -8117,7 +8117,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Re-enter Servant", 
     "line_id": 47271, 
-    "speaker": "CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.39", 
@@ -8293,7 +8293,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter DECIUS BRUTUS", 
     "line_id": 47293, 
-    "speaker": "CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.60", 
@@ -8717,7 +8717,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter PUBLIUS, BRUTUS, LIGARIUS, METELLUS, CASCA, TREBONIUS, and CINNA", 
     "line_id": 47346, 
-    "speaker": "CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.112", 
@@ -8805,7 +8805,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter ANTONY", 
     "line_id": 47357, 
-    "speaker": "CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.122", 
@@ -8893,7 +8893,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Aside", 
     "line_id": 47368, 
-    "speaker": "TREBONIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.132", 
@@ -8949,7 +8949,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt", 
     "line_id": 47375, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8957,7 +8957,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "SCENE III. A street near the Capitol.", 
     "line_id": 47376, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8965,7 +8965,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter ARTEMIDORUS, reading a paper", 
     "line_id": 47377, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -9093,7 +9093,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit", 
     "line_id": 47393, 
-    "speaker": "ARTEMIDORUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9101,7 +9101,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "SCENE IV. Another part of the same street, before the house of BRUTUS.", 
     "line_id": 47394, 
-    "speaker": "ARTEMIDORUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9109,7 +9109,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter PORTIA and LUCIUS", 
     "line_id": 47395, 
-    "speaker": "ARTEMIDORUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.1", 
@@ -9301,7 +9301,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter the Soothsayer", 
     "line_id": 47419, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.24", 
@@ -9461,7 +9461,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit", 
     "line_id": 47439, 
-    "speaker": "Soothsayer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.43", 
@@ -9533,7 +9533,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt severally", 
     "line_id": 47448, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9541,7 +9541,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "ACT III", 
     "line_id": 47449, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9549,7 +9549,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "SCENE I. Rome. Before the Capitol; the Senate sitting above.", 
     "line_id": 47450, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9557,7 +9557,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "A crowd of people; among them ARTEMIDORUS and the  Soothsayer. Flourish. Enter CAESAR, BRUTUS,  CASSIUS, CASCA, DECIUS BRUTUS, METELLUS CIMBER,  TREBONIUS, CINNA, ANTONY, LEPIDUS, POPILIUS, PUBLIUS, and others", 
     "line_id": 47451, 
-    "speaker": "PORTIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -9669,7 +9669,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "CAESAR goes up to the Senate-House, the rest following", 
     "line_id": 47465, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.14", 
@@ -9701,7 +9701,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Advances to CAESAR", 
     "line_id": 47469, 
-    "speaker": "POPILIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.17", 
@@ -9813,7 +9813,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt ANTONY and TREBONIUS", 
     "line_id": 47483, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.30", 
@@ -9893,7 +9893,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Kneeling", 
     "line_id": 47493, 
-    "speaker": "METELLUS CIMBER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.39", 
@@ -10261,7 +10261,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "CASCA first, then the other Conspirators and BRUTUS stab CAESAR", 
     "line_id": 47539, 
-    "speaker": "CASCA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.84", 
@@ -10277,7 +10277,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Dies", 
     "line_id": 47541, 
-    "speaker": "CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.85", 
@@ -10437,7 +10437,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Re-enter TREBONIUS", 
     "line_id": 47561, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.104", 
@@ -10685,7 +10685,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter a Servant", 
     "line_id": 47592, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.134", 
@@ -10869,7 +10869,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit", 
     "line_id": 47615, 
-    "speaker": "Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.156", 
@@ -10917,7 +10917,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Re-enter ANTONY", 
     "line_id": 47621, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.161", 
@@ -11637,7 +11637,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Aside to BRUTUS", 
     "line_id": 47711, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.250", 
@@ -11837,7 +11837,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt all but ANTONY", 
     "line_id": 47736, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.274", 
@@ -12021,7 +12021,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter a Servant", 
     "line_id": 47759, 
-    "speaker": "ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.296", 
@@ -12077,7 +12077,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Seeing the body", 
     "line_id": 47766, 
-    "speaker": "Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.302", 
@@ -12213,7 +12213,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt with CAESAR's body", 
     "line_id": 47783, 
-    "speaker": "ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12221,7 +12221,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "SCENE II. The Forum.", 
     "line_id": 47784, 
-    "speaker": "ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12229,7 +12229,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter BRUTUS and CASSIUS, and a throng of Citizens", 
     "line_id": 47785, 
-    "speaker": "ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -12325,7 +12325,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit CASSIUS, with some of the Citizens. BRUTUS goes into the pulpit", 
     "line_id": 47797, 
-    "speaker": "Second Citizen"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.12", 
@@ -12581,7 +12581,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter ANTONY and others, with CAESAR's body", 
     "line_id": 47829, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.43", 
@@ -12789,7 +12789,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit", 
     "line_id": 47855, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.68", 
@@ -12829,7 +12829,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Goes into the pulpit", 
     "line_id": 47860, 
-    "speaker": "ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.72", 
@@ -13645,7 +13645,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "ANTONY comes down", 
     "line_id": 47962, 
-    "speaker": "Third Citizen"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.173", 
@@ -14421,7 +14421,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt Citizens with the body", 
     "line_id": 48059, 
-    "speaker": "Fourth Citizen"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.269", 
@@ -14445,7 +14445,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter a Servant", 
     "line_id": 48062, 
-    "speaker": "ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.271", 
@@ -14541,7 +14541,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt", 
     "line_id": 48074, 
-    "speaker": "ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14549,7 +14549,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "SCENE III. A street.", 
     "line_id": 48075, 
-    "speaker": "ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14557,7 +14557,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter CINNA the poet", 
     "line_id": 48076, 
-    "speaker": "ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -14597,7 +14597,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter Citizens", 
     "line_id": 48081, 
-    "speaker": "CINNA THE POET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.5", 
@@ -14853,7 +14853,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt", 
     "line_id": 48113, 
-    "speaker": "Third Citizen"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14861,7 +14861,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "ACT IV", 
     "line_id": 48114, 
-    "speaker": "Third Citizen"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14869,7 +14869,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "SCENE I. A house in Rome.", 
     "line_id": 48115, 
-    "speaker": "Third Citizen"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14877,7 +14877,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "ANTONY, OCTAVIUS, and LEPIDUS, seated at a table", 
     "line_id": 48116, 
-    "speaker": "Third Citizen"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -14981,7 +14981,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit LEPIDUS", 
     "line_id": 48129, 
-    "speaker": "OCTAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.13", 
@@ -15325,7 +15325,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt", 
     "line_id": 48172, 
-    "speaker": "OCTAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15333,7 +15333,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "SCENE II. Camp near Sardis. Before BRUTUS's tent.", 
     "line_id": 48173, 
-    "speaker": "OCTAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15341,7 +15341,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Drum. Enter BRUTUS, LUCILIUS, LUCIUS, and Soldiers; TITINIUS and PINDARUS meeting them", 
     "line_id": 48174, 
-    "speaker": "OCTAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -15613,7 +15613,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Low march within", 
     "line_id": 48208, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.34", 
@@ -15629,7 +15629,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter CASSIUS and his powers", 
     "line_id": 48210, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.35", 
@@ -15821,7 +15821,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt", 
     "line_id": 48234, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15829,7 +15829,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "SCENE III. Brutus's tent.", 
     "line_id": 48235, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15837,7 +15837,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter BRUTUS and CASSIUS", 
     "line_id": 48236, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -16981,7 +16981,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter Poet, followed by LUCILIUS, TITINIUS, and LUCIUS", 
     "line_id": 48379, 
-    "speaker": "Poet"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.143", 
@@ -17077,7 +17077,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit Poet", 
     "line_id": 48391, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.154", 
@@ -17117,7 +17117,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt LUCILIUS and TITINIUS", 
     "line_id": 48396, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.158", 
@@ -17133,7 +17133,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit LUCIUS", 
     "line_id": 48398, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.159", 
@@ -17285,7 +17285,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Re-enter LUCIUS, with wine and taper", 
     "line_id": 48417, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.177", 
@@ -17341,7 +17341,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit LUCIUS", 
     "line_id": 48424, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17349,7 +17349,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Re-enter TITINIUS, with MESSALA", 
     "line_id": 48425, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.183", 
@@ -17973,7 +17973,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter LUCIUS", 
     "line_id": 48503, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.260", 
@@ -17989,7 +17989,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit LUCIUS", 
     "line_id": 48505, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.261", 
@@ -18093,7 +18093,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt all but BRUTUS", 
     "line_id": 48518, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18101,7 +18101,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Re-enter LUCIUS, with the gown", 
     "line_id": 48519, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.273", 
@@ -18165,7 +18165,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter VARRO and CLAUDIUS", 
     "line_id": 48527, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.280", 
@@ -18245,7 +18245,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "VARRO and CLAUDIUS lie down", 
     "line_id": 48537, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.289", 
@@ -18365,7 +18365,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Music, and a song", 
     "line_id": 48552, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.303", 
@@ -18437,7 +18437,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter the Ghost of CAESAR", 
     "line_id": 48561, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.311", 
@@ -18549,7 +18549,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit Ghost", 
     "line_id": 48575, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.324", 
@@ -18653,7 +18653,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "To VARRO", 
     "line_id": 48588, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.336", 
@@ -18757,7 +18757,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt", 
     "line_id": 48601, 
-    "speaker": "CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18765,7 +18765,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "ACT V", 
     "line_id": 48602, 
-    "speaker": "CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18773,7 +18773,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "SCENE I. The plains of Philippi.", 
     "line_id": 48603, 
-    "speaker": "CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18781,7 +18781,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter OCTAVIUS, ANTONY, and their army", 
     "line_id": 48604, 
-    "speaker": "CLAUDIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -18885,7 +18885,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter a Messenger", 
     "line_id": 48617, 
-    "speaker": "ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.13", 
@@ -18965,7 +18965,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "March", 
     "line_id": 48627, 
-    "speaker": "OCTAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18973,7 +18973,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Drum. Enter BRUTUS, CASSIUS, and their Army; LUCILIUS, TITINIUS, MESSALA, and others", 
     "line_id": 48628, 
-    "speaker": "OCTAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.22", 
@@ -19373,7 +19373,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt OCTAVIUS, ANTONY, and their army", 
     "line_id": 48678, 
-    "speaker": "OCTAVIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.71", 
@@ -19413,7 +19413,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "BRUTUS and LUCILIUS converse apart", 
     "line_id": 48683, 
-    "speaker": "LUCILIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.75", 
@@ -19909,7 +19909,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt", 
     "line_id": 48745, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19917,7 +19917,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "SCENE II. The same. The field of battle.", 
     "line_id": 48746, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19925,7 +19925,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Alarum. Enter BRUTUS and MESSALA", 
     "line_id": 48747, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -19949,7 +19949,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Loud alarum", 
     "line_id": 48750, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.3", 
@@ -19989,7 +19989,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt", 
     "line_id": 48755, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19997,7 +19997,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "SCENE III. Another part of the field.", 
     "line_id": 48756, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20005,7 +20005,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Alarums. Enter CASSIUS and TITINIUS", 
     "line_id": 48757, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.1", 
@@ -20077,7 +20077,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter PINDARUS", 
     "line_id": 48766, 
-    "speaker": "TITINIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.9", 
@@ -20181,7 +20181,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit", 
     "line_id": 48779, 
-    "speaker": "TITINIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.21", 
@@ -20213,7 +20213,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "PINDARUS ascends the hill", 
     "line_id": 48783, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.24", 
@@ -20301,7 +20301,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Shout", 
     "line_id": 48794, 
-    "speaker": "PINDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.34", 
@@ -20341,7 +20341,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "PINDARUS descends", 
     "line_id": 48799, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.38", 
@@ -20429,7 +20429,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "PINDARUS stabs him", 
     "line_id": 48810, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.48", 
@@ -20453,7 +20453,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Dies", 
     "line_id": 48813, 
-    "speaker": "CASSIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.50", 
@@ -20493,7 +20493,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit", 
     "line_id": 48818, 
-    "speaker": "PINDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20501,7 +20501,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Re-enter TITINIUS with MESSALA", 
     "line_id": 48819, 
-    "speaker": "PINDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.54", 
@@ -20765,7 +20765,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit MESSALA", 
     "line_id": 48852, 
-    "speaker": "TITINIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.86", 
@@ -20861,7 +20861,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Kills himself", 
     "line_id": 48864, 
-    "speaker": "TITINIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20869,7 +20869,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Alarum. Re-enter MESSALA, with BRUTUS, CATO, STRATO, VOLUMNIUS, and LUCILIUS", 
     "line_id": 48865, 
-    "speaker": "TITINIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.97", 
@@ -20933,7 +20933,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Low alarums", 
     "line_id": 48873, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.104", 
@@ -21061,7 +21061,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt", 
     "line_id": 48889, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21069,7 +21069,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "SCENE IV. Another part of the field.", 
     "line_id": 48890, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21077,7 +21077,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Alarum. Enter fighting, Soldiers of both armies; then BRUTUS, CATO, LUCILIUS, and others", 
     "line_id": 48891, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.1", 
@@ -21149,7 +21149,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exit", 
     "line_id": 48900, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.9", 
@@ -21205,7 +21205,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Offering money", 
     "line_id": 48907, 
-    "speaker": "LUCILIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.15", 
@@ -21245,7 +21245,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter ANTONY", 
     "line_id": 48912, 
-    "speaker": "First Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.19", 
@@ -21373,7 +21373,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt", 
     "line_id": 48928, 
-    "speaker": "ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21381,7 +21381,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "SCENE V. Another part of the field.", 
     "line_id": 48929, 
-    "speaker": "ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21389,7 +21389,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Enter BRUTUS, DARDANIUS, CLITUS, STRATO, and VOLUMNIUS", 
     "line_id": 48930, 
-    "speaker": "ANTONY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.1", 
@@ -21437,7 +21437,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Whispers", 
     "line_id": 48936, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.6", 
@@ -21477,7 +21477,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Whispers", 
     "line_id": 48941, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.10", 
@@ -21629,7 +21629,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Low alarums", 
     "line_id": 48960, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.28", 
@@ -21685,7 +21685,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Alarum still", 
     "line_id": 48967, 
-    "speaker": "VOLUMNIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.34", 
@@ -21797,7 +21797,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Alarum. Cry within, 'Fly, fly, fly!'", 
     "line_id": 48981, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.47", 
@@ -21821,7 +21821,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt CLITUS, DARDANIUS, and VOLUMNIUS", 
     "line_id": 48984, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.49", 
@@ -21885,7 +21885,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Runs on his sword", 
     "line_id": 48992, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.56", 
@@ -21909,7 +21909,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Dies", 
     "line_id": 48995, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21917,7 +21917,7 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Alarum. Retreat. Enter OCTAVIUS, ANTONY, MESSALA, LUCILIUS, and the army", 
     "line_id": 48996, 
-    "speaker": "BRUTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.58", 
@@ -22165,6 +22165,6 @@
     "play_name": "Julius Caesar", 
     "text_entry": "Exeunt", 
     "line_id": 49027, 
-    "speaker": "OCTAVIUS"
+    "speaker": "Stage Directions"
   }
 ]

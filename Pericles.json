@@ -5,7 +5,7 @@
     "play_name": "Pericles", 
     "text_entry": "ACT I", 
     "line_id": 75763, 
-    "speaker": "LODOVICO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Pericles", 
     "text_entry": "PROLOGUE", 
     "line_id": 75764, 
-    "speaker": "LODOVICO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter GOWER", 
     "line_id": 75765, 
-    "speaker": "LODOVICO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -29,7 +29,7 @@
     "play_name": "Pericles", 
     "text_entry": "Before the palace of Antioch", 
     "line_id": 75766, 
-    "speaker": "LODOVICO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.0.1", 
@@ -373,7 +373,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit", 
     "line_id": 75809, 
-    "speaker": "LODOVICO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -381,7 +381,7 @@
     "play_name": "Pericles", 
     "text_entry": "SCENE I. Antioch. A room in the palace.", 
     "line_id": 75810, 
-    "speaker": "LODOVICO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -389,7 +389,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter ANTIOCHUS, Prince PERICLES, and followers", 
     "line_id": 75811, 
-    "speaker": "LODOVICO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -485,7 +485,7 @@
     "play_name": "Pericles", 
     "text_entry": "Music. Enter the Daughter of ANTIOCHUS", 
     "line_id": 75823, 
-    "speaker": "ANTIOCHUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.12", 
@@ -829,7 +829,7 @@
     "play_name": "Pericles", 
     "text_entry": "To the Daughter of ANTIOCHUS", 
     "line_id": 75866, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.54", 
@@ -917,7 +917,7 @@
     "play_name": "Pericles", 
     "text_entry": "He reads the riddle", 
     "line_id": 75877, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.64", 
@@ -1029,7 +1029,7 @@
     "play_name": "Pericles", 
     "text_entry": "Takes hold of the hand of the Daughter of ANTIOCHUS", 
     "line_id": 75891, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.77", 
@@ -1405,7 +1405,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt all but PERICLES", 
     "line_id": 75938, 
-    "speaker": "ANTIOCHUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.123", 
@@ -1589,7 +1589,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit", 
     "line_id": 75961, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1597,7 +1597,7 @@
     "play_name": "Pericles", 
     "text_entry": "Re-enter ANTIOCHUS", 
     "line_id": 75962, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.145", 
@@ -1669,7 +1669,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter THALIARD", 
     "line_id": 75971, 
-    "speaker": "ANTIOCHUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.153", 
@@ -1773,7 +1773,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter a Messenger", 
     "line_id": 75984, 
-    "speaker": "ANTIOCHUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.165", 
@@ -1797,7 +1797,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit", 
     "line_id": 75987, 
-    "speaker": "Messenger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.167", 
@@ -1877,7 +1877,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit THALIARD", 
     "line_id": 75997, 
-    "speaker": "ANTIOCHUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.176", 
@@ -1901,7 +1901,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit", 
     "line_id": 76000, 
-    "speaker": "ANTIOCHUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1909,7 +1909,7 @@
     "play_name": "Pericles", 
     "text_entry": "SCENE II. Tyre. A room in the palace.", 
     "line_id": 76001, 
-    "speaker": "ANTIOCHUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1917,7 +1917,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter PERICLES", 
     "line_id": 76002, 
-    "speaker": "ANTIOCHUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -2197,7 +2197,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter HELICANUS, with other Lords", 
     "line_id": 76037, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.35", 
@@ -2341,7 +2341,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt Lords", 
     "line_id": 76055, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.52", 
@@ -2421,7 +2421,7 @@
     "play_name": "Pericles", 
     "text_entry": "[Kneeling]", 
     "line_id": 76065, 
-    "speaker": "HELICANUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.62", 
@@ -3005,7 +3005,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt", 
     "line_id": 76138, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3013,7 +3013,7 @@
     "play_name": "Pericles", 
     "text_entry": "SCENE III. Tyre. An ante-chamber in the palace.", 
     "line_id": 76139, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3021,7 +3021,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter THALIARD", 
     "line_id": 76140, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -3101,7 +3101,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter HELICANUS and ESCANES, with other Lords of Tyre", 
     "line_id": 76150, 
-    "speaker": "THALIARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.10", 
@@ -3357,7 +3357,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt", 
     "line_id": 76182, 
-    "speaker": "HELICANUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3365,7 +3365,7 @@
     "play_name": "Pericles", 
     "text_entry": "SCENE IV. Tarsus. A room in the Governor's house.", 
     "line_id": 76183, 
-    "speaker": "HELICANUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3373,7 +3373,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter CLEON, the governor of Tarsus, with DIONYZA, and others", 
     "line_id": 76184, 
-    "speaker": "HELICANUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.1", 
@@ -3821,7 +3821,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter a Lord", 
     "line_id": 76240, 
-    "speaker": "CLEON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.56", 
@@ -4045,7 +4045,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit", 
     "line_id": 76268, 
-    "speaker": "Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.83", 
@@ -4069,7 +4069,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter PERICLES with Attendants", 
     "line_id": 76271, 
-    "speaker": "CLEON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.85", 
@@ -4277,7 +4277,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt", 
     "line_id": 76297, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4285,7 +4285,7 @@
     "play_name": "Pericles", 
     "text_entry": "ACT II", 
     "line_id": 76298, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4293,7 +4293,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter GOWER", 
     "line_id": 76299, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.110", 
@@ -4437,7 +4437,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter at one door PERICLES talking with CLEON; all  the train with them. Enter at another door a  Gentleman, with a letter to PERICLES; PERICLES  shows the letter to CLEON; gives the Messenger a  reward, and knights him. Exit PERICLES at one door, and CLEON at another", 
     "line_id": 76317, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.127", 
@@ -4637,7 +4637,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit", 
     "line_id": 76342, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4645,7 +4645,7 @@
     "play_name": "Pericles", 
     "text_entry": "SCENE I. Pentapolis. An open place by the sea-side.", 
     "line_id": 76343, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4653,7 +4653,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter PERICLES, wet", 
     "line_id": 76344, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -4749,7 +4749,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter three FISHERMEN", 
     "line_id": 76356, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.12", 
@@ -5413,7 +5413,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit with Third Fisherman", 
     "line_id": 76439, 
-    "speaker": "Second Fisherman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.94", 
@@ -5573,7 +5573,7 @@
     "play_name": "Pericles", 
     "text_entry": "Re-enter Second and Third Fishermen, drawing up a net", 
     "line_id": 76459, 
-    "speaker": "First Fisherman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.113", 
@@ -5981,7 +5981,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt", 
     "line_id": 76510, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5989,7 +5989,7 @@
     "play_name": "Pericles", 
     "text_entry": "SCENE II. The same. A public way or platform leading to the", 
     "line_id": 76511, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -6013,7 +6013,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter SIMONIDES, THAISA, Lords, and Attendants", 
     "line_id": 76514, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.3", 
@@ -6077,7 +6077,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit a Lord", 
     "line_id": 76522, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.10", 
@@ -6157,7 +6157,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter a Knight; he passes over, and his Squire presents his shield to the Princess", 
     "line_id": 76532, 
-    "speaker": "THAISA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.19", 
@@ -6213,7 +6213,7 @@
     "play_name": "Pericles", 
     "text_entry": "The Second Knight passes over", 
     "line_id": 76539, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.25", 
@@ -6261,7 +6261,7 @@
     "play_name": "Pericles", 
     "text_entry": "The Third Knight passes over", 
     "line_id": 76545, 
-    "speaker": "THAISA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.30", 
@@ -6301,7 +6301,7 @@
     "play_name": "Pericles", 
     "text_entry": "The Fourth Knight passes over", 
     "line_id": 76550, 
-    "speaker": "THAISA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.34", 
@@ -6349,7 +6349,7 @@
     "play_name": "Pericles", 
     "text_entry": "The Fifth Knight passes over", 
     "line_id": 76556, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.39", 
@@ -6381,7 +6381,7 @@
     "play_name": "Pericles", 
     "text_entry": "The Sixth Knight, PERICLES, passes over", 
     "line_id": 76560, 
-    "speaker": "THAISA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.42", 
@@ -6557,7 +6557,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt", 
     "line_id": 76582, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6565,7 +6565,7 @@
     "play_name": "Pericles", 
     "text_entry": "Great shouts within and all cry 'The mean knight!'", 
     "line_id": 76583, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6573,7 +6573,7 @@
     "play_name": "Pericles", 
     "text_entry": "SCENE III. The same. A hall of state: a banquet prepared.", 
     "line_id": 76584, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6581,7 +6581,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter SIMONIDES, THAISA, Lords, Attendants, and Knights, from tilting", 
     "line_id": 76585, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -7421,7 +7421,7 @@
     "play_name": "Pericles", 
     "text_entry": "The Knights dance", 
     "line_id": 76690, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.105", 
@@ -7501,7 +7501,7 @@
     "play_name": "Pericles", 
     "text_entry": "The Knights and Ladies dance", 
     "line_id": 76700, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.114", 
@@ -7525,7 +7525,7 @@
     "play_name": "Pericles", 
     "text_entry": "To PERICLES", 
     "line_id": 76703, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.116", 
@@ -7549,7 +7549,7 @@
     "play_name": "Pericles", 
     "text_entry": "To PERICLES", 
     "line_id": 76706, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.118", 
@@ -7613,7 +7613,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt", 
     "line_id": 76714, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7621,7 +7621,7 @@
     "play_name": "Pericles", 
     "text_entry": "SCENE IV. Tyre. A room in the Governor's house.", 
     "line_id": 76715, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7629,7 +7629,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter HELICANUS and ESCANES", 
     "line_id": 76716, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.1", 
@@ -7773,7 +7773,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter two or three Lords", 
     "line_id": 76734, 
-    "speaker": "ESCANES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.18", 
@@ -8117,7 +8117,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt", 
     "line_id": 76777, 
-    "speaker": "HELICANUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8125,7 +8125,7 @@
     "play_name": "Pericles", 
     "text_entry": "SCENE V. Pentapolis. A room in the palace.", 
     "line_id": 76778, 
-    "speaker": "HELICANUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8133,7 +8133,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter SIMONIDES, reading a letter, at one door: the Knights meet him", 
     "line_id": 76779, 
-    "speaker": "HELICANUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.1", 
@@ -8245,7 +8245,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt Knights", 
     "line_id": 76793, 
-    "speaker": "Third Knight"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.14", 
@@ -8333,7 +8333,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter PERICLES", 
     "line_id": 76804, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.24", 
@@ -8709,7 +8709,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter THAISA", 
     "line_id": 76851, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.70", 
@@ -8773,7 +8773,7 @@
     "play_name": "Pericles", 
     "text_entry": "Aside", 
     "line_id": 76859, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.77", 
@@ -8821,7 +8821,7 @@
     "play_name": "Pericles", 
     "text_entry": "Aside", 
     "line_id": 76865, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.82", 
@@ -8965,7 +8965,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt", 
     "line_id": 76883, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8973,7 +8973,7 @@
     "play_name": "Pericles", 
     "text_entry": "ACT III", 
     "line_id": 76884, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8981,7 +8981,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter GOWER", 
     "line_id": 76885, 
-    "speaker": "SIMONIDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.99", 
@@ -9109,7 +9109,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter, PERICLES and SIMONIDES at one door, with  Attendants; a Messenger meets them, kneels, and  gives PERICLES a letter: PERICLES shows it  SIMONIDES; the Lords kneel to him. Then enter  THAISA with child, with LYCHORIDA a nurse. The  KING shows her the letter; she rejoices: she and  PERICLES takes leave of her father, and depart with  LYCHORIDA and their Attendants. Then exeunt SIMONIDES and the rest", 
     "line_id": 76901, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.114", 
@@ -9485,7 +9485,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit", 
     "line_id": 76948, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.160", 
@@ -9501,7 +9501,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter PERICLES, on shipboard", 
     "line_id": 76950, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.161", 
@@ -9621,7 +9621,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter LYCHORIDA, with an Infant", 
     "line_id": 76965, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.175", 
@@ -9853,7 +9853,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter two Sailors", 
     "line_id": 76994, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.203", 
@@ -10117,7 +10117,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit LYCHORIDA", 
     "line_id": 77027, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.235", 
@@ -10221,7 +10221,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt", 
     "line_id": 77040, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10229,7 +10229,7 @@
     "play_name": "Pericles", 
     "text_entry": "SCENE II. Ephesus. A room in CERIMON's house.", 
     "line_id": 77041, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10237,7 +10237,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter CERIMON, with a Servant, and some Persons who have been shipwrecked", 
     "line_id": 77042, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -10253,7 +10253,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter PHILEMON", 
     "line_id": 77044, 
-    "speaker": "CERIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.2", 
@@ -10325,7 +10325,7 @@
     "play_name": "Pericles", 
     "text_entry": "To PHILEMON", 
     "line_id": 77053, 
-    "speaker": "CERIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.10", 
@@ -10349,7 +10349,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt all but CERIMON", 
     "line_id": 77056, 
-    "speaker": "CERIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10357,7 +10357,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter two Gentlemen", 
     "line_id": 77057, 
-    "speaker": "CERIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.12", 
@@ -10701,7 +10701,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter two or three Servants with a chest", 
     "line_id": 77100, 
-    "speaker": "Second Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.54", 
@@ -10909,7 +10909,7 @@
     "play_name": "Pericles", 
     "text_entry": "Reads from a scroll", 
     "line_id": 77126, 
-    "speaker": "CERIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.79", 
@@ -11037,7 +11037,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit a Servant", 
     "line_id": 77142, 
-    "speaker": "CERIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.94", 
@@ -11085,7 +11085,7 @@
     "play_name": "Pericles", 
     "text_entry": "Re-enter a Servant, with boxes, napkins, and fire", 
     "line_id": 77148, 
-    "speaker": "CERIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.99", 
@@ -11261,7 +11261,7 @@
     "play_name": "Pericles", 
     "text_entry": "She moves", 
     "line_id": 77170, 
-    "speaker": "CERIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.120", 
@@ -11341,7 +11341,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt, carrying her away", 
     "line_id": 77180, 
-    "speaker": "CERIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11349,7 +11349,7 @@
     "play_name": "Pericles", 
     "text_entry": "SCENE III. Tarsus. A room in CLEON's house.", 
     "line_id": 77181, 
-    "speaker": "CERIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11357,7 +11357,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter PERICLES, CLEON, DIONYZA, and LYCHORIDA with MARINA in her arms", 
     "line_id": 77182, 
-    "speaker": "CERIMON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -11749,7 +11749,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt", 
     "line_id": 77231, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11757,7 +11757,7 @@
     "play_name": "Pericles", 
     "text_entry": "SCENE IV. Ephesus. A room in CERIMON's house.", 
     "line_id": 77232, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11765,7 +11765,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter CERIMON and THAISA", 
     "line_id": 77233, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.1", 
@@ -11917,7 +11917,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt", 
     "line_id": 77252, 
-    "speaker": "THAISA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11925,7 +11925,7 @@
     "play_name": "Pericles", 
     "text_entry": "ACT IV", 
     "line_id": 77253, 
-    "speaker": "THAISA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11933,7 +11933,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter GOWER", 
     "line_id": 77254, 
-    "speaker": "THAISA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.19", 
@@ -12357,7 +12357,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit", 
     "line_id": 77307, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12365,7 +12365,7 @@
     "play_name": "Pericles", 
     "text_entry": "SCENE I. Tarsus. An open place near the sea-shore.", 
     "line_id": 77308, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12373,7 +12373,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter DIONYZA and LEONINE", 
     "line_id": 77309, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -12485,7 +12485,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter MARINA, with a basket of flowers", 
     "line_id": 77323, 
-    "speaker": "LEONINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.14", 
@@ -12821,7 +12821,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit DIONYZA", 
     "line_id": 77365, 
-    "speaker": "MARINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.55", 
@@ -13197,7 +13197,7 @@
     "play_name": "Pericles", 
     "text_entry": "He seizes her", 
     "line_id": 77412, 
-    "speaker": "LEONINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13205,7 +13205,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter Pirates", 
     "line_id": 77413, 
-    "speaker": "LEONINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.101", 
@@ -13221,7 +13221,7 @@
     "play_name": "Pericles", 
     "text_entry": "LEONINE runs away", 
     "line_id": 77415, 
-    "speaker": "First Pirate"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.102", 
@@ -13253,7 +13253,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt Pirates with MARINA", 
     "line_id": 77419, 
-    "speaker": "Third Pirate"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13261,7 +13261,7 @@
     "play_name": "Pericles", 
     "text_entry": "Re-enter LEONINE", 
     "line_id": 77420, 
-    "speaker": "Third Pirate"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.105", 
@@ -13333,7 +13333,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit", 
     "line_id": 77429, 
-    "speaker": "LEONINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13341,7 +13341,7 @@
     "play_name": "Pericles", 
     "text_entry": "SCENE II. Mytilene. A room in a brothel.", 
     "line_id": 77430, 
-    "speaker": "LEONINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13349,7 +13349,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter Pandar, Bawd, and BOULT", 
     "line_id": 77431, 
-    "speaker": "LEONINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -13533,7 +13533,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit", 
     "line_id": 77454, 
-    "speaker": "BOULT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.23", 
@@ -13653,7 +13653,7 @@
     "play_name": "Pericles", 
     "text_entry": "Re-enter BOULT, with the Pirates and MARINA", 
     "line_id": 77469, 
-    "speaker": "Pandar"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.37", 
@@ -13781,7 +13781,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt Pandar and Pirates", 
     "line_id": 77485, 
-    "speaker": "Pandar"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.52", 
@@ -13845,7 +13845,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit", 
     "line_id": 77493, 
-    "speaker": "BOULT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.59", 
@@ -14069,7 +14069,7 @@
     "play_name": "Pericles", 
     "text_entry": "Re-enter BOULT", 
     "line_id": 77521, 
-    "speaker": "Bawd"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.86", 
@@ -14517,7 +14517,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt", 
     "line_id": 77577, 
-    "speaker": "Bawd"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14525,7 +14525,7 @@
     "play_name": "Pericles", 
     "text_entry": "SCENE III. Tarsus. A room in CLEON's house.", 
     "line_id": 77578, 
-    "speaker": "Bawd"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14533,7 +14533,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter CLEON and DIONYZA", 
     "line_id": 77579, 
-    "speaker": "Bawd"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -15005,7 +15005,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt", 
     "line_id": 77638, 
-    "speaker": "DIONYZA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.59", 
@@ -15021,7 +15021,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter GOWER, before the monument of MARINA at Tarsus", 
     "line_id": 77640, 
-    "speaker": "DIONYZA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.60", 
@@ -15213,7 +15213,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter PERICLES, at one door, with all his train;  CLEON and DIONYZA, at the other. CLEON shows  PERICLES the tomb; whereat PERICLES makes  lamentation, puts on sackcloth, and in a mighty passion departs. Then exeunt CLEON and DIONYZA", 
     "line_id": 77664, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.83", 
@@ -15317,7 +15317,7 @@
     "play_name": "Pericles", 
     "text_entry": "Reads the inscription on MARINA's monument", 
     "line_id": 77677, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.95", 
@@ -15469,7 +15469,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit", 
     "line_id": 77696, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15477,7 +15477,7 @@
     "play_name": "Pericles", 
     "text_entry": "SCENE V. Mytilene. A street before the brothel.", 
     "line_id": 77697, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15485,7 +15485,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter, from the brothel, two Gentlemen", 
     "line_id": 77698, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.1", 
@@ -15565,7 +15565,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt", 
     "line_id": 77708, 
-    "speaker": "First Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15573,7 +15573,7 @@
     "play_name": "Pericles", 
     "text_entry": "SCENE VI. The same. A room in the brothel.", 
     "line_id": 77709, 
-    "speaker": "First Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15581,7 +15581,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter Pandar, Bawd, and BOULT", 
     "line_id": 77710, 
-    "speaker": "First Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.1", 
@@ -15725,7 +15725,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter LYSIMACHUS", 
     "line_id": 77728, 
-    "speaker": "BOULT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.18", 
@@ -15877,7 +15877,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit BOULT", 
     "line_id": 77747, 
-    "speaker": "LYSIMACHUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.36", 
@@ -15901,7 +15901,7 @@
     "play_name": "Pericles", 
     "text_entry": "Re-enter BOULT with MARINA", 
     "line_id": 77750, 
-    "speaker": "Bawd"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.38", 
@@ -16069,7 +16069,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt Bawd, Pandar, and BOULT", 
     "line_id": 77771, 
-    "speaker": "Bawd"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.58", 
@@ -16485,7 +16485,7 @@
     "play_name": "Pericles", 
     "text_entry": "Re-enter BOULT", 
     "line_id": 77823, 
-    "speaker": "LYSIMACHUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.109", 
@@ -16525,7 +16525,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit", 
     "line_id": 77828, 
-    "speaker": "LYSIMACHUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.113", 
@@ -16605,7 +16605,7 @@
     "play_name": "Pericles", 
     "text_entry": "Re-enter Bawd", 
     "line_id": 77838, 
-    "speaker": "BOULT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.122", 
@@ -16765,7 +16765,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit", 
     "line_id": 77858, 
-    "speaker": "Bawd"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.141", 
@@ -17149,7 +17149,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt", 
     "line_id": 77906, 
-    "speaker": "BOULT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17157,7 +17157,7 @@
     "play_name": "Pericles", 
     "text_entry": "ACT V", 
     "line_id": 77907, 
-    "speaker": "BOULT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17165,7 +17165,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter GOWER", 
     "line_id": 77908, 
-    "speaker": "BOULT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.6.188", 
@@ -17365,7 +17365,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit", 
     "line_id": 77933, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17373,7 +17373,7 @@
     "play_name": "Pericles", 
     "text_entry": "SCENE I. On board PERICLES' ship, off Mytilene. A close", 
     "line_id": 77934, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -17405,7 +17405,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter two Sailors, one belonging to the Tyrian vessel, the other to the barge; to them HELICANUS", 
     "line_id": 77938, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.4", 
@@ -17477,7 +17477,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter two or three Gentlemen", 
     "line_id": 77947, 
-    "speaker": "Tyrian Sailor"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.12", 
@@ -17509,7 +17509,7 @@
     "play_name": "Pericles", 
     "text_entry": "The Gentlemen and the two Sailors descend, and go on board the barge", 
     "line_id": 77951, 
-    "speaker": "HELICANUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17517,7 +17517,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter, from thence, LYSIMACHUS and Lords; with the Gentlemen and the two Sailors", 
     "line_id": 77952, 
-    "speaker": "HELICANUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.15", 
@@ -17733,7 +17733,7 @@
     "play_name": "Pericles", 
     "text_entry": "PERICLES discovered", 
     "line_id": 77979, 
-    "speaker": "HELICANUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.41", 
@@ -17885,7 +17885,7 @@
     "play_name": "Pericles", 
     "text_entry": "Whispers a Lord, who goes off in the barge of LYSIMACHUS", 
     "line_id": 77998, 
-    "speaker": "LYSIMACHUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.59", 
@@ -18005,7 +18005,7 @@
     "play_name": "Pericles", 
     "text_entry": "Re-enter, from the barge, Lord, with MARINA, and a young Lady", 
     "line_id": 78013, 
-    "speaker": "HELICANUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.73", 
@@ -18165,7 +18165,7 @@
     "play_name": "Pericles", 
     "text_entry": "MARINA sings", 
     "line_id": 78033, 
-    "speaker": "LYSIMACHUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.92", 
@@ -18301,7 +18301,7 @@
     "play_name": "Pericles", 
     "text_entry": "Aside", 
     "line_id": 78050, 
-    "speaker": "MARINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.108", 
@@ -18981,7 +18981,7 @@
     "play_name": "Pericles", 
     "text_entry": "Aside", 
     "line_id": 78135, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.192", 
@@ -19565,7 +19565,7 @@
     "play_name": "Pericles", 
     "text_entry": "None!", 
     "line_id": 78208, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.265", 
@@ -19605,7 +19605,7 @@
     "play_name": "Pericles", 
     "text_entry": "Music", 
     "line_id": 78213, 
-    "speaker": "LYSIMACHUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.269", 
@@ -19637,7 +19637,7 @@
     "play_name": "Pericles", 
     "text_entry": "Sleeps", 
     "line_id": 78217, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.272", 
@@ -19677,7 +19677,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt all but PERICLES", 
     "line_id": 78222, 
-    "speaker": "LYSIMACHUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19685,7 +19685,7 @@
     "play_name": "Pericles", 
     "text_entry": "DIANA appears to PERICLES as in a vision", 
     "line_id": 78223, 
-    "speaker": "LYSIMACHUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.276", 
@@ -19773,7 +19773,7 @@
     "play_name": "Pericles", 
     "text_entry": "Disappears", 
     "line_id": 78234, 
-    "speaker": "DIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.286", 
@@ -19797,7 +19797,7 @@
     "play_name": "Pericles", 
     "text_entry": "Re-enter HELICANUS, LYSIMACHUS, and MARINA", 
     "line_id": 78237, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.288", 
@@ -19845,7 +19845,7 @@
     "play_name": "Pericles", 
     "text_entry": "To LYSIMACHUS", 
     "line_id": 78243, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.293", 
@@ -19941,7 +19941,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt", 
     "line_id": 78255, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.304", 
@@ -19957,7 +19957,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter GOWER, before the temple of DIANA at Ephesus", 
     "line_id": 78257, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.305", 
@@ -20125,7 +20125,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exit", 
     "line_id": 78278, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20133,7 +20133,7 @@
     "play_name": "Pericles", 
     "text_entry": "SCENE III. The temple of Diana at Ephesus; THAISA standing", 
     "line_id": 78279, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.1", 
@@ -20165,7 +20165,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter PERICLES, with his train; LYSIMACHUS, HELICANUS, MARINA, and a Lady", 
     "line_id": 78283, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.4", 
@@ -20293,7 +20293,7 @@
     "play_name": "Pericles", 
     "text_entry": "Faints", 
     "line_id": 78299, 
-    "speaker": "THAISA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.19", 
@@ -20541,7 +20541,7 @@
     "play_name": "Pericles", 
     "text_entry": "Shows a ring", 
     "line_id": 78330, 
-    "speaker": "THAISA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.49", 
@@ -20605,7 +20605,7 @@
     "play_name": "Pericles", 
     "text_entry": "Kneels to THAISA", 
     "line_id": 78338, 
-    "speaker": "MARINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.56", 
@@ -20965,7 +20965,7 @@
     "play_name": "Pericles", 
     "text_entry": "Exeunt", 
     "line_id": 78383, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20973,7 +20973,7 @@
     "play_name": "Pericles", 
     "text_entry": "Enter GOWER", 
     "line_id": 78384, 
-    "speaker": "PERICLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.100", 
@@ -21125,6 +21125,6 @@
     "play_name": "Pericles", 
     "text_entry": "Exit", 
     "line_id": 78403, 
-    "speaker": "GOWER"
+    "speaker": "Stage Directions"
   }
 ]

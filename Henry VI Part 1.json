@@ -5,7 +5,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "ACT I", 
     "line_id": 3206, 
-    "speaker": "KING HENRY IV"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE I. Westminster Abbey.", 
     "line_id": 3207, 
-    "speaker": "KING HENRY IV"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -493,7 +493,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter a Messenger", 
     "line_id": 3267, 
-    "speaker": "BEDFORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.59", 
@@ -757,7 +757,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter to them another Messenger", 
     "line_id": 3300, 
-    "speaker": "BEDFORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.91", 
@@ -877,7 +877,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter another Messenger", 
     "line_id": 3315, 
-    "speaker": "BEDFORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.105", 
@@ -1405,7 +1405,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 3381, 
-    "speaker": "BEDFORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.170", 
@@ -1437,7 +1437,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 3385, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.173", 
@@ -1469,7 +1469,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 3389, 
-    "speaker": "EXETER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.176", 
@@ -1525,7 +1525,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt", 
     "line_id": 3396, 
-    "speaker": "OF WINCHESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1533,7 +1533,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE II. France. Before Orleans.", 
     "line_id": 3397, 
-    "speaker": "OF WINCHESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1541,7 +1541,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Sound a flourish. Enter CHARLES, ALENCON, and REIGNIER, marching with drum and Soldiers", 
     "line_id": 3398, 
-    "speaker": "OF WINCHESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -1717,7 +1717,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt", 
     "line_id": 3420, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1725,7 +1725,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Here alarum; they are beaten back by the English with great loss. Re-enter CHARLES, ALENCON, and REIGNIER", 
     "line_id": 3421, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.22", 
@@ -1925,7 +1925,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter the BASTARD OF ORLEANS", 
     "line_id": 3446, 
-    "speaker": "ALENCON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.46", 
@@ -2053,7 +2053,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit BASTARD OF ORLEANS", 
     "line_id": 3462, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.61", 
@@ -2093,7 +2093,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Re-enter the BASTARD OF ORLEANS, with JOAN LA PUCELLE", 
     "line_id": 3467, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.65", 
@@ -2429,7 +2429,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Here they fight, and JOAN LA PUCELLE overcomes", 
     "line_id": 3509, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.106", 
@@ -2813,7 +2813,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt", 
     "line_id": 3557, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2821,7 +2821,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE III. London. Before the Tower.", 
     "line_id": 3558, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2829,7 +2829,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter GLOUCESTER, with his Serving-men in blue coats", 
     "line_id": 3559, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -2949,7 +2949,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Gloucester's men rush at the Tower Gates, and WOODVILE the Lieutenant speaks within", 
     "line_id": 3574, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.15", 
@@ -3069,7 +3069,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter to the Protector at the Tower Gates BISHOP OF WINCHESTER and his men in tawny coats", 
     "line_id": 3589, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.29", 
@@ -3341,7 +3341,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Here GLOUCESTER's men beat out BISHOP OF  WINCHESTER's men, and enter in the hurly- burly the Mayor of London and his Officers", 
     "line_id": 3623, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.62", 
@@ -3461,7 +3461,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Here they skirmish again", 
     "line_id": 3638, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.76", 
@@ -3637,7 +3637,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt, severally, GLOUCESTER and BISHOP OF WINCHESTER with their Serving-men", 
     "line_id": 3660, 
-    "speaker": "OF WINCHESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.97", 
@@ -3669,7 +3669,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt", 
     "line_id": 3664, 
-    "speaker": "Mayor"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3677,7 +3677,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE IV. Orleans.", 
     "line_id": 3665, 
-    "speaker": "Mayor"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3685,7 +3685,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter, on the walls, a Master Gunner and his Boy", 
     "line_id": 3666, 
-    "speaker": "Mayor"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.1", 
@@ -3853,7 +3853,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 3687, 
-    "speaker": "Boy"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.21", 
@@ -3877,7 +3877,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 3690, 
-    "speaker": "Boy"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3885,7 +3885,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter, on the turrets, SALISBURY and TALBOT, GLANSDALE, GARGRAVE, and others", 
     "line_id": 3691, 
-    "speaker": "Boy"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.23", 
@@ -4165,7 +4165,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter the Boy with a linstock", 
     "line_id": 3726, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.57", 
@@ -4277,7 +4277,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Here they shoot. SALISBURY and GARGRAVE fall", 
     "line_id": 3740, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.70", 
@@ -4509,7 +4509,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Here an alarum, and it thunders and lightens", 
     "line_id": 3769, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.98", 
@@ -4533,7 +4533,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter a Messenger", 
     "line_id": 3772, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.100", 
@@ -4573,7 +4573,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Here SALISBURY lifteth himself up and groans", 
     "line_id": 3777, 
-    "speaker": "Messenger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.104", 
@@ -4645,7 +4645,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Alarum. Exeunt", 
     "line_id": 3786, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4653,7 +4653,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE V. The same.", 
     "line_id": 3787, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4661,7 +4661,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Here an alarum again: and TALBOT pursueth the  DAUPHIN, and driveth him: then enter JOAN LA  PUCELLE, driving Englishmen before her, and exit after them then re-enter TALBOT", 
     "line_id": 3788, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.1", 
@@ -4693,7 +4693,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Re-enter JOAN LA PUCELLE", 
     "line_id": 3792, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.4", 
@@ -4741,7 +4741,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Here they fight", 
     "line_id": 3798, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.9", 
@@ -4781,7 +4781,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "They fight again", 
     "line_id": 3803, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.13", 
@@ -4805,7 +4805,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "A short alarum; then enter the town with soldiers", 
     "line_id": 3806, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.15", 
@@ -4845,7 +4845,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 3811, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.19", 
@@ -4917,7 +4917,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "A short alarum", 
     "line_id": 3820, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.27", 
@@ -4973,7 +4973,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Alarum. Here another skirmish", 
     "line_id": 3827, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.33", 
@@ -5037,7 +5037,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit TALBOT. Alarum; retreat; flourish", 
     "line_id": 3835, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.39", 
@@ -5045,7 +5045,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE VI. The same.", 
     "line_id": 3836, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5053,7 +5053,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter, on the walls, JOAN LA PUCELLE, CHARLES, REIGNIER, ALENCON, and Soldiers", 
     "line_id": 3837, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.6.1", 
@@ -5309,7 +5309,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Flourish. Exeunt", 
     "line_id": 3869, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5317,7 +5317,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "ACT II", 
     "line_id": 3870, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5325,7 +5325,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE I. Before Orleans.", 
     "line_id": 3871, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5333,7 +5333,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter a Sergeant of a band with two Sentinels", 
     "line_id": 3872, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -5381,7 +5381,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit Sergeant", 
     "line_id": 3878, 
-    "speaker": "First Sentinel"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.6", 
@@ -5413,7 +5413,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter TALBOT, BEDFORD, BURGUNDY, and Forces, with scaling-ladders, their drums beating a dead march", 
     "line_id": 3882, 
-    "speaker": "First Sentinel"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.9", 
@@ -5685,7 +5685,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Cry: 'St. George,' 'A Talbot.'", 
     "line_id": 3916, 
-    "speaker": "Sentinels"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5693,7 +5693,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "The French leap over the walls in their shirts.  Enter, several ways, the BASTARD OF ORLEANS, ALENCON, and REIGNIER, half ready, and half unready", 
     "line_id": 3917, 
-    "speaker": "Sentinels"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.42", 
@@ -5789,7 +5789,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter CHARLES and JOAN LA PUCELLE", 
     "line_id": 3929, 
-    "speaker": "BASTARD OF ORLEANS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.53", 
@@ -6029,7 +6029,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Alarum. Enter an English Soldier, crying 'A  Talbot! a Talbot!' They fly, leaving their clothes behind", 
     "line_id": 3959, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.82", 
@@ -6069,7 +6069,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 3964, 
-    "speaker": "Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6077,7 +6077,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE II. Orleans. Within the town.", 
     "line_id": 3965, 
-    "speaker": "Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6085,7 +6085,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter TALBOT, BEDFORD, BURGUNDY, a Captain, and others", 
     "line_id": 3966, 
-    "speaker": "Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -6117,7 +6117,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Retreat sounded", 
     "line_id": 3970, 
-    "speaker": "BEDFORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.4", 
@@ -6365,7 +6365,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter a Messenger", 
     "line_id": 4001, 
-    "speaker": "BURGUNDY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.34", 
@@ -6581,7 +6581,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Whispers", 
     "line_id": 4028, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.60", 
@@ -6605,7 +6605,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt", 
     "line_id": 4031, 
-    "speaker": "Captain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6613,7 +6613,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE III. Auvergne. The COUNTESS's castle.", 
     "line_id": 4032, 
-    "speaker": "Captain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6621,7 +6621,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter the COUNTESS and her Porter", 
     "line_id": 4033, 
-    "speaker": "Captain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -6661,7 +6661,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 4038, 
-    "speaker": "Porter"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.5", 
@@ -6733,7 +6733,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter Messenger and TALBOT", 
     "line_id": 4047, 
-    "speaker": "OF AUVERGNE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.13", 
@@ -6949,7 +6949,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Re-enter Porter with keys", 
     "line_id": 4074, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.39", 
@@ -7245,7 +7245,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Winds his horn. Drums strike up: a peal of ordnance. Enter soldiers", 
     "line_id": 4111, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.75", 
@@ -7445,7 +7445,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt", 
     "line_id": 4136, 
-    "speaker": "OF AUVERGNE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7453,7 +7453,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE IV. London. The Temple-garden.", 
     "line_id": 4137, 
-    "speaker": "OF AUVERGNE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7461,7 +7461,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter the Earls of SOMERSET, SUFFOLK, and WARWICK; RICHARD PLANTAGENET, VERNON, and another Lawyer", 
     "line_id": 4138, 
-    "speaker": "OF AUVERGNE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.1", 
@@ -7965,7 +7965,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "To SOMERSET", 
     "line_id": 4201, 
-    "speaker": "Lawyer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.63", 
@@ -8501,7 +8501,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 4268, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.129", 
@@ -8517,7 +8517,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 4270, 
-    "speaker": "SOMERSET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.130", 
@@ -8709,7 +8709,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt", 
     "line_id": 4294, 
-    "speaker": "PLANTAGENET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8717,7 +8717,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE V. The Tower of London.", 
     "line_id": 4295, 
-    "speaker": "PLANTAGENET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8725,7 +8725,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter MORTIMER, brought in a chair, and Gaolers", 
     "line_id": 4296, 
-    "speaker": "PLANTAGENET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.1", 
@@ -8989,7 +8989,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter RICHARD PLANTAGENET", 
     "line_id": 4329, 
-    "speaker": "MORTIMER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.33", 
@@ -9701,7 +9701,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Dies", 
     "line_id": 4418, 
-    "speaker": "MORTIMER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.121", 
@@ -9773,7 +9773,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt Gaolers, bearing out the body of MORTIMER", 
     "line_id": 4427, 
-    "speaker": "PLANTAGENET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.129", 
@@ -9845,7 +9845,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 4436, 
-    "speaker": "PLANTAGENET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9853,7 +9853,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "ACT III", 
     "line_id": 4437, 
-    "speaker": "PLANTAGENET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9861,7 +9861,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE I. London. The Parliament-house.", 
     "line_id": 4438, 
-    "speaker": "PLANTAGENET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9869,7 +9869,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Flourish. Enter KING HENRY VI, EXETER, GLOUCESTER,  WARWICK, SOMERSET, and SUFFOLK; the BISHOP OF  WINCHESTER, RICHARD PLANTAGENET, and others.  GLOUCESTER offers to put up a bill; BISHOP OF WINCHESTER snatches it, and tears it", 
     "line_id": 4439, 
-    "speaker": "PLANTAGENET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -10541,7 +10541,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "A noise within, 'Down with the tawny-coats!'", 
     "line_id": 4523, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.84", 
@@ -10573,7 +10573,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "A noise again, 'Stones! stones!' Enter Mayor", 
     "line_id": 4527, 
-    "speaker": "WARWICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.87", 
@@ -10661,7 +10661,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter Serving-men, in skirmish, with bloody pates", 
     "line_id": 4538, 
-    "speaker": "Mayor"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.97", 
@@ -10717,7 +10717,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Skirmish again", 
     "line_id": 4545, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.103", 
@@ -10821,7 +10821,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Begin again", 
     "line_id": 4558, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.115", 
@@ -11557,7 +11557,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Sennet. Flourish. Exeunt all but EXETER", 
     "line_id": 4650, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.205", 
@@ -11685,7 +11685,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 4666, 
-    "speaker": "EXETER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11693,7 +11693,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE II. France. Before Rouen.", 
     "line_id": 4667, 
-    "speaker": "EXETER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11701,7 +11701,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter JOAN LA PUCELLE disguised, with four Soldiers with sacks upon their backs", 
     "line_id": 4668, 
-    "speaker": "EXETER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -11805,7 +11805,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Knocks", 
     "line_id": 4681, 
-    "speaker": "First Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.13", 
@@ -11853,7 +11853,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt", 
     "line_id": 4687, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11861,7 +11861,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter CHARLES, the BASTARD OF ORLEANS, ALENCON, REIGNIER, and forces", 
     "line_id": 4688, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.18", 
@@ -11933,7 +11933,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter JOAN LA PUCELLE on the top, thrusting out a torch burning", 
     "line_id": 4697, 
-    "speaker": "REIGNIER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.26", 
@@ -11965,7 +11965,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 4701, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.29", 
@@ -12029,7 +12029,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Alarum. Exeunt", 
     "line_id": 4709, 
-    "speaker": "REIGNIER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12037,7 +12037,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "An alarum. Enter TALBOT in an excursion", 
     "line_id": 4710, 
-    "speaker": "REIGNIER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.36", 
@@ -12085,7 +12085,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 4716, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12093,7 +12093,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "An alarum: excursions. BEDFORD, brought in sick  in a chair. Enter TALBOT and BURGUNDY without:  within JOAN LA PUCELLE, CHARLES, BASTARD OF ORLEANS, ALENCON, and REIGNIER, on the walls", 
     "line_id": 4717, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.41", 
@@ -12253,7 +12253,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "The English whisper together in council", 
     "line_id": 4737, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.60", 
@@ -12381,7 +12381,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt from the walls", 
     "line_id": 4753, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.75", 
@@ -12621,7 +12621,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt all but BEDFORD and Attendants", 
     "line_id": 4783, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12629,7 +12629,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "An alarum: excursions. Enter FASTOLFE and a Captain", 
     "line_id": 4784, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.104", 
@@ -12685,7 +12685,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 4791, 
-    "speaker": "FASTOLFE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.110", 
@@ -12701,7 +12701,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 4793, 
-    "speaker": "Captain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12709,7 +12709,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Retreat: excursions. JOAN LA PUCELLE, ALENCON, and CHARLES fly", 
     "line_id": 4794, 
-    "speaker": "Captain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.111", 
@@ -12757,7 +12757,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "BEDFORD dies, and is carried in by two in his chair", 
     "line_id": 4800, 
-    "speaker": "BEDFORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12765,7 +12765,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "An alarum. Re-enter TALBOT, BURGUNDY, and the rest", 
     "line_id": 4801, 
-    "speaker": "BEDFORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.116", 
@@ -12957,7 +12957,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt", 
     "line_id": 4825, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12965,7 +12965,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE III. The plains near Rouen.", 
     "line_id": 4826, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12973,7 +12973,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter CHARLES, the BASTARD OF ORLEANS, ALENCON, JOAN LA PUCELLE, and forces", 
     "line_id": 4827, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -13205,7 +13205,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Drum sounds afar off", 
     "line_id": 4856, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.29", 
@@ -13229,7 +13229,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Here sound an English march. Enter, and pass over at a distance, TALBOT and his forces", 
     "line_id": 4859, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.31", 
@@ -13253,7 +13253,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "French march. Enter BURGUNDY and forces", 
     "line_id": 4862, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.33", 
@@ -13285,7 +13285,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Trumpets sound a parley", 
     "line_id": 4866, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.36", 
@@ -13741,7 +13741,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt", 
     "line_id": 4923, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13749,7 +13749,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE IV. Paris. The palace.", 
     "line_id": 4924, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13757,7 +13757,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter KING HENRY VI, GLOUCESTER, BISHOP OF  WINCHESTER, YORK, SUFFOLK, SOMERSET, WARWICK,  EXETER, VERNON\tBASSET, and others. To them with his Soldiers, TALBOT", 
     "line_id": 4925, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.1", 
@@ -13861,7 +13861,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Kneels", 
     "line_id": 4938, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.13", 
@@ -13989,7 +13989,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Sennet. Flourish. Exeunt all but VERNON and BASSET", 
     "line_id": 4954, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.28", 
@@ -14077,7 +14077,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Strikes him", 
     "line_id": 4965, 
-    "speaker": "VERNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.38", 
@@ -14149,7 +14149,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt", 
     "line_id": 4974, 
-    "speaker": "VERNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14157,7 +14157,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "ACT IV", 
     "line_id": 4975, 
-    "speaker": "VERNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14165,7 +14165,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE I. Paris. A hall of state.", 
     "line_id": 4976, 
-    "speaker": "VERNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14173,7 +14173,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter KING HENRY VI, GLOUCESTER, BISHOP OF  WINCHESTER, YORK, SUFFOLK, SOMERSET, WARWICK, TALBOT, EXETER, the Governor, of Paris, and others", 
     "line_id": 4977, 
-    "speaker": "VERNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -14253,7 +14253,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter FASTOLFE", 
     "line_id": 4987, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.10", 
@@ -14317,7 +14317,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Plucking it off", 
     "line_id": 4995, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.17", 
@@ -14581,7 +14581,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit FASTOLFE", 
     "line_id": 5028, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.49", 
@@ -14653,7 +14653,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Reads", 
     "line_id": 5037, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.57", 
@@ -14845,7 +14845,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 5061, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14853,7 +14853,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter VERNON and BASSET", 
     "line_id": 5062, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.80", 
@@ -15461,7 +15461,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Putting on a red rose", 
     "line_id": 5138, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.155", 
@@ -15637,7 +15637,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Flourish. Exeunt all but YORK, WARWICK, EXETER and VERNON", 
     "line_id": 5160, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.176", 
@@ -15709,7 +15709,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt all but EXETER", 
     "line_id": 5169, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.184", 
@@ -15821,7 +15821,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 5183, 
-    "speaker": "EXETER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15829,7 +15829,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE II. Before Bourdeaux.", 
     "line_id": 5184, 
-    "speaker": "EXETER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15837,7 +15837,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter TALBOT, with trump and drum", 
     "line_id": 5185, 
-    "speaker": "EXETER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -15861,7 +15861,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Trumpet sounds. Enter General and others, aloft", 
     "line_id": 5188, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.3", 
@@ -16157,7 +16157,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Drum afar off", 
     "line_id": 5225, 
-    "speaker": "General"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.39", 
@@ -16317,7 +16317,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt", 
     "line_id": 5245, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16325,7 +16325,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE III. Plains in Gascony.", 
     "line_id": 5246, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16333,7 +16333,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter a Messenger that meets YORK. Enter YORK with trumpet and many Soldiers", 
     "line_id": 5247, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -16469,7 +16469,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter Sir William LUCY", 
     "line_id": 5264, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.17", 
@@ -16717,7 +16717,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit, with his soldiers", 
     "line_id": 5295, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.47", 
@@ -16781,7 +16781,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 5303, 
-    "speaker": "LUCY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16789,7 +16789,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE IV. Other plains in Gascony.", 
     "line_id": 5304, 
-    "speaker": "LUCY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16797,7 +16797,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter SOMERSET, with his army; a Captain of TALBOT's with him", 
     "line_id": 5305, 
-    "speaker": "LUCY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.1", 
@@ -16893,7 +16893,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter Sir William LUCY", 
     "line_id": 5317, 
-    "speaker": "Captain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.12", 
@@ -17181,7 +17181,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt", 
     "line_id": 5353, 
-    "speaker": "LUCY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17189,7 +17189,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE V. The English camp near Bourdeaux.", 
     "line_id": 5354, 
-    "speaker": "LUCY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17197,7 +17197,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter TALBOT and JOHN his son", 
     "line_id": 5355, 
-    "speaker": "LUCY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.1", 
@@ -17645,7 +17645,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt", 
     "line_id": 5411, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17653,7 +17653,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE VI. A field of battle.", 
     "line_id": 5412, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17661,7 +17661,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Alarum: excursions, wherein JOHN TALBOT is hemmed about, and TALBOT rescues him", 
     "line_id": 5413, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.1", 
@@ -18125,7 +18125,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt", 
     "line_id": 5471, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18133,7 +18133,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE VII. Another part of the field.", 
     "line_id": 5472, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18141,7 +18141,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Alarum: excursions. Enter TALBOT led by a Servant", 
     "line_id": 5473, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.1", 
@@ -18285,7 +18285,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter Soldiers, with the body of JOHN TALBOT", 
     "line_id": 5491, 
-    "speaker": "Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.18", 
@@ -18413,7 +18413,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Dies", 
     "line_id": 5507, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18421,7 +18421,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter CHARLES, ALENCON, BURGUNDY, BASTARD OF ORLEANS, JOAN LA PUCELLE, and forces", 
     "line_id": 5508, 
-    "speaker": "TALBOT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.33", 
@@ -18573,7 +18573,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter Sir William LUCY, attended; Herald of the French preceding", 
     "line_id": 5527, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.7.51", 
@@ -18949,7 +18949,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt", 
     "line_id": 5574, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18957,7 +18957,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "ACT V", 
     "line_id": 5575, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18965,7 +18965,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE I. London. The palace.", 
     "line_id": 5576, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18973,7 +18973,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Sennet. Enter KING HENRY VI, GLOUCESTER, and EXETER", 
     "line_id": 5577, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -19197,7 +19197,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter CARDINAL OF WINCHESTER in Cardinal's habit, a Legate and two Ambassadors", 
     "line_id": 5605, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.28", 
@@ -19381,7 +19381,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt all but CARDINAL OF WINCHESTER and Legate", 
     "line_id": 5628, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.50", 
@@ -19501,7 +19501,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt", 
     "line_id": 5643, 
-    "speaker": "OF WINCHESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19509,7 +19509,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE II. France. Plains in Anjou.", 
     "line_id": 5644, 
-    "speaker": "OF WINCHESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19517,7 +19517,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter CHARLES, BURGUNDY, ALENCON, BASTARD OF ORLEANS, REIGNIER, JOAN LA PUCELLE, and forces", 
     "line_id": 5645, 
-    "speaker": "OF WINCHESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -19581,7 +19581,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter Scout", 
     "line_id": 5653, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.8", 
@@ -19701,7 +19701,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt", 
     "line_id": 5668, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19709,7 +19709,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE III. Before Angiers.", 
     "line_id": 5669, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19717,7 +19717,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Alarum. Excursions. Enter JOAN LA PUCELLE", 
     "line_id": 5670, 
-    "speaker": "CHARLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.1", 
@@ -19757,7 +19757,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Thunder", 
     "line_id": 5675, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.5", 
@@ -19789,7 +19789,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter Fiends", 
     "line_id": 5679, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.8", 
@@ -19837,7 +19837,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "They walk, and speak not", 
     "line_id": 5685, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.13", 
@@ -19885,7 +19885,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "They hang their heads", 
     "line_id": 5691, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.18", 
@@ -19909,7 +19909,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "They shake their heads", 
     "line_id": 5694, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.20", 
@@ -19949,7 +19949,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "They depart", 
     "line_id": 5699, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.24", 
@@ -20005,7 +20005,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 5706, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20013,7 +20013,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Excursions. Re-enter JOAN LA PUCELLE fighting hand  to hand with YORK. JOAN LA PUCELLE is taken. The French fly.", 
     "line_id": 5707, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.30", 
@@ -20141,7 +20141,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt", 
     "line_id": 5723, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20149,7 +20149,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Alarum. Enter SUFFOLK with MARGARET in his hand", 
     "line_id": 5724, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.45", 
@@ -20165,7 +20165,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Gazes on her", 
     "line_id": 5726, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.46", 
@@ -20285,7 +20285,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "She is going", 
     "line_id": 5741, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.60", 
@@ -20877,7 +20877,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "A parley sounded. Enter REIGNIER on the walls", 
     "line_id": 5815, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.133", 
@@ -21021,7 +21021,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit from the walls", 
     "line_id": 5833, 
-    "speaker": "REIGNIER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.150", 
@@ -21037,7 +21037,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Trumpets sound. Enter REIGNIER, below", 
     "line_id": 5835, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.151", 
@@ -21197,7 +21197,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Aside", 
     "line_id": 5855, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.170", 
@@ -21285,7 +21285,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Going", 
     "line_id": 5866, 
-    "speaker": "MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.180", 
@@ -21373,7 +21373,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Kisses her", 
     "line_id": 5877, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.190", 
@@ -21397,7 +21397,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt REIGNIER and MARGARET", 
     "line_id": 5880, 
-    "speaker": "MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.192", 
@@ -21477,7 +21477,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 5890, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21485,7 +21485,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE IV. Camp of the YORK in Anjou.", 
     "line_id": 5891, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21493,7 +21493,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter YORK, WARWICK, and others", 
     "line_id": 5892, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.1", 
@@ -21509,7 +21509,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter JOAN LA PUCELLE, guarded, and a Shepherd", 
     "line_id": 5894, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.2", 
@@ -21773,7 +21773,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 5927, 
-    "speaker": "Shepherd"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.34", 
@@ -22245,7 +22245,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit, guarded", 
     "line_id": 5986, 
-    "speaker": "JOAN LA PUCELLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.92", 
@@ -22269,7 +22269,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter CARDINAL OF WINCHESTER, attended", 
     "line_id": 5989, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.94", 
@@ -22461,7 +22461,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter CHARLES, ALENCON, BASTARD OF ORLEANS, REIGNIER, and others", 
     "line_id": 6013, 
-    "speaker": "WARWICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.117", 
@@ -22957,7 +22957,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt", 
     "line_id": 6075, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22965,7 +22965,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "SCENE V. London. The palace.", 
     "line_id": 6076, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22973,7 +22973,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Enter SUFFOLK in conference with KING HENRY VI, GLOUCESTER and EXETER", 
     "line_id": 6077, 
-    "speaker": "YORK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.1", 
@@ -23789,7 +23789,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 6179, 
-    "speaker": "KING HENRY VI"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.102", 
@@ -23805,7 +23805,7 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exeunt GLOUCESTER and EXETER", 
     "line_id": 6181, 
-    "speaker": "GLOUCESTER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.103", 
@@ -23861,6 +23861,6 @@
     "play_name": "Henry VI Part 1", 
     "text_entry": "Exit", 
     "line_id": 6188, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }
 ]

@@ -5,7 +5,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "ACT I", 
     "line_id": 52794, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "SCENE I. The king of Navarre's park.", 
     "line_id": 52795, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter FERDINAND king of Navarre, BIRON, LONGAVILLE and DUMAIN", 
     "line_id": 52796, 
-    "speaker": "ALBANY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -1021,7 +1021,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Reads", 
     "line_id": 52921, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.125", 
@@ -1069,7 +1069,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Reads", 
     "line_id": 52927, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.130", 
@@ -1285,7 +1285,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Subscribes", 
     "line_id": 52954, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.156", 
@@ -1493,7 +1493,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter DULL with a letter, and COSTARD", 
     "line_id": 52980, 
-    "speaker": "LONGAVILLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.181", 
@@ -2397,7 +2397,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exeunt FERDINAND, LONGAVILLE, and DUMAIN", 
     "line_id": 53093, 
-    "speaker": "FERDINAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.293", 
@@ -2469,7 +2469,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exeunt", 
     "line_id": 53102, 
-    "speaker": "COSTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.301", 
@@ -2485,7 +2485,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "SCENE II. The same.", 
     "line_id": 53104, 
-    "speaker": "COSTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2493,7 +2493,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter DON ADRIANO DE ARMADO and MOTH", 
     "line_id": 53105, 
-    "speaker": "COSTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -3669,7 +3669,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter DULL, COSTARD, and JAQUENETTA", 
     "line_id": 53252, 
-    "speaker": "MOTH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.147", 
@@ -3869,7 +3869,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exeunt DULL and JAQUENETTA", 
     "line_id": 53277, 
-    "speaker": "DULL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.171", 
@@ -4053,7 +4053,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exeunt MOTH and COSTARD", 
     "line_id": 53300, 
-    "speaker": "COSTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.193", 
@@ -4221,7 +4221,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exit", 
     "line_id": 53321, 
-    "speaker": "ADRIANO DE ARMADO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.213", 
@@ -4237,7 +4237,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "ACT II", 
     "line_id": 53323, 
-    "speaker": "ADRIANO DE ARMADO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.213", 
@@ -4245,7 +4245,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "SCENE I. The same.", 
     "line_id": 53324, 
-    "speaker": "ADRIANO DE ARMADO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4253,7 +4253,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter the PRINCESS of France, ROSALINE, MARIA, KATHARINE, BOYET, Lords, and other Attendants", 
     "line_id": 53325, 
-    "speaker": "ADRIANO DE ARMADO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -4549,7 +4549,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exit BOYET", 
     "line_id": 53362, 
-    "speaker": "PRINCESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.37", 
@@ -4917,7 +4917,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Re-enter BOYET", 
     "line_id": 53408, 
-    "speaker": "First Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.82", 
@@ -5005,7 +5005,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter FERDINAND, LONGAVILLE, DUMAIN, BIRON, and Attendants", 
     "line_id": 53419, 
-    "speaker": "BOYET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.92", 
@@ -5741,7 +5741,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exit", 
     "line_id": 53511, 
-    "speaker": "FERDINAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.183", 
@@ -5853,7 +5853,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Retiring", 
     "line_id": 53525, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.196", 
@@ -5885,7 +5885,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exit", 
     "line_id": 53529, 
-    "speaker": "DUMAIN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.199", 
@@ -5989,7 +5989,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exit LONGAVILLE", 
     "line_id": 53542, 
-    "speaker": "BOYET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.211", 
@@ -6045,7 +6045,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exit BIRON", 
     "line_id": 53549, 
-    "speaker": "BOYET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.217", 
@@ -6133,7 +6133,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Offering to kiss her", 
     "line_id": 53560, 
-    "speaker": "BOYET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.227", 
@@ -6477,7 +6477,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exeunt", 
     "line_id": 53603, 
-    "speaker": "BOYET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.269", 
@@ -6493,7 +6493,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "ACT III", 
     "line_id": 53605, 
-    "speaker": "BOYET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.269", 
@@ -6501,7 +6501,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "SCENE I. The same.", 
     "line_id": 53606, 
-    "speaker": "BOYET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6509,7 +6509,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter DON ADRIANO DE ARMADO and MOTH", 
     "line_id": 53607, 
-    "speaker": "BOYET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -6541,7 +6541,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Singing", 
     "line_id": 53611, 
-    "speaker": "MOTH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.4", 
@@ -7141,7 +7141,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exit", 
     "line_id": 53686, 
-    "speaker": "MOTH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.78", 
@@ -7189,7 +7189,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Re-enter MOTH with COSTARD", 
     "line_id": 53692, 
-    "speaker": "ADRIANO DE ARMADO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.83", 
@@ -7749,7 +7749,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Giving a letter", 
     "line_id": 53762, 
-    "speaker": "ADRIANO DE ARMADO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.152", 
@@ -7781,7 +7781,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exit", 
     "line_id": 53766, 
-    "speaker": "ADRIANO DE ARMADO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.155", 
@@ -7805,7 +7805,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exit MOTH", 
     "line_id": 53769, 
-    "speaker": "COSTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.157", 
@@ -7869,7 +7869,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter BIRON", 
     "line_id": 53777, 
-    "speaker": "COSTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.164", 
@@ -8077,7 +8077,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Giving him a shilling", 
     "line_id": 53803, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.189", 
@@ -8109,7 +8109,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exit", 
     "line_id": 53807, 
-    "speaker": "COSTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.192", 
@@ -8373,7 +8373,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exit", 
     "line_id": 53840, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.224", 
@@ -8389,7 +8389,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "ACT IV", 
     "line_id": 53842, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.224", 
@@ -8397,7 +8397,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "SCENE I. The same.", 
     "line_id": 53843, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8405,7 +8405,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter the PRINCESS, and her train, a Forester, BOYET, ROSALINE, MARIA, and KATHARINE", 
     "line_id": 53844, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -8749,7 +8749,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter COSTARD", 
     "line_id": 53887, 
-    "speaker": "BOYET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.43", 
@@ -8901,7 +8901,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Reads", 
     "line_id": 53906, 
-    "speaker": "PRINCESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.61", 
@@ -9317,7 +9317,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "To ROSALINE", 
     "line_id": 53958, 
-    "speaker": "PRINCESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.112", 
@@ -9333,7 +9333,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exeunt PRINCESS and train", 
     "line_id": 53960, 
-    "speaker": "PRINCESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.113", 
@@ -9541,7 +9541,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exeunt ROSALINE and KATHARINE", 
     "line_id": 53986, 
-    "speaker": "BOYET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.138", 
@@ -9637,7 +9637,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exeunt BOYET and MARIA", 
     "line_id": 53998, 
-    "speaker": "BOYET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.149", 
@@ -9749,7 +9749,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Shout within", 
     "line_id": 54012, 
-    "speaker": "COSTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9757,7 +9757,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exit COSTARD, running", 
     "line_id": 54013, 
-    "speaker": "COSTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.162", 
@@ -9773,7 +9773,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "SCENE II. The same.", 
     "line_id": 54015, 
-    "speaker": "COSTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9781,7 +9781,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter HOLOFERNES, SIR NATHANIEL, and DULL", 
     "line_id": 54016, 
-    "speaker": "COSTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -10485,7 +10485,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter JAQUENETTA and COSTARD", 
     "line_id": 54104, 
-    "speaker": "HOLOFERNES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.88", 
@@ -10661,7 +10661,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "[Reads]", 
     "line_id": 54126, 
-    "speaker": "SIR NATHANIEL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.110", 
@@ -11013,7 +11013,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exeunt COSTARD and JAQUENETTA", 
     "line_id": 54170, 
-    "speaker": "COSTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.153", 
@@ -11157,7 +11157,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "To DULL", 
     "line_id": 54188, 
-    "speaker": "HOLOFERNES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.170", 
@@ -11189,7 +11189,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exeunt", 
     "line_id": 54192, 
-    "speaker": "HOLOFERNES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.173", 
@@ -11205,7 +11205,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "SCENE III. The same.", 
     "line_id": 54194, 
-    "speaker": "HOLOFERNES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11213,7 +11213,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter BIRON, with a paper", 
     "line_id": 54195, 
-    "speaker": "HOLOFERNES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -11381,7 +11381,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Stands aside", 
     "line_id": 54216, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11389,7 +11389,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter FERDINAND, with a paper", 
     "line_id": 54217, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.21", 
@@ -11429,7 +11429,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "[Reads]", 
     "line_id": 54222, 
-    "speaker": "FERDINAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.26", 
@@ -11581,7 +11581,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Steps aside", 
     "line_id": 54241, 
-    "speaker": "FERDINAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.44", 
@@ -11605,7 +11605,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter LONGAVILLE, with a paper", 
     "line_id": 54244, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.46", 
@@ -11725,7 +11725,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Reads", 
     "line_id": 54259, 
-    "speaker": "LONGAVILLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.60", 
@@ -11877,7 +11877,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Steps aside", 
     "line_id": 54278, 
-    "speaker": "LONGAVILLE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.78", 
@@ -11917,7 +11917,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter DUMAIN, with a paper", 
     "line_id": 54283, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.82", 
@@ -12101,7 +12101,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "[Reads]", 
     "line_id": 54306, 
-    "speaker": "DUMAIN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.105", 
@@ -12437,7 +12437,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "To LONGAVILLE", 
     "line_id": 54348, 
-    "speaker": "FERDINAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.146", 
@@ -12453,7 +12453,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "To DUMAIN", 
     "line_id": 54350, 
-    "speaker": "FERDINAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.147", 
@@ -12525,7 +12525,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Advancing", 
     "line_id": 54359, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.155", 
@@ -12845,7 +12845,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter JAQUENETTA and COSTARD", 
     "line_id": 54399, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.194", 
@@ -12933,7 +12933,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Giving him the paper", 
     "line_id": 54410, 
-    "speaker": "FERDINAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.204", 
@@ -12973,7 +12973,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "BIRON tears the letter", 
     "line_id": 54415, 
-    "speaker": "COSTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.208", 
@@ -13013,7 +13013,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Gathering up the pieces", 
     "line_id": 54420, 
-    "speaker": "DUMAIN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.212", 
@@ -13125,7 +13125,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exeunt COSTARD and JAQUENETTA", 
     "line_id": 54434, 
-    "speaker": "COSTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.225", 
@@ -13845,7 +13845,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "From women's eyes this doctrine I derive;  They are the ground, the books, the academes From whence doth spring the true Promethean fire", 
     "line_id": 54524, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.314", 
@@ -14509,7 +14509,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exeunt", 
     "line_id": 54607, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.396", 
@@ -14525,7 +14525,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "ACT V", 
     "line_id": 54609, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.396", 
@@ -14533,7 +14533,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "SCENE I. The same.", 
     "line_id": 54610, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14541,7 +14541,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter HOLOFERNES, SIR NATHANIEL, and DULL", 
     "line_id": 54611, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -14669,7 +14669,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Draws out his table-book", 
     "line_id": 54627, 
-    "speaker": "SIR NATHANIEL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.16", 
@@ -14805,7 +14805,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter DON ADRIANO DE ARMADO, MOTH, and COSTARD", 
     "line_id": 54644, 
-    "speaker": "HOLOFERNES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.32", 
@@ -14829,7 +14829,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "To MOTH", 
     "line_id": 54647, 
-    "speaker": "ADRIANO DE ARMADO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.34", 
@@ -15805,7 +15805,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exeunt", 
     "line_id": 54769, 
-    "speaker": "HOLOFERNES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.155", 
@@ -15821,7 +15821,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "SCENE II. The same.", 
     "line_id": 54771, 
-    "speaker": "HOLOFERNES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15829,7 +15829,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter the PRINCESS, KATHARINE, ROSALINE, and MARIA", 
     "line_id": 54772, 
-    "speaker": "HOLOFERNES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -16485,7 +16485,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter BOYET", 
     "line_id": 54854, 
-    "speaker": "PRINCESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.82", 
@@ -17117,7 +17117,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Trumpets sound within", 
     "line_id": 54933, 
-    "speaker": "PRINCESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.160", 
@@ -17133,7 +17133,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "The Ladies mask", 
     "line_id": 54935, 
-    "speaker": "BOYET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17141,7 +17141,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter Blackamoors with music; MOTH; FERDINAND,  BIRON, LONGAVILLE, and DUMAIN, in Russian habits, and masked", 
     "line_id": 54936, 
-    "speaker": "BOYET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.161", 
@@ -17173,7 +17173,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "The Ladies turn their backs to him", 
     "line_id": 54940, 
-    "speaker": "MOTH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.164", 
@@ -17285,7 +17285,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exit MOTH", 
     "line_id": 54954, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.177", 
@@ -17605,7 +17605,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Music plays", 
     "line_id": 54994, 
-    "speaker": "ROSALINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.216", 
@@ -17789,7 +17789,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "They converse apart", 
     "line_id": 55017, 
-    "speaker": "FERDINAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.238", 
@@ -17893,7 +17893,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "They converse apart", 
     "line_id": 55030, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.250", 
@@ -17957,7 +17957,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "They converse apart", 
     "line_id": 55038, 
-    "speaker": "DUMAIN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.257", 
@@ -18093,7 +18093,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "They converse apart", 
     "line_id": 55055, 
-    "speaker": "KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.273", 
@@ -18181,7 +18181,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exeunt FERDINAND, Lords, and Blackamoors", 
     "line_id": 55066, 
-    "speaker": "PRINCESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.283", 
@@ -18565,7 +18565,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exeunt PRINCESS, ROSALINE, KATHARINE, and MARIA", 
     "line_id": 55114, 
-    "speaker": "PRINCESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18573,7 +18573,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Re-enter FERDINAND, BIRON, LONGAVILLE, and DUMAIN, in their proper habits", 
     "line_id": 55115, 
-    "speaker": "PRINCESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.330", 
@@ -18621,7 +18621,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exit", 
     "line_id": 55121, 
-    "speaker": "BOYET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.335", 
@@ -18821,7 +18821,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Re-enter the PRINCESS, ushered by BOYET, ROSALINE, MARIA, and KATHARINE", 
     "line_id": 55146, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.359", 
@@ -19957,7 +19957,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "To BOYET", 
     "line_id": 55288, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.500", 
@@ -20061,7 +20061,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter COSTARD", 
     "line_id": 55301, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.512", 
@@ -20293,7 +20293,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exit", 
     "line_id": 55330, 
-    "speaker": "COSTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.540", 
@@ -20389,7 +20389,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter DON ADRIANO DE ARMADO", 
     "line_id": 55342, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.551", 
@@ -20421,7 +20421,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Converses apart with FERDINAND, and delivers him a paper", 
     "line_id": 55346, 
-    "speaker": "ADRIANO DE ARMADO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.554", 
@@ -20501,7 +20501,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exit", 
     "line_id": 55356, 
-    "speaker": "ADRIANO DE ARMADO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.563", 
@@ -20613,7 +20613,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter COSTARD, for Pompey", 
     "line_id": 55370, 
-    "speaker": "FERDINAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.576", 
@@ -20773,7 +20773,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter SIR NATHANIEL, for Alexander", 
     "line_id": 55390, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.595", 
@@ -20941,7 +20941,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "SIR NATHANIEL retires", 
     "line_id": 55411, 
-    "speaker": "COSTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.615", 
@@ -20997,7 +20997,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter HOLOFERNES, for Judas; and MOTH, for Hercules", 
     "line_id": 55418, 
-    "speaker": "COSTARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.621", 
@@ -21061,7 +21061,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "MOTH retires", 
     "line_id": 55426, 
-    "speaker": "HOLOFERNES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.628", 
@@ -21349,7 +21349,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "HOLOFERNES retires", 
     "line_id": 55462, 
-    "speaker": "BOYET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.663", 
@@ -21365,7 +21365,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter DON ADRIANO DE ARMADO, for Hector", 
     "line_id": 55464, 
-    "speaker": "PRINCESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.664", 
@@ -21645,7 +21645,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "To the PRINCESS", 
     "line_id": 55499, 
-    "speaker": "ADRIANO DE ARMADO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.698", 
@@ -22101,7 +22101,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Enter MERCADE", 
     "line_id": 55556, 
-    "speaker": "BOYET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.754", 
@@ -22205,7 +22205,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exeunt Worthies", 
     "line_id": 55569, 
-    "speaker": "ADRIANO DE ARMADO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.766", 
@@ -23421,7 +23421,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Re-enter DON ADRIANO DE ARMADO", 
     "line_id": 55721, 
-    "speaker": "BIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.917", 
@@ -23549,7 +23549,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Re-enter HOLOFERNES, SIR NATHANIEL, MOTH, COSTARD, and others", 
     "line_id": 55737, 
-    "speaker": "ADRIANO DE ARMADO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.932", 
@@ -23581,7 +23581,7 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "THE SONG", 
     "line_id": 55741, 
-    "speaker": "ADRIANO DE ARMADO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.935", 
@@ -23885,6 +23885,6 @@
     "play_name": "Loves Labours Lost", 
     "text_entry": "Exeunt", 
     "line_id": 55779, 
-    "speaker": "ADRIANO DE ARMADO"
+    "speaker": "Stage Directions"
   }
 ]

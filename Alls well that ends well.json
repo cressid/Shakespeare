@@ -5,7 +5,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "ACT I", 
     "line_id": 12661, 
-    "speaker": "KING EDWARD IV"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE I. Rousillon. The COUNT's palace.", 
     "line_id": 12662, 
-    "speaker": "KING EDWARD IV"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter BERTRAM, the COUNTESS of Rousillon, HELENA, and LAFEU, all in black", 
     "line_id": 12663, 
-    "speaker": "KING EDWARD IV"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -589,7 +589,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 12734, 
-    "speaker": "COUNTESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.71", 
@@ -637,7 +637,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt BERTRAM and LAFEU", 
     "line_id": 12740, 
-    "speaker": "LAFEU"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.76", 
@@ -805,7 +805,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter PAROLLES", 
     "line_id": 12761, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -813,7 +813,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Aside", 
     "line_id": 12762, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.96", 
@@ -1509,7 +1509,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter Page", 
     "line_id": 12849, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.182", 
@@ -1525,7 +1525,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 12851, 
-    "speaker": "Page"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.183", 
@@ -1741,7 +1741,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 12878, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.209", 
@@ -1861,7 +1861,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 12893, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1869,7 +1869,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE II. Paris. The KING's palace.", 
     "line_id": 12894, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1877,7 +1877,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Flourish of cornets. Enter the KING of France, with letters, and divers Attendants", 
     "line_id": 12895, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -2061,7 +2061,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter BERTRAM, LAFEU, and PAROLLES", 
     "line_id": 12918, 
-    "speaker": "KING"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.23", 
@@ -2581,7 +2581,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt. Flourish", 
     "line_id": 12983, 
-    "speaker": "BERTRAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2589,7 +2589,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE III. Rousillon. The COUNT's palace.", 
     "line_id": 12984, 
-    "speaker": "BERTRAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2597,7 +2597,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter COUNTESS, Steward, and Clown", 
     "line_id": 12985, 
-    "speaker": "BERTRAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -3317,7 +3317,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 13075, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.90", 
@@ -3557,7 +3557,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit Steward", 
     "line_id": 13105, 
-    "speaker": "COUNTESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3565,7 +3565,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter HELENA", 
     "line_id": 13106, 
-    "speaker": "COUNTESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.119", 
@@ -4725,7 +4725,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt", 
     "line_id": 13251, 
-    "speaker": "COUNTESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4733,7 +4733,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "ACT II", 
     "line_id": 13252, 
-    "speaker": "COUNTESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4741,7 +4741,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE I. Paris. The KING's palace.", 
     "line_id": 13253, 
-    "speaker": "COUNTESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4749,7 +4749,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Flourish of cornets. Enter the KING, attended  with divers young Lords taking leave for the Florentine war; BERTRAM, and PAROLLES", 
     "line_id": 13254, 
-    "speaker": "COUNTESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -4957,7 +4957,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit, attended", 
     "line_id": 13280, 
-    "speaker": "KING"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.26", 
@@ -5165,7 +5165,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt Lords", 
     "line_id": 13306, 
-    "speaker": "First Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.51", 
@@ -5189,7 +5189,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Re-enter KING. BERTRAM and PAROLLES retire", 
     "line_id": 13309, 
-    "speaker": "BERTRAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.53", 
@@ -5277,7 +5277,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt BERTRAM and PAROLLES", 
     "line_id": 13320, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5285,7 +5285,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter LAFEU", 
     "line_id": 13321, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.63", 
@@ -5573,7 +5573,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 13357, 
-    "speaker": "LAFEU"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.98", 
@@ -5589,7 +5589,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Re-enter LAFEU, with HELENA", 
     "line_id": 13359, 
-    "speaker": "KING"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.99", 
@@ -5653,7 +5653,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 13367, 
-    "speaker": "LAFEU"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.106", 
@@ -6597,7 +6597,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Flourish. Exeunt", 
     "line_id": 13485, 
-    "speaker": "KING"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6605,7 +6605,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE II. Rousillon. The COUNT's palace.", 
     "line_id": 13486, 
-    "speaker": "KING"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6613,7 +6613,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter COUNTESS and Clown", 
     "line_id": 13487, 
-    "speaker": "KING"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -7133,7 +7133,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt severally", 
     "line_id": 13552, 
-    "speaker": "COUNTESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7141,7 +7141,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE III. Paris. The KING's palace.", 
     "line_id": 13553, 
-    "speaker": "COUNTESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7149,7 +7149,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter BERTRAM, LAFEU, and PAROLLES", 
     "line_id": 13554, 
-    "speaker": "COUNTESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -7429,7 +7429,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "pausing", 
     "line_id": 13589, 
-    "speaker": "LAFEU"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.35", 
@@ -7469,7 +7469,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "pausing", 
     "line_id": 13594, 
-    "speaker": "LAFEU"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.39", 
@@ -7493,7 +7493,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter KING, HELENA, and Attendants. LAFEU and PAROLLES retire", 
     "line_id": 13597, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.41", 
@@ -7589,7 +7589,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter three or four Lords", 
     "line_id": 13609, 
-    "speaker": "KING"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.52", 
@@ -8717,7 +8717,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt all but LAFEU and PAROLLES", 
     "line_id": 13750, 
-    "speaker": "KING"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.192", 
@@ -9093,7 +9093,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 13797, 
-    "speaker": "LAFEU"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.238", 
@@ -9157,7 +9157,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Re-enter LAFEU", 
     "line_id": 13805, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.245", 
@@ -9341,7 +9341,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 13828, 
-    "speaker": "LAFEU"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.267", 
@@ -9365,7 +9365,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Re-enter BERTRAM", 
     "line_id": 13831, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.269", 
@@ -9645,7 +9645,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt", 
     "line_id": 13866, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9653,7 +9653,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE IV. Paris. The KING's palace.", 
     "line_id": 13867, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9661,7 +9661,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter HELENA and Clown", 
     "line_id": 13868, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.1", 
@@ -9765,7 +9765,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter PAROLLES", 
     "line_id": 13881, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.13", 
@@ -10117,7 +10117,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit PAROLLES", 
     "line_id": 13925, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.56", 
@@ -10133,7 +10133,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt", 
     "line_id": 13927, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10141,7 +10141,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE V. Paris. The KING's palace.", 
     "line_id": 13928, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10149,7 +10149,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter LAFEU and BERTRAM", 
     "line_id": 13929, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.1", 
@@ -10253,7 +10253,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter PAROLLES", 
     "line_id": 13942, 
-    "speaker": "LAFEU"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.13", 
@@ -10525,7 +10525,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 13976, 
-    "speaker": "LAFEU"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.46", 
@@ -10573,7 +10573,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter HELENA", 
     "line_id": 13982, 
-    "speaker": "BERTRAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.51", 
@@ -10717,7 +10717,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Giving a letter", 
     "line_id": 14000, 
-    "speaker": "BERTRAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.68", 
@@ -10925,7 +10925,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit HELENA", 
     "line_id": 14026, 
-    "speaker": "BERTRAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.93", 
@@ -10965,7 +10965,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt", 
     "line_id": 14031, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10973,7 +10973,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "ACT III", 
     "line_id": 14032, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10981,7 +10981,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE I. Florence. The DUKE's palace.", 
     "line_id": 14033, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10989,7 +10989,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Flourish. Enter the DUKE of Florence attended; the two Frenchmen, with a troop of soldiers.", 
     "line_id": 14034, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -11213,7 +11213,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Flourish. Exeunt", 
     "line_id": 14062, 
-    "speaker": "DUKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11221,7 +11221,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE II. Rousillon. The COUNT's palace.", 
     "line_id": 14063, 
-    "speaker": "DUKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11229,7 +11229,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter COUNTESS and Clown", 
     "line_id": 14064, 
-    "speaker": "DUKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -11317,7 +11317,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Opening a letter", 
     "line_id": 14075, 
-    "speaker": "COUNTESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.11", 
@@ -11381,7 +11381,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 14083, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.18", 
@@ -11493,7 +11493,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Re-enter Clown", 
     "line_id": 14097, 
-    "speaker": "COUNTESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.31", 
@@ -11597,7 +11597,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 14110, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11605,7 +11605,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter HELENA, and two Gentlemen", 
     "line_id": 14111, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.43", 
@@ -11709,7 +11709,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Reads", 
     "line_id": 14124, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.55", 
@@ -12117,7 +12117,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt COUNTESS and Gentlemen", 
     "line_id": 14175, 
-    "speaker": "COUNTESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.105", 
@@ -12373,7 +12373,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 14207, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12381,7 +12381,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE III. Florence. Before the DUKE's palace.", 
     "line_id": 14208, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12389,7 +12389,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Flourish. Enter the DUKE of Florence, BERTRAM, PAROLLES, Soldiers, Drum, and Trumpets", 
     "line_id": 14209, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -12509,7 +12509,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt", 
     "line_id": 14224, 
-    "speaker": "BERTRAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12517,7 +12517,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE IV. Rousillon. The COUNT's palace.", 
     "line_id": 14225, 
-    "speaker": "BERTRAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12525,7 +12525,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter COUNTESS and Steward", 
     "line_id": 14226, 
-    "speaker": "BERTRAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.1", 
@@ -12557,7 +12557,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "[Reads]", 
     "line_id": 14230, 
-    "speaker": "Steward"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.5", 
@@ -12893,7 +12893,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt", 
     "line_id": 14272, 
-    "speaker": "COUNTESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12901,7 +12901,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE V. Florence. Without the walls. A tucket afar off.", 
     "line_id": 14273, 
-    "speaker": "COUNTESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12909,7 +12909,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter an old Widow of Florence, DIANA, VIOLENTA, and MARIANA, with other Citizens", 
     "line_id": 14274, 
-    "speaker": "COUNTESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.1", 
@@ -12965,7 +12965,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Tucket", 
     "line_id": 14281, 
-    "speaker": "Widow"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.7", 
@@ -13157,7 +13157,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter HELENA, disguised like a Pilgrim", 
     "line_id": 14305, 
-    "speaker": "Widow"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.30", 
@@ -13229,7 +13229,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "A march afar", 
     "line_id": 14314, 
-    "speaker": "Widow"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.38", 
@@ -13621,7 +13621,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Drum and Colours", 
     "line_id": 14363, 
-    "speaker": "Widow"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13629,7 +13629,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter BERTRAM, PAROLLES, and the whole army", 
     "line_id": 14364, 
-    "speaker": "Widow"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.86", 
@@ -13781,7 +13781,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt BERTRAM, PAROLLES, and army", 
     "line_id": 14383, 
-    "speaker": "MARIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.104", 
@@ -13877,7 +13877,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt", 
     "line_id": 14395, 
-    "speaker": "BOTH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13885,7 +13885,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE VI. Camp before Florence.", 
     "line_id": 14396, 
-    "speaker": "BOTH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13893,7 +13893,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter BERTRAM and the two French Lords", 
     "line_id": 14397, 
-    "speaker": "BOTH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.1", 
@@ -14197,7 +14197,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter PAROLLES", 
     "line_id": 14435, 
-    "speaker": "First Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.38", 
@@ -14549,7 +14549,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 14479, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.81", 
@@ -14741,7 +14741,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 14503, 
-    "speaker": "Second Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.104", 
@@ -14829,7 +14829,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt", 
     "line_id": 14514, 
-    "speaker": "First Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14837,7 +14837,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE VII. Florence. The Widow's house.", 
     "line_id": 14515, 
-    "speaker": "First Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14845,7 +14845,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter HELENA and Widow", 
     "line_id": 14516, 
-    "speaker": "First Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.7.1", 
@@ -15285,7 +15285,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt", 
     "line_id": 14571, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15293,7 +15293,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "ACT IV", 
     "line_id": 14572, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15301,7 +15301,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE I. Without the Florentine camp.", 
     "line_id": 14573, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15309,7 +15309,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter Second French Lord, with five or six other Soldiers in ambush", 
     "line_id": 14574, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -15485,7 +15485,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter PAROLLES", 
     "line_id": 14596, 
-    "speaker": "Second Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.22", 
@@ -15797,7 +15797,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Alarum within", 
     "line_id": 14635, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.60", 
@@ -15829,7 +15829,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "They seize and blindfold him", 
     "line_id": 14639, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.63", 
@@ -16029,7 +16029,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit, with PAROLLES guarded. A short alarum within", 
     "line_id": 14664, 
-    "speaker": "First Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.87", 
@@ -16101,7 +16101,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt", 
     "line_id": 14673, 
-    "speaker": "Second Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16109,7 +16109,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE II. Florence. The Widow's house.", 
     "line_id": 14674, 
-    "speaker": "Second Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16117,7 +16117,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter BERTRAM and DIANA", 
     "line_id": 14675, 
-    "speaker": "Second Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -16733,7 +16733,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 14752, 
-    "speaker": "BERTRAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.77", 
@@ -16821,7 +16821,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 14763, 
-    "speaker": "DIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16829,7 +16829,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE III. The Florentine camp.", 
     "line_id": 14764, 
-    "speaker": "DIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16837,7 +16837,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter the two French Lords and some two or three Soldiers", 
     "line_id": 14765, 
-    "speaker": "DIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -17397,7 +17397,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter a Messenger", 
     "line_id": 14835, 
-    "speaker": "First Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.70", 
@@ -17477,7 +17477,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter BERTRAM", 
     "line_id": 14845, 
-    "speaker": "First Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.79", 
@@ -17741,7 +17741,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter PAROLLES guarded, and First Soldier", 
     "line_id": 14878, 
-    "speaker": "Second Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.111", 
@@ -18189,7 +18189,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Reads", 
     "line_id": 14934, 
-    "speaker": "First Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.166", 
@@ -19221,7 +19221,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Unblinding him", 
     "line_id": 15063, 
-    "speaker": "First Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.294", 
@@ -19309,7 +19309,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt BERTRAM and Lords", 
     "line_id": 15074, 
-    "speaker": "First Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.304", 
@@ -19373,7 +19373,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit with Soldiers", 
     "line_id": 15082, 
-    "speaker": "First Soldier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.311", 
@@ -19469,7 +19469,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 15094, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19477,7 +19477,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE IV. Florence. The Widow's house.", 
     "line_id": 15095, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19485,7 +19485,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter HELENA, Widow, and DIANA", 
     "line_id": 15096, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.1", 
@@ -19813,7 +19813,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt", 
     "line_id": 15137, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19821,7 +19821,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE V. Rousillon. The COUNT's palace.", 
     "line_id": 15138, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19829,7 +19829,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter COUNTESS, LAFEU, and Clown", 
     "line_id": 15139, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.1", 
@@ -20261,7 +20261,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 15193, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.54", 
@@ -20509,7 +20509,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Re-enter Clown", 
     "line_id": 15224, 
-    "speaker": "LAFEU"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.84", 
@@ -20621,7 +20621,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt", 
     "line_id": 15238, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20629,7 +20629,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "ACT V", 
     "line_id": 15239, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20637,7 +20637,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE I. Marseilles. A street.", 
     "line_id": 15240, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20645,7 +20645,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter HELENA, Widow, and DIANA, with two Attendants", 
     "line_id": 15241, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -20701,7 +20701,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter a Gentleman", 
     "line_id": 15248, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.7", 
@@ -21013,7 +21013,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt", 
     "line_id": 15287, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21021,7 +21021,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE II. Rousillon. Before the COUNT's palace.", 
     "line_id": 15288, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21029,7 +21029,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter Clown, and PAROLLES, following", 
     "line_id": 15289, 
-    "speaker": "HELENA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -21189,7 +21189,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter LAFEU", 
     "line_id": 15309, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.20", 
@@ -21261,7 +21261,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 15318, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.28", 
@@ -21445,7 +21445,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Trumpets sound", 
     "line_id": 15341, 
-    "speaker": "LAFEU"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.50", 
@@ -21493,7 +21493,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt", 
     "line_id": 15347, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21501,7 +21501,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "SCENE III. Rousillon. The COUNT's palace.", 
     "line_id": 15348, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21509,7 +21509,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Flourish. Enter KING, COUNTESS, LAFEU, the two French Lords, with Attendants", 
     "line_id": 15349, 
-    "speaker": "PAROLLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.1", 
@@ -21773,7 +21773,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit", 
     "line_id": 15382, 
-    "speaker": "Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.33", 
@@ -21813,7 +21813,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter BERTRAM", 
     "line_id": 15387, 
-    "speaker": "KING"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.37", 
@@ -22213,7 +22213,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "BERTRAM gives a ring", 
     "line_id": 15437, 
-    "speaker": "LAFEU"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.86", 
@@ -22637,7 +22637,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Guards seize BERTRAM", 
     "line_id": 15490, 
-    "speaker": "KING"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.138", 
@@ -22709,7 +22709,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit, guarded", 
     "line_id": 15499, 
-    "speaker": "BERTRAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.146", 
@@ -22725,7 +22725,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter a Gentleman", 
     "line_id": 15501, 
-    "speaker": "KING"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.147", 
@@ -22957,7 +22957,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Re-enter BERTRAM, guarded", 
     "line_id": 15530, 
-    "speaker": "COUNTESS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.175", 
@@ -22989,7 +22989,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter Widow and DIANA", 
     "line_id": 15534, 
-    "speaker": "KING"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.178", 
@@ -23421,7 +23421,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit an Attendant", 
     "line_id": 15588, 
-    "speaker": "KING"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.231", 
@@ -23685,7 +23685,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Enter PAROLLES", 
     "line_id": 15621, 
-    "speaker": "DIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.263", 
@@ -24237,7 +24237,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exit Widow", 
     "line_id": 15690, 
-    "speaker": "DIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.331", 
@@ -24317,7 +24317,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Re-enter Widow, with HELENA", 
     "line_id": 15700, 
-    "speaker": "DIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.340", 
@@ -24477,7 +24477,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "To PAROLLES", 
     "line_id": 15720, 
-    "speaker": "LAFEU"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.359", 
@@ -24525,7 +24525,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "To DIANA", 
     "line_id": 15726, 
-    "speaker": "KING"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.364", 
@@ -24597,7 +24597,7 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Flourish", 
     "line_id": 15735, 
-    "speaker": "KING"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.372", 
@@ -24661,6 +24661,6 @@
     "play_name": "Alls well that ends well", 
     "text_entry": "Exeunt", 
     "line_id": 15743, 
-    "speaker": "KING"
+    "speaker": "Stage Directions"
   }
 ]

@@ -5,7 +5,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "ACT I", 
     "line_id": 69297, 
-    "speaker": "PUCK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.428", 
@@ -13,7 +13,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "SCENE I. Before LEONATO'S house.", 
     "line_id": 69298, 
-    "speaker": "PUCK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter LEONATO, HERO, and BEATRICE, with a Messenger", 
     "line_id": 69299, 
-    "speaker": "PUCK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -685,7 +685,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter DON PEDRO, DON JOHN, CLAUDIO, BENEDICK, and BALTHASAR", 
     "line_id": 69382, 
-    "speaker": "Messenger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.83", 
@@ -1117,7 +1117,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "To DON JOHN", 
     "line_id": 69436, 
-    "speaker": "LEONATO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.136", 
@@ -1173,7 +1173,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt all except BENEDICK and CLAUDIO", 
     "line_id": 69443, 
-    "speaker": "DON PEDRO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.142", 
@@ -1477,7 +1477,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Re-enter DON PEDRO", 
     "line_id": 69481, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.179", 
@@ -2093,7 +2093,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exit", 
     "line_id": 69558, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.255", 
@@ -2421,7 +2421,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt", 
     "line_id": 69599, 
-    "speaker": "DON PEDRO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2429,7 +2429,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "SCENE II. A room in LEONATO's house.", 
     "line_id": 69600, 
-    "speaker": "DON PEDRO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2437,7 +2437,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter LEONATO and ANTONIO, meeting", 
     "line_id": 69601, 
-    "speaker": "DON PEDRO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -2613,7 +2613,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter Attendants", 
     "line_id": 69623, 
-    "speaker": "LEONATO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.22", 
@@ -2645,7 +2645,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt", 
     "line_id": 69627, 
-    "speaker": "LEONATO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2653,7 +2653,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "SCENE III. The same.", 
     "line_id": 69628, 
-    "speaker": "LEONATO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2661,7 +2661,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter DON JOHN and CONRADE", 
     "line_id": 69629, 
-    "speaker": "LEONATO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -2965,7 +2965,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter BORACHIO", 
     "line_id": 69667, 
-    "speaker": "DON JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.38", 
@@ -3205,7 +3205,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt", 
     "line_id": 69697, 
-    "speaker": "BORACHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3213,7 +3213,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "ACT II", 
     "line_id": 69698, 
-    "speaker": "BORACHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3221,7 +3221,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "SCENE I. A hall in LEONATO'S house.", 
     "line_id": 69699, 
-    "speaker": "BORACHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3229,7 +3229,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter LEONATO, ANTONIO, HERO, BEATRICE, and others", 
     "line_id": 69700, 
-    "speaker": "BORACHIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -3821,7 +3821,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "All put on their masks", 
     "line_id": 69774, 
-    "speaker": "LEONATO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3829,7 +3829,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter DON PEDRO, CLAUDIO, BENEDICK, BALTHASAR, DON JOHN, BORACHIO, MARGARET, URSULA and others, masked", 
     "line_id": 69775, 
-    "speaker": "LEONATO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.74", 
@@ -3925,7 +3925,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Drawing her aside", 
     "line_id": 69787, 
-    "speaker": "DON PEDRO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.85", 
@@ -4317,7 +4317,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Music", 
     "line_id": 69836, 
-    "speaker": "BEATRICE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.133", 
@@ -4357,7 +4357,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Dance. Then exeunt all except DON JOHN, BORACHIO, and CLAUDIO", 
     "line_id": 69841, 
-    "speaker": "BEATRICE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.137", 
@@ -4477,7 +4477,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt DON JOHN and BORACHIO", 
     "line_id": 69856, 
-    "speaker": "DON JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.151", 
@@ -4573,7 +4573,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Re-enter BENEDICK", 
     "line_id": 69868, 
-    "speaker": "CLAUDIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.162", 
@@ -4717,7 +4717,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exit", 
     "line_id": 69886, 
-    "speaker": "CLAUDIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.179", 
@@ -4789,7 +4789,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Re-enter DON PEDRO", 
     "line_id": 69895, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.187", 
@@ -5181,7 +5181,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter CLAUDIO, BEATRICE, HERO, and LEONATO", 
     "line_id": 69944, 
-    "speaker": "DON PEDRO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.235", 
@@ -5285,7 +5285,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exit", 
     "line_id": 69957, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.247", 
@@ -5757,7 +5757,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exit", 
     "line_id": 70016, 
-    "speaker": "BEATRICE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.305", 
@@ -6109,7 +6109,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt", 
     "line_id": 70060, 
-    "speaker": "DON PEDRO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6117,7 +6117,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "SCENE II. The same.", 
     "line_id": 70061, 
-    "speaker": "DON PEDRO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6125,7 +6125,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter DON JOHN and BORACHIO", 
     "line_id": 70062, 
-    "speaker": "DON PEDRO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -6533,7 +6533,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt", 
     "line_id": 70113, 
-    "speaker": "DON JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6541,7 +6541,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "SCENE III. LEONATO'S orchard.", 
     "line_id": 70114, 
-    "speaker": "DON JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6549,7 +6549,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter BENEDICK", 
     "line_id": 70115, 
-    "speaker": "DON JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -6565,7 +6565,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter Boy", 
     "line_id": 70117, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.2", 
@@ -6613,7 +6613,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exit Boy", 
     "line_id": 70123, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.7", 
@@ -6853,7 +6853,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Withdraws", 
     "line_id": 70153, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6861,7 +6861,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter DON PEDRO, CLAUDIO, and LEONATO", 
     "line_id": 70154, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.36", 
@@ -6917,7 +6917,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter BALTHASAR with Music", 
     "line_id": 70161, 
-    "speaker": "CLAUDIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.42", 
@@ -7061,7 +7061,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Air", 
     "line_id": 70179, 
-    "speaker": "DON PEDRO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.59", 
@@ -7101,7 +7101,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "The Song", 
     "line_id": 70184, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.63", 
@@ -7317,7 +7317,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exit BALTHASAR", 
     "line_id": 70211, 
-    "speaker": "DON PEDRO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.89", 
@@ -8253,7 +8253,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt DON PEDRO, CLAUDIO, and LEONATO", 
     "line_id": 70328, 
-    "speaker": "DON PEDRO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.205", 
@@ -8477,7 +8477,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter BEATRICE", 
     "line_id": 70356, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.232", 
@@ -8557,7 +8557,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exit", 
     "line_id": 70366, 
-    "speaker": "BEATRICE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.241", 
@@ -8621,7 +8621,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exit", 
     "line_id": 70374, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8629,7 +8629,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "ACT III", 
     "line_id": 70375, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8637,7 +8637,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "SCENE I. LEONATO'S garden.", 
     "line_id": 70376, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8645,7 +8645,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter HERO, MARGARET, and URSULA", 
     "line_id": 70377, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -8765,7 +8765,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exit", 
     "line_id": 70392, 
-    "speaker": "MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.15", 
@@ -8845,7 +8845,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter BEATRICE, behind", 
     "line_id": 70402, 
-    "speaker": "HERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.24", 
@@ -8941,7 +8941,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Approaching the bower", 
     "line_id": 70414, 
-    "speaker": "HERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.35", 
@@ -9549,7 +9549,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt HERO and URSULA", 
     "line_id": 70490, 
-    "speaker": "HERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.110", 
@@ -9557,7 +9557,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "[Coming forward]", 
     "line_id": 70491, 
-    "speaker": "BEATRICE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.111", 
@@ -9645,7 +9645,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exit", 
     "line_id": 70502, 
-    "speaker": "BEATRICE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9653,7 +9653,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "SCENE II. A room in LEONATO'S house", 
     "line_id": 70503, 
-    "speaker": "BEATRICE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9661,7 +9661,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter DON PEDRO, CLAUDIO, BENEDICK, and LEONATO", 
     "line_id": 70504, 
-    "speaker": "BEATRICE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -10189,7 +10189,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt BENEDICK and LEONATO", 
     "line_id": 70570, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.66", 
@@ -10229,7 +10229,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter DON JOHN", 
     "line_id": 70575, 
-    "speaker": "CLAUDIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.70", 
@@ -10645,7 +10645,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt", 
     "line_id": 70627, 
-    "speaker": "DON JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10653,7 +10653,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "SCENE III. A street.", 
     "line_id": 70628, 
-    "speaker": "DON JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10661,7 +10661,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter DOGBERRY and VERGES with the Watch", 
     "line_id": 70629, 
-    "speaker": "DON JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -11357,7 +11357,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt DOGBERRY and VERGES", 
     "line_id": 70716, 
-    "speaker": "DOGBERRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11365,7 +11365,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter BORACHIO and CONRADE", 
     "line_id": 70717, 
-    "speaker": "DOGBERRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.87", 
@@ -11989,7 +11989,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt", 
     "line_id": 70795, 
-    "speaker": "CONRADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11997,7 +11997,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "SCENE IV. HERO's apartment.", 
     "line_id": 70796, 
-    "speaker": "CONRADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12005,7 +12005,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter HERO, MARGARET, and URSULA", 
     "line_id": 70797, 
-    "speaker": "CONRADE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.1", 
@@ -12053,7 +12053,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exit", 
     "line_id": 70803, 
-    "speaker": "URSULA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.6", 
@@ -12301,7 +12301,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter BEATRICE", 
     "line_id": 70834, 
-    "speaker": "MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.36", 
@@ -12685,7 +12685,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Re-enter URSULA", 
     "line_id": 70882, 
-    "speaker": "MARGARET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.83", 
@@ -12725,7 +12725,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt", 
     "line_id": 70887, 
-    "speaker": "HERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12733,7 +12733,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "SCENE V. Another room in LEONATO'S house.", 
     "line_id": 70888, 
-    "speaker": "HERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12741,7 +12741,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter LEONATO, with DOGBERRY and VERGES", 
     "line_id": 70889, 
-    "speaker": "HERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.1", 
@@ -13125,7 +13125,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter a Messenger", 
     "line_id": 70937, 
-    "speaker": "LEONATO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.48", 
@@ -13157,7 +13157,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt LEONATO and Messenger", 
     "line_id": 70941, 
-    "speaker": "LEONATO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.51", 
@@ -13229,7 +13229,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt", 
     "line_id": 70950, 
-    "speaker": "DOGBERRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13237,7 +13237,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "ACT IV", 
     "line_id": 70951, 
-    "speaker": "DOGBERRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13245,7 +13245,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "SCENE I. A church.", 
     "line_id": 70952, 
-    "speaker": "DOGBERRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13253,7 +13253,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter DON PEDRO, DON JOHN, LEONATO, FRIAR FRANCIS, CLAUDIO, BENEDICK, HERO, BEATRICE, and Attendants", 
     "line_id": 70953, 
-    "speaker": "DOGBERRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -14141,7 +14141,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "HERO swoons", 
     "line_id": 71064, 
-    "speaker": "LEONATO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.111", 
@@ -14173,7 +14173,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt DON PEDRO, DON JOHN, and CLAUDIO", 
     "line_id": 71068, 
-    "speaker": "DON JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.114", 
@@ -15381,7 +15381,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt all but BENEDICK and BEATRICE", 
     "line_id": 71219, 
-    "speaker": "FRIAR FRANCIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.264", 
@@ -15965,7 +15965,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt", 
     "line_id": 71292, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15973,7 +15973,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "SCENE II. A prison.", 
     "line_id": 71293, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15981,7 +15981,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter DOGBERRY, VERGES, and Sexton, in gowns; and the Watch, with CONRADE and BORACHIO", 
     "line_id": 71294, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -16469,7 +16469,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exit", 
     "line_id": 71355, 
-    "speaker": "Sexton"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.61", 
@@ -16645,7 +16645,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt", 
     "line_id": 71377, 
-    "speaker": "DOGBERRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16653,7 +16653,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "ACT V", 
     "line_id": 71378, 
-    "speaker": "DOGBERRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16661,7 +16661,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "SCENE I. Before LEONATO'S house.", 
     "line_id": 71379, 
-    "speaker": "DOGBERRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16669,7 +16669,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter LEONATO and ANTONIO", 
     "line_id": 71380, 
-    "speaker": "DOGBERRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -17045,7 +17045,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter DON PEDRO and CLAUDIO", 
     "line_id": 71427, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.47", 
@@ -17629,7 +17629,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt LEONATO and ANTONIO", 
     "line_id": 71500, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.119", 
@@ -17645,7 +17645,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter BENEDICK", 
     "line_id": 71502, 
-    "speaker": "DON PEDRO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.120", 
@@ -18277,7 +18277,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exit", 
     "line_id": 71581, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.198", 
@@ -18373,7 +18373,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter DOGBERRY, VERGES, and the Watch, with CONRADE and BORACHIO", 
     "line_id": 71593, 
-    "speaker": "DON PEDRO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.209", 
@@ -18773,7 +18773,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Re-enter LEONATO and ANTONIO, with the Sexton", 
     "line_id": 71643, 
-    "speaker": "VERGES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.258", 
@@ -19341,7 +19341,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt DOGBERRY and VERGES", 
     "line_id": 71714, 
-    "speaker": "DOGBERRY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.328", 
@@ -19405,7 +19405,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt, severally", 
     "line_id": 71722, 
-    "speaker": "LEONATO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19413,7 +19413,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "SCENE II. LEONATO'S garden.", 
     "line_id": 71723, 
-    "speaker": "LEONATO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19421,7 +19421,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter BENEDICK and MARGARET, meeting", 
     "line_id": 71724, 
-    "speaker": "LEONATO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -19581,7 +19581,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exit MARGARET", 
     "line_id": 71744, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19589,7 +19589,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Sings", 
     "line_id": 71745, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.20", 
@@ -19725,7 +19725,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter BEATRICE", 
     "line_id": 71762, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.36", 
@@ -20101,7 +20101,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter URSULA", 
     "line_id": 71809, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.82", 
@@ -20181,7 +20181,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt", 
     "line_id": 71819, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20189,7 +20189,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "SCENE III. A church.", 
     "line_id": 71820, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20197,7 +20197,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter DON PEDRO, CLAUDIO, and three or four with tapers", 
     "line_id": 71821, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.1", 
@@ -20301,7 +20301,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "SONG.", 
     "line_id": 71834, 
-    "speaker": "CLAUDIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.14", 
@@ -20485,7 +20485,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt", 
     "line_id": 71857, 
-    "speaker": "CLAUDIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20493,7 +20493,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "SCENE IV. A room in LEONATO'S house.", 
     "line_id": 71858, 
-    "speaker": "CLAUDIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20501,7 +20501,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter LEONATO, ANTONIO, BENEDICK, BEATRICE, MARGARET, URSULA, FRIAR FRANCIS, and HERO", 
     "line_id": 71859, 
-    "speaker": "CLAUDIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.1", 
@@ -20605,7 +20605,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt Ladies", 
     "line_id": 71872, 
-    "speaker": "LEONATO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.13", 
@@ -20789,7 +20789,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter DON PEDRO and CLAUDIO, and two or three others", 
     "line_id": 71895, 
-    "speaker": "FRIAR FRANCIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.35", 
@@ -20845,7 +20845,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exit ANTONIO", 
     "line_id": 71902, 
-    "speaker": "LEONATO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.41", 
@@ -20957,7 +20957,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Re-enter ANTONIO, with the Ladies masked", 
     "line_id": 71916, 
-    "speaker": "CLAUDIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.54", 
@@ -21029,7 +21029,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Unmasking", 
     "line_id": 71925, 
-    "speaker": "HERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.62", 
@@ -21365,7 +21365,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Kissing her", 
     "line_id": 71967, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.103", 
@@ -21573,7 +21573,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Enter a Messenger", 
     "line_id": 71993, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.128", 
@@ -21621,7 +21621,7 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Dance", 
     "line_id": 71999, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21629,6 +21629,6 @@
     "play_name": "Much Ado about nothing", 
     "text_entry": "Exeunt", 
     "line_id": 72000, 
-    "speaker": "BENEDICK"
+    "speaker": "Stage Directions"
   }
 ]

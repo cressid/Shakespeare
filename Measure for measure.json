@@ -5,7 +5,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "ACT I", 
     "line_id": 58366, 
-    "speaker": "MALCOLM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "SCENE I. An apartment in the DUKE'S palace.", 
     "line_id": 58367, 
-    "speaker": "MALCOLM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter DUKE VINCENTIO, ESCALUS, Lords and Attendants", 
     "line_id": 58368, 
-    "speaker": "MALCOLM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -149,7 +149,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit an Attendant", 
     "line_id": 58384, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.16", 
@@ -237,7 +237,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter ANGELO", 
     "line_id": 58395, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.26", 
@@ -685,7 +685,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit", 
     "line_id": 58451, 
-    "speaker": "DUKE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.81", 
@@ -765,7 +765,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt", 
     "line_id": 58461, 
-    "speaker": "ESCALUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -773,7 +773,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "SCENE II. A Street.", 
     "line_id": 58462, 
-    "speaker": "ESCALUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -781,7 +781,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter LUCIO and two Gentlemen", 
     "line_id": 58463, 
-    "speaker": "ESCALUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -1205,7 +1205,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter MISTRESS OVERDONE", 
     "line_id": 58516, 
-    "speaker": "LUCIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.53", 
@@ -1373,7 +1373,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt LUCIO and Gentlemen", 
     "line_id": 58537, 
-    "speaker": "LUCIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.73", 
@@ -1405,7 +1405,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter POMPEY", 
     "line_id": 58541, 
-    "speaker": "MISTRESS OVERDONE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.76", 
@@ -1637,7 +1637,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt", 
     "line_id": 58570, 
-    "speaker": "POMPEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1645,7 +1645,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter Provost, CLAUDIO, JULIET, and Officers", 
     "line_id": 58571, 
-    "speaker": "POMPEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.104", 
@@ -1717,7 +1717,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Re-enter LUCIO and two Gentlemen", 
     "line_id": 58580, 
-    "speaker": "CLAUDIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.112", 
@@ -2309,7 +2309,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt", 
     "line_id": 58654, 
-    "speaker": "CLAUDIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2317,7 +2317,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "SCENE III. A monastery.", 
     "line_id": 58655, 
-    "speaker": "CLAUDIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2325,7 +2325,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter DUKE VINCENTIO and FRIAR THOMAS", 
     "line_id": 58656, 
-    "speaker": "CLAUDIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -2789,7 +2789,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt", 
     "line_id": 58714, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2797,7 +2797,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "SCENE IV. A nunnery.", 
     "line_id": 58715, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2805,7 +2805,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter ISABELLA and FRANCISCA", 
     "line_id": 58716, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.1", 
@@ -2933,7 +2933,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit", 
     "line_id": 58732, 
-    "speaker": "FRANCISCA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.16", 
@@ -2949,7 +2949,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter LUCIO", 
     "line_id": 58734, 
-    "speaker": "ISABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.17", 
@@ -3621,7 +3621,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt", 
     "line_id": 58818, 
-    "speaker": "ISABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3629,7 +3629,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "ACT II", 
     "line_id": 58819, 
-    "speaker": "ISABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3637,7 +3637,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "SCENE I. A hall In ANGELO's house.", 
     "line_id": 58820, 
-    "speaker": "ISABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3645,7 +3645,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter ANGELO, ESCALUS, and a Justice, Provost, Officers, and other Attendants, behind", 
     "line_id": 58821, 
-    "speaker": "ISABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -3965,7 +3965,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit Provost", 
     "line_id": 58861, 
-    "speaker": "ANGELO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.40", 
@@ -4005,7 +4005,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter ELBOW, and Officers with FROTH and POMPEY", 
     "line_id": 58866, 
-    "speaker": "ESCALUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.44", 
@@ -4741,7 +4741,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit ANGELO", 
     "line_id": 58958, 
-    "speaker": "ESCALUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.135", 
@@ -5277,7 +5277,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit FROTH", 
     "line_id": 59025, 
-    "speaker": "ESCALUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.201", 
@@ -5589,7 +5589,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Aside", 
     "line_id": 59064, 
-    "speaker": "POMPEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.239", 
@@ -5629,7 +5629,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit", 
     "line_id": 59069, 
-    "speaker": "POMPEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.243", 
@@ -5773,7 +5773,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit ELBOW", 
     "line_id": 59087, 
-    "speaker": "ESCALUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.260", 
@@ -5877,7 +5877,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt", 
     "line_id": 59100, 
-    "speaker": "ESCALUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5885,7 +5885,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "SCENE II. Another room in the same.", 
     "line_id": 59101, 
-    "speaker": "ESCALUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5893,7 +5893,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter Provost and a Servant", 
     "line_id": 59102, 
-    "speaker": "ESCALUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -5925,7 +5925,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit Servant", 
     "line_id": 59106, 
-    "speaker": "Provost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.4", 
@@ -5973,7 +5973,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter ANGELO", 
     "line_id": 59112, 
-    "speaker": "Provost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.9", 
@@ -6109,7 +6109,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Re-enter Servant", 
     "line_id": 59129, 
-    "speaker": "ANGELO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.25", 
@@ -6173,7 +6173,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit Servant", 
     "line_id": 59137, 
-    "speaker": "ANGELO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.32", 
@@ -6205,7 +6205,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter ISABELLA and LUCIO", 
     "line_id": 59141, 
-    "speaker": "ANGELO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.35", 
@@ -6229,7 +6229,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "To ISABELLA", 
     "line_id": 59144, 
-    "speaker": "ANGELO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.37", 
@@ -7509,7 +7509,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt ISABELLA, LUCIO, and Provost", 
     "line_id": 59304, 
-    "speaker": "ISABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.196", 
@@ -7733,7 +7733,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit", 
     "line_id": 59332, 
-    "speaker": "ANGELO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7741,7 +7741,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "SCENE III. A room in a prison.", 
     "line_id": 59333, 
-    "speaker": "ANGELO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7749,7 +7749,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter, severally, DUKE VINCENTIO disguised as a friar, and Provost", 
     "line_id": 59334, 
-    "speaker": "ANGELO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -7829,7 +7829,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter JULIET", 
     "line_id": 59344, 
-    "speaker": "Provost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.10", 
@@ -7909,7 +7909,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "To JULIET", 
     "line_id": 59354, 
-    "speaker": "Provost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.19", 
@@ -8117,7 +8117,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit", 
     "line_id": 59380, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.44", 
@@ -8157,7 +8157,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt", 
     "line_id": 59385, 
-    "speaker": "Provost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8165,7 +8165,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "SCENE IV. A room in ANGELO's house.", 
     "line_id": 59386, 
-    "speaker": "Provost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8173,7 +8173,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter ANGELO", 
     "line_id": 59387, 
-    "speaker": "Provost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.1", 
@@ -8317,7 +8317,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter a Servant", 
     "line_id": 59405, 
-    "speaker": "ANGELO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.18", 
@@ -8349,7 +8349,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit Servant", 
     "line_id": 59409, 
-    "speaker": "ANGELO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.21", 
@@ -8453,7 +8453,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter ISABELLA", 
     "line_id": 59422, 
-    "speaker": "ANGELO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.33", 
@@ -9661,7 +9661,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit", 
     "line_id": 59573, 
-    "speaker": "ANGELO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.183", 
@@ -9805,7 +9805,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit", 
     "line_id": 59591, 
-    "speaker": "ISABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9813,7 +9813,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "ACT III", 
     "line_id": 59592, 
-    "speaker": "ISABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9821,7 +9821,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "SCENE I. A room in the prison.", 
     "line_id": 59593, 
-    "speaker": "ISABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9829,7 +9829,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter DUKE VINCENTIO disguised as before, CLAUDIO, and Provost", 
     "line_id": 59594, 
-    "speaker": "ISABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -10221,7 +10221,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter ISABELLA", 
     "line_id": 59643, 
-    "speaker": "CLAUDIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.49", 
@@ -10269,7 +10269,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt DUKE VINCENTIO and Provost", 
     "line_id": 59649, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.54", 
@@ -11181,7 +11181,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Re-enter DUKE VINCENTIO", 
     "line_id": 59763, 
-    "speaker": "CLAUDIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.167", 
@@ -11245,7 +11245,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Walks apart", 
     "line_id": 59771, 
-    "speaker": "ISABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.174", 
@@ -11365,7 +11365,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit CLAUDIO", 
     "line_id": 59786, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.188", 
@@ -11381,7 +11381,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Re-enter Provost", 
     "line_id": 59788, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.189", 
@@ -11429,7 +11429,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit Provost. ISABELLA comes forward", 
     "line_id": 59794, 
-    "speaker": "Provost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.194", 
@@ -12141,7 +12141,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt severally", 
     "line_id": 59883, 
-    "speaker": "ISABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12149,7 +12149,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "SCENE II. The street before the prison.", 
     "line_id": 59884, 
-    "speaker": "ISABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12157,7 +12157,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter, on one side, DUKE VINCENTIO disguised as before; on the other, ELBOW, and Officers with POMPEY", 
     "line_id": 59885, 
-    "speaker": "ISABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -12485,7 +12485,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter LUCIO", 
     "line_id": 59926, 
-    "speaker": "POMPEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.41", 
@@ -12829,7 +12829,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt ELBOW, POMPEY and Officers", 
     "line_id": 59969, 
-    "speaker": "LUCIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.83", 
@@ -13589,7 +13589,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit", 
     "line_id": 60064, 
-    "speaker": "LUCIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.177", 
@@ -13637,7 +13637,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter ESCALUS, Provost, and Officers with MISTRESS OVERDONE", 
     "line_id": 60070, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.182", 
@@ -13773,7 +13773,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt Officers with MISTRESS OVERDONE", 
     "line_id": 60087, 
-    "speaker": "ESCALUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.198", 
@@ -14205,7 +14205,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt ESCALUS and Provost", 
     "line_id": 60141, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.251", 
@@ -14389,7 +14389,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit", 
     "line_id": 60164, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14397,7 +14397,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "ACT IV", 
     "line_id": 60165, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14405,7 +14405,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "SCENE I. The moated grange at ST. LUKE's.", 
     "line_id": 60166, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14413,7 +14413,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter MARIANA and a Boy", 
     "line_id": 60167, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14421,7 +14421,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Boy sings", 
     "line_id": 60168, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -14501,7 +14501,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit Boy", 
     "line_id": 60178, 
-    "speaker": "MARIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14509,7 +14509,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter DUKE VINCENTIO disguised as before", 
     "line_id": 60179, 
-    "speaker": "MARIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.10", 
@@ -14605,7 +14605,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter ISABELLA", 
     "line_id": 60191, 
-    "speaker": "MARIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.21", 
@@ -14645,7 +14645,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit", 
     "line_id": 60196, 
-    "speaker": "MARIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.25", 
@@ -14869,7 +14869,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Re-enter MARIANA", 
     "line_id": 60224, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.52", 
@@ -14957,7 +14957,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt MARIANA and ISABELLA", 
     "line_id": 60235, 
-    "speaker": "MARIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.62", 
@@ -15013,7 +15013,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Re-enter MARIANA and ISABELLA", 
     "line_id": 60242, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.68", 
@@ -15141,7 +15141,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt", 
     "line_id": 60258, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15149,7 +15149,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "SCENE II. A room in the prison.", 
     "line_id": 60259, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15157,7 +15157,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter Provost and POMPEY", 
     "line_id": 60260, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -15309,7 +15309,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter ABHORSON", 
     "line_id": 60279, 
-    "speaker": "Provost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.19", 
@@ -15389,7 +15389,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit", 
     "line_id": 60289, 
-    "speaker": "Provost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.28", 
@@ -15525,7 +15525,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Re-enter Provost", 
     "line_id": 60306, 
-    "speaker": "ABHORSON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.44", 
@@ -15629,7 +15629,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt POMPEY and ABHORSON", 
     "line_id": 60319, 
-    "speaker": "Provost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.56", 
@@ -15653,7 +15653,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter CLAUDIO", 
     "line_id": 60322, 
-    "speaker": "Provost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.58", 
@@ -15725,7 +15725,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Knocking within", 
     "line_id": 60331, 
-    "speaker": "Provost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.66", 
@@ -15749,7 +15749,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit CLAUDIO", 
     "line_id": 60334, 
-    "speaker": "Provost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.68", 
@@ -15781,7 +15781,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter DUKE VINCENTIO disguised as before", 
     "line_id": 60338, 
-    "speaker": "Provost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.71", 
@@ -15925,7 +15925,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Knocking within", 
     "line_id": 60356, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.88", 
@@ -15941,7 +15941,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit Provost", 
     "line_id": 60358, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.89", 
@@ -15965,7 +15965,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Knocking within", 
     "line_id": 60361, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.91", 
@@ -15989,7 +15989,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Re-enter Provost", 
     "line_id": 60364, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.93", 
@@ -16101,7 +16101,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter a Messenger", 
     "line_id": 60378, 
-    "speaker": "Provost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.106", 
@@ -16125,7 +16125,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "[Giving a paper]", 
     "line_id": 60381, 
-    "speaker": "Messenger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.109", 
@@ -16181,7 +16181,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit Messenger", 
     "line_id": 60388, 
-    "speaker": "Provost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.115", 
@@ -16277,7 +16277,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "[Reads]", 
     "line_id": 60400, 
-    "speaker": "Provost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.127", 
@@ -16997,7 +16997,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt", 
     "line_id": 60490, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17005,7 +17005,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "SCENE III. Another room in the same.", 
     "line_id": 60491, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17013,7 +17013,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter POMPEY", 
     "line_id": 60492, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -17173,7 +17173,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter ABHORSON", 
     "line_id": 60512, 
-    "speaker": "POMPEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.20", 
@@ -17309,7 +17309,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter BARNARDINE", 
     "line_id": 60529, 
-    "speaker": "POMPEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.36", 
@@ -17397,7 +17397,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter DUKE VINCENTIO disguised as before", 
     "line_id": 60540, 
-    "speaker": "ABHORSON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.46", 
@@ -17517,7 +17517,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit", 
     "line_id": 60555, 
-    "speaker": "BARNARDINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.60", 
@@ -17541,7 +17541,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt ABHORSON and POMPEY", 
     "line_id": 60558, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17549,7 +17549,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Re-enter Provost", 
     "line_id": 60559, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.62", 
@@ -17789,7 +17789,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit Provost", 
     "line_id": 60589, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.91", 
@@ -17869,7 +17869,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Re-enter Provost", 
     "line_id": 60599, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.100", 
@@ -17917,7 +17917,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit", 
     "line_id": 60605, 
-    "speaker": "Provost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.105", 
@@ -17973,7 +17973,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter ISABELLA", 
     "line_id": 60612, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.111", 
@@ -18301,7 +18301,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter LUCIO", 
     "line_id": 60653, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.151", 
@@ -18389,7 +18389,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit ISABELLA", 
     "line_id": 60664, 
-    "speaker": "LUCIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.161", 
@@ -18533,7 +18533,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt", 
     "line_id": 60682, 
-    "speaker": "LUCIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18541,7 +18541,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "SCENE IV. A room in ANGELO's house.", 
     "line_id": 60683, 
-    "speaker": "LUCIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18549,7 +18549,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter ANGELO and ESCALUS", 
     "line_id": 60684, 
-    "speaker": "LUCIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.1", 
@@ -18709,7 +18709,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit ESCALUS", 
     "line_id": 60704, 
-    "speaker": "ANGELO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.20", 
@@ -18837,7 +18837,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit", 
     "line_id": 60720, 
-    "speaker": "ANGELO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18845,7 +18845,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "SCENE V. Fields without the town.", 
     "line_id": 60721, 
-    "speaker": "ANGELO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18853,7 +18853,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter DUKE VINCENTIO in his own habit, and FRIAR PETER", 
     "line_id": 60722, 
-    "speaker": "ANGELO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.1", 
@@ -18869,7 +18869,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Giving letters", 
     "line_id": 60724, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.2", 
@@ -18957,7 +18957,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit", 
     "line_id": 60735, 
-    "speaker": "FRIAR PETER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18965,7 +18965,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter VARRIUS", 
     "line_id": 60736, 
-    "speaker": "FRIAR PETER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.12", 
@@ -18997,7 +18997,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt", 
     "line_id": 60740, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19005,7 +19005,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "SCENE VI. Street near the city gate.", 
     "line_id": 60741, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19013,7 +19013,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter ISABELLA and MARIANA", 
     "line_id": 60742, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.1", 
@@ -19109,7 +19109,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Enter FRIAR PETER", 
     "line_id": 60754, 
-    "speaker": "ISABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.6.12", 
@@ -19165,7 +19165,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt", 
     "line_id": 60761, 
-    "speaker": "FRIAR PETER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19173,7 +19173,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "ACT V", 
     "line_id": 60762, 
-    "speaker": "FRIAR PETER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19181,7 +19181,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "SCENE I. The city gate.", 
     "line_id": 60763, 
-    "speaker": "FRIAR PETER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19189,7 +19189,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "MARIANA veiled, ISABELLA, and FRIAR PETER, at their  stand. Enter DUKE VINCENTIO, VARRIUS, Lords,  ANGELO, ESCALUS, LUCIO, Provost, Officers, and Citizens, at several doors", 
     "line_id": 60764, 
-    "speaker": "FRIAR PETER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -19349,7 +19349,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "FRIAR PETER and ISABELLA come forward", 
     "line_id": 60784, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.20", 
@@ -20653,7 +20653,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "ISABELLA is carried off guarded; and MARIANA comes forward", 
     "line_id": 60947, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.182", 
@@ -20997,7 +20997,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Unveiling", 
     "line_id": 60990, 
-    "speaker": "MARIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.224", 
@@ -21429,7 +21429,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit Provost", 
     "line_id": 61044, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.277", 
@@ -21493,7 +21493,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit DUKE", 
     "line_id": 61052, 
-    "speaker": "ESCALUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.284", 
@@ -21581,7 +21581,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit an Attendant", 
     "line_id": 61063, 
-    "speaker": "ESCALUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.294", 
@@ -21661,7 +21661,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Re-enter Officers with ISABELLA; and Provost with the DUKE VINCENTIO in his friar's habit", 
     "line_id": 61073, 
-    "speaker": "LUCIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.303", 
@@ -22261,7 +22261,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Pulls off the friar's hood, and discovers DUKE VINCENTIO", 
     "line_id": 61148, 
-    "speaker": "LUCIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.377", 
@@ -22285,7 +22285,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "To LUCIO", 
     "line_id": 61151, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.379", 
@@ -22333,7 +22333,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "To ANGELO", 
     "line_id": 61157, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.384", 
@@ -22501,7 +22501,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt ANGELO, MARIANA, FRIAR PETER and Provost", 
     "line_id": 61178, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.404", 
@@ -22701,7 +22701,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Re-enter ANGELO, MARIANA, FRIAR PETER, and Provost", 
     "line_id": 61203, 
-    "speaker": "ISABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.428", 
@@ -22957,7 +22957,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Kneeling", 
     "line_id": 61235, 
-    "speaker": "MARIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.459", 
@@ -22981,7 +22981,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "To LUCIO", 
     "line_id": 61238, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.461", 
@@ -23125,7 +23125,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Kneeling", 
     "line_id": 61256, 
-    "speaker": "ISABELLA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.478", 
@@ -23381,7 +23381,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit Provost", 
     "line_id": 61288, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.509", 
@@ -23453,7 +23453,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Re-enter Provost, with BARNARDINE, CLAUDIO muffled, and JULIET", 
     "line_id": 61297, 
-    "speaker": "ANGELO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.517", 
@@ -23565,7 +23565,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Unmuffles CLAUDIO", 
     "line_id": 61311, 
-    "speaker": "Provost"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.530", 
@@ -23653,7 +23653,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "To LUCIO", 
     "line_id": 61322, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.540", 
@@ -23853,7 +23853,7 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exit Officers with LUCIO", 
     "line_id": 61347, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.564", 
@@ -23981,6 +23981,6 @@
     "play_name": "Measure for measure", 
     "text_entry": "Exeunt", 
     "line_id": 61363, 
-    "speaker": "DUKE VINCENTIO"
+    "speaker": "Stage Directions"
   }
 ]

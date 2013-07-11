@@ -5,7 +5,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "ACT I", 
     "line_id": 22428, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "SCENE I. A hall in DUKE SOLINUS'S palace.", 
     "line_id": 22429, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter DUKE SOLINUS, AEGEON, Gaoler, Officers, and other Attendants", 
     "line_id": 22430, 
-    "speaker": "OCTAVIUS CAESAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -1293,7 +1293,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exeunt", 
     "line_id": 22589, 
-    "speaker": "AEGEON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1301,7 +1301,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "SCENE II. The Mart.", 
     "line_id": 22590, 
-    "speaker": "AEGEON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1309,7 +1309,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter ANTIPHOLUS of Syracuse, DROMIO of Syracuse, and First Merchant", 
     "line_id": 22591, 
-    "speaker": "AEGEON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -1469,7 +1469,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exit", 
     "line_id": 22611, 
-    "speaker": "DROMIO OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.20", 
@@ -1605,7 +1605,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exit", 
     "line_id": 22628, 
-    "speaker": "First Merchant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.36", 
@@ -1685,7 +1685,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter DROMIO of Ephesus", 
     "line_id": 22638, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.45", 
@@ -2173,7 +2173,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exit", 
     "line_id": 22699, 
-    "speaker": "DROMIO OF EPHESUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.105", 
@@ -2277,7 +2277,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exit", 
     "line_id": 22712, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2285,7 +2285,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "ACT II", 
     "line_id": 22713, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2293,7 +2293,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "SCENE I. The house of ANTIPHOLUS of Ephesus.", 
     "line_id": 22714, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2301,7 +2301,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter ADRIANA and LUCIANA", 
     "line_id": 22715, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -2653,7 +2653,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter DROMIO of Ephesus", 
     "line_id": 22759, 
-    "speaker": "LUCIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.44", 
@@ -2997,7 +2997,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exit", 
     "line_id": 22802, 
-    "speaker": "DROMIO OF EPHESUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.86", 
@@ -3253,7 +3253,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exeunt", 
     "line_id": 22834, 
-    "speaker": "LUCIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3261,7 +3261,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "SCENE II. A public place.", 
     "line_id": 22835, 
-    "speaker": "LUCIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3269,7 +3269,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter ANTIPHOLUS of Syracuse", 
     "line_id": 22836, 
-    "speaker": "LUCIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -3333,7 +3333,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter DROMIO of Syracuse", 
     "line_id": 22844, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.8", 
@@ -3501,7 +3501,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Beating him", 
     "line_id": 22865, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.28", 
@@ -4333,7 +4333,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter ADRIANA and LUCIANA", 
     "line_id": 22969, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.131", 
@@ -5301,7 +5301,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exeunt", 
     "line_id": 23090, 
-    "speaker": "LUCIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5309,7 +5309,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "ACT III", 
     "line_id": 23091, 
-    "speaker": "LUCIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5317,7 +5317,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "SCENE I. Before the house of ANTIPHOLUS of Ephesus.", 
     "line_id": 23092, 
-    "speaker": "LUCIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5325,7 +5325,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter ANTIPHOLUS of Ephesus, DROMIO of Ephesus, ANGELO, and BALTHAZAR", 
     "line_id": 23093, 
-    "speaker": "LUCIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -6581,7 +6581,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "To Angelo", 
     "line_id": 23250, 
-    "speaker": "OF EPHESUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.157", 
@@ -6677,7 +6677,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exeunt", 
     "line_id": 23262, 
-    "speaker": "OF EPHESUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6685,7 +6685,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "SCENE II. The same.", 
     "line_id": 23263, 
-    "speaker": "OF EPHESUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6693,7 +6693,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter LUCIANA and ANTIPHOLUS of Syracuse", 
     "line_id": 23264, 
-    "speaker": "OF EPHESUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -7341,7 +7341,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exit", 
     "line_id": 23345, 
-    "speaker": "LUCIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7349,7 +7349,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter DROMIO of Syracuse", 
     "line_id": 23346, 
-    "speaker": "LUCIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.81", 
@@ -8109,7 +8109,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exit", 
     "line_id": 23441, 
-    "speaker": "DROMIO OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.175", 
@@ -8197,7 +8197,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter ANGELO with the chain", 
     "line_id": 23452, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.185", 
@@ -8357,7 +8357,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exit", 
     "line_id": 23472, 
-    "speaker": "ANGELO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.204", 
@@ -8429,7 +8429,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exit", 
     "line_id": 23481, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8437,7 +8437,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "ACT IV", 
     "line_id": 23482, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8445,7 +8445,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "SCENE I. A public place.", 
     "line_id": 23483, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8453,7 +8453,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter Second Merchant, ANGELO, and an Officer", 
     "line_id": 23484, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -8565,7 +8565,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter ANTIPHOLUS of Ephesus and DROMIO of Ephesus from the courtezan's", 
     "line_id": 23498, 
-    "speaker": "ANGELO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.14", 
@@ -8645,7 +8645,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exit", 
     "line_id": 23508, 
-    "speaker": "DROMIO OF EPHESUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.23", 
@@ -9253,7 +9253,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter DROMIO of Syracuse, from the bay", 
     "line_id": 23584, 
-    "speaker": "ANGELO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.98", 
@@ -9477,7 +9477,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exeunt Second Merchant, Angelo, Officer, and Antipholus of Ephesus", 
     "line_id": 23612, 
-    "speaker": "OF EPHESUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.125", 
@@ -9525,7 +9525,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exit", 
     "line_id": 23618, 
-    "speaker": "DROMIO OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9533,7 +9533,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "SCENE II. The house of ANTIPHOLUS of Ephesus.", 
     "line_id": 23619, 
-    "speaker": "DROMIO OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9541,7 +9541,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter ADRIANA and LUCIANA", 
     "line_id": 23620, 
-    "speaker": "DROMIO OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -9789,7 +9789,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter DROMIO of Syracuse", 
     "line_id": 23651, 
-    "speaker": "ADRIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.31", 
@@ -9965,7 +9965,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exit Luciana", 
     "line_id": 23673, 
-    "speaker": "ADRIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.52", 
@@ -10125,7 +10125,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Re-enter LUCIANA with a purse", 
     "line_id": 23693, 
-    "speaker": "DROMIO OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.71", 
@@ -10165,7 +10165,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exeunt", 
     "line_id": 23698, 
-    "speaker": "ADRIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10173,7 +10173,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "SCENE III. A public place.", 
     "line_id": 23699, 
-    "speaker": "ADRIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10181,7 +10181,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter ANTIPHOLUS of Syracuse", 
     "line_id": 23700, 
-    "speaker": "ADRIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -10285,7 +10285,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter DROMIO OF SYRACUSE", 
     "line_id": 23713, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.13", 
@@ -10573,7 +10573,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter a Courtezan", 
     "line_id": 23749, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.48", 
@@ -10909,7 +10909,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exeunt Antipholus of Syracuse and Dromio of Syracuse", 
     "line_id": 23791, 
-    "speaker": "DROMIO OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.89", 
@@ -11045,7 +11045,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exit", 
     "line_id": 23808, 
-    "speaker": "Courtezan"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11053,7 +11053,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "SCENE IV. A street.", 
     "line_id": 23809, 
-    "speaker": "Courtezan"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11061,7 +11061,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter ANTIPHOLUS of Ephesus and the Officer", 
     "line_id": 23810, 
-    "speaker": "Courtezan"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.1", 
@@ -11133,7 +11133,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter DROMIO of Ephesus with a rope's-end", 
     "line_id": 23819, 
-    "speaker": "OF EPHESUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.9", 
@@ -11253,7 +11253,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Beating him", 
     "line_id": 23834, 
-    "speaker": "OF EPHESUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.23", 
@@ -11445,7 +11445,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter ADRIANA, LUCIANA, the Courtezan, and PINCH", 
     "line_id": 23858, 
-    "speaker": "OF EPHESUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.46", 
@@ -11493,7 +11493,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Beating him", 
     "line_id": 23864, 
-    "speaker": "OF EPHESUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.51", 
@@ -11581,7 +11581,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Striking him", 
     "line_id": 23875, 
-    "speaker": "OF EPHESUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.61", 
@@ -12093,7 +12093,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter three or four, and offer to bind him. He strives", 
     "line_id": 23939, 
-    "speaker": "OF EPHESUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.124", 
@@ -12181,7 +12181,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "They offer to bind Dromio of Ephesus", 
     "line_id": 23950, 
-    "speaker": "PINCH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.134", 
@@ -12341,7 +12341,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exeunt all but Adriana, Luciana, Officer and Courtezan", 
     "line_id": 23970, 
-    "speaker": "ADRIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.153", 
@@ -12461,7 +12461,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter ANTIPHOLUS of Syracuse with his rapier drawn, and DROMIO of Syracuse", 
     "line_id": 23985, 
-    "speaker": "ADRIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.167", 
@@ -12501,7 +12501,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exeunt all but Antipholus of Syracuse and Dromio of Syracuse", 
     "line_id": 23990, 
-    "speaker": "Officer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.171", 
@@ -12629,7 +12629,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exeunt", 
     "line_id": 24006, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12637,7 +12637,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "ACT V", 
     "line_id": 24007, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12645,7 +12645,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "SCENE I. A street before a Priory.", 
     "line_id": 24008, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12653,7 +12653,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter Second Merchant and ANGELO", 
     "line_id": 24009, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -12733,7 +12733,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter ANTIPHOLUS of Syracuse and DROMIO of Syracuse", 
     "line_id": 24019, 
-    "speaker": "Second Merchant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.10", 
@@ -12949,7 +12949,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "They draw", 
     "line_id": 24046, 
-    "speaker": "Second Merchant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12957,7 +12957,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter ADRIANA, LUCIANA, the Courtezan, and others", 
     "line_id": 24047, 
-    "speaker": "Second Merchant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.36", 
@@ -13005,7 +13005,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exeunt Antipholus of Syracuse and Dromio of Syracuse to the Priory", 
     "line_id": 24053, 
-    "speaker": "DROMIO OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13013,7 +13013,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter the Lady Abbess, AEMILIA", 
     "line_id": 24054, 
-    "speaker": "DROMIO OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.41", 
@@ -13637,7 +13637,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exit", 
     "line_id": 24132, 
-    "speaker": "AEMELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.118", 
@@ -13781,7 +13781,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter DUKE SOLINUS, attended; AEGEON bareheaded; with the Headsman and other Officers", 
     "line_id": 24150, 
-    "speaker": "LUCIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.135", 
@@ -14093,7 +14093,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter a Servant", 
     "line_id": 24189, 
-    "speaker": "DUKE SOLINUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.173", 
@@ -14229,7 +14229,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Cry within", 
     "line_id": 24206, 
-    "speaker": "Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.189", 
@@ -14285,7 +14285,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Enter ANTIPHOLUS of Ephesus and DROMIO of Ephesus", 
     "line_id": 24213, 
-    "speaker": "ADRIANA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.195", 
@@ -15085,7 +15085,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exit one to Abbess", 
     "line_id": 24313, 
-    "speaker": "DUKE SOLINUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.294", 
@@ -15501,7 +15501,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Re-enter AEMILIA, with ANTIPHOLUS of Syracuse and DROMIO of Syracuse", 
     "line_id": 24365, 
-    "speaker": "DUKE SOLINUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.345", 
@@ -15517,7 +15517,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "All gather to see them", 
     "line_id": 24367, 
-    "speaker": "AEMELIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.346", 
@@ -15941,7 +15941,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "To Luciana", 
     "line_id": 24420, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.398", 
@@ -16261,7 +16261,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exeunt all but Antipholus of Syracuse, Antipholus of Ephesus, Dromio of Syracuse and Dromio of Ephesus", 
     "line_id": 24460, 
-    "speaker": "DUKE SOLINUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.437", 
@@ -16333,7 +16333,7 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exeunt Antipholus of Syracuse and Antipholus of Ephesus", 
     "line_id": 24469, 
-    "speaker": "OF SYRACUSE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.445", 
@@ -16437,6 +16437,6 @@
     "play_name": "A Comedy of Errors", 
     "text_entry": "Exeunt", 
     "line_id": 24482, 
-    "speaker": "DROMIO OF EPHESUS"
+    "speaker": "Stage Directions"
   }
 ]

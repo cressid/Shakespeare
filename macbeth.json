@@ -5,7 +5,7 @@
     "play_name": "macbeth", 
     "text_entry": "ACT I", 
     "line_id": 55780, 
-    "speaker": "ADRIANO DE ARMADO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE I. A desert place.", 
     "line_id": 55781, 
-    "speaker": "ADRIANO DE ARMADO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "macbeth", 
     "text_entry": "Thunder and lightning. Enter three Witches", 
     "line_id": 55782, 
-    "speaker": "ADRIANO DE ARMADO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -133,7 +133,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt", 
     "line_id": 55796, 
-    "speaker": "ALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -141,7 +141,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE II. A camp near Forres.", 
     "line_id": 55797, 
-    "speaker": "ALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -149,7 +149,7 @@
     "play_name": "macbeth", 
     "text_entry": "Alarum within. Enter DUNCAN, MALCOLM, DONALBAIN, LENNOX, with Attendants, meeting a bleeding Sergeant", 
     "line_id": 55798, 
-    "speaker": "ALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -541,7 +541,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit Sergeant, attended", 
     "line_id": 55847, 
-    "speaker": "DUNCAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.49", 
@@ -557,7 +557,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter ROSS", 
     "line_id": 55849, 
-    "speaker": "DUNCAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.50", 
@@ -781,7 +781,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt", 
     "line_id": 55877, 
-    "speaker": "DUNCAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -789,7 +789,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE III. A heath near Forres.", 
     "line_id": 55878, 
-    "speaker": "DUNCAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -797,7 +797,7 @@
     "play_name": "macbeth", 
     "text_entry": "Thunder. Enter the three Witches", 
     "line_id": 55879, 
-    "speaker": "DUNCAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -1045,7 +1045,7 @@
     "play_name": "macbeth", 
     "text_entry": "Drum within", 
     "line_id": 55910, 
-    "speaker": "First Witch"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.31", 
@@ -1117,7 +1117,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter MACBETH and BANQUO", 
     "line_id": 55919, 
-    "speaker": "ALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.39", 
@@ -1461,7 +1461,7 @@
     "play_name": "macbeth", 
     "text_entry": "Witches vanish", 
     "line_id": 55962, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.81", 
@@ -1557,7 +1557,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter ROSS and ANGUS", 
     "line_id": 55974, 
-    "speaker": "BANQUO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.92", 
@@ -1829,7 +1829,7 @@
     "play_name": "macbeth", 
     "text_entry": "To ROSS and ANGUS", 
     "line_id": 56008, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.125", 
@@ -1845,7 +1845,7 @@
     "play_name": "macbeth", 
     "text_entry": "To BANQUO", 
     "line_id": 56010, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.126", 
@@ -1965,7 +1965,7 @@
     "play_name": "macbeth", 
     "text_entry": "Aside", 
     "line_id": 56025, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.140", 
@@ -2213,7 +2213,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt", 
     "line_id": 56056, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2221,7 +2221,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE IV. Forres. The palace.", 
     "line_id": 56057, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2229,7 +2229,7 @@
     "play_name": "macbeth", 
     "text_entry": "Flourish. Enter DUNCAN, MALCOLM, DONALBAIN, LENNOX, and Attendants", 
     "line_id": 56058, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.1", 
@@ -2365,7 +2365,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter MACBETH, BANQUO, ROSS, and ANGUS", 
     "line_id": 56075, 
-    "speaker": "DUNCAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.17", 
@@ -2725,7 +2725,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit", 
     "line_id": 56120, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.61", 
@@ -2773,7 +2773,7 @@
     "play_name": "macbeth", 
     "text_entry": "Flourish. Exeunt", 
     "line_id": 56126, 
-    "speaker": "DUNCAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2781,7 +2781,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE V. Inverness. Macbeth's castle.", 
     "line_id": 56127, 
-    "speaker": "DUNCAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2789,7 +2789,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter LADY MACBETH, reading a letter", 
     "line_id": 56128, 
-    "speaker": "DUNCAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.1", 
@@ -3037,7 +3037,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter a Messenger", 
     "line_id": 56159, 
-    "speaker": "LADY MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.31", 
@@ -3133,7 +3133,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit Messenger", 
     "line_id": 56171, 
-    "speaker": "LADY MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.42", 
@@ -3277,7 +3277,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter MACBETH", 
     "line_id": 56189, 
-    "speaker": "LADY MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.59", 
@@ -3477,7 +3477,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt", 
     "line_id": 56214, 
-    "speaker": "LADY MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3485,7 +3485,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE VI. Before Macbeth's castle.", 
     "line_id": 56215, 
-    "speaker": "LADY MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3493,7 +3493,7 @@
     "play_name": "macbeth", 
     "text_entry": "Hautboys and torches. Enter DUNCAN, MALCOLM,  DONALBAIN, BANQUO, LENNOX, MACDUFF, ROSS, ANGUS, and Attendants", 
     "line_id": 56216, 
-    "speaker": "LADY MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.6.1", 
@@ -3589,7 +3589,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter LADY MACBETH", 
     "line_id": 56228, 
-    "speaker": "BANQUO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.6.12", 
@@ -3805,7 +3805,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt", 
     "line_id": 56255, 
-    "speaker": "DUNCAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3813,7 +3813,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE VII. Macbeth's castle.", 
     "line_id": 56256, 
-    "speaker": "DUNCAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3821,7 +3821,7 @@
     "play_name": "macbeth", 
     "text_entry": "Hautboys and torches. Enter a Sewer, and divers  Servants with dishes and service, and pass over the stage. Then enter MACBETH", 
     "line_id": 56257, 
-    "speaker": "DUNCAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.7.1", 
@@ -4053,7 +4053,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter LADY MACBETH", 
     "line_id": 56286, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.7.29", 
@@ -4573,7 +4573,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt", 
     "line_id": 56351, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4581,7 +4581,7 @@
     "play_name": "macbeth", 
     "text_entry": "ACT II", 
     "line_id": 56352, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4589,7 +4589,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE I. Court of Macbeth's castle.", 
     "line_id": 56353, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4597,7 +4597,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter BANQUO, and FLEANCE bearing a torch before him", 
     "line_id": 56354, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -4685,7 +4685,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter MACBETH, and a Servant with a torch", 
     "line_id": 56365, 
-    "speaker": "BANQUO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.11", 
@@ -4917,7 +4917,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt BANQUO and FLEANCE", 
     "line_id": 56394, 
-    "speaker": "BANQUO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.39", 
@@ -4941,7 +4941,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit Servant", 
     "line_id": 56397, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.41", 
@@ -5181,7 +5181,7 @@
     "play_name": "macbeth", 
     "text_entry": "A bell rings", 
     "line_id": 56427, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.70", 
@@ -5213,7 +5213,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit", 
     "line_id": 56431, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5221,7 +5221,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE II. The same.", 
     "line_id": 56432, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5229,7 +5229,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter LADY MACBETH", 
     "line_id": 56433, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -5365,7 +5365,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter MACBETH", 
     "line_id": 56450, 
-    "speaker": "LADY MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.17", 
@@ -5469,7 +5469,7 @@
     "play_name": "macbeth", 
     "text_entry": "Looking on his hands", 
     "line_id": 56463, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.29", 
@@ -5821,7 +5821,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit. Knocking within", 
     "line_id": 56507, 
-    "speaker": "LADY MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.72", 
@@ -5885,7 +5885,7 @@
     "play_name": "macbeth", 
     "text_entry": "Re-enter LADY MACBETH", 
     "line_id": 56515, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.79", 
@@ -5909,7 +5909,7 @@
     "play_name": "macbeth", 
     "text_entry": "Knocking within", 
     "line_id": 56518, 
-    "speaker": "LADY MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.81", 
@@ -5957,7 +5957,7 @@
     "play_name": "macbeth", 
     "text_entry": "Knocking within", 
     "line_id": 56524, 
-    "speaker": "LADY MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.86", 
@@ -6005,7 +6005,7 @@
     "play_name": "macbeth", 
     "text_entry": "Knocking within", 
     "line_id": 56530, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.91", 
@@ -6021,7 +6021,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt", 
     "line_id": 56532, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6029,7 +6029,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE III. The same.", 
     "line_id": 56533, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6037,7 +6037,7 @@
     "play_name": "macbeth", 
     "text_entry": "Knocking within. Enter a Porter", 
     "line_id": 56534, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -6069,7 +6069,7 @@
     "play_name": "macbeth", 
     "text_entry": "Knocking within", 
     "line_id": 56538, 
-    "speaker": "Porter"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.4", 
@@ -6125,7 +6125,7 @@
     "play_name": "macbeth", 
     "text_entry": "Knocking within", 
     "line_id": 56545, 
-    "speaker": "Porter"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.10", 
@@ -6189,7 +6189,7 @@
     "play_name": "macbeth", 
     "text_entry": "Knocking within", 
     "line_id": 56553, 
-    "speaker": "Porter"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.17", 
@@ -6237,7 +6237,7 @@
     "play_name": "macbeth", 
     "text_entry": "Knocking within", 
     "line_id": 56559, 
-    "speaker": "Porter"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.22", 
@@ -6293,7 +6293,7 @@
     "play_name": "macbeth", 
     "text_entry": "Knocking within", 
     "line_id": 56566, 
-    "speaker": "Porter"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.28", 
@@ -6309,7 +6309,7 @@
     "play_name": "macbeth", 
     "text_entry": "Opens the gate", 
     "line_id": 56568, 
-    "speaker": "Porter"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6317,7 +6317,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter MACDUFF and LENNOX", 
     "line_id": 56569, 
-    "speaker": "Porter"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.29", 
@@ -6509,7 +6509,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter MACBETH", 
     "line_id": 56593, 
-    "speaker": "MACDUFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.52", 
@@ -6629,7 +6629,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit", 
     "line_id": 56608, 
-    "speaker": "MACDUFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.66", 
@@ -6741,7 +6741,7 @@
     "play_name": "macbeth", 
     "text_entry": "Re-enter MACDUFF", 
     "line_id": 56622, 
-    "speaker": "LENNOX"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.79", 
@@ -6845,7 +6845,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt MACBETH and LENNOX", 
     "line_id": 56635, 
-    "speaker": "MACDUFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.91", 
@@ -6917,7 +6917,7 @@
     "play_name": "macbeth", 
     "text_entry": "Bell rings", 
     "line_id": 56644, 
-    "speaker": "MACDUFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6925,7 +6925,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter LADY MACBETH", 
     "line_id": 56645, 
-    "speaker": "MACDUFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.99", 
@@ -6989,7 +6989,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter BANQUO", 
     "line_id": 56653, 
-    "speaker": "MACDUFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.106", 
@@ -7053,7 +7053,7 @@
     "play_name": "macbeth", 
     "text_entry": "Re-enter MACBETH and LENNOX, with ROSS", 
     "line_id": 56661, 
-    "speaker": "BANQUO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.113", 
@@ -7109,7 +7109,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter MALCOLM and DONALBAIN", 
     "line_id": 56668, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.119", 
@@ -7421,7 +7421,7 @@
     "play_name": "macbeth", 
     "text_entry": "LADY MACBETH is carried out", 
     "line_id": 56707, 
-    "speaker": "BANQUO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.157", 
@@ -7525,7 +7525,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt all but Malcolm and Donalbain.", 
     "line_id": 56720, 
-    "speaker": "ALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.169", 
@@ -7637,7 +7637,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt", 
     "line_id": 56734, 
-    "speaker": "MALCOLM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7645,7 +7645,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE IV. Outside Macbeth's castle.", 
     "line_id": 56735, 
-    "speaker": "MALCOLM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7653,7 +7653,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter ROSS and an old Man", 
     "line_id": 56736, 
-    "speaker": "MALCOLM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.1", 
@@ -7845,7 +7845,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter MACDUFF", 
     "line_id": 56760, 
-    "speaker": "ROSS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.24", 
@@ -8077,7 +8077,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt", 
     "line_id": 56789, 
-    "speaker": "Old Man"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8085,7 +8085,7 @@
     "play_name": "macbeth", 
     "text_entry": "ACT III", 
     "line_id": 56790, 
-    "speaker": "Old Man"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8093,7 +8093,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE I. Forres. The palace.", 
     "line_id": 56791, 
-    "speaker": "Old Man"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8101,7 +8101,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter BANQUO", 
     "line_id": 56792, 
-    "speaker": "Old Man"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -8189,7 +8189,7 @@
     "play_name": "macbeth", 
     "text_entry": "Sennet sounded. Enter MACBETH, as king, LADY  MACBETH, as queen, LENNOX, ROSS, Lords, Ladies, and Attendants", 
     "line_id": 56803, 
-    "speaker": "BANQUO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.11", 
@@ -8453,7 +8453,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit BANQUO", 
     "line_id": 56836, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.43", 
@@ -8493,7 +8493,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt all but MACBETH, and an attendant", 
     "line_id": 56841, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.47", 
@@ -8533,7 +8533,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit Attendant", 
     "line_id": 56846, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.51", 
@@ -8741,7 +8741,7 @@
     "play_name": "macbeth", 
     "text_entry": "Re-enter Attendant, with two Murderers", 
     "line_id": 56872, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.76", 
@@ -8757,7 +8757,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit Attendant", 
     "line_id": 56874, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.77", 
@@ -9389,7 +9389,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt Murderers", 
     "line_id": 56953, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.155", 
@@ -9413,7 +9413,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit", 
     "line_id": 56956, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9421,7 +9421,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE II. The palace.", 
     "line_id": 56957, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9429,7 +9429,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter LADY MACBETH and a Servant", 
     "line_id": 56958, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -9477,7 +9477,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit", 
     "line_id": 56964, 
-    "speaker": "Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.6", 
@@ -9517,7 +9517,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter MACBETH", 
     "line_id": 56969, 
-    "speaker": "LADY MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.10", 
@@ -9949,7 +9949,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt", 
     "line_id": 57023, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9957,7 +9957,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE III. A park near the palace.", 
     "line_id": 57024, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9965,7 +9965,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter three Murderers", 
     "line_id": 57025, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -10133,7 +10133,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter BANQUO, and FLEANCE with a torch", 
     "line_id": 57046, 
-    "speaker": "Second Murderer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.21", 
@@ -10173,7 +10173,7 @@
     "play_name": "macbeth", 
     "text_entry": "They set upon BANQUO", 
     "line_id": 57051, 
-    "speaker": "First Murderer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.25", 
@@ -10197,7 +10197,7 @@
     "play_name": "macbeth", 
     "text_entry": "Dies. FLEANCE escapes", 
     "line_id": 57054, 
-    "speaker": "BANQUO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.27", 
@@ -10253,7 +10253,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt", 
     "line_id": 57061, 
-    "speaker": "First Murderer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10261,7 +10261,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE IV. The same. Hall in the palace.", 
     "line_id": 57062, 
-    "speaker": "First Murderer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10269,7 +10269,7 @@
     "play_name": "macbeth", 
     "text_entry": "A banquet prepared. Enter MACBETH, LADY MACBETH, ROSS, LENNOX, Lords, and Attendants", 
     "line_id": 57063, 
-    "speaker": "First Murderer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.1", 
@@ -10349,7 +10349,7 @@
     "play_name": "macbeth", 
     "text_entry": "First Murderer appears at the door", 
     "line_id": 57073, 
-    "speaker": "LADY MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.10", 
@@ -10389,7 +10389,7 @@
     "play_name": "macbeth", 
     "text_entry": "Approaching the door", 
     "line_id": 57078, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.14", 
@@ -10581,7 +10581,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit Murderer", 
     "line_id": 57102, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.37", 
@@ -10669,7 +10669,7 @@
     "play_name": "macbeth", 
     "text_entry": "The GHOST OF BANQUO enters, and sits in MACBETH's place", 
     "line_id": 57113, 
-    "speaker": "LENNOX"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.47", 
@@ -10989,7 +10989,7 @@
     "play_name": "macbeth", 
     "text_entry": "GHOST OF BANQUO vanishes", 
     "line_id": 57153, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.86", 
@@ -11189,7 +11189,7 @@
     "play_name": "macbeth", 
     "text_entry": "Re-enter GHOST OF BANQUO", 
     "line_id": 57178, 
-    "speaker": "Lords"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.110", 
@@ -11325,7 +11325,7 @@
     "play_name": "macbeth", 
     "text_entry": "GHOST OF BANQUO vanishes", 
     "line_id": 57195, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.126", 
@@ -11485,7 +11485,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt all but MACBETH and LADY MACBETH", 
     "line_id": 57215, 
-    "speaker": "LADY MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.145", 
@@ -11685,7 +11685,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt", 
     "line_id": 57240, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11693,7 +11693,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE V. A Heath.", 
     "line_id": 57241, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11701,7 +11701,7 @@
     "play_name": "macbeth", 
     "text_entry": "Thunder. Enter the three Witches meeting HECATE", 
     "line_id": 57242, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.1", 
@@ -11997,7 +11997,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit", 
     "line_id": 57279, 
-    "speaker": "HECATE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.36", 
@@ -12013,7 +12013,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt", 
     "line_id": 57281, 
-    "speaker": "First Witch"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12021,7 +12021,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE VI. Forres. The palace.", 
     "line_id": 57282, 
-    "speaker": "First Witch"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12029,7 +12029,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter LENNOX and another Lord", 
     "line_id": 57283, 
-    "speaker": "First Witch"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.6.1", 
@@ -12477,7 +12477,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt", 
     "line_id": 57339, 
-    "speaker": "Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12485,7 +12485,7 @@
     "play_name": "macbeth", 
     "text_entry": "ACT IV", 
     "line_id": 57340, 
-    "speaker": "Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12493,7 +12493,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE I. A cavern. In the middle, a boiling cauldron.", 
     "line_id": 57341, 
-    "speaker": "Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12501,7 +12501,7 @@
     "play_name": "macbeth", 
     "text_entry": "Thunder. Enter the three Witches", 
     "line_id": 57342, 
-    "speaker": "Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -12813,7 +12813,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter HECATE to the other three Witches", 
     "line_id": 57381, 
-    "speaker": "Second Witch"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.39", 
@@ -12869,7 +12869,7 @@
     "play_name": "macbeth", 
     "text_entry": "HECATE retires", 
     "line_id": 57388, 
-    "speaker": "HECATE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.44", 
@@ -12909,7 +12909,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter MACBETH", 
     "line_id": 57393, 
-    "speaker": "Second Witch"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.48", 
@@ -13133,7 +13133,7 @@
     "play_name": "macbeth", 
     "text_entry": "Thunder. First Apparition: an armed Head", 
     "line_id": 57421, 
-    "speaker": "ALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.75", 
@@ -13181,7 +13181,7 @@
     "play_name": "macbeth", 
     "text_entry": "Descends", 
     "line_id": 57427, 
-    "speaker": "First Apparition"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.80", 
@@ -13229,7 +13229,7 @@
     "play_name": "macbeth", 
     "text_entry": "Thunder. Second Apparition: A bloody Child", 
     "line_id": 57433, 
-    "speaker": "First Witch"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.85", 
@@ -13277,7 +13277,7 @@
     "play_name": "macbeth", 
     "text_entry": "Descends", 
     "line_id": 57439, 
-    "speaker": "Second Apparition"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.90", 
@@ -13325,7 +13325,7 @@
     "play_name": "macbeth", 
     "text_entry": "Thunder. Third Apparition: a Child crowned, with a tree in his hand", 
     "line_id": 57445, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.95", 
@@ -13413,7 +13413,7 @@
     "play_name": "macbeth", 
     "text_entry": "Descends", 
     "line_id": 57456, 
-    "speaker": "Third Apparition"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.105", 
@@ -13533,7 +13533,7 @@
     "play_name": "macbeth", 
     "text_entry": "Hautboys", 
     "line_id": 57471, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.119", 
@@ -13581,7 +13581,7 @@
     "play_name": "macbeth", 
     "text_entry": "A show of Eight Kings, the last with a glass in his hand; GHOST OF BANQUO following", 
     "line_id": 57477, 
-    "speaker": "ALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.124", 
@@ -13693,7 +13693,7 @@
     "play_name": "macbeth", 
     "text_entry": "Apparitions vanish", 
     "line_id": 57491, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.137", 
@@ -13773,7 +13773,7 @@
     "play_name": "macbeth", 
     "text_entry": "Music. The witches dance and then vanish, with HECATE", 
     "line_id": 57501, 
-    "speaker": "First Witch"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.146", 
@@ -13805,7 +13805,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter LENNOX", 
     "line_id": 57505, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.149", 
@@ -14013,7 +14013,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt", 
     "line_id": 57531, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14021,7 +14021,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE II. Fife. Macduff's castle.", 
     "line_id": 57532, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14029,7 +14029,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter LADY MACDUFF, her Son, and ROSS", 
     "line_id": 57533, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -14309,7 +14309,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit", 
     "line_id": 57568, 
-    "speaker": "ROSS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.35", 
@@ -14589,7 +14589,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter a Messenger", 
     "line_id": 57603, 
-    "speaker": "LADY MACDUFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.69", 
@@ -14669,7 +14669,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit", 
     "line_id": 57613, 
-    "speaker": "Messenger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.78", 
@@ -14733,7 +14733,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter Murderers", 
     "line_id": 57621, 
-    "speaker": "LADY MACDUFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.85", 
@@ -14797,7 +14797,7 @@
     "play_name": "macbeth", 
     "text_entry": "Stabbing him", 
     "line_id": 57629, 
-    "speaker": "First Murderer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.92", 
@@ -14829,7 +14829,7 @@
     "play_name": "macbeth", 
     "text_entry": "Dies", 
     "line_id": 57633, 
-    "speaker": "Son"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14837,7 +14837,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit LADY MACDUFF, crying 'Murder!' Exeunt Murderers, following her", 
     "line_id": 57634, 
-    "speaker": "Son"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14845,7 +14845,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE III. England. Before the King's palace.", 
     "line_id": 57635, 
-    "speaker": "Son"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14853,7 +14853,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter MALCOLM and MACDUFF", 
     "line_id": 57636, 
-    "speaker": "Son"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -16117,7 +16117,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter a Doctor", 
     "line_id": 57794, 
-    "speaker": "MACDUFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.158", 
@@ -16181,7 +16181,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit Doctor", 
     "line_id": 57802, 
-    "speaker": "MALCOLM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.165", 
@@ -16309,7 +16309,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter ROSS", 
     "line_id": 57818, 
-    "speaker": "MALCOLM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.180", 
@@ -17133,7 +17133,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt", 
     "line_id": 57921, 
-    "speaker": "MALCOLM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17141,7 +17141,7 @@
     "play_name": "macbeth", 
     "text_entry": "ACT V", 
     "line_id": 57922, 
-    "speaker": "MALCOLM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17149,7 +17149,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE I. Dunsinane. Ante-room in the castle.", 
     "line_id": 57923, 
-    "speaker": "MALCOLM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17157,7 +17157,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter a Doctor of Physic and a Waiting-Gentlewoman", 
     "line_id": 57924, 
-    "speaker": "MALCOLM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -17293,7 +17293,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter LADY MACBETH, with a taper", 
     "line_id": 57941, 
-    "speaker": "Gentlewoman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.17", 
@@ -17669,7 +17669,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit", 
     "line_id": 57988, 
-    "speaker": "LADY MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.63", 
@@ -17773,7 +17773,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt", 
     "line_id": 58001, 
-    "speaker": "Gentlewoman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17781,7 +17781,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE II. The country near Dunsinane.", 
     "line_id": 58002, 
-    "speaker": "Gentlewoman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17789,7 +17789,7 @@
     "play_name": "macbeth", 
     "text_entry": "Drum and colours. Enter MENTEITH, CAITHNESS, ANGUS, LENNOX, and Soldiers", 
     "line_id": 58003, 
-    "speaker": "Gentlewoman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -18093,7 +18093,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt, marching", 
     "line_id": 58041, 
-    "speaker": "LENNOX"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18101,7 +18101,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE III. Dunsinane. A room in the castle.", 
     "line_id": 58042, 
-    "speaker": "LENNOX"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18109,7 +18109,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter MACBETH, Doctor, and Attendants", 
     "line_id": 58043, 
-    "speaker": "LENNOX"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.1", 
@@ -18205,7 +18205,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter a Servant", 
     "line_id": 58055, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.12", 
@@ -18301,7 +18301,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit Servant", 
     "line_id": 58067, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.23", 
@@ -18389,7 +18389,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter SEYTON", 
     "line_id": 58078, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.33", 
@@ -18709,7 +18709,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt", 
     "line_id": 58118, 
-    "speaker": "Doctor"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18717,7 +18717,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE IV. Country near Birnam wood.", 
     "line_id": 58119, 
-    "speaker": "Doctor"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18725,7 +18725,7 @@
     "play_name": "macbeth", 
     "text_entry": "Drum and colours. Enter MALCOLM, SIWARD and YOUNG  SIWARD, MACDUFF, MENTEITH, CAITHNESS, ANGUS, LENNOX, ROSS, and Soldiers, marching", 
     "line_id": 58120, 
-    "speaker": "Doctor"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.1", 
@@ -18949,7 +18949,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt, marching", 
     "line_id": 58148, 
-    "speaker": "SIWARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18957,7 +18957,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE V. Dunsinane. Within the castle.", 
     "line_id": 58149, 
-    "speaker": "SIWARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18965,7 +18965,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter MACBETH, SEYTON, and Soldiers, with drum and colours", 
     "line_id": 58150, 
-    "speaker": "SIWARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.1", 
@@ -19029,7 +19029,7 @@
     "play_name": "macbeth", 
     "text_entry": "A cry of women within", 
     "line_id": 58158, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.8", 
@@ -19053,7 +19053,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit", 
     "line_id": 58161, 
-    "speaker": "SEYTON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.10", 
@@ -19117,7 +19117,7 @@
     "play_name": "macbeth", 
     "text_entry": "Re-enter SEYTON", 
     "line_id": 58169, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.17", 
@@ -19237,7 +19237,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter a Messenger", 
     "line_id": 58184, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.31", 
@@ -19461,7 +19461,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt", 
     "line_id": 58212, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19469,7 +19469,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE VI. Dunsinane. Before the castle.", 
     "line_id": 58213, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19477,7 +19477,7 @@
     "play_name": "macbeth", 
     "text_entry": "Drum and colours. Enter MALCOLM, SIWARD, MACDUFF, and their Army, with boughs", 
     "line_id": 58214, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.6.1", 
@@ -19573,7 +19573,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt", 
     "line_id": 58226, 
-    "speaker": "MACDUFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19581,7 +19581,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE VII. Another part of the field.", 
     "line_id": 58227, 
-    "speaker": "MACDUFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19589,7 +19589,7 @@
     "play_name": "macbeth", 
     "text_entry": "Alarums. Enter MACBETH", 
     "line_id": 58228, 
-    "speaker": "MACDUFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.7.1", 
@@ -19629,7 +19629,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter YOUNG SIWARD", 
     "line_id": 58233, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.7.5", 
@@ -19717,7 +19717,7 @@
     "play_name": "macbeth", 
     "text_entry": "They fight and YOUNG SIWARD is slain", 
     "line_id": 58244, 
-    "speaker": "YOUNG SIWARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.7.15", 
@@ -19749,7 +19749,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit", 
     "line_id": 58248, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19757,7 +19757,7 @@
     "play_name": "macbeth", 
     "text_entry": "Alarums. Enter MACDUFF", 
     "line_id": 58249, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.7.18", 
@@ -19845,7 +19845,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exit. Alarums", 
     "line_id": 58260, 
-    "speaker": "MACDUFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19853,7 +19853,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter MALCOLM and SIWARD", 
     "line_id": 58261, 
-    "speaker": "MACDUFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.7.28", 
@@ -19925,7 +19925,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt. Alarums", 
     "line_id": 58270, 
-    "speaker": "SIWARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19933,7 +19933,7 @@
     "play_name": "macbeth", 
     "text_entry": "SCENE VIII. Another part of the field.", 
     "line_id": 58271, 
-    "speaker": "SIWARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19941,7 +19941,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter MACBETH", 
     "line_id": 58272, 
-    "speaker": "SIWARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.8.1", 
@@ -19973,7 +19973,7 @@
     "play_name": "macbeth", 
     "text_entry": "Enter MACDUFF", 
     "line_id": 58276, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.8.4", 
@@ -20037,7 +20037,7 @@
     "play_name": "macbeth", 
     "text_entry": "They fight", 
     "line_id": 58284, 
-    "speaker": "MACDUFF"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.8.11", 
@@ -20277,7 +20277,7 @@
     "play_name": "macbeth", 
     "text_entry": "Exeunt, fighting. Alarums", 
     "line_id": 58314, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20285,7 +20285,7 @@
     "play_name": "macbeth", 
     "text_entry": "Retreat. Flourish. Enter, with drum and colours, MALCOLM, SIWARD, ROSS, the other Thanes, and Soldiers", 
     "line_id": 58315, 
-    "speaker": "MACBETH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.8.40", 
@@ -20485,7 +20485,7 @@
     "play_name": "macbeth", 
     "text_entry": "Re-enter MACDUFF, with MACBETH's head", 
     "line_id": 58340, 
-    "speaker": "SIWARD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.8.64", 
@@ -20549,7 +20549,7 @@
     "play_name": "macbeth", 
     "text_entry": "Flourish", 
     "line_id": 58348, 
-    "speaker": "ALL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.8.71", 
@@ -20685,6 +20685,6 @@
     "play_name": "macbeth", 
     "text_entry": "Flourish. Exeunt", 
     "line_id": 58365, 
-    "speaker": "MALCOLM"
+    "speaker": "Stage Directions"
   }
 ]

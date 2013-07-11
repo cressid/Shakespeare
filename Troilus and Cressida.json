@@ -5,7 +5,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "ACT I", 
     "line_id": 99192, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "PROLOGUE", 
     "line_id": 99193, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.0.1", 
@@ -269,7 +269,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE I. Troy. Before Priam's palace.", 
     "line_id": 99225, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -277,7 +277,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter TROILUS armed, and PANDARUS", 
     "line_id": 99226, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -965,7 +965,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit PANDARUS. An alarum", 
     "line_id": 99312, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.86", 
@@ -1101,7 +1101,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Alarum. Enter AENEAS", 
     "line_id": 99329, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.102", 
@@ -1181,7 +1181,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Alarum", 
     "line_id": 99339, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.111", 
@@ -1229,7 +1229,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt", 
     "line_id": 99345, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1237,7 +1237,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE II. The Same. A street.", 
     "line_id": 99346, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -1245,7 +1245,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter CRESSIDA and ALEXANDER", 
     "line_id": 99347, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -1573,7 +1573,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter PANDARUS", 
     "line_id": 99388, 
-    "speaker": "ALEXANDER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.41", 
@@ -2605,7 +2605,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "A retreat sounded", 
     "line_id": 99517, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.169", 
@@ -2677,7 +2677,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "AENEAS passes", 
     "line_id": 99526, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.177", 
@@ -2709,7 +2709,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "ANTENOR passes", 
     "line_id": 99530, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.180", 
@@ -2789,7 +2789,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "HECTOR passes", 
     "line_id": 99540, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.189", 
@@ -2909,7 +2909,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "PARIS passes", 
     "line_id": 99555, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.203", 
@@ -2957,7 +2957,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "HELENUS passes", 
     "line_id": 99561, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.208", 
@@ -3029,7 +3029,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "TROILUS passes", 
     "line_id": 99570, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.216", 
@@ -3149,7 +3149,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Forces pass", 
     "line_id": 99585, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.230", 
@@ -3397,7 +3397,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter Troilus's Boy", 
     "line_id": 99616, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.260", 
@@ -3437,7 +3437,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit boy", 
     "line_id": 99621, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.264", 
@@ -3493,7 +3493,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit PANDARUS", 
     "line_id": 99628, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.270", 
@@ -3613,7 +3613,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt", 
     "line_id": 99643, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3621,7 +3621,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE III. The Grecian camp. Before Agamemnon's tent.", 
     "line_id": 99644, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3629,7 +3629,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Sennet. Enter AGAMEMNON, NESTOR, ULYSSES, MENELAUS, and others", 
     "line_id": 99645, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -4117,7 +4117,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "To AGAMEMNON", 
     "line_id": 99706, 
-    "speaker": "ULYSSES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.61", 
@@ -4133,7 +4133,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "To NESTOR", 
     "line_id": 99708, 
-    "speaker": "ULYSSES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.62", 
@@ -5357,7 +5357,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "A tucket", 
     "line_id": 99861, 
-    "speaker": "NESTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.214", 
@@ -5381,7 +5381,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter AENEAS", 
     "line_id": 99864, 
-    "speaker": "MENELAUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.216", 
@@ -5789,7 +5789,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Trumpet sounds", 
     "line_id": 99915, 
-    "speaker": "AENEAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.266", 
@@ -6197,7 +6197,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt all but ULYSSES and NESTOR", 
     "line_id": 99966, 
-    "speaker": "AGAMEMNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.316", 
@@ -6877,7 +6877,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt", 
     "line_id": 100051, 
-    "speaker": "NESTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6885,7 +6885,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "ACT II", 
     "line_id": 100052, 
-    "speaker": "NESTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6893,7 +6893,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE I. A part of the Grecian camp.", 
     "line_id": 100053, 
-    "speaker": "NESTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6901,7 +6901,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter AJAX and THERSITES", 
     "line_id": 100054, 
-    "speaker": "NESTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -6981,7 +6981,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Beating him", 
     "line_id": 100064, 
-    "speaker": "AJAX"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.10", 
@@ -7333,7 +7333,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter ACHILLES and PATROCLUS", 
     "line_id": 100108, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.53", 
@@ -7525,7 +7525,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Ajax offers to beat him", 
     "line_id": 100132, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.76", 
@@ -7853,7 +7853,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 100173, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.116", 
@@ -7949,7 +7949,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt", 
     "line_id": 100185, 
-    "speaker": "AJAX"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7957,7 +7957,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE II. Troy. A room in Priam's palace.", 
     "line_id": 100186, 
-    "speaker": "AJAX"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7965,7 +7965,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter PRIAM, HECTOR, TROILUS, PARIS, and HELENUS", 
     "line_id": 100187, 
-    "speaker": "AJAX"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -8813,7 +8813,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter CASSANDRA, raving", 
     "line_id": 100293, 
-    "speaker": "HECTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.106", 
@@ -8917,7 +8917,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 100306, 
-    "speaker": "CASSANDRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.118", 
@@ -9757,7 +9757,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt", 
     "line_id": 100411, 
-    "speaker": "HECTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9765,7 +9765,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE III. The Grecian camp. Before Achilles' tent.", 
     "line_id": 100412, 
-    "speaker": "HECTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9773,7 +9773,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter THERSITES, solus", 
     "line_id": 100413, 
-    "speaker": "HECTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -9957,7 +9957,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter PATROCLUS", 
     "line_id": 100436, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.23", 
@@ -10069,7 +10069,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter ACHILLES", 
     "line_id": 100450, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.36", 
@@ -10325,7 +10325,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 100482, 
-    "speaker": "ACHILLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.67", 
@@ -10373,7 +10373,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 100488, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10381,7 +10381,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter AGAMEMNON, ULYSSES, NESTOR, DIOMEDES, and AJAX", 
     "line_id": 100489, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.72", 
@@ -10461,7 +10461,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 100499, 
-    "speaker": "PATROCLUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.81", 
@@ -10517,7 +10517,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Takes AGAMEMNON aside", 
     "line_id": 100506, 
-    "speaker": "AJAX"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.87", 
@@ -10621,7 +10621,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Re-enter PATROCLUS", 
     "line_id": 100519, 
-    "speaker": "ULYSSES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.99", 
@@ -10933,7 +10933,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 100558, 
-    "speaker": "PATROCLUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.137", 
@@ -10957,7 +10957,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit ULYSSES", 
     "line_id": 100561, 
-    "speaker": "AGAMEMNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.139", 
@@ -11109,7 +11109,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Aside", 
     "line_id": 100580, 
-    "speaker": "NESTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11117,7 +11117,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Re-enter ULYSSES", 
     "line_id": 100581, 
-    "speaker": "NESTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.157", 
@@ -11997,7 +11997,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt", 
     "line_id": 100691, 
-    "speaker": "AGAMEMNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12005,7 +12005,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "ACT III", 
     "line_id": 100692, 
-    "speaker": "AGAMEMNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12013,7 +12013,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE I. Troy. Priam's palace.", 
     "line_id": 100693, 
-    "speaker": "AGAMEMNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12021,7 +12021,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter a Servant and PANDARUS", 
     "line_id": 100694, 
-    "speaker": "AGAMEMNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -12149,7 +12149,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Music within", 
     "line_id": 100710, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.16", 
@@ -12357,7 +12357,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter PARIS and HELEN, attended", 
     "line_id": 100736, 
-    "speaker": "Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.41", 
@@ -12877,7 +12877,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Sings", 
     "line_id": 100801, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.105", 
@@ -13141,7 +13141,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 100834, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13149,7 +13149,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "A retreat sounded", 
     "line_id": 100835, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.137", 
@@ -13253,7 +13253,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt", 
     "line_id": 100848, 
-    "speaker": "PARIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13261,7 +13261,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE II. The same. Pandarus' orchard.", 
     "line_id": 100849, 
-    "speaker": "PARIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13269,7 +13269,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter PANDARUS and Troilus's Boy, meeting", 
     "line_id": 100850, 
-    "speaker": "PARIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -13309,7 +13309,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter TROILUS", 
     "line_id": 100855, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.5", 
@@ -13333,7 +13333,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit Boy", 
     "line_id": 100858, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.7", 
@@ -13421,7 +13421,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 100869, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.17", 
@@ -13525,7 +13525,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Re-enter PANDARUS", 
     "line_id": 100882, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.29", 
@@ -13581,7 +13581,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 100889, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.35", 
@@ -13629,7 +13629,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Re-enter PANDARUS with CRESSIDA", 
     "line_id": 100895, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.40", 
@@ -13797,7 +13797,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 100916, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.60", 
@@ -14101,7 +14101,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Re-enter PANDARUS", 
     "line_id": 100954, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.97", 
@@ -14997,7 +14997,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt", 
     "line_id": 101066, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15005,7 +15005,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE III. The Grecian camp. Before Achilles' tent.", 
     "line_id": 101067, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15013,7 +15013,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter AGAMEMNON, ULYSSES, DIOMEDES, NESTOR, AJAX, MENELAUS, and CALCHAS", 
     "line_id": 101068, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -15325,7 +15325,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt DIOMEDES and CALCHAS", 
     "line_id": 101107, 
-    "speaker": "DIOMEDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15333,7 +15333,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter ACHILLES and PATROCLUS, before their tent", 
     "line_id": 101108, 
-    "speaker": "DIOMEDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.39", 
@@ -15533,7 +15533,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt AGAMEMNON and NESTOR", 
     "line_id": 101133, 
-    "speaker": "AGAMEMNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.63", 
@@ -15557,7 +15557,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 101136, 
-    "speaker": "MENELAUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.65", 
@@ -15613,7 +15613,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 101143, 
-    "speaker": "AJAX"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.71", 
@@ -16861,7 +16861,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 101299, 
-    "speaker": "ULYSSES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.226", 
@@ -17093,7 +17093,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter THERSITES", 
     "line_id": 101328, 
-    "speaker": "ACHILLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.254", 
@@ -17621,7 +17621,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt ACHILLES and PATROCLUS", 
     "line_id": 101394, 
-    "speaker": "ACHILLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.319", 
@@ -17653,7 +17653,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 101398, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17661,7 +17661,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "ACT IV", 
     "line_id": 101399, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17669,7 +17669,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE I. Troy. A street.", 
     "line_id": 101400, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17677,7 +17677,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter, from one side, AENEAS, and Servant with a  torch; from the other, PARIS, DEIPHOBUS, ANTENOR, DIOMEDES, and others, with torches", 
     "line_id": 101401, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -18117,7 +18117,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit with Servant", 
     "line_id": 101456, 
-    "speaker": "AENEAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.55", 
@@ -18365,7 +18365,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt", 
     "line_id": 101487, 
-    "speaker": "PARIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18373,7 +18373,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE II. The same. Court of Pandarus' house.", 
     "line_id": 101488, 
-    "speaker": "PARIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18381,7 +18381,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter TROILUS and CRESSIDA", 
     "line_id": 101489, 
-    "speaker": "PARIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -18613,7 +18613,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter PANDARUS", 
     "line_id": 101518, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.29", 
@@ -18717,7 +18717,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Knocking within", 
     "line_id": 101531, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.41", 
@@ -18765,7 +18765,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Knocking within", 
     "line_id": 101537, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.46", 
@@ -18789,7 +18789,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt TROILUS and CRESSIDA", 
     "line_id": 101540, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.48", 
@@ -18813,7 +18813,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter AENEAS", 
     "line_id": 101543, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.50", 
@@ -18933,7 +18933,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Re-enter TROILUS", 
     "line_id": 101558, 
-    "speaker": "AENEAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.64", 
@@ -19077,7 +19077,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt TROILUS and AENEAS", 
     "line_id": 101576, 
-    "speaker": "AENEAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.81", 
@@ -19109,7 +19109,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Re-enter CRESSIDA", 
     "line_id": 101580, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.84", 
@@ -19365,7 +19365,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt", 
     "line_id": 101612, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19373,7 +19373,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE III. The same. Street before Pandarus' house.", 
     "line_id": 101613, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19381,7 +19381,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter PARIS, TROILUS, AENEAS, DEIPHOBUS, ANTENOR, and DIOMEDES", 
     "line_id": 101614, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -19469,7 +19469,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 101625, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.11", 
@@ -19501,7 +19501,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt", 
     "line_id": 101629, 
-    "speaker": "PARIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19509,7 +19509,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE IV. The same. Pandarus' house.", 
     "line_id": 101630, 
-    "speaker": "PARIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19517,7 +19517,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter PANDARUS and CRESSIDA", 
     "line_id": 101631, 
-    "speaker": "PARIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.1", 
@@ -19613,7 +19613,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter TROILUS", 
     "line_id": 101643, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.12", 
@@ -19637,7 +19637,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Embracing him", 
     "line_id": 101646, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.14", 
@@ -19989,7 +19989,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 101690, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.57", 
@@ -20469,7 +20469,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter AENEAS, PARIS, ANTENOR, DEIPHOBUS, and DIOMEDES", 
     "line_id": 101750, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.116", 
@@ -20741,7 +20741,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt TROILUS, CRESSIDA, and DIOMEDES", 
     "line_id": 101784, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20749,7 +20749,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Trumpet within", 
     "line_id": 101785, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.149", 
@@ -20837,7 +20837,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt", 
     "line_id": 101796, 
-    "speaker": "AENEAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20845,7 +20845,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE V. The Grecian camp. Lists set out.", 
     "line_id": 101797, 
-    "speaker": "AENEAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20853,7 +20853,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter AJAX, armed; AGAMEMNON, ACHILLES, PATROCLUS, MENELAUS, ULYSSES, NESTOR, and others", 
     "line_id": 101798, 
-    "speaker": "AENEAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.1", 
@@ -20957,7 +20957,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Trumpet sounds", 
     "line_id": 101811, 
-    "speaker": "AJAX"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.13", 
@@ -21013,7 +21013,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter DIOMEDES, with CRESSIDA", 
     "line_id": 101818, 
-    "speaker": "ULYSSES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.19", 
@@ -21365,7 +21365,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit with CRESSIDA", 
     "line_id": 101862, 
-    "speaker": "DIOMEDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.62", 
@@ -21461,7 +21461,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Trumpet within", 
     "line_id": 101874, 
-    "speaker": "ULYSSES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.73", 
@@ -21485,7 +21485,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter HECTOR, armed; AENEAS, TROILUS, and other Trojans, with Attendants", 
     "line_id": 101877, 
-    "speaker": "AGAMEMNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.75", 
@@ -21701,7 +21701,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Re-enter DIOMEDES", 
     "line_id": 101904, 
-    "speaker": "ACHILLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.101", 
@@ -21757,7 +21757,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "AJAX and HECTOR enter the lists", 
     "line_id": 101911, 
-    "speaker": "AGAMEMNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.107", 
@@ -21917,7 +21917,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Alarum. Hector and Ajax fight", 
     "line_id": 101931, 
-    "speaker": "ULYSSES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.126", 
@@ -21973,7 +21973,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Trumpets cease", 
     "line_id": 101938, 
-    "speaker": "DIOMEDES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.132", 
@@ -23365,7 +23365,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt all except TROILUS and ULYSSES", 
     "line_id": 102112, 
-    "speaker": "AGAMEMNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.305", 
@@ -23517,7 +23517,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt", 
     "line_id": 102131, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23525,7 +23525,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "ACT V", 
     "line_id": 102132, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23533,7 +23533,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE I. The Grecian camp. Before Achilles' tent.", 
     "line_id": 102133, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23541,7 +23541,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter ACHILLES and PATROCLUS", 
     "line_id": 102134, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -23581,7 +23581,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter THERSITES", 
     "line_id": 102139, 
-    "speaker": "PATROCLUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.5", 
@@ -23933,7 +23933,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt ACHILLES and PATROCLUS", 
     "line_id": 102183, 
-    "speaker": "ACHILLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.48", 
@@ -24101,7 +24101,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter HECTOR, TROILUS, AJAX, AGAMEMNON, ULYSSES, NESTOR, MENELAUS, and DIOMEDES, with lights", 
     "line_id": 102204, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.68", 
@@ -24157,7 +24157,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Re-enter ACHILLES", 
     "line_id": 102211, 
-    "speaker": "ULYSSES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.74", 
@@ -24253,7 +24253,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt AGAMEMNON and MENELAUS", 
     "line_id": 102223, 
-    "speaker": "AGAMEMNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.85", 
@@ -24341,7 +24341,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit DIOMEDES; ULYSSES and TROILUS following", 
     "line_id": 102234, 
-    "speaker": "HECTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.95", 
@@ -24357,7 +24357,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt ACHILLES, HECTOR, AJAX, and NESTOR", 
     "line_id": 102236, 
-    "speaker": "ACHILLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.96", 
@@ -24453,7 +24453,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 102248, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -24461,7 +24461,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE II. The same. Before Calchas' tent.", 
     "line_id": 102249, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -24469,7 +24469,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter DIOMEDES", 
     "line_id": 102250, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -24509,7 +24509,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter TROILUS and ULYSSES, at a distance; after them, THERSITES", 
     "line_id": 102255, 
-    "speaker": "CALCHAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.5", 
@@ -24525,7 +24525,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter CRESSIDA", 
     "line_id": 102257, 
-    "speaker": "ULYSSES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.6", 
@@ -24557,7 +24557,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Whispers", 
     "line_id": 102261, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.9", 
@@ -25061,7 +25061,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 102324, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.71", 
@@ -25101,7 +25101,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Re-enter CRESSIDA", 
     "line_id": 102329, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.75", 
@@ -25501,7 +25501,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit DIOMEDES", 
     "line_id": 102379, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.124", 
@@ -25557,7 +25557,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 102386, 
-    "speaker": "CRESSIDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.130", 
@@ -26157,7 +26157,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter AENEAS", 
     "line_id": 102461, 
-    "speaker": "ULYSSES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.204", 
@@ -26229,7 +26229,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt TROILUS, AENEAS, and ULYSSES", 
     "line_id": 102470, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.212", 
@@ -26293,7 +26293,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 102478, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -26301,7 +26301,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE III. Troy. Before Priam's palace.", 
     "line_id": 102479, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -26309,7 +26309,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter HECTOR and ANDROMACHE", 
     "line_id": 102480, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.1", 
@@ -26373,7 +26373,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter CASSANDRA", 
     "line_id": 102488, 
-    "speaker": "HECTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.8", 
@@ -26573,7 +26573,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter TROILUS", 
     "line_id": 102513, 
-    "speaker": "HECTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.32", 
@@ -26597,7 +26597,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit CASSANDRA", 
     "line_id": 102516, 
-    "speaker": "ANDROMACHE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.34", 
@@ -26853,7 +26853,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Re-enter CASSANDRA, with PRIAM", 
     "line_id": 102548, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.65", 
@@ -27053,7 +27053,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit ANDROMACHE", 
     "line_id": 102573, 
-    "speaker": "HECTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.89", 
@@ -27165,7 +27165,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 102587, 
-    "speaker": "CASSANDRA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.102", 
@@ -27205,7 +27205,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt severally PRIAM and HECTOR. Alarums", 
     "line_id": 102592, 
-    "speaker": "PRIAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.106", 
@@ -27229,7 +27229,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter PANDARUS", 
     "line_id": 102595, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.108", 
@@ -27341,7 +27341,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Tearing the letter", 
     "line_id": 102609, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.121", 
@@ -27373,7 +27373,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt severally", 
     "line_id": 102613, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27381,7 +27381,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE IV. Plains between Troy and the Grecian camp.", 
     "line_id": 102614, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27389,7 +27389,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Alarums: excursions. Enter THERSITES", 
     "line_id": 102615, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.1", 
@@ -27541,7 +27541,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter DIOMEDES, TROILUS following", 
     "line_id": 102634, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.19", 
@@ -27613,7 +27613,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt TROILUS and DIOMEDES, fighting", 
     "line_id": 102643, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27621,7 +27621,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter HECTOR", 
     "line_id": 102644, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.27", 
@@ -27669,7 +27669,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 102650, 
-    "speaker": "HECTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.32", 
@@ -27725,7 +27725,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 102657, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27733,7 +27733,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE V. Another part of the plains.", 
     "line_id": 102658, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27741,7 +27741,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter DIOMEDES and a Servant", 
     "line_id": 102659, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.1", 
@@ -27797,7 +27797,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 102666, 
-    "speaker": "Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -27805,7 +27805,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter AGAMEMNON", 
     "line_id": 102667, 
-    "speaker": "Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.7", 
@@ -27901,7 +27901,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter NESTOR", 
     "line_id": 102679, 
-    "speaker": "AGAMEMNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.18", 
@@ -28013,7 +28013,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter ULYSSES", 
     "line_id": 102693, 
-    "speaker": "NESTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.31", 
@@ -28125,7 +28125,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter AJAX", 
     "line_id": 102707, 
-    "speaker": "ULYSSES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.44", 
@@ -28141,7 +28141,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 102709, 
-    "speaker": "AJAX"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.45", 
@@ -28165,7 +28165,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter ACHILLES", 
     "line_id": 102712, 
-    "speaker": "NESTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.47", 
@@ -28205,7 +28205,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt", 
     "line_id": 102717, 
-    "speaker": "ACHILLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -28213,7 +28213,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE VI. Another part of the plains.", 
     "line_id": 102718, 
-    "speaker": "ACHILLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -28221,7 +28221,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter AJAX", 
     "line_id": 102719, 
-    "speaker": "ACHILLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.6.1", 
@@ -28237,7 +28237,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter DIOMEDES", 
     "line_id": 102721, 
-    "speaker": "AJAX"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.6.2", 
@@ -28285,7 +28285,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter TROILUS", 
     "line_id": 102727, 
-    "speaker": "AJAX"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.6.7", 
@@ -28341,7 +28341,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt, fighting", 
     "line_id": 102734, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -28349,7 +28349,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter HECTOR", 
     "line_id": 102735, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.6.13", 
@@ -28365,7 +28365,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter ACHILLES", 
     "line_id": 102737, 
-    "speaker": "HECTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.6.14", 
@@ -28429,7 +28429,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 102745, 
-    "speaker": "ACHILLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.6.21", 
@@ -28461,7 +28461,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Re-enter TROILUS", 
     "line_id": 102749, 
-    "speaker": "HECTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.6.24", 
@@ -28509,7 +28509,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 102755, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -28517,7 +28517,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter one in sumptuous armour", 
     "line_id": 102756, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.6.29", 
@@ -28573,7 +28573,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt", 
     "line_id": 102763, 
-    "speaker": "HECTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -28581,7 +28581,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE VII. Another part of the plains.", 
     "line_id": 102764, 
-    "speaker": "HECTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -28589,7 +28589,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter ACHILLES, with Myrmidons", 
     "line_id": 102765, 
-    "speaker": "HECTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.7.1", 
@@ -28661,7 +28661,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt", 
     "line_id": 102774, 
-    "speaker": "ACHILLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -28669,7 +28669,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter MENELAUS and PARIS, fighting: then THERSITES", 
     "line_id": 102775, 
-    "speaker": "ACHILLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.7.9", 
@@ -28709,7 +28709,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt PARIS and MENELAUS", 
     "line_id": 102780, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -28717,7 +28717,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter MARGARELON", 
     "line_id": 102781, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.7.13", 
@@ -28805,7 +28805,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 102792, 
-    "speaker": "THERSITES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.7.23", 
@@ -28821,7 +28821,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 102794, 
-    "speaker": "MARGARELON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -28829,7 +28829,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE VIII. Another part of the plains.", 
     "line_id": 102795, 
-    "speaker": "MARGARELON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -28837,7 +28837,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter HECTOR", 
     "line_id": 102796, 
-    "speaker": "MARGARELON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.8.1", 
@@ -28877,7 +28877,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Puts off his helmet and hangs his shield behind him", 
     "line_id": 102801, 
-    "speaker": "HECTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -28885,7 +28885,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter ACHILLES and Myrmidons", 
     "line_id": 102802, 
-    "speaker": "HECTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.8.5", 
@@ -28941,7 +28941,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "HECTOR falls", 
     "line_id": 102809, 
-    "speaker": "ACHILLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.8.11", 
@@ -28981,7 +28981,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "A retreat sounded", 
     "line_id": 102814, 
-    "speaker": "ACHILLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.8.15", 
@@ -29037,7 +29037,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Sheathes his sword", 
     "line_id": 102821, 
-    "speaker": "ACHILLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.8.21", 
@@ -29061,7 +29061,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt", 
     "line_id": 102824, 
-    "speaker": "ACHILLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -29069,7 +29069,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE IX. Another part of the plains.", 
     "line_id": 102825, 
-    "speaker": "ACHILLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -29077,7 +29077,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter AGAMEMNON, AJAX, MENELAUS, NESTOR, DIOMEDES, and others, marching. Shouts within", 
     "line_id": 102826, 
-    "speaker": "ACHILLES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.9.1", 
@@ -29101,7 +29101,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Within", 
     "line_id": 102829, 
-    "speaker": "NESTOR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.9.3", 
@@ -29173,7 +29173,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt, marching", 
     "line_id": 102838, 
-    "speaker": "AGAMEMNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -29181,7 +29181,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "SCENE X. Another part of the plains.", 
     "line_id": 102839, 
-    "speaker": "AGAMEMNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -29189,7 +29189,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter AENEAS and Trojans", 
     "line_id": 102840, 
-    "speaker": "AGAMEMNON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.10.1", 
@@ -29213,7 +29213,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Enter TROILUS", 
     "line_id": 102843, 
-    "speaker": "AENEAS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.10.3", 
@@ -29461,7 +29461,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exeunt AENEAS and Trojans", 
     "line_id": 102874, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -29469,7 +29469,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "As TROILUS is going out, enter, from the other side, PANDARUS", 
     "line_id": 102875, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.10.33", 
@@ -29501,7 +29501,7 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 102879, 
-    "speaker": "TROILUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.10.36", 
@@ -29685,6 +29685,6 @@
     "play_name": "Troilus and Cressida", 
     "text_entry": "Exit", 
     "line_id": 102902, 
-    "speaker": "PANDARUS"
+    "speaker": "Stage Directions"
   }
 ]

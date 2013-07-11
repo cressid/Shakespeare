@@ -5,7 +5,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "ACT I", 
     "line_id": 85282, 
-    "speaker": "RICHMOND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "PROLOGUE", 
     "line_id": 85283, 
-    "speaker": "RICHMOND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.0.1", 
@@ -133,7 +133,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE I. Verona. A public place.", 
     "line_id": 85298, 
-    "speaker": "RICHMOND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -141,7 +141,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter SAMPSON and GREGORY, of the house of Capulet, armed with swords and bucklers", 
     "line_id": 85299, 
-    "speaker": "RICHMOND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -461,7 +461,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter ABRAHAM and BALTHASAR", 
     "line_id": 85339, 
-    "speaker": "SAMPSON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.40", 
@@ -605,7 +605,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "They fight", 
     "line_id": 85357, 
-    "speaker": "SAMPSON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -613,7 +613,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter BENVOLIO", 
     "line_id": 85358, 
-    "speaker": "SAMPSON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.57", 
@@ -637,7 +637,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Beats down their swords", 
     "line_id": 85361, 
-    "speaker": "BENVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -645,7 +645,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter TYBALT", 
     "line_id": 85362, 
-    "speaker": "BENVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.59", 
@@ -709,7 +709,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "They fight", 
     "line_id": 85370, 
-    "speaker": "TYBALT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -717,7 +717,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter, several of both houses, who join the fray; then enter Citizens, with clubs", 
     "line_id": 85371, 
-    "speaker": "TYBALT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.66", 
@@ -741,7 +741,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter CAPULET in his gown, and LADY CAPULET", 
     "line_id": 85374, 
-    "speaker": "First Citizen"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.68", 
@@ -781,7 +781,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter MONTAGUE and LADY MONTAGUE", 
     "line_id": 85379, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.72", 
@@ -805,7 +805,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter PRINCE, with Attendants", 
     "line_id": 85382, 
-    "speaker": "LADY MONTAGUE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.74", 
@@ -997,7 +997,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt all but MONTAGUE, LADY MONTAGUE, and BENVOLIO", 
     "line_id": 85406, 
-    "speaker": "PRINCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.97", 
@@ -1413,7 +1413,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter ROMEO", 
     "line_id": 85458, 
-    "speaker": "MONTAGUE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.148", 
@@ -1453,7 +1453,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt MONTAGUE and LADY MONTAGUE", 
     "line_id": 85463, 
-    "speaker": "MONTAGUE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.152", 
@@ -2157,7 +2157,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt", 
     "line_id": 85551, 
-    "speaker": "BENVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2165,7 +2165,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE II. A street.", 
     "line_id": 85552, 
-    "speaker": "BENVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2173,7 +2173,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter CAPULET, PARIS, and Servant", 
     "line_id": 85553, 
-    "speaker": "BENVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -2453,7 +2453,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "To Servant, giving a paper", 
     "line_id": 85588, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.35", 
@@ -2493,7 +2493,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt CAPULET and PARIS", 
     "line_id": 85593, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.39", 
@@ -2557,7 +2557,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter BENVOLIO and ROMEO", 
     "line_id": 85601, 
-    "speaker": "Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.46", 
@@ -2725,7 +2725,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Reads", 
     "line_id": 85622, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.66", 
@@ -2877,7 +2877,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit", 
     "line_id": 85641, 
-    "speaker": "Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.84", 
@@ -3045,7 +3045,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt", 
     "line_id": 85662, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3053,7 +3053,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE III. A room in Capulet's house.", 
     "line_id": 85663, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3061,7 +3061,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter LADY CAPULET and Nurse", 
     "line_id": 85664, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -3101,7 +3101,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter JULIET", 
     "line_id": 85669, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.5", 
@@ -3901,7 +3901,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter a Servant", 
     "line_id": 85769, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.104", 
@@ -3949,7 +3949,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit Servant", 
     "line_id": 85775, 
-    "speaker": "LADY CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.109", 
@@ -3973,7 +3973,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt", 
     "line_id": 85778, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3981,7 +3981,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE IV. A street.", 
     "line_id": 85779, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3989,7 +3989,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter ROMEO, MERCUTIO, BENVOLIO, with five or six Maskers, Torch-bearers, and others", 
     "line_id": 85780, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.1", 
@@ -4957,7 +4957,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt", 
     "line_id": 85901, 
-    "speaker": "BENVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4965,7 +4965,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE V. A hall in Capulet's house.", 
     "line_id": 85902, 
-    "speaker": "BENVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4973,7 +4973,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Musicians waiting. Enter Servingmen with napkins", 
     "line_id": 85903, 
-    "speaker": "BENVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.1", 
@@ -5093,7 +5093,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter CAPULET, with JULIET and others of his house, meeting the Guests and Maskers", 
     "line_id": 85918, 
-    "speaker": "Second Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.15", 
@@ -5189,7 +5189,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Music plays, and they dance", 
     "line_id": 85930, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.26", 
@@ -5773,7 +5773,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit", 
     "line_id": 86003, 
-    "speaker": "TYBALT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.98", 
@@ -6085,7 +6085,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt all but JULIET and Nurse", 
     "line_id": 86042, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.136", 
@@ -6229,7 +6229,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "One calls within 'Juliet.'", 
     "line_id": 86060, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.5.153", 
@@ -6253,7 +6253,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt", 
     "line_id": 86063, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6261,7 +6261,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "ACT II", 
     "line_id": 86064, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6269,7 +6269,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "PROLOGUE", 
     "line_id": 86065, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6277,7 +6277,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter Chorus", 
     "line_id": 86066, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.0.1", 
@@ -6397,7 +6397,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit", 
     "line_id": 86081, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6405,7 +6405,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE I. A lane by the wall of Capulet's orchard.", 
     "line_id": 86082, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6413,7 +6413,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter ROMEO", 
     "line_id": 86083, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -6437,7 +6437,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "He climbs the wall, and leaps down within it", 
     "line_id": 86086, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6445,7 +6445,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter BENVOLIO and MERCUTIO", 
     "line_id": 86087, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.3", 
@@ -6797,7 +6797,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt", 
     "line_id": 86131, 
-    "speaker": "BENVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6805,7 +6805,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE II. Capulet's orchard.", 
     "line_id": 86132, 
-    "speaker": "BENVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6813,7 +6813,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter ROMEO", 
     "line_id": 86133, 
-    "speaker": "BENVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -6829,7 +6829,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "JULIET appears above at a window", 
     "line_id": 86135, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.2", 
@@ -7957,7 +7957,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Nurse calls within", 
     "line_id": 86276, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.142", 
@@ -7989,7 +7989,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit, above", 
     "line_id": 86280, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.145", 
@@ -8021,7 +8021,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Re-enter JULIET, above", 
     "line_id": 86284, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.148", 
@@ -8157,7 +8157,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit, above", 
     "line_id": 86301, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.164", 
@@ -8197,7 +8197,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Retiring", 
     "line_id": 86306, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8205,7 +8205,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Re-enter JULIET, above", 
     "line_id": 86307, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.168", 
@@ -8477,7 +8477,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit above", 
     "line_id": 86341, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.201", 
@@ -8517,7 +8517,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit", 
     "line_id": 86346, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8525,7 +8525,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE III. Friar Laurence's cell.", 
     "line_id": 86347, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8533,7 +8533,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter FRIAR LAURENCE, with a basket", 
     "line_id": 86348, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -8781,7 +8781,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter ROMEO", 
     "line_id": 86379, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.31", 
@@ -9325,7 +9325,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt", 
     "line_id": 86447, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9333,7 +9333,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE IV. A street.", 
     "line_id": 86448, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9341,7 +9341,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter BENVOLIO and MERCUTIO", 
     "line_id": 86449, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.1", 
@@ -9645,7 +9645,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter ROMEO", 
     "line_id": 86487, 
-    "speaker": "MERCUTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.38", 
@@ -10117,7 +10117,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter Nurse and PETER", 
     "line_id": 86546, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.96", 
@@ -10373,7 +10373,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Sings", 
     "line_id": 86578, 
-    "speaker": "MERCUTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.127", 
@@ -10461,7 +10461,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Singing", 
     "line_id": 86589, 
-    "speaker": "MERCUTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.137", 
@@ -10477,7 +10477,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt MERCUTIO and BENVOLIO", 
     "line_id": 86591, 
-    "speaker": "MERCUTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.138", 
@@ -11029,7 +11029,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit Romeo", 
     "line_id": 86660, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.206", 
@@ -11061,7 +11061,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt", 
     "line_id": 86664, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11069,7 +11069,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE V. Capulet's orchard.", 
     "line_id": 86665, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11077,7 +11077,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter JULIET", 
     "line_id": 86666, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.1", 
@@ -11229,7 +11229,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter Nurse and PETER", 
     "line_id": 86685, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.19", 
@@ -11261,7 +11261,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit PETER", 
     "line_id": 86689, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.5.22", 
@@ -11741,7 +11741,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt", 
     "line_id": 86749, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11749,7 +11749,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE VI. Friar Laurence's cell.", 
     "line_id": 86750, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11757,7 +11757,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter FRIAR LAURENCE and ROMEO", 
     "line_id": 86751, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.6.1", 
@@ -11885,7 +11885,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter JULIET", 
     "line_id": 86767, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.6.16", 
@@ -12069,7 +12069,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt", 
     "line_id": 86790, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12077,7 +12077,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "ACT III", 
     "line_id": 86791, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12085,7 +12085,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE I. A public place.", 
     "line_id": 86792, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12093,7 +12093,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter MERCUTIO, BENVOLIO, Page, and Servants", 
     "line_id": 86793, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -12381,7 +12381,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter TYBALT and others", 
     "line_id": 86829, 
-    "speaker": "MERCUTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.36", 
@@ -12533,7 +12533,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter ROMEO", 
     "line_id": 86848, 
-    "speaker": "MERCUTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.54", 
@@ -12693,7 +12693,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Draws", 
     "line_id": 86868, 
-    "speaker": "MERCUTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.73", 
@@ -12773,7 +12773,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Drawing", 
     "line_id": 86878, 
-    "speaker": "TYBALT"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.82", 
@@ -12797,7 +12797,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "They fight", 
     "line_id": 86881, 
-    "speaker": "MERCUTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.84", 
@@ -12845,7 +12845,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "TYBALT under ROMEO's arm stabs MERCUTIO, and flies with his followers", 
     "line_id": 86887, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.89", 
@@ -12901,7 +12901,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit Page", 
     "line_id": 86894, 
-    "speaker": "MERCUTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.95", 
@@ -13029,7 +13029,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt MERCUTIO and BENVOLIO", 
     "line_id": 86910, 
-    "speaker": "MERCUTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.110", 
@@ -13093,7 +13093,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Re-enter BENVOLIO", 
     "line_id": 86918, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.117", 
@@ -13173,7 +13173,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Re-enter TYBALT", 
     "line_id": 86928, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.126", 
@@ -13245,7 +13245,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "They fight; TYBALT falls", 
     "line_id": 86937, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.134", 
@@ -13301,7 +13301,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit ROMEO", 
     "line_id": 86944, 
-    "speaker": "BENVOLIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13357,7 +13357,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter Prince, attended; MONTAGUE, CAPULET, their Wives, and others", 
     "line_id": 86951, 
-    "speaker": "First Citizen"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.145", 
@@ -13837,7 +13837,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt", 
     "line_id": 87011, 
-    "speaker": "PRINCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13845,7 +13845,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE II. Capulet's orchard.", 
     "line_id": 87012, 
-    "speaker": "PRINCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13853,7 +13853,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter JULIET", 
     "line_id": 87013, 
-    "speaker": "PRINCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -14125,7 +14125,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter Nurse, with cords", 
     "line_id": 87047, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.34", 
@@ -14157,7 +14157,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Throws them down", 
     "line_id": 87051, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.37", 
@@ -15053,7 +15053,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt", 
     "line_id": 87163, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15061,7 +15061,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE III. Friar Laurence's cell.", 
     "line_id": 87164, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15069,7 +15069,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter FRIAR LAURENCE", 
     "line_id": 87165, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -15101,7 +15101,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter ROMEO", 
     "line_id": 87169, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.4", 
@@ -15653,7 +15653,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Knocking within", 
     "line_id": 87238, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.72", 
@@ -15685,7 +15685,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Knocking", 
     "line_id": 87242, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.75", 
@@ -15709,7 +15709,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Knocking", 
     "line_id": 87245, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.77", 
@@ -15733,7 +15733,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Knocking", 
     "line_id": 87248, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.79", 
@@ -15781,7 +15781,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter Nurse", 
     "line_id": 87254, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.84", 
@@ -16021,7 +16021,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Drawing his sword", 
     "line_id": 87284, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.113", 
@@ -16485,7 +16485,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit", 
     "line_id": 87342, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.170", 
@@ -16573,7 +16573,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt", 
     "line_id": 87353, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16581,7 +16581,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE IV. A room in Capulet's house.", 
     "line_id": 87354, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16589,7 +16589,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter CAPULET, LADY CAPULET, and PARIS", 
     "line_id": 87355, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.4.1", 
@@ -16893,7 +16893,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt", 
     "line_id": 87393, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16901,7 +16901,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE V. Capulet's orchard.", 
     "line_id": 87394, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16909,7 +16909,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter ROMEO and JULIET above, at the window", 
     "line_id": 87395, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.1", 
@@ -17205,7 +17205,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter Nurse, to the chamber", 
     "line_id": 87432, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.37", 
@@ -17245,7 +17245,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit", 
     "line_id": 87437, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.41", 
@@ -17269,7 +17269,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "He goeth down", 
     "line_id": 87440, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.43", 
@@ -17413,7 +17413,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit", 
     "line_id": 87458, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.60", 
@@ -17493,7 +17493,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter LADY CAPULET", 
     "line_id": 87468, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.69", 
@@ -17989,7 +17989,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter CAPULET and Nurse", 
     "line_id": 87530, 
-    "speaker": "LADY CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.130", 
@@ -18613,7 +18613,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit", 
     "line_id": 87608, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.207", 
@@ -18685,7 +18685,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit", 
     "line_id": 87617, 
-    "speaker": "LADY CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.215", 
@@ -18957,7 +18957,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit", 
     "line_id": 87651, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.5.248", 
@@ -19029,7 +19029,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit", 
     "line_id": 87660, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19037,7 +19037,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "ACT IV", 
     "line_id": 87661, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19045,7 +19045,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE I. Friar Laurence's cell.", 
     "line_id": 87662, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19053,7 +19053,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter FRIAR LAURENCE and PARIS", 
     "line_id": 87663, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -19197,7 +19197,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter JULIET", 
     "line_id": 87681, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.18", 
@@ -19421,7 +19421,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit", 
     "line_id": 87709, 
-    "speaker": "PARIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.45", 
@@ -20093,7 +20093,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt", 
     "line_id": 87793, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20101,7 +20101,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE II. Hall in Capulet's house.", 
     "line_id": 87794, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20109,7 +20109,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter CAPULET, LADY  CAPULET, Nurse, and two Servingmen", 
     "line_id": 87795, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -20125,7 +20125,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit First Servant", 
     "line_id": 87797, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.2", 
@@ -20197,7 +20197,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit Second Servant", 
     "line_id": 87806, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.10", 
@@ -20253,7 +20253,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter JULIET", 
     "line_id": 87813, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.16", 
@@ -20437,7 +20437,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt JULIET and Nurse", 
     "line_id": 87836, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.38", 
@@ -20533,7 +20533,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt", 
     "line_id": 87848, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20541,7 +20541,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE III. Juliet's chamber.", 
     "line_id": 87849, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20549,7 +20549,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter JULIET and Nurse", 
     "line_id": 87850, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -20597,7 +20597,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter LADY CAPULET", 
     "line_id": 87856, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.6", 
@@ -20677,7 +20677,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt LADY CAPULET and Nurse", 
     "line_id": 87866, 
-    "speaker": "LADY CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.15", 
@@ -20765,7 +20765,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Laying down her dagger", 
     "line_id": 87877, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.25", 
@@ -21053,7 +21053,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "She falls upon her bed, within the curtains", 
     "line_id": 87913, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21061,7 +21061,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE IV. Hall in Capulet's house.", 
     "line_id": 87914, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21069,7 +21069,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter LADY CAPULET and Nurse", 
     "line_id": 87915, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.1", 
@@ -21093,7 +21093,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter CAPULET", 
     "line_id": 87918, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.3", 
@@ -21189,7 +21189,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt LADY CAPULET and Nurse", 
     "line_id": 87930, 
-    "speaker": "LADY CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.14", 
@@ -21205,7 +21205,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter three or four Servingmen, with spits, logs, and baskets", 
     "line_id": 87932, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.15", 
@@ -21245,7 +21245,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit First Servant", 
     "line_id": 87937, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.19", 
@@ -21285,7 +21285,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit", 
     "line_id": 87942, 
-    "speaker": "Second Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.23", 
@@ -21325,7 +21325,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Music within", 
     "line_id": 87947, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.27", 
@@ -21341,7 +21341,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Re-enter Nurse", 
     "line_id": 87949, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.28", 
@@ -21381,7 +21381,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt", 
     "line_id": 87954, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21389,7 +21389,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE V. Juliet's chamber.", 
     "line_id": 87955, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21397,7 +21397,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter Nurse", 
     "line_id": 87956, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.1", 
@@ -21493,7 +21493,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Undraws the curtains", 
     "line_id": 87968, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.12", 
@@ -21541,7 +21541,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter LADY CAPULET", 
     "line_id": 87974, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.17", 
@@ -21605,7 +21605,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter CAPULET", 
     "line_id": 87982, 
-    "speaker": "LADY CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.24", 
@@ -21709,7 +21709,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter FRIAR LAURENCE and PARIS, with Musicians", 
     "line_id": 87995, 
-    "speaker": "CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.36", 
@@ -22221,7 +22221,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt CAPULET, LADY CAPULET, PARIS, and FRIAR LAURENCE", 
     "line_id": 88059, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.99", 
@@ -22253,7 +22253,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit", 
     "line_id": 88063, 
-    "speaker": "Nurse"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.102", 
@@ -22269,7 +22269,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter PETER", 
     "line_id": 88065, 
-    "speaker": "First Musician"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.103", 
@@ -22573,7 +22573,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit", 
     "line_id": 88103, 
-    "speaker": "PETER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.5.140", 
@@ -22605,7 +22605,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt", 
     "line_id": 88107, 
-    "speaker": "Second Musician"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22613,7 +22613,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "ACT V", 
     "line_id": 88108, 
-    "speaker": "Second Musician"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22621,7 +22621,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE I. Mantua. A street.", 
     "line_id": 88109, 
-    "speaker": "Second Musician"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22629,7 +22629,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter ROMEO", 
     "line_id": 88110, 
-    "speaker": "Second Musician"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -22733,7 +22733,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter BALTHASAR, booted", 
     "line_id": 88123, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.13", 
@@ -22933,7 +22933,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit BALTHASAR", 
     "line_id": 88148, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.37", 
@@ -23133,7 +23133,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter Apothecary", 
     "line_id": 88173, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.61", 
@@ -23381,7 +23381,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt", 
     "line_id": 88204, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23389,7 +23389,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE II. Friar Laurence's cell.", 
     "line_id": 88205, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23397,7 +23397,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter FRIAR JOHN", 
     "line_id": 88206, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -23413,7 +23413,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter FRIAR LAURENCE", 
     "line_id": 88208, 
-    "speaker": "FRIAR JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.2", 
@@ -23597,7 +23597,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit", 
     "line_id": 88231, 
-    "speaker": "FRIAR JOHN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.24", 
@@ -23661,7 +23661,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit", 
     "line_id": 88239, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23669,7 +23669,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "SCENE III. A churchyard; in it a tomb belonging to the Capulets.", 
     "line_id": 88240, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23677,7 +23677,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter PARIS, and his Page bearing flowers and a torch", 
     "line_id": 88241, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.1", 
@@ -23773,7 +23773,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Retires", 
     "line_id": 88253, 
-    "speaker": "PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.12", 
@@ -23829,7 +23829,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "The Page whistles", 
     "line_id": 88260, 
-    "speaker": "PARIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.18", 
@@ -23869,7 +23869,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Retires", 
     "line_id": 88265, 
-    "speaker": "PARIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -24069,7 +24069,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Retires", 
     "line_id": 88290, 
-    "speaker": "BALTHASAR"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.45", 
@@ -24109,7 +24109,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Opens the tomb", 
     "line_id": 88295, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.49", 
@@ -24157,7 +24157,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Comes forward", 
     "line_id": 88301, 
-    "speaker": "PARIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.54", 
@@ -24301,7 +24301,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "They fight", 
     "line_id": 88319, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.71", 
@@ -24317,7 +24317,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit", 
     "line_id": 88321, 
-    "speaker": "PAGE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.72", 
@@ -24333,7 +24333,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Falls", 
     "line_id": 88323, 
-    "speaker": "PARIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.73", 
@@ -24357,7 +24357,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Dies", 
     "line_id": 88326, 
-    "speaker": "PARIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.75", 
@@ -24477,7 +24477,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Laying PARIS in the tomb", 
     "line_id": 88341, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.89", 
@@ -24741,7 +24741,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Drinks", 
     "line_id": 88374, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.121", 
@@ -24765,7 +24765,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Dies", 
     "line_id": 88377, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -24773,7 +24773,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter, at the other end of the churchyard, FRIAR LAURENCE, with a lantern, crow, and spade", 
     "line_id": 88378, 
-    "speaker": "ROMEO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.123", 
@@ -24973,7 +24973,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Advances", 
     "line_id": 88403, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.147", 
@@ -25013,7 +25013,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enters the tomb", 
     "line_id": 88408, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.151", 
@@ -25053,7 +25053,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "JULIET wakes", 
     "line_id": 88413, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.155", 
@@ -25085,7 +25085,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Noise within", 
     "line_id": 88417, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.158", 
@@ -25165,7 +25165,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Noise again", 
     "line_id": 88427, 
-    "speaker": "FRIAR LAURENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.167", 
@@ -25189,7 +25189,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exit FRIAR LAURENCE", 
     "line_id": 88430, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.169", 
@@ -25245,7 +25245,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Kisses him", 
     "line_id": 88437, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.175", 
@@ -25277,7 +25277,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Snatching ROMEO's dagger", 
     "line_id": 88441, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.178", 
@@ -25293,7 +25293,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Stabs herself", 
     "line_id": 88443, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.179", 
@@ -25309,7 +25309,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Falls on ROMEO's body, and dies", 
     "line_id": 88445, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -25317,7 +25317,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter Watch, with the Page of PARIS", 
     "line_id": 88446, 
-    "speaker": "JULIET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.180", 
@@ -25413,7 +25413,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Re-enter some of the Watch, with BALTHASAR", 
     "line_id": 88458, 
-    "speaker": "First Watchman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.191", 
@@ -25437,7 +25437,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Re-enter others of the Watch, with FRIAR LAURENCE", 
     "line_id": 88461, 
-    "speaker": "First Watchman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.193", 
@@ -25477,7 +25477,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter the PRINCE and Attendants", 
     "line_id": 88466, 
-    "speaker": "First Watchman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.197", 
@@ -25501,7 +25501,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter CAPULET, LADY CAPULET, and others", 
     "line_id": 88469, 
-    "speaker": "PRINCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.199", 
@@ -25653,7 +25653,7 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Enter MONTAGUE and others", 
     "line_id": 88488, 
-    "speaker": "LADY CAPULET"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.217", 
@@ -26501,6 +26501,6 @@
     "play_name": "Romeo and Juliet", 
     "text_entry": "Exeunt", 
     "line_id": 88594, 
-    "speaker": "PRINCE"
+    "speaker": "Stage Directions"
   }
 ]

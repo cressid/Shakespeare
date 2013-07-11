@@ -5,7 +5,7 @@
     "play_name": "The Tempest", 
     "text_entry": "ACT I", 
     "line_id": 91401, 
-    "speaker": "LUCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "The Tempest", 
     "text_entry": "SCENE I. On a ship at sea: a tempestuous noise", 
     "line_id": 91402, 
-    "speaker": "LUCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -29,7 +29,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter a Master and a Boatswain", 
     "line_id": 91404, 
-    "speaker": "LUCENTIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.2", 
@@ -69,7 +69,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exit", 
     "line_id": 91409, 
-    "speaker": "Master"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -77,7 +77,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter Mariners", 
     "line_id": 91410, 
-    "speaker": "Master"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.6", 
@@ -117,7 +117,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter ALONSO, SEBASTIAN, ANTONIO, FERDINAND, GONZALO, and others", 
     "line_id": 91415, 
-    "speaker": "Boatswain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.10", 
@@ -269,7 +269,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exit", 
     "line_id": 91434, 
-    "speaker": "Boatswain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.28", 
@@ -325,7 +325,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exeunt", 
     "line_id": 91441, 
-    "speaker": "GONZALO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -333,7 +333,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Re-enter Boatswain", 
     "line_id": 91442, 
-    "speaker": "GONZALO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.34", 
@@ -357,7 +357,7 @@
     "play_name": "The Tempest", 
     "text_entry": "A cry within", 
     "line_id": 91445, 
-    "speaker": "Boatswain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.36", 
@@ -381,7 +381,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Re-enter SEBASTIAN, ANTONIO, and GONZALO", 
     "line_id": 91448, 
-    "speaker": "Boatswain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.38", 
@@ -485,7 +485,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter Mariners wet", 
     "line_id": 91461, 
-    "speaker": "Boatswain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.50", 
@@ -581,7 +581,7 @@
     "play_name": "The Tempest", 
     "text_entry": "A confused noise within:   'Mercy on us!'--  'We split, we split!'--'Farewell, my wife and  children!'-- 'Farewell, brother!'--'We split, we split, we split!'", 
     "line_id": 91473, 
-    "speaker": "GONZALO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.61", 
@@ -605,7 +605,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exeunt ANTONIO and SEBASTIAN", 
     "line_id": 91476, 
-    "speaker": "SEBASTIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.63", 
@@ -645,7 +645,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exeunt", 
     "line_id": 91481, 
-    "speaker": "GONZALO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -653,7 +653,7 @@
     "play_name": "The Tempest", 
     "text_entry": "SCENE II. The island. Before PROSPERO'S cell.", 
     "line_id": 91482, 
-    "speaker": "GONZALO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -661,7 +661,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter PROSPERO and MIRANDA", 
     "line_id": 91483, 
-    "speaker": "GONZALO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -901,7 +901,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Lays down his mantle", 
     "line_id": 91513, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.30", 
@@ -2261,7 +2261,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Resumes his mantle", 
     "line_id": 91683, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.199", 
@@ -2413,7 +2413,7 @@
     "play_name": "The Tempest", 
     "text_entry": "MIRANDA sleeps", 
     "line_id": 91702, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.217", 
@@ -2437,7 +2437,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter ARIEL", 
     "line_id": 91705, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.219", 
@@ -3557,7 +3557,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exit ARIEL", 
     "line_id": 91845, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.358", 
@@ -3693,7 +3693,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Re-enter ARIEL like a water-nymph", 
     "line_id": 91862, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.374", 
@@ -3725,7 +3725,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exit", 
     "line_id": 91866, 
-    "speaker": "ARIEL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.377", 
@@ -3749,7 +3749,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter CALIBAN", 
     "line_id": 91869, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.379", 
@@ -4213,7 +4213,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Aside", 
     "line_id": 91927, 
-    "speaker": "CALIBAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.436", 
@@ -4253,7 +4253,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exit CALIBAN", 
     "line_id": 91932, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4261,7 +4261,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Re-enter ARIEL, invisible, playing and singing; FERDINAND following", 
     "line_id": 91933, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.440", 
@@ -4333,7 +4333,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Burthen [dispersedly, within", 
     "line_id": 91942, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.448", 
@@ -4349,7 +4349,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Burthen Bow-wow", 
     "line_id": 91944, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.449", 
@@ -4453,7 +4453,7 @@
     "play_name": "The Tempest", 
     "text_entry": "ARIEL sings", 
     "line_id": 91957, 
-    "speaker": "FERDINAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.461", 
@@ -4517,7 +4517,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Burthen Ding-dong", 
     "line_id": 91965, 
-    "speaker": "FERDINAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.468", 
@@ -4909,7 +4909,7 @@
     "play_name": "The Tempest", 
     "text_entry": "To FERDINAND", 
     "line_id": 92014, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.516", 
@@ -4997,7 +4997,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Aside", 
     "line_id": 92025, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.526", 
@@ -5029,7 +5029,7 @@
     "play_name": "The Tempest", 
     "text_entry": "To FERDINAND", 
     "line_id": 92029, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.529", 
@@ -5181,7 +5181,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Draws, and is charmed from moving", 
     "line_id": 92048, 
-    "speaker": "FERDINAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.547", 
@@ -5477,7 +5477,7 @@
     "play_name": "The Tempest", 
     "text_entry": "To FERDINAND", 
     "line_id": 92085, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.583", 
@@ -5501,7 +5501,7 @@
     "play_name": "The Tempest", 
     "text_entry": "To FERDINAND", 
     "line_id": 92088, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.585", 
@@ -5517,7 +5517,7 @@
     "play_name": "The Tempest", 
     "text_entry": "To ARIEL", 
     "line_id": 92090, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.586", 
@@ -5605,7 +5605,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exeunt", 
     "line_id": 92101, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5613,7 +5613,7 @@
     "play_name": "The Tempest", 
     "text_entry": "ACT II", 
     "line_id": 92102, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5621,7 +5621,7 @@
     "play_name": "The Tempest", 
     "text_entry": "SCENE I. Another part of the island.", 
     "line_id": 92103, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5629,7 +5629,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter ALONSO, SEBASTIAN, ANTONIO, GONZALO, ADRIAN, FRANCISCO, and others", 
     "line_id": 92104, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -7157,7 +7157,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter ARIEL, invisible, playing solemn music", 
     "line_id": 92295, 
-    "speaker": "GONZALO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.191", 
@@ -7213,7 +7213,7 @@
     "play_name": "The Tempest", 
     "text_entry": "All sleep except ALONSO, SEBASTIAN, and ANTONIO", 
     "line_id": 92302, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.197", 
@@ -7309,7 +7309,7 @@
     "play_name": "The Tempest", 
     "text_entry": "ALONSO sleeps. Exit ARIEL", 
     "line_id": 92314, 
-    "speaker": "ALONSO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.208", 
@@ -8293,7 +8293,7 @@
     "play_name": "The Tempest", 
     "text_entry": "They talk apart", 
     "line_id": 92437, 
-    "speaker": "SEBASTIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8301,7 +8301,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Re-enter ARIEL, invisible", 
     "line_id": 92438, 
-    "speaker": "SEBASTIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.330", 
@@ -8333,7 +8333,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Sings in GONZALO's ear", 
     "line_id": 92442, 
-    "speaker": "ARIEL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.333", 
@@ -8413,7 +8413,7 @@
     "play_name": "The Tempest", 
     "text_entry": "They wake", 
     "line_id": 92452, 
-    "speaker": "GONZALO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.342", 
@@ -8621,7 +8621,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exeunt", 
     "line_id": 92478, 
-    "speaker": "ARIEL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8629,7 +8629,7 @@
     "play_name": "The Tempest", 
     "text_entry": "SCENE II. Another part of the island.", 
     "line_id": 92479, 
-    "speaker": "ARIEL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8637,7 +8637,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter CALIBAN with a burden of wood. A noise of thunder heard", 
     "line_id": 92480, 
-    "speaker": "ARIEL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -8757,7 +8757,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter TRINCULO", 
     "line_id": 92495, 
-    "speaker": "CALIBAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.15", 
@@ -8981,7 +8981,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Thunder", 
     "line_id": 92523, 
-    "speaker": "TRINCULO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.42", 
@@ -9029,7 +9029,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter STEPHANO, singing: a bottle in his hand", 
     "line_id": 92529, 
-    "speaker": "TRINCULO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.47", 
@@ -9069,7 +9069,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Drinks", 
     "line_id": 92534, 
-    "speaker": "STEPHANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9077,7 +9077,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Sings", 
     "line_id": 92535, 
-    "speaker": "STEPHANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.51", 
@@ -9165,7 +9165,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Drinks", 
     "line_id": 92546, 
-    "speaker": "STEPHANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.61", 
@@ -10205,7 +10205,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exeunt", 
     "line_id": 92676, 
-    "speaker": "STEPHANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10213,7 +10213,7 @@
     "play_name": "The Tempest", 
     "text_entry": "ACT III", 
     "line_id": 92677, 
-    "speaker": "STEPHANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10221,7 +10221,7 @@
     "play_name": "The Tempest", 
     "text_entry": "SCENE I. Before PROSPERO'S Cell.", 
     "line_id": 92678, 
-    "speaker": "STEPHANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10229,7 +10229,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter FERDINAND, bearing a log", 
     "line_id": 92679, 
-    "speaker": "STEPHANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -10357,7 +10357,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter MIRANDA; and PROSPERO at a distance, unseen", 
     "line_id": 92695, 
-    "speaker": "FERDINAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.16", 
@@ -11117,7 +11117,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exeunt FERDINAND and MIRANDA severally", 
     "line_id": 92790, 
-    "speaker": "FERDINAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.110", 
@@ -11165,7 +11165,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exit", 
     "line_id": 92796, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11173,7 +11173,7 @@
     "play_name": "The Tempest", 
     "text_entry": "SCENE II. Another part of the island.", 
     "line_id": 92797, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11181,7 +11181,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter CALIBAN, STEPHANO, and TRINCULO", 
     "line_id": 92798, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -11501,7 +11501,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter ARIEL, invisible", 
     "line_id": 92838, 
-    "speaker": "STEPHANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.40", 
@@ -11781,7 +11781,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Beats TRINCULO", 
     "line_id": 92873, 
-    "speaker": "STEPHANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.74", 
@@ -12165,7 +12165,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Sings", 
     "line_id": 92921, 
-    "speaker": "STEPHANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.121", 
@@ -12205,7 +12205,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Ariel plays the tune on a tabour and pipe", 
     "line_id": 92926, 
-    "speaker": "CALIBAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.125", 
@@ -12429,7 +12429,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exeunt", 
     "line_id": 92954, 
-    "speaker": "TRINCULO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12437,7 +12437,7 @@
     "play_name": "The Tempest", 
     "text_entry": "SCENE III. Another part of the island.", 
     "line_id": 92955, 
-    "speaker": "TRINCULO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12445,7 +12445,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter ALONSO, SEBASTIAN, ANTONIO, GONZALO, ADRIAN, FRANCISCO, and others", 
     "line_id": 92956, 
-    "speaker": "TRINCULO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -12629,7 +12629,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Solemn and strange music", 
     "line_id": 92979, 
-    "speaker": "SEBASTIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.23", 
@@ -12997,7 +12997,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Thunder and lightning. Enter ARIEL, like a  harpy; claps his wings upon the table; and, with a quaint device, the banquet vanishes", 
     "line_id": 93025, 
-    "speaker": "ALONSO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.67", 
@@ -13261,7 +13261,7 @@
     "play_name": "The Tempest", 
     "text_entry": "He vanishes in thunder; then, to soft music  enter the Shapes again, and dance, with mocks and mows, and carrying out the table", 
     "line_id": 93058, 
-    "speaker": "ARIEL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.98", 
@@ -13357,7 +13357,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exit above", 
     "line_id": 93070, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.109", 
@@ -13445,7 +13445,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exit", 
     "line_id": 93081, 
-    "speaker": "ALONSO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.119", 
@@ -13477,7 +13477,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exeunt SEBASTIAN, and ANTONIO", 
     "line_id": 93085, 
-    "speaker": "ANTONIO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.122", 
@@ -13541,7 +13541,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exeunt", 
     "line_id": 93093, 
-    "speaker": "ADRIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13549,7 +13549,7 @@
     "play_name": "The Tempest", 
     "text_entry": "ACT IV", 
     "line_id": 93094, 
-    "speaker": "ADRIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13557,7 +13557,7 @@
     "play_name": "The Tempest", 
     "text_entry": "SCENE I. Before PROSPERO'S cell.", 
     "line_id": 93095, 
-    "speaker": "ADRIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13565,7 +13565,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter PROSPERO, FERDINAND, and MIRANDA", 
     "line_id": 93096, 
-    "speaker": "ADRIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -13861,7 +13861,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter ARIEL", 
     "line_id": 93133, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.37", 
@@ -14021,7 +14021,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exit", 
     "line_id": 93153, 
-    "speaker": "ARIEL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.56", 
@@ -14117,7 +14117,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Soft music", 
     "line_id": 93165, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14125,7 +14125,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter IRIS", 
     "line_id": 93166, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.67", 
@@ -14261,7 +14261,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter CERES", 
     "line_id": 93183, 
-    "speaker": "IRIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.83", 
@@ -14509,7 +14509,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter JUNO", 
     "line_id": 93214, 
-    "speaker": "CERES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.113", 
@@ -14541,7 +14541,7 @@
     "play_name": "The Tempest", 
     "text_entry": "They sing:", 
     "line_id": 93218, 
-    "speaker": "JUNO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.116", 
@@ -14717,7 +14717,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Juno and Ceres whisper, and send Iris on employment", 
     "line_id": 93240, 
-    "speaker": "FERDINAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.137", 
@@ -14805,7 +14805,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter certain Nymphs", 
     "line_id": 93251, 
-    "speaker": "IRIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.147", 
@@ -14853,7 +14853,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter certain Reapers, properly habited: they  join with the Nymphs in a graceful dance;  towards the end whereof PROSPERO starts  suddenly, and speaks; after which, to a  strange, hollow, and confused noise, they heavily vanish", 
     "line_id": 93257, 
-    "speaker": "IRIS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.152", 
@@ -14893,7 +14893,7 @@
     "play_name": "The Tempest", 
     "text_entry": "To the Spirits", 
     "line_id": 93262, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.156", 
@@ -15093,7 +15093,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exeunt", 
     "line_id": 93287, 
-    "speaker": "MIRANDA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.180", 
@@ -15109,7 +15109,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter ARIEL", 
     "line_id": 93289, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.181", 
@@ -15333,7 +15333,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exit", 
     "line_id": 93317, 
-    "speaker": "ARIEL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.208", 
@@ -15405,7 +15405,7 @@
     "play_name": "The Tempest", 
     "text_entry": "PROSPERO and ARIEL remain invisible. Enter CALIBAN, STEPHANO, and TRINCULO, all wet", 
     "line_id": 93326, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.215", 
@@ -15885,7 +15885,7 @@
     "play_name": "The Tempest", 
     "text_entry": "A noise of hunters heard. Enter divers Spirits,  in shape of dogs and hounds, and hunt them about, PROSPERO and ARIEL setting them on", 
     "line_id": 93386, 
-    "speaker": "STEPHANO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.274", 
@@ -15917,7 +15917,7 @@
     "play_name": "The Tempest", 
     "text_entry": "CALIBAN, STEPHANO, and TRINCULO, are driven out", 
     "line_id": 93390, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.277", 
@@ -16005,7 +16005,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exeunt", 
     "line_id": 93401, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16013,7 +16013,7 @@
     "play_name": "The Tempest", 
     "text_entry": "ACT V", 
     "line_id": 93402, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16021,7 +16021,7 @@
     "play_name": "The Tempest", 
     "text_entry": "SCENE I. Before PROSPERO'S cell.", 
     "line_id": 93403, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16029,7 +16029,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Enter PROSPERO in his magic robes, and ARIEL", 
     "line_id": 93404, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -16333,7 +16333,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exit", 
     "line_id": 93442, 
-    "speaker": "ARIEL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.38", 
@@ -16541,7 +16541,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Solemn music", 
     "line_id": 93468, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16549,7 +16549,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Re-enter ARIEL before: then ALONSO, with a  frantic gesture, attended by GONZALO;  SEBASTIAN and ANTONIO in like manner,  attended by ADRIAN and FRANCISCO   they all  enter the circle which PROSPERO had made,  and there stand charmed; which PROSPERO observing, speaks:", 
     "line_id": 93469, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.63", 
@@ -16797,7 +16797,7 @@
     "play_name": "The Tempest", 
     "text_entry": "ARIEL sings and helps to attire him", 
     "line_id": 93500, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.93", 
@@ -16933,7 +16933,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exit", 
     "line_id": 93517, 
-    "speaker": "ARIEL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.109", 
@@ -17157,7 +17157,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Aside to SEBASTIAN and ANTONIO", 
     "line_id": 93545, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.136", 
@@ -17589,7 +17589,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Here PROSPERO discovers FERDINAND and MIRANDA playing at chess", 
     "line_id": 93599, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.189", 
@@ -17685,7 +17685,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Kneels", 
     "line_id": 93611, 
-    "speaker": "FERDINAND"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.200", 
@@ -18061,7 +18061,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Re-enter ARIEL, with the Master and Boatswain amazedly following", 
     "line_id": 93658, 
-    "speaker": "GONZALO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.246", 
@@ -18389,7 +18389,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Aside to ARIEL", 
     "line_id": 93699, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.286", 
@@ -18421,7 +18421,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exit ARIEL", 
     "line_id": 93703, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.289", 
@@ -18453,7 +18453,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Re-enter ARIEL, driving in CALIBAN, STEPHANO and TRINCULO, in their stolen apparel", 
     "line_id": 93707, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.292", 
@@ -18757,7 +18757,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Pointing to Caliban", 
     "line_id": 93745, 
-    "speaker": "ALONSO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.329", 
@@ -18853,7 +18853,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exeunt CALIBAN, STEPHANO, and TRINCULO", 
     "line_id": 93757, 
-    "speaker": "SEBASTIAN"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.340", 
@@ -19013,7 +19013,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Aside to ARIEL", 
     "line_id": 93777, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.359", 
@@ -19045,7 +19045,7 @@
     "play_name": "The Tempest", 
     "text_entry": "Exeunt", 
     "line_id": 93781, 
-    "speaker": "PROSPERO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.362", 

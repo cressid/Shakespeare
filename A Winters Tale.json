@@ -5,7 +5,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "ACT I", 
     "line_id": 107908, 
-    "speaker": "VALENTINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "SCENE I. Antechamber in LEONTES' palace.", 
     "line_id": 107909, 
-    "speaker": "VALENTINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter CAMILLO and ARCHIDAMUS", 
     "line_id": 107910, 
-    "speaker": "VALENTINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -389,7 +389,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exeunt", 
     "line_id": 107956, 
-    "speaker": "ARCHIDAMUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -397,7 +397,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "SCENE II. A room of state in the same.", 
     "line_id": 107957, 
-    "speaker": "ARCHIDAMUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -405,7 +405,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter LEONTES, HERMIONE, MAMILLIUS, POLIXENES, CAMILLO, and Attendants", 
     "line_id": 107958, 
-    "speaker": "ARCHIDAMUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -2141,7 +2141,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Aside", 
     "line_id": 108175, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.217", 
@@ -2197,7 +2197,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exeunt POLIXENES, HERMIONE, and Attendants", 
     "line_id": 108182, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.223", 
@@ -2437,7 +2437,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exit MAMILLIUS", 
     "line_id": 108212, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.252", 
@@ -2501,7 +2501,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Aside", 
     "line_id": 108220, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.259", 
@@ -3725,7 +3725,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exit", 
     "line_id": 108373, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.411", 
@@ -3845,7 +3845,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Re-enter POLIXENES", 
     "line_id": 108388, 
-    "speaker": "CAMILLO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.425", 
@@ -4773,7 +4773,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exeunt", 
     "line_id": 108504, 
-    "speaker": "CAMILLO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4781,7 +4781,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "ACT II", 
     "line_id": 108505, 
-    "speaker": "CAMILLO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4789,7 +4789,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "SCENE I. A room in LEONTES' palace.", 
     "line_id": 108506, 
-    "speaker": "CAMILLO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4797,7 +4797,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter HERMIONE, MAMILLIUS, and Ladies", 
     "line_id": 108507, 
-    "speaker": "CAMILLO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -5149,7 +5149,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter LEONTES, with ANTIGONUS, Lords and others", 
     "line_id": 108551, 
-    "speaker": "HERMIONE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.44", 
@@ -6005,7 +6005,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exit HERMIONE, guarded; with Ladies", 
     "line_id": 108658, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.150", 
@@ -6677,7 +6677,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "[Aside]", 
     "line_id": 108742, 
-    "speaker": "ANTIGONUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.234", 
@@ -6701,7 +6701,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exeunt", 
     "line_id": 108745, 
-    "speaker": "ANTIGONUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6709,7 +6709,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "SCENE II. A prison.", 
     "line_id": 108746, 
-    "speaker": "ANTIGONUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6717,7 +6717,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter PAULINA, a Gentleman, and Attendants", 
     "line_id": 108747, 
-    "speaker": "ANTIGONUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -6741,7 +6741,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exit Gentleman", 
     "line_id": 108750, 
-    "speaker": "PAULINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.3", 
@@ -6773,7 +6773,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Re-enter Gentleman, with the Gaoler", 
     "line_id": 108754, 
-    "speaker": "PAULINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.6", 
@@ -6925,7 +6925,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exeunt Gentleman and Attendants", 
     "line_id": 108773, 
-    "speaker": "PAULINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.24", 
@@ -6957,7 +6957,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exit Gaoler", 
     "line_id": 108777, 
-    "speaker": "PAULINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.27", 
@@ -6981,7 +6981,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Re-enter Gaoler, with EMILIA", 
     "line_id": 108780, 
-    "speaker": "PAULINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.29", 
@@ -7429,7 +7429,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exeunt", 
     "line_id": 108836, 
-    "speaker": "PAULINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7437,7 +7437,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "SCENE III. A room in LEONTES' palace.", 
     "line_id": 108837, 
-    "speaker": "PAULINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7445,7 +7445,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter LEONTES, ANTIGONUS, Lords, and Servants", 
     "line_id": 108838, 
-    "speaker": "PAULINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -7613,7 +7613,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exit Servant", 
     "line_id": 108859, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.21", 
@@ -7693,7 +7693,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter PAULINA, with a child", 
     "line_id": 108869, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.30", 
@@ -8117,7 +8117,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Laying down the child", 
     "line_id": 108922, 
-    "speaker": "PAULINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.82", 
@@ -8773,7 +8773,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exit", 
     "line_id": 109004, 
-    "speaker": "PAULINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.163", 
@@ -9317,7 +9317,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exit with the child", 
     "line_id": 109072, 
-    "speaker": "ANTIGONUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.230", 
@@ -9341,7 +9341,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter a Servant", 
     "line_id": 109075, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.232", 
@@ -9485,7 +9485,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exeunt", 
     "line_id": 109093, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9493,7 +9493,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "ACT III", 
     "line_id": 109094, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9501,7 +9501,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "SCENE I. A sea-port in Sicilia.", 
     "line_id": 109095, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9509,7 +9509,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter CLEOMENES and DION", 
     "line_id": 109096, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -9733,7 +9733,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exeunt", 
     "line_id": 109124, 
-    "speaker": "DION"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9741,7 +9741,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "SCENE II. A court of Justice.", 
     "line_id": 109125, 
-    "speaker": "DION"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9749,7 +9749,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter LEONTES, Lords, and Officers", 
     "line_id": 109126, 
-    "speaker": "DION"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -9837,7 +9837,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter HERMIONE guarded; PAULINA and Ladies attending", 
     "line_id": 109137, 
-    "speaker": "Officer"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.11", 
@@ -10757,7 +10757,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exeunt certain Officers", 
     "line_id": 109252, 
-    "speaker": "First Lord"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.125", 
@@ -10805,7 +10805,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Re-enter Officers, with CLEOMENES and DION", 
     "line_id": 109258, 
-    "speaker": "HERMIONE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.130", 
@@ -10981,7 +10981,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter Servant", 
     "line_id": 109280, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.151", 
@@ -11061,7 +11061,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "HERMIONE swoons", 
     "line_id": 109290, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.160", 
@@ -11133,7 +11133,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exeunt PAULINA and Ladies, with HERMIONE", 
     "line_id": 109299, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.168", 
@@ -11301,7 +11301,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Re-enter PAULINA", 
     "line_id": 109320, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.188", 
@@ -11941,7 +11941,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exeunt", 
     "line_id": 109400, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11949,7 +11949,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "SCENE III. Bohemia. A desert country near the sea.", 
     "line_id": 109401, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11957,7 +11957,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter ANTIGONUS with a Child, and a Mariner", 
     "line_id": 109402, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.1", 
@@ -12109,7 +12109,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exit", 
     "line_id": 109421, 
-    "speaker": "Mariner"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.19", 
@@ -12477,7 +12477,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exit, pursued by a bear", 
     "line_id": 109467, 
-    "speaker": "ANTIGONUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12485,7 +12485,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter a Shepherd", 
     "line_id": 109468, 
-    "speaker": "ANTIGONUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.64", 
@@ -12653,7 +12653,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter Clown", 
     "line_id": 109489, 
-    "speaker": "Shepherd"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.3.84", 
@@ -13117,7 +13117,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exeunt", 
     "line_id": 109547, 
-    "speaker": "Shepherd"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13125,7 +13125,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "ACT IV", 
     "line_id": 109548, 
-    "speaker": "Shepherd"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.141", 
@@ -13141,7 +13141,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter Time, the Chorus", 
     "line_id": 109550, 
-    "speaker": "Shepherd"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.142", 
@@ -13413,7 +13413,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exit", 
     "line_id": 109584, 
-    "speaker": "Time"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13421,7 +13421,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "SCENE II. Bohemia. The palace of POLIXENES.", 
     "line_id": 109585, 
-    "speaker": "Time"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13429,7 +13429,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter POLIXENES and CAMILLO", 
     "line_id": 109586, 
-    "speaker": "Time"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -13869,7 +13869,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exeunt", 
     "line_id": 109641, 
-    "speaker": "POLIXENES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13877,7 +13877,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "SCENE III. A road near the Shepherd's cottage.", 
     "line_id": 109642, 
-    "speaker": "POLIXENES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13885,7 +13885,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter AUTOLYCUS, singing", 
     "line_id": 109643, 
-    "speaker": "POLIXENES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -14141,7 +14141,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter Clown", 
     "line_id": 109675, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.32", 
@@ -14173,7 +14173,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "[Aside]", 
     "line_id": 109679, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.36", 
@@ -14309,7 +14309,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Grovelling on the ground", 
     "line_id": 109696, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.52", 
@@ -14845,7 +14845,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exit Clown", 
     "line_id": 109763, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.118", 
@@ -14893,7 +14893,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Sings", 
     "line_id": 109769, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.123", 
@@ -14933,7 +14933,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exit", 
     "line_id": 109774, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14941,7 +14941,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "SCENE IV. The Shepherd's cottage.", 
     "line_id": 109775, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14949,7 +14949,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter FLORIZEL and PERDITA", 
     "line_id": 109776, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.1", 
@@ -15461,7 +15461,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter Shepherd, Clown, MOPSA, DORCAS, and others, with POLIXENES and CAMILLO disguised", 
     "line_id": 109840, 
-    "speaker": "FLORIZEL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.64", 
@@ -15621,7 +15621,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "To CAMILLO", 
     "line_id": 109860, 
-    "speaker": "PERDITA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.83", 
@@ -16525,7 +16525,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Music. Here a dance of Shepherds and Shepherdesses", 
     "line_id": 109973, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.195", 
@@ -16661,7 +16661,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter Servant", 
     "line_id": 109990, 
-    "speaker": "Shepherd"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.211", 
@@ -16925,7 +16925,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exit Servant", 
     "line_id": 110023, 
-    "speaker": "PERDITA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.243", 
@@ -16957,7 +16957,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter AUTOLYCUS, singing", 
     "line_id": 110027, 
-    "speaker": "PERDITA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.246", 
@@ -17549,7 +17549,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "SONG", 
     "line_id": 110101, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.319", 
@@ -17725,7 +17725,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exit with DORCAS and MOPSA", 
     "line_id": 110123, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.340", 
@@ -17741,7 +17741,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Follows singing", 
     "line_id": 110125, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.341", 
@@ -17821,7 +17821,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exit", 
     "line_id": 110135, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17829,7 +17829,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Re-enter Servant", 
     "line_id": 110136, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.350", 
@@ -17981,7 +17981,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exit", 
     "line_id": 110155, 
-    "speaker": "Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -17989,7 +17989,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Here a dance of twelve Satyrs", 
     "line_id": 110156, 
-    "speaker": "Servant"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.368", 
@@ -18005,7 +18005,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "To CAMILLO", 
     "line_id": 110158, 
-    "speaker": "POLIXENES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.369", 
@@ -18029,7 +18029,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "To FLORIZEL", 
     "line_id": 110161, 
-    "speaker": "POLIXENES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.371", 
@@ -18797,7 +18797,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Discovering himself", 
     "line_id": 110257, 
-    "speaker": "POLIXENES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.466", 
@@ -19005,7 +19005,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exit", 
     "line_id": 110283, 
-    "speaker": "POLIXENES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.491", 
@@ -19213,7 +19213,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exit", 
     "line_id": 110309, 
-    "speaker": "Shepherd"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.516", 
@@ -19645,7 +19645,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Drawing her aside", 
     "line_id": 110363, 
-    "speaker": "FLORIZEL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.569", 
@@ -20525,7 +20525,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "They talk aside", 
     "line_id": 110473, 
-    "speaker": "CAMILLO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20533,7 +20533,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Re-enter AUTOLYCUS", 
     "line_id": 110474, 
-    "speaker": "CAMILLO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.678", 
@@ -20741,7 +20741,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "CAMILLO, FLORIZEL, and PERDITA come forward", 
     "line_id": 110500, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.703", 
@@ -20805,7 +20805,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Seeing AUTOLYCUS", 
     "line_id": 110508, 
-    "speaker": "CAMILLO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.710", 
@@ -20925,7 +20925,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Aside", 
     "line_id": 110523, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.724", 
@@ -20965,7 +20965,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Aside", 
     "line_id": 110528, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.728", 
@@ -21013,7 +21013,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "FLORIZEL and AUTOLYCUS exchange garments", 
     "line_id": 110534, 
-    "speaker": "CAMILLO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.733", 
@@ -21141,7 +21141,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Giving it to PERDITA", 
     "line_id": 110550, 
-    "speaker": "CAMILLO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.748", 
@@ -21253,7 +21253,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exeunt FLORIZEL, PERDITA, and CAMILLO", 
     "line_id": 110564, 
-    "speaker": "CAMILLO"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.761", 
@@ -21373,7 +21373,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Re-enter Clown and Shepherd", 
     "line_id": 110579, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.775", 
@@ -21621,7 +21621,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Takes off his false beard", 
     "line_id": 110610, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.805", 
@@ -22533,7 +22533,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exeunt Shepherd and Clown", 
     "line_id": 110724, 
-    "speaker": "Shepherd"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.918", 
@@ -22637,7 +22637,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exit", 
     "line_id": 110737, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22645,7 +22645,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "ACT V", 
     "line_id": 110738, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22653,7 +22653,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "SCENE I. A room in LEONTES' palace.", 
     "line_id": 110739, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22661,7 +22661,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter LEONTES, CLEOMENES, DION, PAULINA, and Servants", 
     "line_id": 110740, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -23093,7 +23093,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "To LEONTES", 
     "line_id": 110794, 
-    "speaker": "PAULINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.54", 
@@ -23525,7 +23525,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter a Gentleman", 
     "line_id": 110848, 
-    "speaker": "PAULINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.107", 
@@ -23829,7 +23829,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exeunt CLEOMENES and others", 
     "line_id": 110886, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.144", 
@@ -23917,7 +23917,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Re-enter CLEOMENES and others, with FLORIZEL and PERDITA", 
     "line_id": 110897, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.154", 
@@ -24405,7 +24405,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter a Lord", 
     "line_id": 110958, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.214", 
@@ -24909,7 +24909,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "To FLORIZEL", 
     "line_id": 111021, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.276", 
@@ -24965,7 +24965,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exeunt", 
     "line_id": 111028, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -24973,7 +24973,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "SCENE II. Before LEONTES' palace.", 
     "line_id": 111029, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -24981,7 +24981,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter AUTOLYCUS and a Gentleman", 
     "line_id": 111030, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -25133,7 +25133,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter another Gentleman", 
     "line_id": 111049, 
-    "speaker": "First Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.19", 
@@ -25189,7 +25189,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter a third Gentleman", 
     "line_id": 111056, 
-    "speaker": "Second Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.25", 
@@ -25893,7 +25893,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exeunt Gentlemen", 
     "line_id": 111144, 
-    "speaker": "First Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.112", 
@@ -25989,7 +25989,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter Shepherd and Clown", 
     "line_id": 111156, 
-    "speaker": "AUTOLYCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.123", 
@@ -26397,7 +26397,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exeunt", 
     "line_id": 111207, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -26405,7 +26405,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "SCENE III. A chapel in PAULINA'S house.", 
     "line_id": 111208, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -26413,7 +26413,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Enter LEONTES, POLIXENES, FLORIZEL, PERDITA, CAMILLO, PAULINA, Lords, and Attendants", 
     "line_id": 111209, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.1", 
@@ -26605,7 +26605,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "PAULINA draws a curtain, and discovers HERMIONE standing like a statue", 
     "line_id": 111233, 
-    "speaker": "PAULINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.24", 
@@ -27389,7 +27389,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Music", 
     "line_id": 111331, 
-    "speaker": "PAULINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.121", 
@@ -27437,7 +27437,7 @@
     "play_name": "A Winters Tale", 
     "text_entry": "HERMIONE comes down", 
     "line_id": 111337, 
-    "speaker": "PAULINA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.126", 
@@ -27909,6 +27909,6 @@
     "play_name": "A Winters Tale", 
     "text_entry": "Exeunt", 
     "line_id": 111396, 
-    "speaker": "LEONTES"
+    "speaker": "Stage Directions"
   }
 ]

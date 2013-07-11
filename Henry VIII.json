@@ -5,7 +5,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "ACT I", 
     "line_id": 40072, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "PROLOGUE", 
     "line_id": 40073, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.0.1", 
@@ -277,7 +277,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "SCENE I. London. An ante-chamber in the palace.", 
     "line_id": 40106, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.0.32", 
@@ -285,7 +285,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter NORFOLK at one door; at the other, BUCKINGHAM and ABERGAVENNY", 
     "line_id": 40107, 
-    "speaker": "Chorus"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -1365,7 +1365,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter CARDINAL WOLSEY, the purse borne before him,  certain of the Guard, and two Secretaries with  papers. CARDINAL WOLSEY in his passage fixeth his  eye on BUCKINGHAM, and BUCKINGHAM on him, both full of disdain", 
     "line_id": 40242, 
-    "speaker": "NORFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.135", 
@@ -1429,7 +1429,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt CARDINAL WOLSEY and his Train", 
     "line_id": 40250, 
-    "speaker": "CARDINAL WOLSEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.142", 
@@ -2141,7 +2141,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter BRANDON, a Sergeant-at-arms before him, and two or three of the Guard", 
     "line_id": 40339, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.230", 
@@ -2301,7 +2301,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "To ABERGAVENNY", 
     "line_id": 40359, 
-    "speaker": "BRANDON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.249", 
@@ -2461,7 +2461,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt", 
     "line_id": 40379, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2469,7 +2469,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "SCENE II. The same. The council-chamber.", 
     "line_id": 40380, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2477,7 +2477,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Cornets. Enter KING HENRY VIII, leaning on  CARDINAL WOLSEY's shoulder, the Nobles, and LOVELL;  CARDINAL WOLSEY places himself under KING HENRY VIII's feet on his right side", 
     "line_id": 40381, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.1", 
@@ -2549,7 +2549,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "A noise within, crying 'Room for the Queen!' Enter  QUEEN KATHARINE, ushered by NORFOLK, and SUFFOLK:  she kneels. KING HENRY VIII riseth from his state, takes her up, kisses and placeth her by him", 
     "line_id": 40390, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.9", 
@@ -3413,7 +3413,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "To the Secretary", 
     "line_id": 40498, 
-    "speaker": "CARDINAL WOLSEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.116", 
@@ -3469,7 +3469,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exit Secretary", 
     "line_id": 40505, 
-    "speaker": "CARDINAL WOLSEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -3477,7 +3477,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter Surveyor", 
     "line_id": 40506, 
-    "speaker": "CARDINAL WOLSEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.2.122", 
@@ -4477,7 +4477,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt", 
     "line_id": 40631, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4485,7 +4485,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "SCENE III. An ante-chamber in the palace.", 
     "line_id": 40632, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4493,7 +4493,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter Chamberlain and SANDS", 
     "line_id": 40633, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.1", 
@@ -4637,7 +4637,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter LOVELL", 
     "line_id": 40651, 
-    "speaker": "Chamberlain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.3.18", 
@@ -5173,7 +5173,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt", 
     "line_id": 40718, 
-    "speaker": "SANDS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5181,7 +5181,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "SCENE IV. A Hall in York Place.", 
     "line_id": 40719, 
-    "speaker": "SANDS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5189,7 +5189,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Hautboys. A small table under a state for CARDINAL  WOLSEY, a longer table for the guests. Then enter  ANNE and divers other Ladies and Gentlemen as  guests, at one door; at another door, enter GUILDFORD", 
     "line_id": 40720, 
-    "speaker": "SANDS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.1", 
@@ -5253,7 +5253,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter Chamberlain, SANDS, and LOVELL", 
     "line_id": 40728, 
-    "speaker": "GUILDFORD"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.8", 
@@ -5485,7 +5485,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Kisses her", 
     "line_id": 40757, 
-    "speaker": "SANDS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.36", 
@@ -5541,7 +5541,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Hautboys. Enter CARDINAL WOLSEY, and takes his state", 
     "line_id": 40764, 
-    "speaker": "SANDS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.42", 
@@ -5581,7 +5581,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Drinks", 
     "line_id": 40769, 
-    "speaker": "CARDINAL WOLSEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.46", 
@@ -5725,7 +5725,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Drum and trumpet, chambers discharged", 
     "line_id": 40787, 
-    "speaker": "SANDS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.63", 
@@ -5749,7 +5749,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exit Servant", 
     "line_id": 40790, 
-    "speaker": "Chamberlain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.65", 
@@ -5781,7 +5781,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Re-enter Servant", 
     "line_id": 40794, 
-    "speaker": "CARDINAL WOLSEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.68", 
@@ -5869,7 +5869,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exit Chamberlain, attended. All rise, and tables removed", 
     "line_id": 40805, 
-    "speaker": "CARDINAL WOLSEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.78", 
@@ -5901,7 +5901,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Hautboys. Enter KING HENRY VIII and others, as  masquers, habited like shepherds, ushered by the  Chamberlain. They pass directly before CARDINAL WOLSEY, and gracefully salute him", 
     "line_id": 40809, 
-    "speaker": "CARDINAL WOLSEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.81", 
@@ -6005,7 +6005,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "They choose Ladies for the dance. KING HENRY VIII chooses ANNE", 
     "line_id": 40822, 
-    "speaker": "CARDINAL WOLSEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.93", 
@@ -6029,7 +6029,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Music. Dance", 
     "line_id": 40825, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.95", 
@@ -6101,7 +6101,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Whispers the Masquers", 
     "line_id": 40834, 
-    "speaker": "Chamberlain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.103", 
@@ -6173,7 +6173,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Unmasking", 
     "line_id": 40843, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.4.111", 
@@ -6397,7 +6397,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt with trumpets", 
     "line_id": 40871, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6405,7 +6405,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "ACT II", 
     "line_id": 40872, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6413,7 +6413,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "SCENE I. Westminster. A street.", 
     "line_id": 40873, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6421,7 +6421,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter two Gentlemen, meeting", 
     "line_id": 40874, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -6981,7 +6981,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter BUCKINGHAM from his arraignment; tip-staves  before him; the axe with the edge towards him;  halberds on each side: accompanied with LOVELL, VAUX, SANDS, and common people", 
     "line_id": 40944, 
-    "speaker": "First Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.70", 
@@ -7669,7 +7669,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt BUCKINGHAM and Train", 
     "line_id": 41030, 
-    "speaker": "BUCKINGHAM"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.155", 
@@ -8005,7 +8005,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt", 
     "line_id": 41072, 
-    "speaker": "First Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8013,7 +8013,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "SCENE II. An ante-chamber in the palace.", 
     "line_id": 41073, 
-    "speaker": "First Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8021,7 +8021,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter Chamberlain, reading a letter", 
     "line_id": 41074, 
-    "speaker": "First Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.1", 
@@ -8117,7 +8117,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter, to Chamberlain, NORFOLK and SUFFOLK", 
     "line_id": 41086, 
-    "speaker": "Chamberlain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.12", 
@@ -8597,7 +8597,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exit Chamberlain; and KING HENRY VIII draws the curtain, and sits reading pensively", 
     "line_id": 41146, 
-    "speaker": "NORFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.71", 
@@ -8709,7 +8709,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter CARDINAL WOLSEY and CARDINAL CAMPEIUS, with a commission", 
     "line_id": 41160, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.84", 
@@ -8741,7 +8741,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "To CARDINAL CAMPEIUS", 
     "line_id": 41164, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.87", 
@@ -8773,7 +8773,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "To CARDINAL WOLSEY", 
     "line_id": 41168, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.90", 
@@ -8901,7 +8901,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt NORFOLK and SUFFOLK", 
     "line_id": 41184, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.105", 
@@ -9165,7 +9165,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exit CARDINAL WOLSEY", 
     "line_id": 41217, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9173,7 +9173,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Re-enter CARDINAL WOLSEY, with GARDINER", 
     "line_id": 41218, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.137", 
@@ -9237,7 +9237,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Walks and whispers", 
     "line_id": 41226, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.144", 
@@ -9405,7 +9405,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exit GARDINER", 
     "line_id": 41247, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.164", 
@@ -9469,7 +9469,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt", 
     "line_id": 41255, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9477,7 +9477,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "SCENE III. An ante-chamber of the QUEEN'S apartments.", 
     "line_id": 41256, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -9485,7 +9485,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter ANNE and an Old Lady", 
     "line_id": 41257, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -9973,7 +9973,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter Chamberlain", 
     "line_id": 41318, 
-    "speaker": "Old Lady"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.61", 
@@ -10221,7 +10221,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Aside", 
     "line_id": 41349, 
-    "speaker": "Chamberlain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.91", 
@@ -10277,7 +10277,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exit Chamberlain", 
     "line_id": 41356, 
-    "speaker": "Chamberlain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.97", 
@@ -10541,7 +10541,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt", 
     "line_id": 41389, 
-    "speaker": "Old Lady"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10549,7 +10549,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "SCENE IV. A hall in Black-Friars.", 
     "line_id": 41390, 
-    "speaker": "Old Lady"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10557,7 +10557,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Trumpets, sennet, and cornets. Enter two Vergers,  with short silver wands; next them, two Scribes, in  the habit of doctors; after them, CANTERBURY alone;  after him, LINCOLN, Ely, Rochester, and Saint  Asaph; next them, with some small distance, follows  a Gentleman bearing the purse, with the great seal,  and a cardinal's hat; then two Priests, bearing  each a silver cross; then a Gentleman-usher  bare-headed, accompanied with a Sergeant-at-arms  bearing a silver mace; then two Gentlemen bearing  two great silver pillars; after them, side by side,  CARDINAL WOLSEY and CARDINAL CAMPEIUS; two Noblemen  with the sword and mace. KING HENRY VIII takes  place under the cloth of state; CARDINAL WOLSEY and  CARDINAL CAMPEIUS sit under him as judges. QUEEN  KATHARINE takes place some distance from KING  HENRY VIII. The Bishops place themselves on each  side the court, in manner of a consistory; below  them, the Scribes. The Lords sit next the Bishops.  The rest of the Attendants stand in convenient order about the stage", 
     "line_id": 41391, 
-    "speaker": "Old Lady"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.1", 
@@ -10661,7 +10661,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "QUEEN KATHARINE makes no answer, rises out of her  chair, goes about the court, comes to KING HENRY VIII, and kneels at his feet; then speaks", 
     "line_id": 41404, 
-    "speaker": "Crier"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.13", 
@@ -11613,7 +11613,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "She curtsies to KING HENRY VIII, and offers to depart", 
     "line_id": 41523, 
-    "speaker": "QUEEN KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.131", 
@@ -11725,7 +11725,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt QUEEN KATHARINE and her Attendants", 
     "line_id": 41537, 
-    "speaker": "QUEEN KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.144", 
@@ -12661,7 +12661,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt in manner as they entered", 
     "line_id": 41654, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12669,7 +12669,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "ACT III", 
     "line_id": 41655, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12677,7 +12677,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "SCENE I. London. QUEEN KATHARINE's apartments.", 
     "line_id": 41656, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12685,7 +12685,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter QUEEN KATHARINE and her Women, as at work", 
     "line_id": 41657, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -12709,7 +12709,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "SONG", 
     "line_id": 41660, 
-    "speaker": "QUEEN KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.3", 
@@ -12813,7 +12813,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter a Gentleman", 
     "line_id": 41673, 
-    "speaker": "QUEEN KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.15", 
@@ -12877,7 +12877,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exit Gentleman", 
     "line_id": 41681, 
-    "speaker": "QUEEN KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.22", 
@@ -12925,7 +12925,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter CARDINAL WOLSEY and CARDINAL CAMPEIUS", 
     "line_id": 41687, 
-    "speaker": "QUEEN KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.27", 
@@ -14341,7 +14341,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt", 
     "line_id": 41864, 
-    "speaker": "QUEEN KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14349,7 +14349,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "SCENE II. Ante-chamber to KING HENRY VIII's apartment.", 
     "line_id": 41865, 
-    "speaker": "QUEEN KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14357,7 +14357,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter NORFOLK, SUFFOLK, SURREY, and Chamberlain", 
     "line_id": 41866, 
-    "speaker": "QUEEN KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -15157,7 +15157,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter CARDINAL WOLSEY and CROMWELL", 
     "line_id": 41966, 
-    "speaker": "SUFFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.100", 
@@ -15277,7 +15277,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exit CROMWELL", 
     "line_id": 41981, 
-    "speaker": "CARDINAL WOLSEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15285,7 +15285,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Aside", 
     "line_id": 41982, 
-    "speaker": "CARDINAL WOLSEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.114", 
@@ -15501,7 +15501,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter KING HENRY VIII, reading of a schedule, and LOVELL", 
     "line_id": 42009, 
-    "speaker": "SURREY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.140", 
@@ -15781,7 +15781,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "King HENRY VIII takes his seat; whispers LOVELL, who goes to CARDINAL WOLSEY", 
     "line_id": 42044, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.174", 
@@ -16397,7 +16397,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Giving him papers", 
     "line_id": 42121, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.250", 
@@ -16421,7 +16421,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exit KING HENRY VIII, frowning upon CARDINAL WOLSEY: the Nobles throng after him, smiling and whispering", 
     "line_id": 42124, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.252", 
@@ -16629,7 +16629,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Re-enter to CARDINAL WOLSEY, NORFOLK and SUFFOLK, SURREY, and the Chamberlain", 
     "line_id": 42150, 
-    "speaker": "CARDINAL WOLSEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.277", 
@@ -17741,7 +17741,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt all but CARDINAL WOLSEY", 
     "line_id": 42289, 
-    "speaker": "NORFOLK"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.415", 
@@ -17933,7 +17933,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter CROMWELL, and stands amazed", 
     "line_id": 42313, 
-    "speaker": "CARDINAL WOLSEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.438", 
@@ -18725,7 +18725,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt", 
     "line_id": 42412, 
-    "speaker": "CARDINAL WOLSEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18733,7 +18733,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "ACT IV", 
     "line_id": 42413, 
-    "speaker": "CARDINAL WOLSEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18741,7 +18741,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "SCENE I. A street in Westminster.", 
     "line_id": 42414, 
-    "speaker": "CARDINAL WOLSEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18749,7 +18749,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter two Gentlemen, meeting one another", 
     "line_id": 42415, 
-    "speaker": "CARDINAL WOLSEY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -19077,7 +19077,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Trumpets", 
     "line_id": 42456, 
-    "speaker": "Second Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.41", 
@@ -19093,7 +19093,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Hautboys", 
     "line_id": 42458, 
-    "speaker": "Second Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19101,7 +19101,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "THE ORDER OF THE CORONATION", 
     "line_id": 42459, 
-    "speaker": "Second Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.42", 
@@ -19149,7 +19149,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Music", 
     "line_id": 42465, 
-    "speaker": "Second Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.47", 
@@ -19341,7 +19341,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "They pass over the stage in order and state", 
     "line_id": 42489, 
-    "speaker": "Second Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.70", 
@@ -19429,7 +19429,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Looking on QUEEN ANNE", 
     "line_id": 42500, 
-    "speaker": "Second Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.80", 
@@ -19557,7 +19557,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exit procession, and then a great flourish of trumpets", 
     "line_id": 42516, 
-    "speaker": "First Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19565,7 +19565,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter a third Gentleman", 
     "line_id": 42517, 
-    "speaker": "First Gentleman"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.95", 
@@ -20173,7 +20173,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt", 
     "line_id": 42593, 
-    "speaker": "Both"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20181,7 +20181,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "SCENE II. Kimbolton.", 
     "line_id": 42594, 
-    "speaker": "Both"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20189,7 +20189,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter KATHARINE, Dowager, sick; led between GRIFFITH, her gentleman usher, and PATIENCE, her woman", 
     "line_id": 42595, 
-    "speaker": "Both"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -20885,7 +20885,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Sad and solemn music", 
     "line_id": 42682, 
-    "speaker": "KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.87", 
@@ -20909,7 +20909,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "The vision. Enter, solemnly tripping one after  another, six personages, clad in white robes,  wearing on their heads garlands of bays, and golden  vizards on their faces; branches of bays or palm in  their hands. They first congee unto her, then  dance; and, at certain changes, the first two hold  a spare garland over her head; at which the other  four make reverent curtsies; then the two that held  the garland deliver the same to the other next two,  who observe the same order in their changes, and  holding the garland over her head: which done,  they deliver the same garland to the last two, who  likewise observe the same order: at which, as it  were by inspiration, she makes in her sleep signs  of rejoicing, and holdeth up her hands to heaven:  and so in their dancing vanish, carrying the garland with them. The music continues", 
     "line_id": 42685, 
-    "speaker": "GRIFFITH"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.89", 
@@ -21045,7 +21045,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Music ceases", 
     "line_id": 42702, 
-    "speaker": "KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.105", 
@@ -21101,7 +21101,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter a Messenger", 
     "line_id": 42709, 
-    "speaker": "PATIENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.111", 
@@ -21197,7 +21197,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt GRIFFITH and Messenger", 
     "line_id": 42721, 
-    "speaker": "KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21205,7 +21205,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Re-enter GRIFFITH, with CAPUCIUS", 
     "line_id": 42722, 
-    "speaker": "KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.122", 
@@ -21413,7 +21413,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Giving it to KATHARINE", 
     "line_id": 42748, 
-    "speaker": "PATIENCE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.147", 
@@ -21797,7 +21797,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt, leading KATHARINE", 
     "line_id": 42796, 
-    "speaker": "KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21805,7 +21805,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "ACT V", 
     "line_id": 42797, 
-    "speaker": "KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21813,7 +21813,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "SCENE I. London. A gallery in the palace.", 
     "line_id": 42798, 
-    "speaker": "KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21821,7 +21821,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter GARDINER, Bishop of Winchester, a Page with a torch before him, met by LOVELL", 
     "line_id": 42799, 
-    "speaker": "KATHARINE"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -22341,7 +22341,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt GARDINER and Page", 
     "line_id": 42864, 
-    "speaker": "LOVELL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22349,7 +22349,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter KING HENRY VIII and SUFFOLK", 
     "line_id": 42865, 
-    "speaker": "LOVELL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.65", 
@@ -22581,7 +22581,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exit SUFFOLK", 
     "line_id": 42894, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -22589,7 +22589,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter DENNY", 
     "line_id": 42895, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.93", 
@@ -22653,7 +22653,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exit DENNY", 
     "line_id": 42903, 
-    "speaker": "DENNY"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.100", 
@@ -22677,7 +22677,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Re-enter DENNY, with CRANMER", 
     "line_id": 42906, 
-    "speaker": "LOVELL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.102", 
@@ -22693,7 +22693,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "LOVELL seems to stay", 
     "line_id": 42908, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.103", 
@@ -22709,7 +22709,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt LOVELL and DENNY", 
     "line_id": 42910, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.104", 
@@ -22717,7 +22717,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "[Aside]", 
     "line_id": 42911, 
-    "speaker": "CRANMER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.105", 
@@ -22917,7 +22917,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "[Kneeling]", 
     "line_id": 42936, 
-    "speaker": "CRANMER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.130", 
@@ -23357,7 +23357,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exit CRANMER", 
     "line_id": 42991, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.184", 
@@ -23381,7 +23381,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter Old Lady, LOVELL following", 
     "line_id": 42994, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.186", 
@@ -23533,7 +23533,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exit", 
     "line_id": 43013, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.204", 
@@ -23589,7 +23589,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt", 
     "line_id": 43020, 
-    "speaker": "Old Lady"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23613,7 +23613,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter CRANMER", 
     "line_id": 43023, 
-    "speaker": "Old Lady"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.2", 
@@ -23653,7 +23653,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter Keeper", 
     "line_id": 43028, 
-    "speaker": "CRANMER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.6", 
@@ -23685,7 +23685,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter DOCTOR BUTTS", 
     "line_id": 43032, 
-    "speaker": "CRANMER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.9", 
@@ -23733,7 +23733,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exit", 
     "line_id": 43038, 
-    "speaker": "DOCTOR BUTTS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.14", 
@@ -23821,7 +23821,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter the KING HENRY VIII and DOCTOR BUTTS at a window above", 
     "line_id": 43049, 
-    "speaker": "CRANMER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.24", 
@@ -23981,7 +23981,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt", 
     "line_id": 43069, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23989,7 +23989,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "SCENE III. The Council-Chamber.", 
     "line_id": 43070, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -23997,7 +23997,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter Chancellor; places himself at the upper end  of the table on the left hand; a seat being left  void above him, as for CRANMER's seat. SUFFOLK,  NORFOLK, SURREY, Chamberlain, GARDINER, seat  themselves in order on each side. CROMWELL at lower end, as secretary. Keeper at the door", 
     "line_id": 43071, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.1", 
@@ -24109,7 +24109,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "CRANMER enters and approaches the council-table", 
     "line_id": 43085, 
-    "speaker": "Keeper"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.14", 
@@ -24909,7 +24909,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter Guard", 
     "line_id": 43185, 
-    "speaker": "GARDINER"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.113", 
@@ -25117,7 +25117,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter KING, frowning on them; takes his seat", 
     "line_id": 43211, 
-    "speaker": "CROMWELL"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.138", 
@@ -25253,7 +25253,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "To CRANMER", 
     "line_id": 43228, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.154", 
@@ -25725,7 +25725,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt", 
     "line_id": 43287, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -25733,7 +25733,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "SCENE IV. The palace yard.", 
     "line_id": 43288, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -25741,7 +25741,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Noise and tumult within. Enter Porter and his Man", 
     "line_id": 43289, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.1", 
@@ -25773,7 +25773,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Within", 
     "line_id": 43293, 
-    "speaker": "Porter"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.4", 
@@ -25973,7 +25973,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Within", 
     "line_id": 43318, 
-    "speaker": "Man"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.28", 
@@ -26301,7 +26301,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Enter Chamberlain", 
     "line_id": 43359, 
-    "speaker": "Porter"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.4.68", 
@@ -26533,7 +26533,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt", 
     "line_id": 43388, 
-    "speaker": "Porter"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -26541,7 +26541,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "SCENE V. The palace.", 
     "line_id": 43389, 
-    "speaker": "Porter"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -26581,7 +26581,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Flourish. Enter KING HENRY VIII and Guard", 
     "line_id": 43394, 
-    "speaker": "Garter"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.4", 
@@ -26661,7 +26661,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "KING HENRY VIII kisses the child", 
     "line_id": 43404, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.13", 
@@ -27229,7 +27229,7 @@
     "play_name": "Henry VIII", 
     "text_entry": "Exeunt", 
     "line_id": 43475, 
-    "speaker": "KING HENRY VIII"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.5.83", 

@@ -5,7 +5,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "ACT I", 
     "line_id": 96466, 
-    "speaker": "ALCIBIADES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13,7 +13,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "SCENE I. Rome. Before the Capitol.", 
     "line_id": 96467, 
-    "speaker": "ALCIBIADES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21,7 +21,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "The Tomb of the ANDRONICI appearing; the Tribunes  and Senators aloft. Enter, below, from one side,  SATURNINUS and his Followers; and, from the other side, BASSIANUS and his Followers; with drum and colours", 
     "line_id": 96468, 
-    "speaker": "ALCIBIADES"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.1", 
@@ -165,7 +165,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter MARCUS ANDRONICUS, aloft, with the crown", 
     "line_id": 96486, 
-    "speaker": "BASSIANUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.18", 
@@ -477,7 +477,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt the followers of BASSIANUS", 
     "line_id": 96525, 
-    "speaker": "BASSIANUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.56", 
@@ -517,7 +517,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt the followers of SATURNINUS", 
     "line_id": 96530, 
-    "speaker": "SATURNINUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.60", 
@@ -557,7 +557,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Flourish. SATURNINUS and BASSIANUS go up into the Capitol", 
     "line_id": 96535, 
-    "speaker": "BASSIANUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -565,7 +565,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter a Captain", 
     "line_id": 96536, 
-    "speaker": "BASSIANUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.64", 
@@ -621,7 +621,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Drums and trumpets sounded. Enter MARTIUS and  MUTIUS; After them, two Men bearing a coffin  covered with black; then LUCIUS and QUINTUS. After  them, TITUS ANDRONICUS; and then TAMORA, with  ALARBUS, DEMETRIUS, CHIRON, AARON, and other Goths,  prisoners; Soldiers and people following. The Bearers set down the coffin, and TITUS speaks", 
     "line_id": 96543, 
-    "speaker": "Captain"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.70", 
@@ -789,7 +789,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "The tomb is opened", 
     "line_id": 96564, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.90", 
@@ -1117,7 +1117,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt LUCIUS, QUINTUS, MARTIUS, and MUTIUS, with ALARBUS", 
     "line_id": 96605, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.130", 
@@ -1221,7 +1221,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Re-enter LUCIUS, QUINTUS, MARTIUS and MUTIUS, with their swords bloody", 
     "line_id": 96618, 
-    "speaker": "DEMETRIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.142", 
@@ -1293,7 +1293,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Trumpets sounded, and the coffin laid in the tomb", 
     "line_id": 96627, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.150", 
@@ -1357,7 +1357,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter LAVINIA", 
     "line_id": 96635, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.157", 
@@ -1461,7 +1461,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter, below, MARCUS ANDRONICUS and Tribunes; re-enter SATURNINUS and BASSIANUS, attended", 
     "line_id": 96648, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.169", 
@@ -1997,7 +1997,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "A long flourish till they come down", 
     "line_id": 96715, 
-    "speaker": "MARCUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.235", 
@@ -2349,7 +2349,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Flourish. SATURNINUS courts TAMORA in dumb show", 
     "line_id": 96759, 
-    "speaker": "SATURNINUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.278", 
@@ -2365,7 +2365,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Seizing LAVINIA", 
     "line_id": 96761, 
-    "speaker": "BASSIANUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.279", 
@@ -2461,7 +2461,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt BASSIANUS and MARCUS with LAVINIA", 
     "line_id": 96773, 
-    "speaker": "BASSIANUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.290", 
@@ -2485,7 +2485,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt LUCIUS, QUINTUS, and MARTIUS", 
     "line_id": 96776, 
-    "speaker": "MUTIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.292", 
@@ -2525,7 +2525,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Stabbing MUTIUS", 
     "line_id": 96781, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.296", 
@@ -2541,7 +2541,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Dies", 
     "line_id": 96783, 
-    "speaker": "MUTIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2549,7 +2549,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "During the fray, SATURNINUS, TAMORA, DEMETRIUS, CHIRON and AARON go out and re-enter, above", 
     "line_id": 96784, 
-    "speaker": "MUTIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -2557,7 +2557,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Re-enter LUCIUS", 
     "line_id": 96785, 
-    "speaker": "MUTIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.297", 
@@ -2621,7 +2621,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exit", 
     "line_id": 96793, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.304", 
@@ -2941,7 +2941,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt all but TITUS", 
     "line_id": 96833, 
-    "speaker": "SATURNINUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.343", 
@@ -2973,7 +2973,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Re-enter MARCUS, LUCIUS, QUINTUS, and MARTIUS", 
     "line_id": 96837, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.346", 
@@ -3221,7 +3221,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "MARCUS and the Sons of TITUS kneel", 
     "line_id": 96868, 
-    "speaker": "QUINTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.376", 
@@ -3373,7 +3373,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "MUTIUS is put into the tomb", 
     "line_id": 96887, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.394", 
@@ -3477,7 +3477,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Flourish. Re-enter, from one side, SATURNINUS  attended, TAMORA, DEMETRIUS, CHIRON and AARON; from the other, BASSIANUS, LAVINIA, and others", 
     "line_id": 96900, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.406", 
@@ -3829,7 +3829,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Aside to SATURNINUS", 
     "line_id": 96944, 
-    "speaker": "TAMORA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.449", 
@@ -3949,7 +3949,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Aloud", 
     "line_id": 96959, 
-    "speaker": "TAMORA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "1.1.463", 
@@ -4269,7 +4269,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Flourish. Exeunt", 
     "line_id": 96999, 
-    "speaker": "SATURNINUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4277,7 +4277,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "ACT II", 
     "line_id": 97000, 
-    "speaker": "SATURNINUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4285,7 +4285,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "SCENE I. Rome. Before the Palace.", 
     "line_id": 97001, 
-    "speaker": "SATURNINUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -4293,7 +4293,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter AARON", 
     "line_id": 97002, 
-    "speaker": "SATURNINUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.1", 
@@ -4501,7 +4501,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter DEMETRIUS and CHIRON, braving", 
     "line_id": 97028, 
-    "speaker": "AARON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.26", 
@@ -4677,7 +4677,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "They draw", 
     "line_id": 97050, 
-    "speaker": "DEMETRIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.1.47", 
@@ -5469,7 +5469,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt", 
     "line_id": 97149, 
-    "speaker": "DEMETRIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5477,7 +5477,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "SCENE II. A forest near Rome. Horns and cry of hounds heard.", 
     "line_id": 97150, 
-    "speaker": "DEMETRIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5573,7 +5573,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "A cry of hounds and horns, winded in a peal. Enter  SATURNINUS, TAMORA, BASSIANUS, LAVINIA, DEMETRIUS, CHIRON, and Attendants", 
     "line_id": 97162, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.11", 
@@ -5661,7 +5661,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "To TAMORA", 
     "line_id": 97173, 
-    "speaker": "SATURNINUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.2.21", 
@@ -5741,7 +5741,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt", 
     "line_id": 97183, 
-    "speaker": "DEMETRIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5749,7 +5749,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "SCENE III. A lonely part of the forest.", 
     "line_id": 97184, 
-    "speaker": "DEMETRIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -5757,7 +5757,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter AARON, with a bag of gold", 
     "line_id": 97185, 
-    "speaker": "DEMETRIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.1", 
@@ -5829,7 +5829,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Hides the gold", 
     "line_id": 97194, 
-    "speaker": "AARON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.9", 
@@ -5845,7 +5845,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter TAMORA", 
     "line_id": 97196, 
-    "speaker": "AARON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.10", 
@@ -6213,7 +6213,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exit", 
     "line_id": 97242, 
-    "speaker": "AARON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -6221,7 +6221,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter BASSIANUS and LAVINIA", 
     "line_id": 97243, 
-    "speaker": "AARON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.55", 
@@ -6501,7 +6501,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter DEMETRIUS and CHIRON", 
     "line_id": 97278, 
-    "speaker": "TAMORA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.89", 
@@ -6733,7 +6733,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Stabs BASSIANUS", 
     "line_id": 97307, 
-    "speaker": "DEMETRIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.117", 
@@ -6749,7 +6749,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Also stabs BASSIANUS, who dies", 
     "line_id": 97309, 
-    "speaker": "CHIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.118", 
@@ -6989,7 +6989,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "To CHIRON", 
     "line_id": 97339, 
-    "speaker": "LAVINIA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.147", 
@@ -7325,7 +7325,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "DEMETRIUS throws the body of BASSIANUS into the  pit; then exeunt DEMETRIUS and CHIRON, dragging off LAVINIA", 
     "line_id": 97381, 
-    "speaker": "CHIRON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.188", 
@@ -7373,7 +7373,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exit", 
     "line_id": 97387, 
-    "speaker": "TAMORA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7381,7 +7381,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Re-enter AARON, with QUINTUS and MARTIUS", 
     "line_id": 97388, 
-    "speaker": "TAMORA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.193", 
@@ -7437,7 +7437,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Falls into the pit", 
     "line_id": 97395, 
-    "speaker": "MARTIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.199", 
@@ -7533,7 +7533,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exit", 
     "line_id": 97407, 
-    "speaker": "AARON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.210", 
@@ -7837,7 +7837,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Falls in", 
     "line_id": 97445, 
-    "speaker": "QUINTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -7845,7 +7845,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter SATURNINUS with AARON", 
     "line_id": 97446, 
-    "speaker": "QUINTUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.247", 
@@ -7957,7 +7957,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Re-enter TAMORA, with Attendants; TITUS ANDRONICUS, and Lucius", 
     "line_id": 97460, 
-    "speaker": "MARTIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.260", 
@@ -8037,7 +8037,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "She giveth SATURNINUS a letter", 
     "line_id": 97470, 
-    "speaker": "TAMORA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.3.269", 
@@ -8365,7 +8365,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt", 
     "line_id": 97511, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8373,7 +8373,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "SCENE IV. Another part of the forest.", 
     "line_id": 97512, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8381,7 +8381,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter DEMETRIUS and CHIRON with LAVINIA, ravished; her hands cut off, and her tongue cut out", 
     "line_id": 97513, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.1", 
@@ -8469,7 +8469,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt DEMETRIUS and CHIRON", 
     "line_id": 97524, 
-    "speaker": "DEMETRIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8477,7 +8477,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter MARCUS", 
     "line_id": 97525, 
-    "speaker": "DEMETRIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "2.4.11", 
@@ -8861,7 +8861,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt", 
     "line_id": 97573, 
-    "speaker": "MARCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8869,7 +8869,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "ACT III", 
     "line_id": 97574, 
-    "speaker": "MARCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8877,7 +8877,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "SCENE I. Rome. A street.", 
     "line_id": 97575, 
-    "speaker": "MARCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -8885,7 +8885,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter Judges, Senators and Tribunes, with MARTIUS  and QUINTUS, bound, passing on to the place of execution; TITUS going before, pleading", 
     "line_id": 97576, 
-    "speaker": "MARCUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.1", 
@@ -9077,7 +9077,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter LUCIUS, with his sword drawn", 
     "line_id": 97600, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.23", 
@@ -9277,7 +9277,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Rises", 
     "line_id": 97625, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.47", 
@@ -9373,7 +9373,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter MARCUS and LAVINIA", 
     "line_id": 97637, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.58", 
@@ -10117,7 +10117,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter AARON", 
     "line_id": 97730, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.150", 
@@ -10421,7 +10421,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt LUCIUS and MARCUS", 
     "line_id": 97768, 
-    "speaker": "MARCUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.187", 
@@ -10477,7 +10477,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Cuts off TITUS's hand", 
     "line_id": 97775, 
-    "speaker": "AARON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -10485,7 +10485,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Re-enter LUCIUS and MARCUS", 
     "line_id": 97776, 
-    "speaker": "AARON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.193", 
@@ -10573,7 +10573,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Aside", 
     "line_id": 97787, 
-    "speaker": "AARON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.203", 
@@ -10613,7 +10613,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exit", 
     "line_id": 97792, 
-    "speaker": "AARON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.207", 
@@ -10653,7 +10653,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "To LAVINIA", 
     "line_id": 97797, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.211", 
@@ -10861,7 +10861,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter a Messenger, with two heads and a hand", 
     "line_id": 97823, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.236", 
@@ -10925,7 +10925,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exit", 
     "line_id": 97831, 
-    "speaker": "Messenger"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.243", 
@@ -11005,7 +11005,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "LAVINIA kisses TITUS", 
     "line_id": 97841, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.252", 
@@ -11317,7 +11317,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt TITUS, MARCUS, and LAVINIA", 
     "line_id": 97880, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.1.290", 
@@ -11429,7 +11429,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exit", 
     "line_id": 97894, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11437,7 +11437,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "SCENE II. A room in Titus's house. A banquet set out.", 
     "line_id": 97895, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -11445,7 +11445,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter TITUS, MARCUS, LAVINIA and Young LUCIUS, a boy", 
     "line_id": 97896, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.1", 
@@ -11541,7 +11541,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "To LAVINIA", 
     "line_id": 97908, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.12", 
@@ -11869,7 +11869,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "MARCUS strikes the dish with a knife", 
     "line_id": 97949, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "3.2.52", 
@@ -12157,7 +12157,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt", 
     "line_id": 97985, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12165,7 +12165,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "ACT IV", 
     "line_id": 97986, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12173,7 +12173,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "SCENE I. Rome. Titus's garden.", 
     "line_id": 97987, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -12181,7 +12181,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter young LUCIUS, and LAVINIA running after him,  and the boy flies from her, with books under his arm. Then enter TITUS and MARCUS", 
     "line_id": 97988, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.1", 
@@ -12421,7 +12421,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "LAVINIA turns over with her stumps the books which LUCIUS has let fall", 
     "line_id": 98018, 
-    "speaker": "MARCUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.30", 
@@ -12565,7 +12565,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Helping her", 
     "line_id": 98036, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.47", 
@@ -12781,7 +12781,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "He writes his name with his staff, and guides it with feet and mouth", 
     "line_id": 98063, 
-    "speaker": "MARCUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.73", 
@@ -12829,7 +12829,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "She takes the staff in her mouth, and guides it with her stumps, and writes", 
     "line_id": 98069, 
-    "speaker": "MARCUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.78", 
@@ -13205,7 +13205,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt TITUS, LAVINIA, and Young LUCIUS", 
     "line_id": 98116, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.1.124", 
@@ -13269,7 +13269,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exit", 
     "line_id": 98124, 
-    "speaker": "MARCUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13277,7 +13277,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "SCENE II. The same. A room in the palace.", 
     "line_id": 98125, 
-    "speaker": "MARCUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -13285,7 +13285,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter, from one side, AARON, DEMETRIUS, and  CHIRON; from the other side, Young LUCIUS, and an  Attendant, with a bundle of weapons, and verses writ upon them", 
     "line_id": 98126, 
-    "speaker": "MARCUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.1", 
@@ -13333,7 +13333,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Aside", 
     "line_id": 98132, 
-    "speaker": "Young LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.6", 
@@ -13437,7 +13437,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Aside", 
     "line_id": 98145, 
-    "speaker": "Young LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.18", 
@@ -13453,7 +13453,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt Young LUCIUS, and Attendant", 
     "line_id": 98147, 
-    "speaker": "Young LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.19", 
@@ -13477,7 +13477,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Reads", 
     "line_id": 98150, 
-    "speaker": "DEMETRIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.21", 
@@ -13525,7 +13525,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Aside", 
     "line_id": 98156, 
-    "speaker": "AARON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.26", 
@@ -13725,7 +13725,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Trumpets sound within", 
     "line_id": 98181, 
-    "speaker": "AARON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.50", 
@@ -13757,7 +13757,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter a Nurse, with a blackamoor Child in her arms", 
     "line_id": 98185, 
-    "speaker": "DEMETRIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.53", 
@@ -14069,7 +14069,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Takes the Child from the Nurse, and draws", 
     "line_id": 98224, 
-    "speaker": "AARON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.91", 
@@ -14453,7 +14453,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "They sit", 
     "line_id": 98272, 
-    "speaker": "AARON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.138", 
@@ -14549,7 +14549,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "He kills the nurse", 
     "line_id": 98284, 
-    "speaker": "AARON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.149", 
@@ -14693,7 +14693,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Pointing to the nurse", 
     "line_id": 98302, 
-    "speaker": "AARON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.166", 
@@ -14781,7 +14781,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt DEMETRIUS and CHIRON bearing off the Nurse's body", 
     "line_id": 98313, 
-    "speaker": "DEMETRIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.2.176", 
@@ -14861,7 +14861,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exit", 
     "line_id": 98323, 
-    "speaker": "AARON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14869,7 +14869,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "SCENE III. The same. A public place.", 
     "line_id": 98324, 
-    "speaker": "AARON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -14877,7 +14877,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter TITUS, bearing arrows with letters at the  ends of them; with him, MARCUS, Young LUCIUS,  PUBLIUS, SEMPRONIUS, CAIUS, and other Gentlemen, with bows", 
     "line_id": 98325, 
-    "speaker": "AARON"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.1", 
@@ -15301,7 +15301,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "He gives them the arrows", 
     "line_id": 98378, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.53", 
@@ -15397,7 +15397,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "They shoot", 
     "line_id": 98390, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.64", 
@@ -15517,7 +15517,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter a Clown, with a basket, and two pigeons in it", 
     "line_id": 98405, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.3.78", 
@@ -15869,7 +15869,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt", 
     "line_id": 98449, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15877,7 +15877,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "SCENE IV. The same. Before the palace.", 
     "line_id": 98450, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -15885,7 +15885,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter SATURNINUS, TAMORA, DEMETRIUS, CHIRON,  Lords, and others; SATURNINUS with the arrows in his hand that TITUS shot", 
     "line_id": 98451, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.1", 
@@ -16165,7 +16165,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Aside", 
     "line_id": 98486, 
-    "speaker": "TAMORA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.35", 
@@ -16213,7 +16213,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter Clown", 
     "line_id": 98492, 
-    "speaker": "TAMORA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.40", 
@@ -16261,7 +16261,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "SATURNINUS reads the letter", 
     "line_id": 98498, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.45", 
@@ -16309,7 +16309,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exit, guarded", 
     "line_id": 98504, 
-    "speaker": "Clown"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.50", 
@@ -16405,7 +16405,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter AEMILIUS", 
     "line_id": 98516, 
-    "speaker": "SATURNINUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.61", 
@@ -16725,7 +16725,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "To AEmilius", 
     "line_id": 98556, 
-    "speaker": "TAMORA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.100", 
@@ -16797,7 +16797,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exit", 
     "line_id": 98565, 
-    "speaker": "AEMILIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "4.4.108", 
@@ -16853,7 +16853,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt", 
     "line_id": 98572, 
-    "speaker": "SATURNINUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16861,7 +16861,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "ACT V", 
     "line_id": 98573, 
-    "speaker": "SATURNINUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16869,7 +16869,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "SCENE I. Plains near Rome.", 
     "line_id": 98574, 
-    "speaker": "SATURNINUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -16877,7 +16877,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter LUCIUS with an army of Goths, with drum and colours", 
     "line_id": 98575, 
-    "speaker": "SATURNINUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.1", 
@@ -17037,7 +17037,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter a Goth, leading AARON with his Child in his arms", 
     "line_id": 98595, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.20", 
@@ -17325,7 +17325,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "A ladder brought, which AARON is made to ascend", 
     "line_id": 98631, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.55", 
@@ -18125,7 +18125,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter a Goth", 
     "line_id": 98731, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.154", 
@@ -18157,7 +18157,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter AEMILIUS", 
     "line_id": 98735, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.1.157", 
@@ -18253,7 +18253,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt", 
     "line_id": 98747, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18261,7 +18261,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "SCENE II. Rome. Before TITUS's house.", 
     "line_id": 98748, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18269,7 +18269,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter TAMORA, DEMETRIUS, and CHIRON, disguised", 
     "line_id": 98749, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.1", 
@@ -18341,7 +18341,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "They knock", 
     "line_id": 98758, 
-    "speaker": "TAMORA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -18349,7 +18349,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter TITUS, above", 
     "line_id": 98759, 
-    "speaker": "TAMORA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.9", 
@@ -18845,7 +18845,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exit above", 
     "line_id": 98821, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.70", 
@@ -18941,7 +18941,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter TITUS below", 
     "line_id": 98833, 
-    "speaker": "TAMORA"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.81", 
@@ -19277,7 +19277,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter MARCUS", 
     "line_id": 98875, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.122", 
@@ -19365,7 +19365,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exit", 
     "line_id": 98886, 
-    "speaker": "MARCUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.132", 
@@ -19517,7 +19517,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exit TAMORA", 
     "line_id": 98905, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.150", 
@@ -19549,7 +19549,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter PUBLIUS and others", 
     "line_id": 98909, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.153", 
@@ -19637,7 +19637,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exit", 
     "line_id": 98920, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -19685,7 +19685,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Re-enter TITUS, with LAVINIA; he bearing a knife, and she a basin", 
     "line_id": 98926, 
-    "speaker": "PUBLIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.167", 
@@ -19941,7 +19941,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "He cuts their throats", 
     "line_id": 98958, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.2.198", 
@@ -20021,7 +20021,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt, bearing the dead bodies", 
     "line_id": 98968, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20029,7 +20029,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "SCENE III. Court of TITUS's house. A banquet set out.", 
     "line_id": 98969, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20037,7 +20037,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter LUCIUS, MARCUS, and Goths, with AARON prisoner", 
     "line_id": 98970, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.1", 
@@ -20165,7 +20165,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt Goths, with AARON. Flourish within", 
     "line_id": 98986, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.16", 
@@ -20181,7 +20181,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter SATURNINUS and TAMORA, with AEMILIUS, Tribunes, Senators, and others", 
     "line_id": 98988, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.17", 
@@ -20261,7 +20261,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Hautboys sound. The Company sit down at table", 
     "line_id": 98998, 
-    "speaker": "SATURNINUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -20269,7 +20269,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Enter TITUS dressed like a Cook, LAVINIA veiled,  Young LUCIUS, and others. TITUS places the dishes on the table", 
     "line_id": 98999, 
-    "speaker": "SATURNINUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.26", 
@@ -20445,7 +20445,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Kills LAVINIA", 
     "line_id": 99021, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.47", 
@@ -20597,7 +20597,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Kills TAMORA", 
     "line_id": 99040, 
-    "speaker": "TITUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.65", 
@@ -20613,7 +20613,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Kills TITUS", 
     "line_id": 99042, 
-    "speaker": "SATURNINUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.66", 
@@ -20637,7 +20637,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Kills SATURNINUS. A great tumult. LUCIUS, MARCUS, and others go up into the balcony", 
     "line_id": 99045, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.68", 
@@ -20749,7 +20749,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "To LUCIUS", 
     "line_id": 99059, 
-    "speaker": "MARCUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.81", 
@@ -21077,7 +21077,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Pointing to the Child in the arms of an Attendant", 
     "line_id": 99100, 
-    "speaker": "MARCUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.121", 
@@ -21269,7 +21269,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "To Attendants", 
     "line_id": 99124, 
-    "speaker": "MARCUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.144", 
@@ -21301,7 +21301,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt Attendants", 
     "line_id": 99128, 
-    "speaker": "MARCUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "", 
@@ -21309,7 +21309,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "LUCIUS, MARCUS, and the others descend", 
     "line_id": 99129, 
-    "speaker": "MARCUS ANDRONICUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.147", 
@@ -21381,7 +21381,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Kissing TITUS", 
     "line_id": 99138, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.155", 
@@ -21565,7 +21565,7 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Re-enter Attendants with AARON", 
     "line_id": 99161, 
-    "speaker": "Young LUCIUS"
+    "speaker": "Stage Directions"
   }, 
   {
     "line_number": "5.3.177", 
@@ -21805,6 +21805,6 @@
     "play_name": "Titus Andronicus", 
     "text_entry": "Exeunt", 
     "line_id": 99191, 
-    "speaker": "LUCIUS"
+    "speaker": "Stage Directions"
   }
 ]
