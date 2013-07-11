@@ -1,10 +1,16 @@
 
 var searchWord = function(){
+
+var playType={"King John" : "History","Richard II" : "History","Henry IV" : "History",
+			  "Henry V" : "History","Henry VI Part 1" : "History","Henry VI Part 2" : "History",
+			  "Henry VI Part 3" : "History",	"Richard III" : "History","Henry VIII" : "History"	};
+
+
 	
 var jsonObject = { "All Works" : {  "History" : {  "King John" : {},
                                                     "Richard II" : {},
                                                     "Henry IV" : {},
-												    "HenryV" : {},
+												    "Henry V" : {},
                                                     "Henry VI Part 1" : {},
                                                     "Henry VI Part 2" : {},
                                                     "Henry VI Part 3" : {},	
@@ -20,7 +26,7 @@ var jsonObject = { "All Works" : {  "History" : {  "King John" : {},
                                                     "Much Ado About Nothing" : {},
                                                     "A Midsummer Night's Dream" : {},	
                                                     "The Merchant of Venice" : {},
-                                                    "As You Like It" : {}
+                                                    "As You Like It" : {},
 												    "The Taming of the Shrew" : {},
 												    "All's Well That Ends Well" : {},
                                                     "Twelfth Night" : {},
@@ -29,11 +35,11 @@ var jsonObject = { "All Works" : {  "History" : {  "King John" : {},
                                                 
                                     },
 
-                                    "Tradgedy" :  {  "Troilus and Cressida " : {},
+                                    "Tragedy" :  {  "Troilus and Cressida " : {},
                                                     "Coriolanus" : {},
                                                     "Titus Andronicus" : {},	
                                                     "Romeo and Juliet" : {},
-                                                    "Timon of Athens" : {}
+                                                    "Timon of Athens" : {},
 												    "Julius Caesar" : {},
 												    "Macbeth" : {},
                                                     "Hamlet" : {},
