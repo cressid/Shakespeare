@@ -20,7 +20,7 @@ var HamletPlaces = function(){
 		for (var i=0; i<hamletData.length; i++){
 			var character = hamletData[i]["speaker"] // character is of format CYMBELINE or something
 			var inCharacters = false; //by default, we assume that the character is not in fact in the list of characters
-			//console.log( i +  "characters length " + characters.length)
+			
 			var ln=hamletData[i]["line_number"];
             var place=ln.split(".");
 			var scene=place[0]+"."+place[1];
@@ -38,36 +38,65 @@ var HamletPlaces = function(){
 				
 			
 			for (var j=0; j<characters.length; j++){ //looping through every character
-				//console.log("this is so");
+				
 				if (characters[j] == character){ //if the speaker is in the characters
 					inCharacters=true; //we set the inCharacters variable to true
 					charsWithLines[String(character)]++; //then we add 1 to the value in charswith Lines
-					//console.log("real legit " + character + charsWithLines.character);
 					break;
 				}
 			}
-			//console.log("past the for loop " + inCharacters);
 			if (inCharacters == false){
 				characters.push(character);
 				charsWithLines[String(character)] = 1;
 			}
 		}
+		
 	var vals=[];	
+	var overlap=[];	
 	for( var c=0;c<characters.length;c++)
-	{ var dat=[];
+	{
+	var dat=[];
+	 var cast=[];
 		for(var x=0;x<scenes.length;x++)
-		{	
-			if(places[scenes[x]].indexOf(characters[c])>-1)
+		{
+			var index =places[scenes[x]].indexOf(characters[c]);
+			if(index>-1)
 			{
 					dat.push("X");
+				for(var n=0;n<places[scenes[x]].length;n++){
+					cast.push(places[scenes[x]][n]);
+					
+				}
+				
 			}
 			else{
 				dat.push("");
 			}
+			
 		}
+	 
+	 overlap.push(cast);
 		vals.push(dat);	
 	}
+		var dualCast=[];
 		
+var dualCast=[];
+for (var h=0;h<overlap.length;h++)
+{
+	double=[];
+		for(var g=0;g<characters.length;g++)
+		{
+			if(overlap[h].indexOf(characters[g])==-1)
+			{
+				double.push(characters[g]);
+			}
+		}
+	dualCast.push(double);
+	
+}
+	
+
+
 // Table module ////////////////////////////////////
 var Table = function module() {
     var opts = {
@@ -75,10 +104,10 @@ var Table = function module() {
         height: 200,
         margins: {top: 20, right: 20, bottom: 20, left: 20}
     };
-
+	
     function exports(selection) {
         selection.each(function (dataset) {
-
+			
             //________________________________________________
             // Data
             //________________________________________________
@@ -96,11 +125,20 @@ var Table = function module() {
             // SVG
             var parentDiv = d3.select(this).html('');
             var svg = parentDiv.append('svg').attr('width', opts.width).attr('height', opts.height);
+			var tooltip = d3.select("body")
+				.append("div")
+				.style("position", "absolute")
+				.style("z-index", "10")
+				.style("visibility", "hidden")
+				.style("background","lightsteelblue")
+				.text("test");
             var visSvg = svg.append('g').attr('class', 'vis-group').attr('transform', 'translate(' + opts.margins.left + ',' + opts.margins.top + ')');
+	
             var tableBodySvg = visSvg.append('g').attr('class', 'chart-group');
             var tableHeaderSvg = visSvg.append('g').attr('class', 'chart-group');
             var rowHeaderSvg = tableHeaderSvg.append('g').attr('class', 'row-header');
             var colHeaderSvg = tableHeaderSvg.append('g').attr('class', 'col-header');
+			
 
             //________________________________________________
             // Table
@@ -108,20 +146,30 @@ var Table = function module() {
             var rowHeaderLevelNum = 1;
             var colHeaderLevelNum = 1;
             var cellH = chartH / (value.length + rowHeaderLevelNum);
+			
             var cellW = chartW / (value[0].length + colHeaderLevelNum+offset/scenes.length);
+		
+		
 
+	
             // Row header
             var rowHeaderCell = rowHeaderSvg.selectAll('rect.row-header-cell')
                 .data(rowLabel);
+          	
             rowHeaderCell.enter().append('rect')
                 .attr({
                     class:'row-header-cell',
                     width:offset+32,
 					height:cellH,
+					text:function(d,i){return dualCast[i]},
                     x: 0,
                     y: function(d, i){return i * cellH + (cellH * colHeaderLevelNum)}
                 })
-                .style({fill:'#eee', stroke:'silver'});
+                .style({fill:'#eee', stroke:'silver'})
+				.on("mouseover", function(event){return tooltip.style("visibility", "visible").text(dualCast[characters.indexOf(event)])})
+				.on("mousemove", function(){return tooltip.style("top", (event.pageY-10)+"px").style("left",(event.pageX+10)+"px");})
+				.on("mouseout", function(){return tooltip.style("visibility", "hidden");});
+ 
 
             // Row header text
             rowHeaderCell.enter().append('text')
@@ -133,8 +181,9 @@ var Table = function module() {
                     dy: cellH/2
                 })
                 .style({fill:'black', 'text-anchor':'middle'})
-                .text(function(d, i){return d;});
-
+                .text(function(d, i){return d;})
+		
+          		
             // Col header
             var colHeaderCell = colHeaderSvg.selectAll('rect.col-header-cell')
                 .data(columnLabel);
@@ -145,7 +194,8 @@ var Table = function module() {
                     x: function(d, i){return offset+i * cellW + (cellW * rowHeaderLevelNum)},
                     y: 0
                 })
-                .style({fill:'#eee', stroke:'silver'});
+                .style({fill:'#eee', stroke:'silver'})
+				
 
             // Col header text
             colHeaderCell.enter().append('text')
@@ -158,7 +208,7 @@ var Table = function module() {
                 })
                 .style({fill:'black', 'text-anchor':'middle'})
                 .text(function(d, i){return d;});
-
+				
             // Body
             var row = tableBodySvg.selectAll('g.row')
                 .data(value);
@@ -209,7 +259,7 @@ var createAccessors = function(visExport) {
 };                        
  
 // Usage ////////////////////////////////////   
-console.log(vals);
+
 var dataset = {
     rowLabel: characters,
     columnLabel: scenes,
