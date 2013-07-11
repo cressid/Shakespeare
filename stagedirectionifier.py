@@ -1,6 +1,11 @@
 import json
 
 data = json.load(open("will_play_text.json"))
+shakes = open("full-text-shakespeare.html")
+fullShakes = shakes.read() #fullShakes is the html document
+#data is just the JSON file
+
+
 
 play_names = ["Alls well that ends well", "As you like it", "A Comedy of Errors",\
               "Cymbeline", "Loves Labours Lost", "Measure for measure",\
@@ -22,19 +27,92 @@ caps = ["A", 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N',\
         'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 
 
+#we are going to call this on each element of our italics in HTML (which is found with findItalics)
+#and we are also going to call it on each element of the JSON file (data)
+#then we will compare to see if each JSON element is in 
 def friendlyString(string): #makes a lower case string with spaces as only punct
-    length = len(string)
-    stringList = []
+    friendlyString = ""
     j=-1
     for i in string:
         j+=1
         if i in lowercase:
-            stringList.append(string[j]) #we like the 
+            friendlyString += string[j] #we like the 
         elif i in caps:
-            stringList.append(caps.index(i)) #append the lower case version
-        elif i == ' ' and string[j-2] != ' ' and j != 0:
-            stringList.append(' ') #add spaces ONLY if they are the first
-            #string in a row and they are not the start of the string
+            friendlyString += lowercase[caps.index(i)] #append the lower case version
         else:
             pass
-    return stringList
+    return friendlyString
+
+#this makes friendly strings for every element in the list
+#we will call this function on the HTML italics list
+def friendlyList(List):
+    friendlyList = []
+    for i in List:
+        friendlyList.append(friendlyString(i))
+    return friendlyList
+    
+
+def findItalics(string): #finds all the text in italics <i>like this!</i>
+    length = len(string)
+    italics = [] #this is the empty list to which we will append all italics
+    j = -1
+    #states work like so:
+    #   state = 0: we're just in text
+    #   state = 1: last character was '<' (we're in a tag that might be italics)
+    #   state = 2: last 2 characters were <i
+    #   state = 3: last 3 characters were <i> now we're appending to string
+    #   from state 3, if we see a <, state becomes 0 and we add the string to
+    #   italics
+    for i in string:
+        j+=1 #j is the actual index, i is the character
+        if j == 0:
+            state = 0
+        elif state == 0:
+            if i == '<':
+                state = 1
+        elif state == 1:
+            #print i, i == 'i'
+            if i == 'i':
+                state = 2
+            else:
+                state = 0 #if it's not an i, we don't care about the tag
+        elif state == 2:
+            if i == '>':
+                state = 3
+                stageDir = "" #make a new empty string in prep for stageDir
+            else:
+                state = 0 #hopefully this never happens
+        elif state == 3:
+            if i == '<':
+                state = 0
+                italics.append(stageDir)
+            else:
+                stageDir = stageDir + i
+        #print type(i), i, type('<'), i == '<', state, j
+    return italics
+
+#this is all the html
+#it still needs to become friendly
+HTMLItalicsList = findItalics(fullShakes)
+
+
+friendlyHTML = friendlyList(HTMLItalicsList)
+
+
+def changeStageDir(html):
+    #this is going to change the JSON file to not have its stupid stagedir shit
+    JSONdir =[] #this is a new list of all the JSON stage directions 
+    for i in data:
+        curItem = i["text_entry"]
+        print curItem, friendlyString(str(curItem))
+        if friendlyString(i["text_entry"]) in friendlyHTML:
+            JSONdir.append(i)
+            print JSONdir, "true"
+        else:
+            print "false"
+    print len(JSONdir)
+    for j in JSONdir:
+        j["speaker"] = "Stage Directions"
+            
+            
+    
