@@ -58,7 +58,9 @@ var setup = function(div,w){
 	lines.append(texts);
 	but.on('click',function(){
 		var word= input.val();
-		
+		d3.select("body")
+       .remove();
+		setup($(div),word)
 		search(word);
 
 		
@@ -75,8 +77,8 @@ var setup = function(div,w){
 				}
 		}
 		
-		d3.selectAll("svg")
-       .remove();
+		
+		
 		
 		var AllData=allData;
 		for (var i=0; i<AllData.length; i++){
@@ -120,7 +122,7 @@ var setup = function(div,w){
 					}
 				}
 				var dat=data
-				console.log(dat)
+				
 				draw(dat,plays);
 			
 		});
@@ -129,6 +131,20 @@ var setup = function(div,w){
 
 	search(w);
 		
+
+
+				
+		
+	}
+	return {setup:setup}
+}();
+
+$(document).ready(function(){
+	$(".searchWord").each(function(){
+		searchWord.setup($(this),"crown");
+	});
+});
+
 
 var draw= function(data,play) {
 
@@ -219,14 +235,3 @@ function zoom(d, i) {
   d3.event.stopPropagation();
 }
 };		
-				
-		
-	}
-	return {setup:setup}
-}();
-
-$(document).ready(function(){
-	$(".searchWord").each(function(){
-		searchWord.setup($(this),"crown");
-	});
-});
