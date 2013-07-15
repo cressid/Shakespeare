@@ -53,16 +53,16 @@ var setup = function(div,w){
 	var input=$('<input class=mysearch></input>',{type: "text", size: 200, align: "center"});
 	input.val(w);
     var but=$('<button class="searchbutton">Search for Word</button>');
-	var texts=$('<lablel class=text>LINES GO HERE</label>');
+	var texts=$('<lablel class=text></label>');
 	 var lines=$('<div class="lines"></div>');
 	lines.append(texts);
 	but.on('click',function(){
 		var word= input.val();
-		d3.select("body")
+		d3.selectAll("svg")
        .remove();
-		setup($(div),word)
+		
 		search(word);
-
+		texts.html("");
 		
 		});
 	back.append(input,but,lines);
@@ -71,16 +71,13 @@ var setup = function(div,w){
 	
 	
 	var search=function(word){
-		for (key1 in plays){
-			for (key2 in plays[key1]["characters"]){
-				plays[key1]["characters"][key2]=[];
-				}
-		}
+		plays=temp;
 		
 		
 		
 		
 		var AllData=allData;
+		var lineDat={};
 		for (var i=0; i<AllData.length; i++){
 		if(AllData[i]["text_entry"].indexOf(word)>-1){
 		if(AllData[i]["play_name"]!=null){
@@ -91,40 +88,57 @@ var setup = function(div,w){
 		}
 		}
 		}
+		var hist=null;
+		var com=null;
+		var trag=null;
+		var chars={};
 			$.getJSON("flare.json", function(data) {
 				plays=temp;
-				var hist=data.children[0].children[0].children;
-				var com=data.children[0].children[1].children;
-				var trag=data.children[0].children[2].children;
+				hist=data.children[0].children[0].children;
+				com=data.children[0].children[1].children;
+				trag=data.children[0].children[2].children;
 				for( var i=0;i<hist.length;i++){
-				
+				hist[i].children=[];
 					for(key in plays[hist[i]["name"]]["characters"])
 					{
 						
 						hist[i].children.push({"name":key, "size": plays[hist[i]["name"]]["characters"][key].length});
+						lineDat[hist[i]["name"]+key]=plays[hist[i]["name"]]["characters"][key];
 						
-					}
+					}	
+					chars["name"]=plays[hist[i]["name"]]["characters"];
 				}
 				for( var i=0;i<com.length;i++){
+					com[i].children=[];
 					for(key in plays[com[i]["name"]]["characters"])
 					{
 						
 						com[i].children.push({"name":key, "size": plays[com[i]["name"]]["characters"][key].length});
+						lineDat[com[i]["name"]+key]=plays[com[i]["name"]]["characters"][key];
 						
 					}
+					chars["name"]=plays[com[i]["name"]]["characters"];
 				}
 				for( var i=0;i<trag.length;i++){
+					trag[i].children=[];
+				
+					
 					for(key in plays[trag[i]["name"]]["characters"])
 					{
 						
 						trag[i].children.push({"name":key, "size": plays[trag[i]["name"]]["characters"][key].length});
-						
+						lineDat[trag[i]["name"]+key]=plays[trag[i]["name"]]["characters"][key];
+				
 					}
+					chars["name"]=plays[trag[i]["name"]]["characters"];
 				}
 				var dat=data
-				
-				draw(dat,plays);
 			
+				draw(dat,lineDat,texts);
+				for( var i=0;i<trag.length;i++){plays[trag[i]["name"]]["characters"]={};}
+				for( var i=0;i<com.length;i++){plays[com[i]["name"]]["characters"]={};}
+				for( var i=0;i<hist.length;i++){plays[hist[i]["name"]]["characters"]={};}
+				
 		});
 			
 		}
@@ -140,13 +154,13 @@ var setup = function(div,w){
 }();
 
 $(document).ready(function(){
-	$(".searchWord").each(function(){
+	$(".Search").each(function(){
 		searchWord.setup($(this),"crown");
 	});
 });
 
 
-var draw= function(data,play) {
+var draw= function(datas,myplay,textIN) {
 
 d3.select("body")
 	.append("svg")
@@ -174,7 +188,7 @@ var vis = d3.select("body").insert("svg:svg", "h2")
     .attr("transform", "translate(" + (w - r) / 2 + "," + (h - r) / 2 + ")");
 
 	
-  node = root = data;
+  node = root = datas;
 
   var nodes = pack.nodes(root);
 	
@@ -185,13 +199,15 @@ var vis = d3.select("body").insert("svg:svg", "h2")
       .attr("cx", function(d) { return d.x; })
       .attr("cy", function(d) { return d.y; })
       .attr("r", function(d) { return d.r; })
-      .on("click", function(d) { if(d.children!=null){return zoom(node == d ? root : d);}
+      .on("click", function(d) { 
+		  if(d.children!=null){return zoom(node == d ? root : d);}
 							   else{
 								   var words=d.name +": <br>"; 
-								 for(var i=0;i<play[d.parent.name]["characters"][d.name].length;i++){
-									 words+=play[d.parent.name]["characters"][d.name][i]+"<br>";
+								   console.log()
+								 for(var i=0;i<myplay[d.parent.name+d.name].length;i++){
+									 words+=myplay[d.parent.name+d.name][i]+"<br>";
 								 }
-									texts.html(words)
+									textIN.html(words)
 											   
 											   
 											   }});
