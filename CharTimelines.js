@@ -58,7 +58,7 @@ dataSet["Acts"].push(i);
 dataSet["Scenes"].push(i);
 } 
 }
-	console.log(dataSet);
+	
 return dataSet
 }
  
@@ -67,7 +67,7 @@ return dataSet
 var width = 5000;
 var height = 50;
 var space=.2
-var makeTimeLine = function(play,data, character,lines){
+var makeTimeLine = function(play,data, character,lines,wordLoc){
 
 var svg = d3.select("body")
             .append("svg")
@@ -77,7 +77,13 @@ var svg = d3.select("body")
       .attr('x', '20px')
 	  .attr('y', '38px')
       .text(character);
-	
+var tooltip = d3.select("body")
+				.append("div")
+				.style("position", "absolute")
+				.style("z-index", "10")
+				.style("visibility", "hidden")
+				.style("background","lightsteelblue")
+				.text("love");	
 var rectangle = svg.append("rect")
 
                             .attr("x", 0)
@@ -93,7 +99,7 @@ ActRect.data(data["Acts"])
 .append("rect")
 							.attr("x", function(d){return d*space})
                             .attr("y", 10)
-                            .attr("width", 1)
+                            .attr("width", 2)
                             .attr("height", 40)
 							.attr("fill",  "silver");
 var SceneRect=svg.selectAll("rect");
@@ -116,13 +122,25 @@ rect.data(lines[character])
 return d*space; //so they're not all on top of each other
 })
 .attr("y", function(d){
+	if(wordLoc[character]!=null){
+		if(wordLoc[character].indexOf(d)>-1){return height-13}};
 return height-10;
 })
-.attr("fill",  "blue")
+.attr("fill",  function(d){
+	if(wordLoc[character]!=null){
+		if(wordLoc[character].indexOf(d)>-1){return "magenta"};
+	}return "blue"})
 .attr("width", 2) //so that the entire rectangles all fit together!
 .attr("height", function(d) {
-return 10;
+if(wordLoc[character]!=null){
+		if(wordLoc[character].indexOf(d)>-1){return 13};
+	}return 10;
 })
+.on("mouseover", function(d){if(wordLoc[character]!=null){
+		if(wordLoc[character].indexOf(d)>-1){return tooltip.style("visibility", "visible").text(play[d]["text_entry"])}}else{return null}})
+.on("mousemove", function(){return tooltip.style("top", (event.pageY-10)+"px").style("left",(event.pageX+10)+"px");})
+.on("mouseout", function(){return tooltip.style("visibility", "hidden");});
+
 var txt=svg.selectAll("text");
 	
 txt.data(data["Acts"])
@@ -139,7 +157,27 @@ return 10;
           
       };
 	
-
+var search=function(word,play)
+{
+		var locs={};
+		for (var i=0; i<play.length; i++){
+			
+		if(play[i]["text_entry"].indexOf(word)>-1){
+		
+		if(play[i]["play_name"]!=null){
+		
+			var speaker=play[i]["speaker"]
+			if(locs[speaker]!=null)
+			   {
+			   locs[speaker].push(i);
+			 }
+			 else{
+				 locs[speaker]=[i];}
+		}
+		}
+		}
+	return locs
+}
  
 var setup = function(div,title){	
 var playLookup={"TwoGentlemenOfVerona":TwoGentlemenOfVerona,"Hamlet":Hamlet,
@@ -159,14 +197,18 @@ var playLookup={"TwoGentlemenOfVerona":TwoGentlemenOfVerona,"Hamlet":Hamlet,
 };	
 var myplay=playLookup[title];	
 	var input=$('<input class=mysearch></input>',{type: "text", size: 200, align: "center"});
-	input.val("test");
+	input.val("love");
     var but=$('<button class="searchbutton">Search for Word</button>');
 	but.on('click',function(){
 		var word= input.val();
 		d3.selectAll("svg")
        .remove();
-		
-		search(word);
+		var highlight=search(word,playLookup[title]);
+		for (var i=0; i<TwoGents[0].length; i++){
+//for (var i=0; i<1; i++){
+	
+makeTimeLine(myplay,data,TwoGents[0][i],TwoGents[1],highlight);
+}
 		
 		});
 	$(div).append(input,but);
@@ -176,6 +218,7 @@ normalizePlayLines(myplay);
 var TwoGents = charLineNums(myplay);
 
 var data = buildDataSet(myplay);
+	
 var svg = d3.select("body")
             .append("svg")
             .attr("width", width)
@@ -183,11 +226,12 @@ var svg = d3.select("body")
 	svg.append('text')
       .attr('x', '20px')
 	  .attr('y', '38px')
-      .text(myplay[0]["play_name"]);	
+      .text(myplay[0]["play_name"]);
+var highlight=	search("love",playLookup[title]);
 for (var i=0; i<TwoGents[0].length; i++){
 //for (var i=0; i<1; i++){
 	
-makeTimeLine(myplay,data,TwoGents[0][i],TwoGents[1]);
+makeTimeLine(myplay,data,TwoGents[0][i],TwoGents[1],highlight);
 }
 	
 }
