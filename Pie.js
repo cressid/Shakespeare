@@ -4,7 +4,7 @@ var Pie = function(){
 
 	var setup = function(div,title){
 		
-	var mydiv=$('<div id=myPie><div>');
+	var mydiv=$('<div id=myPie'+title+'><div>');
 	$(div).append(mydiv);
 var playLookup={"Hamlet":Hamlet,
 "ComedyOfErrors":ComedyOfErrors,"MidsummerNightsDream":MidsummerNightsDream,
@@ -87,7 +87,7 @@ var playLookup={"Hamlet":Hamlet,
 			data.push(newArray);
 		//console.log("data is " + data);
 		
-		var vis = d3.select("#myPie")
+		var vis = d3.select('#myPie'+title)
 			.append("svg:svg")              //create the SVG element inside the <body>
 			.data([data])                   //associate our data with the document
             .attr("width", w)           //set the width and height of our visualization (these will be attributes of the <svg> tag

@@ -1,7 +1,7 @@
 var CharacterChart = function(){
 
 	var setup = function(div,title){
-		var mydiv=$('<div id=myTable><div>');
+		var mydiv=$('<div id=myTable'+title+'><div>');
 		$(div).append(mydiv);
 		var playLookup={"TwoGentlemenOfVerona":TwoGentlemenOfVerona,"Hamlet":Hamlet,
 "ComedyOfErrors":ComedyOfErrors,"MidsummerNightsDream":MidsummerNightsDream,
@@ -20,7 +20,7 @@ var CharacterChart = function(){
 };	
 var myplay=playLookup[title];	
 var thisdiv=$('<div id='+title+'><div>');
-		$(div).append(thisdiv);		
+		mydiv.append(thisdiv);		
 		var offset=145;
 		var w = 900,                        //width
 		h = 900,                            //height
@@ -147,7 +147,7 @@ var Table = function module() {
             // SVG
             var parentDiv = d3.select(this).html('');
             var svg = parentDiv.append('svg').attr('width', opts.width).attr('height', opts.height);
-			var tooltip = d3.select("#"+title+"")
+			var tooltip = d3.select("#myTable"+title+"")
 				.append("div")
 				.style("position", "absolute")
 				.style("z-index", "10")
@@ -293,7 +293,7 @@ var height = 40*characters.length;
 
 var table = Table().width(width).height(height);
 
-d3.select("#"+title+"")
+d3.select("#myTable"+title+"")
     .datum(dataset)
     .call(table);
         

@@ -7,15 +7,27 @@ var visual = function(){
 	for(var i =0;i<vis.length;i++){
 		
 		if(vis[i]=="'Search'")
-		{
-			
-			 Mysearch=$("<div class='Search'  data-text = "+plays.join()+"></div>");  
-	$(div).append(Mysearch);	
+		{	var backdiv=$('<div></div>')
+			var but=$('<button>Expand<button>');
+			var Mysearch=$("<div class='Search'  data-text = "+plays.join()+"></div>");
+			but.on("click",function(){
+				if(Mysearch.width()<=300){Mysearch.width(900);Mysearch.height(900);}
+				else{Mysearch.width(300);Mysearch.height(200);}
+					});
+		 Mysearch.prepend(but);
+			backdiv.append(Mysearch);
+	$(div).append(backdiv);	
 		}
 		else{
 			var backdiv=$('<div></div>')
 			for(var j=0;j<plays.length;j++){
 				var mydiv=$('<div class='+vis[i]+' id= '+plays[j]+'></div>');
+				var mybut=$('<button><button>');
+				mybut.on("click",function(){
+				if(mydiv.width()<=300){mydiv.width(900);mydiv.height(900);}
+				else{mydiv.width(300);mydiv.height(200);}
+					});
+					mydiv.prepend(mybut);
 					backdiv.append(mydiv);	
 			}
 			$(div).append(backdiv);

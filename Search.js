@@ -67,9 +67,9 @@ var dat=null;
 var setup = function(div,w){	
 	var mydiv=$('<div id=mySearchDiv><div>');
 	$(div).append(mydiv);
-	 var back=$('<div id="back">');
 	var input=$('<input class=mysearch></input>',{type: "text", size: 200, align: "center"});
 	input.val(w);
+	var center=$('<center></center>');
     var but=$('<button class="searchbutton">Search for Word</button>');
 	var texts=$('<lablel class=text></label>');
 	 var lines=$('<div class="lines"></div>');
@@ -83,8 +83,8 @@ var setup = function(div,w){
 		texts.html("");
 		
 		});
-	back.append(input,but,lines);
-    $(div).prepend(back);
+	center.append(input,but,lines);
+    $(div).prepend(center);
 	
 	
 	
@@ -94,12 +94,12 @@ var setup = function(div,w){
 		
 		
 		
-		var dat=$('.Search').data('text').split(',');
+		var mydat=$('.Search').data('text').split(',');
 		var AllData=[];
-	
-		for(var i=0;i<dat.length;i++)
+		
+		for(var i=0;i<mydat.length;i++)
 		{
-			var readPlay=playLookup[dat[i]];
+			var readPlay=playLookup[mydat[i]];
 			
 			for(var j=0;j<readPlay.length;j++)
 			{
@@ -165,7 +165,7 @@ var setup = function(div,w){
 				}
 				var dat=data
 			
-				draw(dat,lineDat,texts);
+				draw(dat,lineDat,texts,div);
 				for( var i=0;i<trag.length;i++){plays[trag[i]["name"]]["characters"]={};}
 				for( var i=0;i<com.length;i++){plays[com[i]["name"]]["characters"]={};}
 				for( var i=0;i<hist.length;i++){plays[hist[i]["name"]]["characters"]={};}
@@ -189,23 +189,19 @@ $(document).ready(function(){
 	setTimeout( function(){
 		$(".Search").each(function(){
 		searchWord.setup($(this),"crown");
-	});}, 0 );
+	});}, 10 );
 	
 	});
 
 
 
-var draw= function(datas,myplay,textIN) {
+var draw= function(datas,myplay,textIN,div) {
 
-d3.select("#mySearchDiv")
-	.append("svg")
-	.attr("width", 500)
-   .attr("height", 50);
 	
 	
-			 var w = 880,
-    h = 600,
-    r = 600,
+			 var w = $(div).width(),
+    h = $(div).height(),
+    r = Math.min(h,w),
     x = d3.scale.linear().range([0, r]),
     y = d3.scale.linear().range([0, r]),
     node,

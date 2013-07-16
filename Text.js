@@ -16,7 +16,8 @@ var playText = function(){
 "TroilusAndCressida":TroilusAndCressida,"TwelfthNight":TwelfthNight
 
 };	
-		
+var mydiv=$('<div id=myText><div>');
+	$(div).append(mydiv);		
 		
 var myplay=playLookup[title];	
 		var offset=145;
@@ -81,7 +82,7 @@ var texts=$('<lablel class=text></label>');
 	 var lines=$('<div></div>');
 lines.append(texts);
 
-		$(div).append(center,lines);
+		mydiv.append(center,lines);
 		
 		$("#char").change(function(){
   			var id = $(this).find("option:selected").text();
