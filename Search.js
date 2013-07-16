@@ -1,5 +1,6 @@
 
 var searchWord = function(div){
+	
 size = function(obj) {
     var size = 0, key;
     for (key in obj) {
@@ -7,6 +8,7 @@ size = function(obj) {
     }
     return size;
 };
+	
 var plays={"King John" : {"type":"History","characters":{}},
 	"Richard II" : {"type":"History","characters":{}},
 	"Henry IV" : {"type":"History","characters":{}},
@@ -44,11 +46,27 @@ var plays={"King John" : {"type":"History","characters":{}},
 	"Antony and Cleopatra" : {"type":"Tragedy","characters":{}},
 	"Cymbeline" : {"type":"Tragedy","characters":{}}};
 var temp=plays;
+var playLookup={"TwoGentlemenOfVerona":TwoGentlemenOfVerona,"Hamlet":Hamlet,
+"ComedyOfErrors":ComedyOfErrors,"MidsummerNightsDream":MidsummerNightsDream,
+"WintersTale":WintersTale,"AllsWellThatEndsWell":AllsWellThatEndsWell,				
+"AntonyAndCleopatra":AntonyAndCleopatra,"AsYouLikeIt":AsYouLikeIt,"Coriolanus":Coriolanus,
+"Cymbeline":Cymbeline,"HenryIV":HenryIV,"HenryV":HenryV,"HenryVIPart1":HenryVIPart1,
+"HenryVIPart2":HenryVIPart2,"HenryVIPart3":HenryVIPart3,"HenryVIII":HenryVIII,
+"JuliusCaesar":JuliusCaesar,"KingJohn":KingJohn, "KingLear":KingLear, 
+"LovesLaboursLost":LovesLaboursLost, "Macbeth":Macbeth,"MeasureForMeasure":MeasureForMeasure,
+"MerchantOfVenice":MerchantOfVenice,"MerryWivesOfWindsor":MerryWivesOfWindsor,
+"MuchAdoAboutNothing":MuchAdoAboutNothing,"Othello":Othello,"Pericles":Pericles,"RichardII":RichardII,
+"RichardIII":RichardIII,"RomeoAndJuliet":RomeoAndJuliet,"TamingOfTheShrew":TamingOfTheShrew,
+"TheTempest":TheTempest,"TimonOfAthens":TimonOfAthens,"TitusAndronicus":TitusAndronicus,
+"TroilusAndCressida":TroilusAndCressida,"TwelfthNight":TwelfthNight
 
+};	
 	
 var dat=null;
 
 var setup = function(div,w){	
+	var mydiv=$('<div id=mySearchDiv><div>');
+	$(div).append(mydiv);
 	 var back=$('<div id="back">');
 	var input=$('<input class=mysearch></input>',{type: "text", size: 200, align: "center"});
 	input.val(w);
@@ -58,7 +76,7 @@ var setup = function(div,w){
 	lines.append(texts);
 	but.on('click',function(){
 		var word= input.val();
-		d3.selectAll("svg")
+		d3.selectAll("#mySearchDiv svg")
        .remove();
 		
 		search(word);
@@ -66,7 +84,7 @@ var setup = function(div,w){
 		
 		});
 	back.append(input,but,lines);
-    $(div).append(back);
+    $(div).prepend(back);
 	
 	
 	
@@ -76,7 +94,20 @@ var setup = function(div,w){
 		
 		
 		
-		var AllData=allData;
+		var dat=$('.Search').data('text').split(',');
+		var AllData=[];
+	
+		for(var i=0;i<dat.length;i++)
+		{
+			var readPlay=playLookup[dat[i]];
+			
+			for(var j=0;j<readPlay.length;j++)
+			{
+				AllData.push(readPlay[j]);
+			}
+		}
+		
+		
 		var lineDat={};
 		for (var i=0; i<AllData.length; i++){
 		if(AllData[i]["text_entry"].indexOf(word)>-1){
@@ -154,15 +185,19 @@ var setup = function(div,w){
 }();
 
 $(document).ready(function(){
-	$(".Search").each(function(){
+	
+	setTimeout( function(){
+		$(".Search").each(function(){
 		searchWord.setup($(this),"crown");
+	});}, 0 );
+	
 	});
-});
+
 
 
 var draw= function(datas,myplay,textIN) {
 
-d3.select("body")
+d3.select("#mySearchDiv")
 	.append("svg")
 	.attr("width", 500)
    .attr("height", 50);
@@ -180,7 +215,7 @@ var pack = d3.layout.pack()
     .size([r, r])
     .value(function(d) { return d.size; })
 
-var vis = d3.select("body").insert("svg:svg", "h2")
+var vis = d3.select("#mySearchDiv").insert("svg:svg", "h2")
     .attr("width", w)
     .attr("height", h)
   .append("svg:g")
@@ -203,7 +238,7 @@ var vis = d3.select("body").insert("svg:svg", "h2")
 		  if(d.children!=null){return zoom(node == d ? root : d);}
 							   else{
 								   var words=d.name +": <br>"; 
-								   console.log()
+								 
 								 for(var i=0;i<myplay[d.parent.name+d.name].length;i++){
 									 words+=myplay[d.parent.name+d.name][i]+"<br>";
 								 }
