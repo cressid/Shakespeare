@@ -3147,7 +3147,7 @@ var RichardIII = [
     "line_number": "1.2.214", 
     "speech_number": 80, 
     "play_name": "Richard III", 
-    "text_entry": "Look, how this ring encompasseth finger.", 
+    "text_entry": "Look, how this ring encompasseth thy finger.", 
     "line_id": 81734, 
     "speaker": "GLOUCESTER"
   }, 

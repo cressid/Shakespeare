@@ -1,6 +1,6 @@
 import json
 
-data = json.load(open("will_play_text.json"))
+data = json.load(open("withStageDir.json"))
 
 play_names = ["Alls well that ends well", "As you like it", "A Comedy of Errors",\
               "Cymbeline", "Loves Labours Lost", "Measure for measure",\
