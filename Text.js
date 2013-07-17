@@ -93,7 +93,7 @@ lines.append(texts);
 		{
 		var currentSpeaker=null;
 		
-		console.log(character);
+		
 		var text="";
 		for (var i=0; i<myplay.length; i++){
 			if(myplay[i]["speaker"]=="Stage Directions")

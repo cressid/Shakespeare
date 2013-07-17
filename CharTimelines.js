@@ -67,9 +67,9 @@ return dataSet
 var width = 5000;
 var height = 50;
 var space=.2
-var makeTimeLine = function(play,data, character,lines,wordLoc){
+var makeTimeLine = function(play,data, character,lines,wordLoc,title){
 
-var svg = d3.select("#myTimeline")
+var svg = d3.select("#myTimeline"+title)
             .append("svg")
             .attr("width", width)
             .attr("height", height);
@@ -77,7 +77,7 @@ var svg = d3.select("#myTimeline")
       .attr('x', '20px')
 	  .attr('y', '38px')
       .text(character);
-var tooltip = d3.select("#myTimeline")
+var tooltip = d3.select("#myTimeline"+title)
 				.append("div")
 				.style("position", "absolute")
 				.style("z-index", "10")
@@ -183,7 +183,7 @@ var search=function(word,play)
 }
  
 var setup = function(div,title){
-var mydiv=$('<div id=myTimeline><div>');
+var mydiv=$('<div id=myTimeline'+title+'><div>');
 $(div).append(mydiv);
 	
 var playLookup={"TwoGentlemenOfVerona":TwoGentlemenOfVerona,"Hamlet":Hamlet,
@@ -205,11 +205,12 @@ var myplay=playLookup[title];
 	var input=$('<input class=mysearch></input>',{type: "text", size: 200, align: "center"});
 	input.val("love");
     var but=$('<button class="searchbutton">Search for Word</button>');
+	 var label=$('<div><label>'+title+'</label></div>');
 	but.on('click',function(){
 		var word= input.val();
-		d3.selectAll("#myTimeline svg")
+		d3.selectAll("#myTimeline"+title+" svg")
        .remove();
-		var svg = d3.select("#myTimeline")
+		var svg = d3.select("#myTimeline"+title)
             .append("svg")
             .attr("width", width)
             .attr("height", height);
@@ -221,11 +222,11 @@ var myplay=playLookup[title];
 		for (var i=0; i<TwoGents[0].length; i++){
 //for (var i=0; i<1; i++){
 	
-makeTimeLine(myplay,data,TwoGents[0][i],TwoGents[1],highlight);
+makeTimeLine(myplay,data,TwoGents[0][i],TwoGents[1],highlight,title);
 }
 		
 		});
-	$(div).prepend(input,but);
+	$(div).prepend(label,input,but);
     
 	
 normalizePlayLines(myplay);
@@ -233,7 +234,7 @@ var TwoGents = charLineNums(myplay);
 
 var data = buildDataSet(myplay);
 	
-var svg = d3.select("#myTimeline")
+var svg = d3.select("#myTimeline"+title)
             .append("svg")
             .attr("width", width)
             .attr("height", height);
@@ -246,7 +247,7 @@ var highlight=	search("love",playLookup[title]);
 for (var i=0; i<TwoGents[0].length; i++){
 //for (var i=0; i<1; i++){
 	
-makeTimeLine(myplay,data,TwoGents[0][i],TwoGents[1],highlight);
+makeTimeLine(myplay,data,TwoGents[0][i],TwoGents[1],highlight,title);
 }
 	
 }

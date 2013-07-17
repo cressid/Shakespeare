@@ -80,13 +80,13 @@ circle.child {
   pointer-events: none;
 }
 .searchbutton{
-	padding:10px;
-	margin:10px;
+	padding:5px;
+	margin:5px;
 	
 }
 .mysearch{
-	padding:10px;
-	margin:10px;
+	padding:5px;
+	margin:5px;
 	
 }
 .lines{
@@ -97,54 +97,54 @@ circle.child {
 }
 
 
-#myText
+.playText
 {
-	width:300px;
-	height:200px; 
+	width:100px;
+	height:100px; 
 	float:left;
 	overflow:scroll;
 	padding: 10px;
 	margin:10px;
 	border:1px solid black;
-	box-shadow: 5px 5px 3px #888888;
+	
 }
 .CharTimelines
 {
-	width:300px;
-	height:200px; 
+	width:100px;
+	height:100px; 
 	float:left;
 	overflow:scroll;
 	padding: 10px;
 	margin:10px;
 	border:1px solid black;
-	box-shadow: 5px 5px 3px #888888;
+
 }
 .CharacterChart
 {
-	width:300px;
-	height:200px; 
+	width:100px;
+	height:100px; 
 	float:left;
 	overflow:scroll;
 	padding: 10px;
 	margin:10px;
 	border:1px solid black;
-	box-shadow: 5px 5px 3px #888888;
+
 }
 .Pie
 {
-	width:300px;
-	height:200px; 
+	width:100px;
+	height:100px; 
 	float:left;
 	overflow:scroll;
 	padding: 10px;
 	margin:10px;
 	border:1px solid black;
-	box-shadow: 5px 5px 3px #888888;
+	;
 }
 .Search
 {
 	width:300px;
-	height:200px; 
+	height:300px; 
 	float:left;
 	overflow:scroll;
 	padding: 10px;
@@ -160,5 +160,21 @@ circle.child {
 	padding: 10px;
 	margin:10px;
 	border:1px solid black;
+	
+}
+.backdiv
+{
+	width:300px;
+	height:300px; 
+	float:left;
+	overflow:scroll;
+	padding: 10px;
+	margin:10px;
+	border:1px solid black;
 	box-shadow: 5px 5px 3px #888888;
+}
+.ExpandBut{
+	float: right;
+    padding: 2px;
+	height: 25px;
 }
