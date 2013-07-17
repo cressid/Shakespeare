@@ -1,0 +1,85 @@
+.selectAPlay{
+	width: 250px;
+	height: 70px;
+	margin: 10px;
+	font-size: 26px;
+}
+
+.selectData{
+	width: 250px;
+	height: 70px;
+	margin: 10px;
+	font-size: 26px;
+}
+
+.buttonDiv{
+	position: relative;
+	left: 500px;
+	top: 300px;
+}
+
+.playDiv{
+	position: absolute;
+	left: 300px;
+	top: 100px;
+	height: 460px;
+	width: 800px;
+	background-color: #e2e2e2;
+	border: 2px solid #e2e2e2;
+	border-radius: 8px;
+	opacity: 0;
+}
+
+.ComedyButtons{
+	position: relative;
+	left: 25px
+}
+
+.TragedyButtons{
+	position: relative;
+	top: -425px;
+	left: 285px;
+}
+
+#Comedies{
+	position: relative;
+	left: -15px;
+	top: 2px;
+}
+
+#comediesCheck{
+	position: relative;
+	left: -15px;
+	top: -25px;
+}
+
+.checkbox{
+	position: relative;
+	top: -15px;
+	left: 10px;
+}
+
+.playCheckbox{
+	position: relative;
+}
+
+#AllsWellThatEndsWell{
+	position: relative;
+	left: -14px;
+}
+
+#Tragedies{
+	position: relative;
+	left: -15px;
+}
+
+#Histories{
+	position: relative;
+	left: -15px;
+}
+
+.HistoryButtons{
+	position: relative;
+	left: 600px;
+	top: -700px;
+}
