@@ -39,7 +39,7 @@ charListSpeakers[character] = [i];
 }
 }
 }
-	
+		
 return [charList, charListSpeakers]
 }
  
@@ -69,7 +69,7 @@ var height = 50;
 var space=.2
 var makeTimeLine = function(play,data, character,lines,wordLoc){
 
-var svg = d3.select("body")
+var svg = d3.select("#myTimeline")
             .append("svg")
             .attr("width", width)
             .attr("height", height);
@@ -77,7 +77,7 @@ var svg = d3.select("body")
       .attr('x', '20px')
 	  .attr('y', '38px')
       .text(character);
-var tooltip = d3.select("body")
+var tooltip = d3.select("#myTimeline")
 				.append("div")
 				.style("position", "absolute")
 				.style("z-index", "10")
@@ -126,6 +126,7 @@ return d*space; //so they're not all on top of each other
 		if(wordLoc[character].indexOf(d)>-1){return height-13}};
 return height-10;
 })
+
 .attr("fill",  function(d){
 	if(wordLoc[character]!=null){
 		if(wordLoc[character].indexOf(d)>-1){return "magenta"};
@@ -141,6 +142,8 @@ if(wordLoc[character]!=null){
 .on("mousemove", function(){return tooltip.style("top", (event.pageY-10)+"px").style("left",(event.pageX+10)+"px");})
 .on("mouseout", function(){return tooltip.style("visibility", "hidden");});
 
+ 
+	
 var txt=svg.selectAll("text");
 	
 txt.data(data["Acts"])
@@ -179,7 +182,10 @@ var search=function(word,play)
 	return locs
 }
  
-var setup = function(div,title){	
+var setup = function(div,title){
+var mydiv=$('<div id=myTimeline><div>');
+$(div).append(mydiv);
+	
 var playLookup={"TwoGentlemenOfVerona":TwoGentlemenOfVerona,"Hamlet":Hamlet,
 "ComedyOfErrors":ComedyOfErrors,"MidsummerNightsDream":MidsummerNightsDream,
 "WintersTale":WintersTale,"AllsWellThatEndsWell":AllsWellThatEndsWell,				
@@ -201,8 +207,16 @@ var myplay=playLookup[title];
     var but=$('<button class="searchbutton">Search for Word</button>');
 	but.on('click',function(){
 		var word= input.val();
-		d3.selectAll("svg")
+		d3.selectAll("#myTimeline svg")
        .remove();
+		var svg = d3.select("#myTimeline")
+            .append("svg")
+            .attr("width", width)
+            .attr("height", height);
+	svg.append('text')
+      .attr('x', '20px')
+	  .attr('y', '38px')
+      .text(myplay[0]["play_name"]);
 		var highlight=search(word,playLookup[title]);
 		for (var i=0; i<TwoGents[0].length; i++){
 //for (var i=0; i<1; i++){
@@ -211,7 +225,7 @@ makeTimeLine(myplay,data,TwoGents[0][i],TwoGents[1],highlight);
 }
 		
 		});
-	$(div).append(input,but);
+	$(div).prepend(input,but);
     
 	
 normalizePlayLines(myplay);
@@ -219,7 +233,7 @@ var TwoGents = charLineNums(myplay);
 
 var data = buildDataSet(myplay);
 	
-var svg = d3.select("body")
+var svg = d3.select("#myTimeline")
             .append("svg")
             .attr("width", width)
             .attr("height", height);
@@ -227,6 +241,7 @@ var svg = d3.select("body")
       .attr('x', '20px')
 	  .attr('y', '38px')
       .text(myplay[0]["play_name"]);
+
 var highlight=	search("love",playLookup[title]);
 for (var i=0; i<TwoGents[0].length; i++){
 //for (var i=0; i<1; i++){
@@ -240,7 +255,9 @@ return {"setup":setup}
 }();
 
 $(document).ready(function(){
-$(".charTimelines").each(function(){
+		setTimeout( function(){
+	$(".charTimelines").each(function(){
 charTimelines.setup($(this),this.id);
-});
+	});}, 10 );
+
 });
