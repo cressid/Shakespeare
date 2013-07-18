@@ -1,9 +1,11 @@
+var runTimeline=function(){
 var charTimelines = function(playName){
 
 	
 //we need a function that will normalize each play so that each play starts at line 0
 //it will normalize the play when called
 //it will call the js file and
+var dist=40;	
 var myplay;
 var normalizePlayLines = function(play){
 var normalizeBy = parseInt(play[0].line_id);
@@ -65,8 +67,9 @@ return dataSet
 //now we need a function that generates a timeline based on the length of the play
 //it will color the timeline according to whether the character is speaking
 var width = 5000;
-var height = 50;
-var space=.2
+var height = dist*1.2;
+var space=dist/100;
+	
 var makeTimeLine = function(play,data, character,lines,wordLoc,title){
 
 var svg = d3.select("#myTimeline"+title)
@@ -74,8 +77,9 @@ var svg = d3.select("#myTimeline"+title)
             .attr("width", width)
             .attr("height", height);
 	svg.append('text')
-      .attr('x', '20px')
-	  .attr('y', '38px')
+      .attr('x', dist/2)
+	  .attr('y', dist)
+	.style("font-size",dist/5)
       .text(character);
 var tooltip = d3.select("#myTimeline"+title)
 				.append("div")
@@ -87,9 +91,9 @@ var tooltip = d3.select("#myTimeline"+title)
 var rectangle = svg.append("rect")
 
                             .attr("x", 0)
-                            .attr("y", 40)
-                            .attr("width", (play.length-5)*space)
-                            .attr("height", 10)
+                            .attr("y", dist)
+                            .attr("width", (play.length)*space)
+                            .attr("height", dist/4)
 							.attr("fill",  "silver");
 
 
@@ -98,18 +102,18 @@ ActRect.data(data["Acts"])
 .enter()
 .append("rect")
 							.attr("x", function(d){return d*space})
-                            .attr("y", 10)
-                            .attr("width", 2)
-                            .attr("height", 40)
+                            .attr("y", dist/4)
+                            .attr("width", function(){if(space>1){return space} return 1})
+                            .attr("height", dist)
 							.attr("fill",  "silver");
 var SceneRect=svg.selectAll("rect");
 ActRect.data(data["Scenes"])
 .enter()
 .append("rect")
 							.attr("x", function(d){return d*space})
-                            .attr("y", 30)
-                            .attr("width", 1)
-                            .attr("height", 10)
+                            .attr("y", dist*.75)
+                            .attr("width", function(){if(space>1){return space} return 1})
+                            .attr("height", dist/4)
 							.attr("fill",  "silver");
 		
 //now we're adding rectangles to this thing
@@ -123,23 +127,23 @@ return d*space; //so they're not all on top of each other
 })
 .attr("y", function(d){
 	if(wordLoc[character]!=null){
-		if(wordLoc[character].indexOf(d)>-1){return height-13}};
-return height-10;
+		if(wordLoc[character].indexOf(d)>-1){return height-dist*.4}};
+return height-dist/4;
 })
 
 .attr("fill",  function(d){
 	if(wordLoc[character]!=null){
 		if(wordLoc[character].indexOf(d)>-1){return "magenta"};
 	}return "blue"})
-.attr("width", 2) //so that the entire rectangles all fit together!
+.attr("width", function(){if(space>1){return space} return 1}) //so that the entire rectangles all fit together!
 .attr("height", function(d) {
 if(wordLoc[character]!=null){
-		if(wordLoc[character].indexOf(d)>-1){return 13};
-	}return 10;
+		if(wordLoc[character].indexOf(d)>-1){return dist*.4};
+	}return dist/4;
 })
 .on("mouseover", function(d){if(wordLoc[character]!=null){
 		if(wordLoc[character].indexOf(d)>-1){return tooltip.style("visibility", "visible").text(play[d]["text_entry"])}}else{return null}})
-.on("mousemove", function(){return tooltip.style("top", (event.pageY-10)+"px").style("left",(event.pageX+10)+"px");})
+.on("mousemove", function(){return tooltip.style("top", (event.pageY-dist/4)+"px").style("left",(event.pageX+dist/4)+"px");})
 .on("mouseout", function(){return tooltip.style("visibility", "hidden");});
 
  
@@ -150,11 +154,12 @@ txt.data(data["Acts"])
 .enter()
 .append('text')
 .attr("x", function(d, i) {
-return d*space+5; //so they're not all on top of each other
+return d*space+dist/8; //so they're not all on top of each other
 })
 .attr("y", function(d){
-return 10;
+return dist/4;
 })
+.style("font-size",dist/5)
       .text(function(d,i){return play[d]["text_entry"]});
 
           
@@ -183,6 +188,7 @@ var search=function(word,play)
 }
  
 var setup = function(div,title){
+$(div).css('font-size',w/20); 
 var mydiv=$('<div id=myTimeline'+title+'><div>');
 $(div).append(mydiv);
 	
@@ -201,23 +207,21 @@ var playLookup={"TwoGentlemenOfVerona":TwoGentlemenOfVerona,"Hamlet":Hamlet,
 "TroilusAndCressida":TroilusAndCressida,"TwelfthNight":TwelfthNight
 
 };	
+	
+var w = $(div).width(),                       
+		h = $(div).width();                         
+  $(div).css('font-size',w/20); 
+	dist=Math.min(h/5,40);
+	width = w*20;
+	height = dist*1.2;
+	space=dist/50;
 var myplay=playLookup[title];	
-	var input=$('<input class=mysearch></input>',{type: "text", size: 200, align: "center"});
+	var input=$('<input class=mysearch></input>',{type: "text", size: w/4, align: "center"});
 	input.val("love");
     var but=$('<button class="searchbutton">Search for Word</button>');
-	 var label=$('<div><label>'+title+'</label></div>');
+	
 	but.on('click',function(){
 		var word= input.val();
-		d3.selectAll("#myTimeline"+title+" svg")
-       .remove();
-		var svg = d3.select("#myTimeline"+title)
-            .append("svg")
-            .attr("width", width)
-            .attr("height", height);
-	svg.append('text')
-      .attr('x', '20px')
-	  .attr('y', '38px')
-      .text(myplay[0]["play_name"]);
 		var highlight=search(word,playLookup[title]);
 		for (var i=0; i<TwoGents[0].length; i++){
 //for (var i=0; i<1; i++){
@@ -226,7 +230,16 @@ makeTimeLine(myplay,data,TwoGents[0][i],TwoGents[1],highlight,title);
 }
 		
 		});
-	$(div).prepend(label,input,but);
+	
+		$(input).width(Math.min(w/3,40));
+		$(input).height(Math.min(h/10,30));
+	$(input).css('font-size', Math.min(w/20,20));
+	$(input).css('line-height','30%');
+	$(but).width(Math.min(w/3,40));
+	$(but).css('font-size', Math.min(w/20,20));
+	$(but).css('line-height','80%');
+		$(but).height(Math.min(h/10,30));
+	$(div).prepend(input,but);
     
 	
 normalizePlayLines(myplay);
@@ -234,14 +247,7 @@ var TwoGents = charLineNums(myplay);
 
 var data = buildDataSet(myplay);
 	
-var svg = d3.select("#myTimeline"+title)
-            .append("svg")
-            .attr("width", width)
-            .attr("height", height);
-	svg.append('text')
-      .attr('x', '20px')
-	  .attr('y', '38px')
-      .text(myplay[0]["play_name"]);
+
 
 var highlight=	search("love",playLookup[title]);
 for (var i=0; i<TwoGents[0].length; i++){
@@ -262,3 +268,4 @@ charTimelines.setup($(this),this.id);
 	});}, 10 );
 
 });
+};

@@ -1,3 +1,4 @@
+var runText=function(){
 var playText = function(){
 
 	var setup = function(div,title){
@@ -20,11 +21,10 @@ var mydiv=$('<div id=myText><div>');
 	$(div).append(mydiv);		
 		
 var myplay=playLookup[title];	
-		var offset=145;
-		var w = 900,                        //width
-		h = 900,                            //height
-		r = 300,                            //radius
-		color = d3.scale.category20c();     //builtin range of colors
+		
+		var w = $(div).width(),                       
+		h = $(div).height();                         
+		$(div).css('font-size',w/20);
 		
 		//note: characters and charsWithLines are in the SAME ORDER (so Hamlet would be the first in both if he were first in one)
 		var characters = []; //will have format [HAMLET, CLAUDIUS]
@@ -78,15 +78,20 @@ var myplay=playLookup[title];
 			dropdown.append($("<option>"+characters[i]+"</option>"));
 		}
 		center.append(dropdown);
-var texts=$('<lablel class=text></label>');
+		$(dropdown).width(w);
+		$(dropdown).height(h/5);
+		$(dropdown).css('font-size',w/20);
+var texts=$('<lablel class=text id=text'+title+'></label>');
 	 var lines=$('<div></div>');
+		
 lines.append(texts);
 
 		mydiv.append(center,lines);
 		
 		$("#char").change(function(){
   			var id = $(this).find("option:selected").text();
-			write(texts,myplay,id)	;
+			var t=$('#text'+title)
+			write(t,myplay,id)	;
   });
 	write(texts,myplay,"None")	;
 	function write(texts, myplay,character)	
@@ -132,3 +137,4 @@ $(document).ready(function(){
 	});}, 10 );
 	
 });
+}

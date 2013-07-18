@@ -1,3 +1,4 @@
+var runPie=function(){
 var Pie = function(){
 
 
@@ -21,10 +22,12 @@ var playLookup={"Hamlet":Hamlet,
 "TroilusAndCressida":TroilusAndCressida,"TwelfthNight":TwelfthNight,"TwoGentlemenOfVerona":TwoGentlemenOfVerona
 
 };	
+		
 		var myplay=playLookup[title];
-		var w = 350,                        //width
-		h = 350,                            //height
-		r = 100;                            //radius
+		var w = $(div).width()*2,                       
+		h = $(div).width()*1.4;                         
+		$(div).css('font-size',w/20);                        //height
+		var r = h/4;                            //radius
 		     //builtin range of colors
 		
 		//note: characters and charsWithLines are in the SAME ORDER (so Hamlet would be the first in both if he were first in one)
@@ -93,7 +96,7 @@ var playLookup={"Hamlet":Hamlet,
             .attr("width", w)           //set the width and height of our visualization (these will be attributes of the <svg> tag
             .attr("height", h)
 			.append("svg:g")//make a group to hold our pie chart
-            .attr("transform", "translate(" + 2*r + "," + 2*r + ")")    //move the center of the pie chart from 0, 0 to radius, radius
+            .attr("transform", "translate(" + w/2 + "," + h/2 + ")")    //move the center of the pie chart from 0, 0 to radius, radius
 			
 		
 			
@@ -114,7 +117,8 @@ var playLookup={"Hamlet":Hamlet,
                 .attr("fill", function(d, i) { return color(i); } ) //set the color for each slice to be chosen from the color function defined above
                 .attr("d", arc);                                    //this creates the actual SVG path using the associated data (pie) with the arc drawing function
  
-               arcs.append("svg:text")                                     //add a label to each slice
+               arcs.append("svg:text")
+			   .style("font-size",r/10)
                 .attr("transform", function(d) {                    //set the label's origin to the center of the arc
                 //we have to make sure to set these before calling arc.centroid
                 d.innerRadius = 0;
@@ -131,14 +135,15 @@ var playLookup={"Hamlet":Hamlet,
     var c = arc.centroid(d),
         x = c[0],
         y = c[1],
-		rad=r+10,
-		tilt=(d.endAngle + d.startAngle)/2
+		rad=r*1.1,
+		tilt=(d.endAngle + d.startAngle)/2,
+		
         // pythagorean theorem for hypotenuse
         h = Math.sqrt(x*x + y*y);
     return "translate(" + (x/h * rad) +  ',' +
        (y/h * rad) +  ")" +"rotate("+tilt*7+")"; 
 })
-	
+			
             .text(function(d, i) { return data[i].label +" "+data[i].value; });        //get the label from our original data array
 	}
   
@@ -152,3 +157,4 @@ $(document).ready(function(){
 	});
 	},10);
 });
+};

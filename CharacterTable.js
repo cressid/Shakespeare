@@ -1,3 +1,4 @@
+var runTable=function(){
 var CharacterChart = function(){
 
 	var setup = function(div,title){
@@ -20,12 +21,12 @@ var CharacterChart = function(){
 };	
 var myplay=playLookup[title];	
 var thisdiv=$('<div id='+title+'><div>');
-		mydiv.append(thisdiv);		
-		var offset=145;
-		var w = 900,                        //width
-		h = 900,                            //height
-		r = 300,                            //radius
-		color = d3.scale.category20c();     //builtin range of colors
+		mydiv.append(thisdiv);
+		var w=$(mydiv).width();
+		var h=$(mydiv).height();
+		$(div).css('font-size',$(div).width()/40)		
+		var offset=0;
+
 		
 		//note: characters and charsWithLines are in the SAME ORDER (so Hamlet would be the first in both if he were first in one)
 		var characters = []; //will have format [HAMLET, CLAUDIUS]
@@ -122,9 +123,9 @@ for (var h=0;h<overlap.length;h++)
 // Table module ////////////////////////////////////
 var Table = function module() {
     var opts = {
-        width: 200,
-        height: 200,
-        margins: {top: 20, right: 20, bottom: 20, left: 20}
+        width: 0,
+        height: 0,
+        margins: {top: 2, right: 2, bottom: 2, left: 2}
     };
 	
     function exports(selection) {
@@ -141,8 +142,8 @@ var Table = function module() {
             // DOM preparation
             //________________________________________________
             // Size
-            var chartW = Math.max(opts.width - opts.margins.left - opts.margins.right, 0.1);
-            var chartH = Math.max(opts.height - opts.margins.top - opts.margins.bottom, 0.1);
+            var chartW = Math.max(opts.width - opts.margins.left - opts.margins.right, w);
+            var chartH = Math.max(opts.height - opts.margins.top - opts.margins.bottom,h );
 
             // SVG
             var parentDiv = d3.select(this).html('');
@@ -181,7 +182,7 @@ var Table = function module() {
             rowHeaderCell.enter().append('rect')
                 .attr({
                     class:'row-header-cell',
-                    width:offset+27,
+                    width:cellW*3,
 					height:cellH,
 					text:function(d,i){return dualCast[i]},
                     x: 0,
@@ -189,7 +190,7 @@ var Table = function module() {
                 })
                 .style({fill:'#eee', stroke:'silver'})
 				.on("mouseover", function(event){return tooltip.style("visibility", "visible").text(dualCast[characters.indexOf(event)])})
-				.on("mousemove", function(){return tooltip.style("top", (event.pageY-10)+"px").style("left",(event.pageX+10)+"px");})
+				.on("mousemove", function(){return tooltip.style("top", (event.pageY-height/2)+"px").style("left",(event.pageX-w)+"px");})
 				.on("mouseout", function(){return tooltip.style("visibility", "hidden");});
  
 
@@ -197,12 +198,12 @@ var Table = function module() {
             rowHeaderCell.enter().append('text')
                 .attr({
                     class:'row-header-content',
-                    x: offset/2,
+                    x: cellW/8,
                     y: function(d, i){return i * cellH + (cellH * colHeaderLevelNum)},
-                    dx: cellW/2,
+                    dx: 0,
                     dy: cellH/2
                 })
-                .style({fill:'black', 'text-anchor':'middle'})
+                .style({fill:'black', 'text-anchor':'left','font-size':w/40})
                 .text(function(d, i){return d;})
 		
           		
@@ -213,7 +214,7 @@ var Table = function module() {
                 .attr({
                     class:'col-header-cell',
                     width:cellW, height:cellH,
-                    x: function(d, i){return offset+i * cellW + (cellW * rowHeaderLevelNum)},
+                    x: function(d, i){return offset+(i+2) * cellW + (cellW * rowHeaderLevelNum)},
                     y: 0
                 })
                 .style({fill:'#eee', stroke:'silver'})
@@ -223,12 +224,12 @@ var Table = function module() {
             colHeaderCell.enter().append('text')
                 .attr({
                     class:'col-header-content',
-                    x: function(d, i){return offset+i * cellW + (cellW * rowHeaderLevelNum)},
+                    x: function(d, i){return offset+(i+2) * cellW + (cellW * rowHeaderLevelNum)},
                     y: 0,
                     dx: cellW/2,
                     dy: cellH/2
                 })
-                .style({fill:'black', 'text-anchor':'middle'})
+                .style({fill:'black', 'text-anchor':'left','font-size':w/40})
                 .text(function(d, i){return d;});
 				
             // Body
@@ -244,7 +245,7 @@ var Table = function module() {
                     cell.enter().append('rect')
                         .attr({
                             class:'cell', width:cellW, height:cellH,
-                            x: function(d, i){return offset+ i * cellW + (cellW * rowHeaderLevelNum)},
+                            x: function(d, i){return offset+ (i+2) * cellW + (cellW * rowHeaderLevelNum)},
                             y: function(d, i){return pI * cellH + cellH}
                         })
                         .style({fill:'white', stroke:'silver'});
@@ -252,12 +253,12 @@ var Table = function module() {
                     cell.enter().append('text')
                         .attr({
                             class:'cell-content', width:cellW, height:cellH,
-                            x: function(d, i){return offset+ i * cellW + (cellW * rowHeaderLevelNum)},
+                            x: function(d, i){return offset+ (i+2) * cellW + (cellW * rowHeaderLevelNum)},
                             y: function(d, i){return pI * cellH + cellH},
                             dx: cellW/2,
                             dy: cellH/2
                         })
-                        .style({fill:'black', 'text-anchor':'middle'})
+                        .style({fill:'black', 'text-anchor':'middle','font-size':w/40})
                         .text(function(d, i){return d;});
                 });
         });
@@ -288,9 +289,8 @@ var dataset = {
     value: vals
 };
                         
-var width = 40*scenes.length+offset;
-var height = 40*characters.length;
-
+var width = Math.min((w/2),25)*scenes.length;
+var height =  Math.min((h/2),25)*characters.length;
 var table = Table().width(width).height(height);
 
 d3.select("#myTable"+title+"")
@@ -310,3 +310,4 @@ $(document).ready(function(){
 	});
 	},100);
 });
+}

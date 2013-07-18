@@ -1,29 +1,224 @@
+table {
+  border-collapse: collapse;
+}
+
+th {
+  font-weight: normal;
+  text-align: left;
+}
+
+thead td {
+  cursor: s-resize;
+}
+
+tbody tr:first-child td {
+  padding-top: 1%;
+}
+
+tbody td {
+  padding: 0;
+  border-left: solid 1px #000;
+}
+
+div.tooltip {   
+  position: absolute;           
+  text-align: center;           
+  width: 60px;                  
+  height: 28px;                 
+  padding: 2px;             
+  font: 42px sans-serif;        
+  background: lightsteelblue;   
+  border: 0px;      
+  border-radius: 8px;           
+  pointer-events: none;         
+}
+circle {
+  fill: rgb(31, 119, 180);
+  fill-opacity: .25;
+  stroke: rgb(31, 119, 180);
+  stroke-width: 1px;
+}
+
+.leaf circle {
+  fill: #ff7f0e;
+  fill-opacity: 1;
+}
+
+
+text {
+  font: 8px sans-serif;
+  font-size: 11px;
+  pointer-events: none;
+}
+
+text.parent {
+  fill: #1f77b4;
+}
+
+circle {
+  fill: #ccc;
+  stroke: #999;
+  pointer-events: all;
+}
+
+circle.parent {
+  fill: #1f77b4;
+  fill-opacity: .1;
+  stroke: steelblue;
+}
+
+circle.parent:hover {
+  stroke: #ff7f0e;
+  stroke-width: .5px;
+}
+
+circle.child {
+  pointer-events: none;
+}
+.searchbutton{
+padding:1;
+	margin:1;
+	
+	
+}
+.mysearch{
+padding:1;
+	margin:1;
+}
+.lines{
+	padding:1%;
+	margin:1%;
+	background-color:silver;
+	
+}
+
+
+.playText
+{
+	position: absolute;
+    top: 0;
+    left: 0;
+	width:90%;
+	height:90%; 
+	float:left;
+	padding: 2%;
+	margin:2%;
+}
+.CharTimelines
+{
+	position: absolute;
+    top: 0;
+    left: 0;
+	width:90%;
+	height:90%; 
+	float:left;
+	padding: 2%;
+	margin:2%;
+	
+	
+}
+.CharacterChart
+{ 
+	position: absolute;
+    top: 0;
+    left: 0;
+	width:100%;
+	height:100%; 
+
+	
+}
+.Pie
+{
+position: absolute;
+    top: 0;
+    left: 0;
+	width:90%;
+	height:90%; 
+	float:left;
+	padding: 2%;
+	margin:2%;
+	
+	
+}
+.Search
+{
+	width:40%;
+	height:40%; 
+	float:left;
+	overflow:scroll;
+	padding: 2%;
+	margin:2%;
+	border:1px solid black;
+	background-color: #e2e2e2;
+
+}
+.mySearchDiv
+{
+	width:100%;
+	height:100%; 
+	overflow:scroll;
+	padding: 10px;
+	margin:10px;
+	border:1px solid black;
+	background-color: #e2e2e2;
+	
+	
+}
+
+.ExpandBut{
+	float: right;
+    padding: 2px;
+	height: 25px;
+}
 .selectAPlay{
 	width: 250px;
 	height: 70px;
 	margin: 10px;
-	font-size: 26px;
+	font-size: 18px;
 }
 
 .selectData{
 	width: 250px;
 	height: 70px;
 	margin: 10px;
-	font-size: 26px;
+	font-size: 18px;
+}
+.Go{
+	width: 250px;
+	height: 70px;
+	margin: 10px;
+	font-size: 18px;
 }
 
 .buttonDiv{
 	position: relative;
-	left: 500px;
-	top: 300px;
+	left: 50px;
+	top: 50px;
+	width: 250px;
+	height: 70px;
 }
 
 .playDiv{
 	position: absolute;
-	left: 300px;
-	top: 100px;
-	height: 460px;
-	width: 800px;
+	left: 150px;
+	top: 40%;
+	height: 80%;
+	width: 70%;
+	overflow:scroll;
+	font-size:8pt;
+	background-color: #e2e2e2;
+	border: 2px solid #e2e2e2;
+	border-radius: 8px;
+	opacity: 0;
+}
+.displayDiv{
+	position: absolute;
+	left: 150px;
+	top: 10%;
+	height: 80%;
+	width: 70%;
+	overflow:scroll;
+	font-size:8pt;
 	background-color: #e2e2e2;
 	border: 2px solid #e2e2e2;
 	border-radius: 8px;
@@ -32,35 +227,71 @@
 
 .ComedyButtons{
 	position: relative;
-	left: 25px
+	left: 25px;
+	width:	33%;
+	display:inline-block;
+	vertical-align:top;
 }
 
 .TragedyButtons{
 	position: relative;
-	top: -425px;
-	left: 285px;
+	width:33%;
+	left: 25px;
+	display:inline-block;
 }
+
+.HistoryButtons{
+	position: relative;
+	left: 25px;
+	top:-42px;
+	width:33%;
+	display:inline-block;
+
+}
+
+
 
 #Comedies{
 	position: relative;
 	left: -15px;
 	top: 2px;
+	
 }
 
-.TragedyButtons{
+#Tragedies{
 	position: relative;
-	left: -15px;
-	top: 2px;
+	
 }
+
+#Histories{
+	position: relative;
+	
+	
+}
+
 
 #comediesCheck{
 	position: relative;
 	left: -15px;
 	top: -25px;
+	
 }
+#tragediesCheck{
+	position: relative;
+	left: -15px;
+
+	
+}
+#historiesCheck{
+	position: relative;
+	left: -15px;
+
+}
+
 
 .checkbox{
 	position: relative;
+	font-size:8;
 	top: -15px;
 	left: 10px;
 }
@@ -68,24 +299,137 @@
 .playCheckbox{
 	position: relative;
 }
+.comCheckbox{
+	position: relative;
+}
+.tragCheckbox{
+	position: relative;
+}
+.histCheckbox{
+	position: relative;
+}
 
 #AllsWellThatEndsWell{
 	position: relative;
 	left: -14px;
 }
-
-#Tragedies{
-	position: relative;
-	left: -15px;
+.dataDiv{
+	position: absolute;
+	left: 150px;
+	top: 0px;
+	height: 30%;
+	width: 70%;
+	overflow:scroll;
+	font-size:8pt;
+	background-color: #e2e2e2;
+	border: 2px solid #e2e2e2;
+	border-radius: 8px;
+	opacity: 0;
+}
+.dataCheck{
+	padding:5;
+	margin:5;
+}
+.data{
+	padding:5;
+	margin:0;
+	width: 25%;
+	display:inline-block;
+	vertical-align:top;
+}
+#wrapper{
+	width:720px;
+	margin:40px auto 0;
 }
 
-#Histories{
-	position: relative;
-	left: -15px;
+#wrapper h1{
+	color:#FFF;
+	text-align:center;
+	margin-bottom:20px;
 }
 
-.HistoryButtons{
+#wrapper a{
+	display:block;
+	font-size:1.2em;
+	padding-top:20px;
+	color:#FFF;
+	text-decoration:none;
+	text-align:center;
+}
+
+#tabContainer {
+	width:700px;
+	padding:15px;
+	background-color:#2e2e2e;
+	-moz-border-radius: 4px;
+	border-radius: 4px; 
+}
+
+.tabs{		
+}
+.tabpage{
+	opacity: 0;
 	position: relative;
-	left: 600px;
-	top: -700px;
+}
+.tabs > ul{
+	font-size: 40%;
+	list-style:none;
+}
+
+.tabs > ul > li{
+	margin:0% 2% 0% 0%;
+	padding:1%;
+	display:block;
+	float:left;
+	color:#FFF;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+	-moz-border-radius-topleft: 4px;
+	-moz-border-radius-topright: 4px;
+	-moz-border-radius-bottomright: 0px;
+	-moz-border-radius-bottomleft: 0px;
+	border-top-left-radius:4px;
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 0px;
+	border-bottom-left-radius: 0px; 
+	background: #C9C9C9; /* old browsers */
+	background: -moz-linear-gradient(top, #0C91EC 0%, #257AB6 100%); /* firefox */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#0C91EC), color-stop(100%,#257AB6)); /* webkit */
+}
+
+.tabs > ul > li:hover{
+	background: #FFFFFF; /* old browsers */
+	background: -moz-linear-gradient(top, #FFFFFF 0%, #F3F3F3 10%, #F3F3F3 50%, #FFFFFF 100%); /* firefox */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFFFFF), color-stop(10%,#F3F3F3), color-stop(50%,#F3F3F3), color-stop(100%,#FFFFFF)); /* webkit */
+	cursor:pointer;
+	color: #333;
+}
+
+.tabs > ul > li.tabActiveHeader{
+	background: #FFFFFF; /* old browsers */
+	background: -moz-linear-gradient(top, #FFFFFF 0%, #F3F3F3 10%, #F3F3F3 50%, #FFFFFF 100%); /* firefox */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFFFFF), color-stop(10%,#F3F3F3), color-stop(50%,#F3F3F3), color-stop(100%,#FFFFFF)); /* webkit */
+	cursor:pointer;
+	color: #333;
+}
+
+.tabscontent {
+	width:90%;
+height:90%;
+overflow: scroll;
+	-moz-border-radius-topleft: 0px;
+	-moz-border-radius-topright: 4px;
+	-moz-border-radius-bottomright: 4px;
+	-moz-border-radius-bottomleft: 4px;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-bottom-left-radius: 4px; 
+	padding:10px 10px 25px;
+	background: #FFFFFF; /* old browsers */
+	background: -moz-linear-gradient(top, #FFFFFF 0%, #FFFFFF 90%, #e4e9ed 100%); /* firefox */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFFFFF), color-stop(90%,#FFFFFF), color-stop(100%,#e4e9ed)); /* webkit */
+	margin:0;
+	color:#333;
 }

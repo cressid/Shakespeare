@@ -1,4 +1,4 @@
-
+var runSearch=function(){
 var searchWord = function(div){
 	
 size = function(obj) {
@@ -95,6 +95,7 @@ var setup = function(div,w){
 		
 		
 		var mydat=$('.Search').data('text').split(',');
+		console.log(mydat);
 		var AllData=[];
 		
 		for(var i=0;i<mydat.length;i++)
@@ -251,7 +252,7 @@ var vis = d3.select("#mySearchDiv").insert("svg:svg", "h2")
       .attr("y", function(d) { return d.y; })
       .attr("dy", ".35em")
       .attr("text-anchor", "middle")
-      .style("opacity", function(d) { return d.r > 20 ? 1 : 0; })
+      .style("opacity", function(d) { return (d.r > 30 && d.r<100)? 1 : 0; })
       .text(function(d) { if(d.name!=null){return d.name.substring(0,d.r/4);}
 						 else{return d.name;} });
 
@@ -282,3 +283,4 @@ function zoom(d, i) {
   d3.event.stopPropagation();
 }
 };		
+};
