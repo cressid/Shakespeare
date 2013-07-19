@@ -50,14 +50,14 @@ var playLookup={"TwoGentlemenOfVerona":TwoGentlemenOfVerona,"Hamlet":Hamlet,
 "ComedyOfErrors":ComedyOfErrors,"MidsummerNightsDream":MidsummerNightsDream,
 "WintersTale":WintersTale,"AllsWellThatEndsWell":AllsWellThatEndsWell,				
 "AntonyAndCleopatra":AntonyAndCleopatra,"AsYouLikeIt":AsYouLikeIt,"Coriolanus":Coriolanus,
-"Cymbeline":Cymbeline,"HenryIV":HenryIV,"HenryV":HenryV,"HenryVIPart1":HenryVIPart1,
+"Cymbeline":Cymbeline,"HenryIVPart1":HenryIV,"HenryV":HenryV,"HenryVIPart1":HenryVIPart1,
 "HenryVIPart2":HenryVIPart2,"HenryVIPart3":HenryVIPart3,"HenryVIII":HenryVIII,
 "JuliusCaesar":JuliusCaesar,"KingJohn":KingJohn, "KingLear":KingLear, 
 "LovesLaboursLost":LovesLaboursLost, "Macbeth":Macbeth,"MeasureForMeasure":MeasureForMeasure,
 "MerchantOfVenice":MerchantOfVenice,"MerryWivesOfWindsor":MerryWivesOfWindsor,
 "MuchAdoAboutNothing":MuchAdoAboutNothing,"Othello":Othello,"Pericles":Pericles,"RichardII":RichardII,
 "RichardIII":RichardIII,"RomeoAndJuliet":RomeoAndJuliet,"TamingOfTheShrew":TamingOfTheShrew,
-"TheTempest":TheTempest,"TimonOfAthens":TimonOfAthens,"TitusAndronicus":TitusAndronicus,
+"Tempest":TheTempest,"TimonOfAthens":TimonOfAthens,"TitusAndronicus":TitusAndronicus,
 "TroilusAndCressida":TroilusAndCressida,"TwelfthNight":TwelfthNight
 
 };	
@@ -101,7 +101,7 @@ var setup = function(div,w){
 		for(var i=0;i<mydat.length;i++)
 		{
 			var readPlay=playLookup[mydat[i]];
-			
+			console.log(mydat[i]);
 			for(var j=0;j<readPlay.length;j++)
 			{
 				AllData.push(readPlay[j]);

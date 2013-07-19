@@ -9,7 +9,7 @@ var shakesData = function(){
 		selectedPlays = [];
 		selectedVis = [];
 		var vis=['Search','playText','charTimelines','Pie','CharacterChart'];
-		var checks=['comediesCheck','tragediesCheck','historiesCheck ']
+		var checks=['comediesCheck','tragediesCheck','historiesCheck']
 		$('input:checked').each(function(){
 			var item=$(this).attr("id");
 			if(vis.indexOf(item)!=-1)
@@ -157,13 +157,15 @@ var shakesData = function(){
 		
 		Go.on("click",function()
 		{
-			$('.playDiv').animate({opacity: 0}, 800, function(){});
-			$('.dataDiv').animate({opacity: 0}, 800, function(){});
+			$('.playDiv').animate({opacity: 0}, 400, function(){});
+			$('.dataDiv').animate({opacity: 0}, 400, function(){});
 			
 			var element= document.getElementById("viz");
 			if(element!=null){element.parentNode.removeChild(element);}
 			var Mysearch=$("<div class=visual data-plays="+selectedPlays.join()+" data-vis="+selectedVis.join()+" id =viz ></div>");  
-			
+			$('.playDiv').css('z-index',0);
+			$('.dataDiv').css('z-index',0);
+			$('.displayDiv').css('z-index',10);
 			displayDiv.append(Mysearch);
 			
 			runVis()
@@ -185,6 +187,10 @@ var shakesData = function(){
 					top: '0'
 					}, 800, function(){
 					});
+			$('.playDiv').css('z-index',10);
+			$('.dataDiv').css('z-index',10);
+			$('.buttonDiv').css('z-index',0);
+			$('.displayDiv').css('z-index',0);
 			$('.displayDiv').animate({opacity: .1}, 800, function(){});
 			
 			//now we're getting all our little check boxes in order
@@ -207,7 +213,10 @@ var shakesData = function(){
 					}, 800, function(){
 					});
 			
-			
+			$('.playDiv').css('z-index',10);
+			$('.dataDiv').css('z-index',10);
+			$('.buttonDiv').css('z-index',0);
+			$('.displayDiv').css('z-index',0);
 			$('.displayDiv').animate({opacity: .1}, 800, function(){});							  
 			dataDiv.animate({opacity: 1}, 800, function(){});
 										  

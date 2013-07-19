@@ -143,7 +143,7 @@ if(wordLoc[character]!=null){
 })
 .on("mouseover", function(d){if(wordLoc[character]!=null){
 		if(wordLoc[character].indexOf(d)>-1){return tooltip.style("visibility", "visible").text(play[d]["text_entry"])}}else{return null}})
-.on("mousemove", function(){return tooltip.style("top", (event.pageY-dist/4)+"px").style("left",(event.pageX+dist/4)+"px");})
+.on("mousemove", function(){return tooltip.style("top", (event.pageY)+"px").style("left",(event.pageX)+"px");})
 .on("mouseout", function(){return tooltip.style("visibility", "hidden");});
 
  
@@ -196,14 +196,14 @@ var playLookup={"TwoGentlemenOfVerona":TwoGentlemenOfVerona,"Hamlet":Hamlet,
 "ComedyOfErrors":ComedyOfErrors,"MidsummerNightsDream":MidsummerNightsDream,
 "WintersTale":WintersTale,"AllsWellThatEndsWell":AllsWellThatEndsWell,				
 "AntonyAndCleopatra":AntonyAndCleopatra,"AsYouLikeIt":AsYouLikeIt,"Coriolanus":Coriolanus,
-"Cymbeline":Cymbeline,"HenryIV":HenryIV,"HenryV":HenryV,"HenryVIPart1":HenryVIPart1,
+"Cymbeline":Cymbeline,"HenryIVPart1":HenryIV,"HenryV":HenryV,"HenryVIPart1":HenryVIPart1,
 "HenryVIPart2":HenryVIPart2,"HenryVIPart3":HenryVIPart3,"HenryVIII":HenryVIII,
 "JuliusCaesar":JuliusCaesar,"KingJohn":KingJohn, "KingLear":KingLear, 
 "LovesLaboursLost":LovesLaboursLost, "Macbeth":Macbeth,"MeasureForMeasure":MeasureForMeasure,
 "MerchantOfVenice":MerchantOfVenice,"MerryWivesOfWindsor":MerryWivesOfWindsor,
 "MuchAdoAboutNothing":MuchAdoAboutNothing,"Othello":Othello,"Pericles":Pericles,"RichardII":RichardII,
 "RichardIII":RichardIII,"RomeoAndJuliet":RomeoAndJuliet,"TamingOfTheShrew":TamingOfTheShrew,
-"TheTempest":TheTempest,"TimonOfAthens":TimonOfAthens,"TitusAndronicus":TitusAndronicus,
+"Tempest":TheTempest,"TimonOfAthens":TimonOfAthens,"TitusAndronicus":TitusAndronicus,
 "TroilusAndCressida":TroilusAndCressida,"TwelfthNight":TwelfthNight
 
 };	

@@ -4,13 +4,15 @@ var visual = function(){
 	var setup = function(div){
 	var plays=$('.visual').data('plays').split(',');
 	var vis=$('.visual').data('vis').split(',');	
-		var bigdiv=$('<div class=backDisplayDiv></div>');
+	var bigdiv=$('<div class=backDisplayDiv></div>');
+		var functionDict={'Pie':runPie,'Search':runSearch,'playText':runText,'CharachterTable':runTable,
+						  'CharTimelines':runTimeline};
 	for(var i =0;i<vis.length;i++){
 		
 		if(vis[i]=="Search")
 		{	
 			
-			var Mysearch=$("<div class='Search'  data-text = "+plays.join()+"></div>");
+			var Mysearch=$("<div class='Search'  data-text = "+plays.join()+" id =srch></div>");
 			var thisbut=$("<button id=ExpandBut>+</button>");
 		 	thisbut.on("click",function(){
 				console.log(Mysearch.width());
@@ -24,9 +26,15 @@ var visual = function(){
 					Mysearch.height(300);
 					thisbut.html('+')
 				}
+				runSearch();
 			});
 			Mysearch.append(thisbut);
-	
+			if(vis.length<3)
+			{
+				var back=document.getElementById('srch');
+				$(Mysearch).width(90/vis.length+'%');
+					$(Mysearch).height('90%');
+			}
 	bigdiv.append(Mysearch);	
 		}
 		else{
@@ -57,8 +65,17 @@ var visual = function(){
 					$(back).height('40%');
 					$(but).html('+')
 				}
+					
 			});
 			backdiv.prepend(mybut);
+		
+			if(vis.length<3)
+			{
+				console.log("happy");
+				$(backdiv).width(90/vis.length+'%');
+					$(backdiv).height('90%');
+			}
+			
 			for(var j=0;j<plays.length;j++){
 				
 				var tab=$('<li id="'+j+i+'">'+plays[j]+'</li>');
@@ -66,19 +83,29 @@ var visual = function(){
 				tab.on("click",function(){
 					for(var n=0;n<plays.length;n++)
 					{
+						
 					$('#tabpage_'+n+this.id.charAt(1)).css('opacity','0');
+					$('#tabpage_'+n+this.id.charAt(1)).css('z-index','0');
+					var element= document.getElementById(plays[n]);
+			if(element!=null){element.parentNode.removeChild(element);}	
 					}
+					var mydiv=$('<div class='+vis[this.id.charAt(1)]+' id= '+plays[this.id.charAt(0)]+'>'+plays[this.id.charAt(0)]+'</div>');
 					$('#tabpage_'+this.id).css('opacity','1');
-					
+					$('#tabpage_'+this.id).css('z-index','11');
+					$('#tabpage_'+this.id).append(mydiv);
+					functionDict[vis[this.id.charAt(1)]]();
+				
 				});
 				
 				var item=$('<div class="tabpage" id="tabpage_'+j+i+'"></div>');
-				var mydiv=$('<div class='+vis[i]+' id= '+plays[j]+'>'+plays[j]+'</div>');
+				
 				if(j==0)
 				{
+					var mydiv=$('<div class='+vis[i]+' id= '+plays[j]+'>'+plays[j]+'</div>');
 					$(item).css('opacity','1');
+					item.append(mydiv);
 				}
-					item.append(mydiv);	
+						
 				items.append(item);
 			}
 			

@@ -6,17 +6,17 @@ var playText = function(){
 "ComedyOfErrors":ComedyOfErrors,"MidsummerNightsDream":MidsummerNightsDream,
 "WintersTale":WintersTale,"AllsWellThatEndsWell":AllsWellThatEndsWell,				
 "AntonyAndCleopatra":AntonyAndCleopatra,"AsYouLikeIt":AsYouLikeIt,"Coriolanus":Coriolanus,
-"Cymbeline":Cymbeline,"HenryIV":HenryIV,"HenryV":HenryV,"HenryVIPart1":HenryVIPart1,
+"Cymbeline":Cymbeline,"HenryIVPart1":HenryIV,"HenryV":HenryV,"HenryVIPart1":HenryVIPart1,
 "HenryVIPart2":HenryVIPart2,"HenryVIPart3":HenryVIPart3,"HenryVIII":HenryVIII,
 "JuliusCaesar":JuliusCaesar,"KingJohn":KingJohn, "KingLear":KingLear, 
 "LovesLaboursLost":LovesLaboursLost, "Macbeth":Macbeth,"MeasureForMeasure":MeasureForMeasure,
 "MerchantOfVenice":MerchantOfVenice,"MerryWivesOfWindsor":MerryWivesOfWindsor,
 "MuchAdoAboutNothing":MuchAdoAboutNothing,"Othello":Othello,"Pericles":Pericles,"RichardII":RichardII,
 "RichardIII":RichardIII,"RomeoAndJuliet":RomeoAndJuliet,"TamingOfTheShrew":TamingOfTheShrew,
-"TheTempest":TheTempest,"TimonOfAthens":TimonOfAthens,"TitusAndronicus":TitusAndronicus,
+"Tempest":TheTempest,"TimonOfAthens":TimonOfAthens,"TitusAndronicus":TitusAndronicus,
 "TroilusAndCressida":TroilusAndCressida,"TwelfthNight":TwelfthNight
 
-};	
+};
 var mydiv=$('<div id=myText><div>');
 	$(div).append(mydiv);		
 		
@@ -78,9 +78,9 @@ var myplay=playLookup[title];
 			dropdown.append($("<option>"+characters[i]+"</option>"));
 		}
 		center.append(dropdown);
-		$(dropdown).width(w);
-		$(dropdown).height(h/5);
-		$(dropdown).css('font-size',w/20);
+		$(center).width(w);
+		$(center).height(w/5);
+		$(center).css('font-size',w/20);
 var texts=$('<lablel class=text id=text'+title+'></label>');
 	 var lines=$('<div></div>');
 		
