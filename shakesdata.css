@@ -185,20 +185,20 @@ position: absolute;
 	width: 250px;
 	height: 70px;
 	margin: 10px;
-	font-size: 18px;
+	font-size: 18px !important;
 }
 
 .selectData{
 	width: 250px;
 	height: 70px;
 	margin: 10px;
-	font-size: 18px;
+	font-size: 18px !important;
 }
 .Go{
 	width: 250px;
 	height: 70px;
 	margin: 10px;
-	font-size: 18px;
+	font-size: 18px !important;
 }
 
 .buttonDiv{
@@ -304,7 +304,7 @@ position: absolute;
 
 .checkbox{
 	position: relative;
-	font-size:10pt;
+	font-size:16px;
 	top: -15px;
 	left: 10px;
 }
@@ -333,7 +333,7 @@ position: absolute;
 	height: 15%;
 	width: 70%;
 	overflow:scroll;
-	font-size:8pt;
+	font-size:12pt;
 	background-color: #e2e2e2;
 	border: 2px solid #e2e2e2;
 	border-radius: 8px;

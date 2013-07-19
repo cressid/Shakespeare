@@ -145,7 +145,7 @@ if(wordLoc[character]!=null){
 .on("mouseover", function(d){if(wordLoc[character]!=null){
 		if(wordLoc[character].indexOf(d)>-1){return tooltip.style("visibility", "visible").text(play[d]["text_entry"])}}else{return null}})
 .on("mousemove", function(){console.log(event.pageX)
-	return tooltip.style("top", (event.pageY-div.offsetLeft)+"px").style("left",(event.pageX)+"px");})
+	return tooltip.style("top", (event.pageY-div.offsetLeft)+"px").style("left",(event.pageX-150)+"px");})
 .on("mouseout", function(){return tooltip.style("visibility", "hidden");});
 
  
@@ -235,10 +235,10 @@ makeTimeLine(myplay,data,TwoGents[0][i],TwoGents[1],highlight,title,div);
 	
 		$(input).width(Math.min(w/3,120));
 		$(input).height(Math.min(h/10,30));
-	$(input).css('font-size', Math.min(w/10,20));
+	$(input).css('font-size', Math.min(w/40,20));
 	$(input).css('line-height','30%');
-	$(but).width(Math.min(w/3,200));
-	$(but).css('font-size', Math.min(w/10,20));
+	$(but).width(Math.min(w/3,300));
+	$(but).css('font-size', Math.min(w/40,20));
 	$(but).css('line-height','80%');
 		$(but).height(Math.min(h/10,30));
 	$(div).prepend(input,but);

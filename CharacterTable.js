@@ -190,7 +190,7 @@ var Table = function module() {
                 })
                 .style({fill:'#eee', stroke:'silver'})
 				.on("mouseover", function(event){return tooltip.style("visibility", "visible").text(dualCast[characters.indexOf(event)])})
-				.on("mousemove", function(){return tooltip.style("top", (event.pageY-height/2)+"px").style("left",(event.pageX-w*2)+"px");})
+				.on("mousemove", function(){return tooltip.style("top", (event.pageY-150)+"px").style("left",(event.pageX-150)+"px");})
 				.on("mouseout", function(){return tooltip.style("visibility", "hidden");});
  
 
