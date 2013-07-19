@@ -135,10 +135,21 @@ padding:1;
     top: 0;
     left: 0;
 	width:100%;
-	height:100%; 
+	height:100%;
 
 	
 }
+
+.row-header-cell{
+	width: 150px;
+	height: 60px;
+}
+
+.row-header-content{
+	font-size: 14px !important;
+	font-weight: bold !important;
+}
+
 .Pie
 {
 position: absolute;
