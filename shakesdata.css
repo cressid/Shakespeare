@@ -44,6 +44,18 @@ circle {
   fill-opacity: 1;
 }
 
+.text {
+	font-size: 12px !important;
+}
+
+.chart-data {
+	font-size: 16px;
+}
+
+.searchbutton{
+	font-size: 16px !important;
+	width: 100px !important;
+}
 
 text {
   font: 8px sans-serif;
@@ -387,7 +399,11 @@ position: absolute;
 	position: relative;
 }
 .tabs > ul{
+<<<<<<< HEAD
 	font-size: 80%;
+=======
+	font-size: 12px;
+>>>>>>> b2309d0d1912c8853268eb2240f11bcb3e0c98ee
 	list-style:none;
 }
 
