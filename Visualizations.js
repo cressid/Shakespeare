@@ -2,7 +2,6 @@ var runVis=function(){
 var visual = function(){
 
 	var setup = function(div){
-		
 	var plays=$('.visual').data('plays').split(',');
 	var vis=$('.visual').data('vis').split(',');	
 		var bigdiv=$('<div class=backDisplayDiv></div>');

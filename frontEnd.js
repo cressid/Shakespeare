@@ -23,7 +23,7 @@ var shakesData = function(){
 			};
 		});
 		
-		console.log(selectedPlays,selectedVis);
+		
 		if(selectedPlays.length>0 &&selectedVis.length>0)
 		{
 			document.getElementById("Go").disabled = false;	
@@ -38,38 +38,36 @@ var shakesData = function(){
 		var selectAPlay = $("<button class = 'btn btn-large selectAPlay'>Select A Play</button>");
 		var selectData = $("<div><button class = 'btn btn-large selectData'>Select Data</button></div>");
 		var Go = $("<div><button class = 'btn btn-large Go' id='Go' disabled>Visualize!</button></div>");
-		Go.on("click",function()
-		{
-			$('.playDiv').animate({opacity: 0}, 800, function(){});
-			$('.dataDiv').animate({opacity: 0}, 800, function(){});
-			console.log(selectedPlays.join());
-			var Mysearch=$("<div class='visual' data-plays="+selectedPlays.join()+" data-vis="+selectedVis.join()+"></div>");  
-			var displayDiv = $("<div class = 'displayDiv'></div>");
-			displayDiv.append(Mysearch);
-			div.append(displayDiv);
-			runVis()
-			$('.displayDiv').animate({opacity: 1}, 800, function(){});
-		}
-			 );
-		buttonDiv.append(selectAPlay, selectData,Go);
-		div.append(buttonDiv);
+		var displayDiv = $("<div class = 'displayDiv'></div>");
+		div.append(displayDiv);
+		 var dataDiv = $("<div class = 'dataDiv'></div>");
+									  
 
-
-		$('.selectAPlay').click(function(){
-			$('.selectAPlay').animate({
-			width: '100',
-			"font-size": '12'}, 800, function(){}
-			);
-			$('.selectData').animate({width: '100px', "font-size": '12px'}, 800, function(){});
-			$('.Go').animate({width: '100px', "font-size": '12px'}, 800, function(){});
-			$('.buttonDiv').animate({
-					left: '0',
-					top: '0'
-					}, 800, function(){
+			//comcheck and comButtons are the "Comedy" button + label at the top that selects everything
+			var c1=$("<input type='checkbox' class='dataCheck' id='Search'></input>");
+			var c2=$("<input type='checkbox' class='dataCheck' id='Pie'></input>");
+			var c3=$("<input type='checkbox' class='dataCheck' id='charTimelines'></input>");
+			var c4=$("<input type='checkbox' class='dataCheck' id='playText'></input>");
+			var c5=$("<input type='checkbox' class='dataCheck' id='CharacterChart'></input>");	
+			var c= [c1,c2,c3,c4,c5] 
+			for(var i=0;i<5;i++)
+			{
+				c[i].change(function(){
+					selectPlays();
 					});
-			$(".playDiv").remove();
-			//now we're getting all our little check boxes in order
-			var playDiv = $("<div class = 'playDiv'></div>");
+			}
+				var d1=$("<div class='data'><label class = 'checkbox'  >Circle Packing Search</label></div>");
+				var d2=$("<div class='data'><label class = 'checkbox'  >Pie Graph by Lines</label></div>");						    var d3=$("<div class='data'><label class = 'checkbox'  >Charachter Timelines</label></div>");
+				var d4=$("<div class='data'><label class = 'checkbox'  >Text of Play</label></div>");
+				var d5=$("<div class='data'><label class = 'checkbox'  >Character Table</label></div>");						  	d1.prepend(c1);		
+				d2.prepend(c2);		
+				d3.prepend(c3);		
+				d4.prepend(c4);								  
+				d5.prepend(c5);								  
+			dataDiv.append(d2,d3,d4,d5,d1);	
+			div.append(dataDiv); 
+		 
+		var playDiv = $("<div class = 'playDiv'></div>");
 
 
 			//comcheck and comButtons are the "Comedy" button + label at the top that selects everything
@@ -151,9 +149,48 @@ var shakesData = function(){
 			});
 			
 			                                                                            
-			playDiv.append(comButtons, tragButtons, hisButtons);                                                                                             
+			playDiv.append(comButtons, tragButtons, hisButtons);   
+				div.append(playDiv);       
+		
+		buttonDiv.append(selectAPlay, selectData,Go);
+		div.append(buttonDiv);
+		
+		Go.on("click",function()
+		{
+			$('.playDiv').animate({opacity: 0}, 800, function(){});
+			$('.dataDiv').animate({opacity: 0}, 800, function(){});
+			
+			var element= document.getElementById("viz");
+			if(element!=null){element.parentNode.removeChild(element);}
+			var Mysearch=$("<div class=visual data-plays="+selectedPlays.join()+" data-vis="+selectedVis.join()+" id =viz ></div>");  
+			
+			displayDiv.append(Mysearch);
+			
+			runVis()
+			$('.displayDiv').animate({opacity: 1}, 800, function(){});
+		}
+			 );
+		
+
+
+		$('.selectAPlay').click(function(){
+			$('.selectAPlay').animate({
+			width: '100',
+			"font-size": '12'}, 800, function(){}
+			);
+			$('.selectData').animate({width: '100px', "font-size": '12px'}, 800, function(){});
+			$('.Go').animate({width: '100px', "font-size": '12px'}, 800, function(){});
+			$('.buttonDiv').animate({
+					left: '0',
+					top: '0'
+					}, 800, function(){
+					});
+			$('.displayDiv').animate({opacity: .1}, 800, function(){});
+			
+			//now we're getting all our little check boxes in order
+			                                                                                          
 			playDiv.animate({opacity: 1}, 800, function(){});                                                                                               
-			div.append(playDiv);                                                                                                                             
+		                                                                                                                      
 		})                                                                                                                                                   
 
 		$('.selectData').click(function(){                                                                                               $('.selectData').animate({
@@ -170,34 +207,10 @@ var shakesData = function(){
 					}, 800, function(){
 					});
 			
-			 var dataDiv = $("<div class = 'dataDiv'></div>");
-									  
-
-			//comcheck and comButtons are the "Comedy" button + label at the top that selects everything
-			var c1=$("<input type='checkbox' class='dataCheck' id='Search'></input>");
-			var c2=$("<input type='checkbox' class='dataCheck' id='Pie'></input>");
-			var c3=$("<input type='checkbox' class='dataCheck' id='charTimelines'></input>");
-			var c4=$("<input type='checkbox' class='dataCheck' id='playText'></input>");
-			var c5=$("<input type='checkbox' class='dataCheck' id='CharacterChart'></input>");	
-			var c= [c1,c2,c3,c4,c5] 
-			for(var i=0;i<5;i++)
-			{
-				c[i].change(function(){
-					selectPlays();
-					});
-			}
-				var d1=$("<div class='data'><label class = 'checkbox'  >Circle Packing Search</label></div>");
-				var d2=$("<div class='data'><label class = 'checkbox'  >Pie Graph by Lines</label></div>");						    var d3=$("<div class='data'><label class = 'checkbox'  >Charachter Timelines</label></div>");
-				var d4=$("<div class='data'><label class = 'checkbox'  >Text of Play</label></div>");
-				var d5=$("<div class='data'><label class = 'checkbox'  >Character Table</label></div>");						  	d1.prepend(c1);		
-				d2.prepend(c2);		
-				d3.prepend(c3);		
-				d4.prepend(c4);								  
-				d5.prepend(c5);								  
-			dataDiv.append(d2,d3,d4,d5,d1);	
-										  
+			
+			$('.displayDiv').animate({opacity: .1}, 800, function(){});							  
 			dataDiv.animate({opacity: 1}, 800, function(){});
-			div.append(dataDiv); 							  
+										  
 		})                                                                                                                                                   
 	};                                                                                                                                                       
 
