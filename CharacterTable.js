@@ -22,9 +22,9 @@ var playLookup={"TwoGentlemenOfVerona":TwoGentlemenOfVerona,"Hamlet":Hamlet,
 var myplay=playLookup[title];	
 var thisdiv=$('<div id='+title+'><div>');
 		mydiv.append(thisdiv);
-		var w=$(mydiv).width();
+		var w=$(mydiv).width()*5;
 		var h=$(mydiv).height();
-		$(div).css('font-size',$(div).width()/40)		
+		$(div).css('font-size',Math.min($(div).width()/40,10))		
 		var offset=0;
 
 		
@@ -142,12 +142,12 @@ var Table = function module() {
             // DOM preparation
             //________________________________________________
             // Size
-            var chartW = Math.max(opts.width - opts.margins.left - opts.margins.right, w);
-            var chartH = Math.max(opts.height - opts.margins.top - opts.margins.bottom,h );
+            var chartW = Math.max(opts.width - opts.margins.left - opts.margins.right, 0);
+            var chartH = Math.max(opts.height - opts.margins.top - opts.margins.bottom,0 );
 
             // SVG
             var parentDiv = d3.select(this).html('');
-            var svg = parentDiv.append('svg').attr('width', opts.width).attr('height', opts.height);
+            var svg = parentDiv.append('svg').attr('width', w).attr('height', opts.height);
 			var tooltip = d3.select("#myTable"+title+"")
 				.append("div")
 				.style("position", "absolute")
@@ -190,7 +190,7 @@ var Table = function module() {
                 })
                 .style({fill:'#eee', stroke:'silver'})
 				.on("mouseover", function(event){return tooltip.style("visibility", "visible").text(dualCast[characters.indexOf(event)])})
-				.on("mousemove", function(){return tooltip.style("top", (event.pageY-height/2)+"px").style("left",(event.pageX-w)+"px");})
+				.on("mousemove", function(){return tooltip.style("top", (event.pageY-height/2)+"px").style("left",(event.pageX-w*2)+"px");})
 				.on("mouseout", function(){return tooltip.style("visibility", "hidden");});
  
 
@@ -203,7 +203,7 @@ var Table = function module() {
                     dx: 0,
                     dy: cellH/2
                 })
-                .style({fill:'black', 'text-anchor':'left','font-size':w/40})
+                .style({fill:'black', 'text-anchor':'left','font-size':Math.min(w/40,10)})
                 .text(function(d, i){return d;})
 		
           		
@@ -229,7 +229,7 @@ var Table = function module() {
                     dx: cellW/2,
                     dy: cellH/2
                 })
-                .style({fill:'black', 'text-anchor':'left','font-size':w/40})
+                .style({fill:'black', 'text-anchor':'left','font-size':Math.min(w/40,10)})
                 .text(function(d, i){return d;});
 				
             // Body
@@ -258,7 +258,7 @@ var Table = function module() {
                             dx: cellW/2,
                             dy: cellH/2
                         })
-                        .style({fill:'black', 'text-anchor':'middle','font-size':w/40})
+                        .style({fill:'black', 'text-anchor':'middle','font-size':Math.min(w/40,10)})
                         .text(function(d, i){return d;});
                 });
         });
@@ -289,8 +289,8 @@ var dataset = {
     value: vals
 };
                         
-var width = Math.min((w/2),25)*scenes.length;
-var height =  Math.min((h/2),25)*characters.length;
+var width = Math.min(w/2,40)*scenes.length;
+var height =  Math.min(h,40)*characters.length;
 var table = Table().width(width).height(height);
 
 d3.select("#myTable"+title+"")

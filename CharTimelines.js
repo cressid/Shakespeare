@@ -70,7 +70,7 @@ var width = 5000;
 var height = dist*1.2;
 var space=dist/100;
 	
-var makeTimeLine = function(play,data, character,lines,wordLoc,title){
+var makeTimeLine = function(play,data, character,lines,wordLoc,title,div){
 
 var svg = d3.select("#myTimeline"+title)
             .append("svg")
@@ -79,7 +79,7 @@ var svg = d3.select("#myTimeline"+title)
 	svg.append('text')
       .attr('x', dist/2)
 	  .attr('y', dist)
-	.style("font-size",dist/5)
+	.style("font-size",dist/3)
       .text(character);
 var tooltip = d3.select("#myTimeline"+title)
 				.append("div")
@@ -87,6 +87,7 @@ var tooltip = d3.select("#myTimeline"+title)
 				.style("z-index", "10")
 				.style("visibility", "hidden")
 				.style("background","lightsteelblue")
+				.style('font-size',Math.min(dist/4,12))
 				.text("love");	
 var rectangle = svg.append("rect")
 
@@ -135,7 +136,7 @@ return height-dist/4;
 	if(wordLoc[character]!=null){
 		if(wordLoc[character].indexOf(d)>-1){return "magenta"};
 	}return "blue"})
-.attr("width", function(){if(space>1){return space} return 1}) //so that the entire rectangles all fit together!
+.attr("width", function(){if(space>2){return space} return 2}) //so that the entire rectangles all fit together!
 .attr("height", function(d) {
 if(wordLoc[character]!=null){
 		if(wordLoc[character].indexOf(d)>-1){return dist*.4};
@@ -143,7 +144,8 @@ if(wordLoc[character]!=null){
 })
 .on("mouseover", function(d){if(wordLoc[character]!=null){
 		if(wordLoc[character].indexOf(d)>-1){return tooltip.style("visibility", "visible").text(play[d]["text_entry"])}}else{return null}})
-.on("mousemove", function(){return tooltip.style("top", (event.pageY)+"px").style("left",(event.pageX)+"px");})
+.on("mousemove", function(){console.log(event.pageX)
+	return tooltip.style("top", (event.pageY-div.offsetLeft)+"px").style("left",(event.pageX)+"px");})
 .on("mouseout", function(){return tooltip.style("visibility", "hidden");});
 
  
@@ -159,7 +161,7 @@ return d*space+dist/8; //so they're not all on top of each other
 .attr("y", function(d){
 return dist/4;
 })
-.style("font-size",dist/5)
+.style("font-size",dist/3)
       .text(function(d,i){return play[d]["text_entry"]});
 
           
@@ -188,7 +190,7 @@ var search=function(word,play)
 }
  
 var setup = function(div,title){
-$(div).css('font-size',w/20); 
+$(div).css('font-size',w/10); 
 var mydiv=$('<div id=myTimeline'+title+'><div>');
 $(div).append(mydiv);
 	
@@ -210,7 +212,7 @@ var playLookup={"TwoGentlemenOfVerona":TwoGentlemenOfVerona,"Hamlet":Hamlet,
 	
 var w = $(div).width(),                       
 		h = $(div).width();                         
-  $(div).css('font-size',w/20); 
+  $(div).css('font-size',w/10); 
 	dist=Math.min(h/5,40);
 	width = w*20;
 	height = dist*1.2;
@@ -226,17 +228,17 @@ var myplay=playLookup[title];
 		for (var i=0; i<TwoGents[0].length; i++){
 //for (var i=0; i<1; i++){
 	
-makeTimeLine(myplay,data,TwoGents[0][i],TwoGents[1],highlight,title);
+makeTimeLine(myplay,data,TwoGents[0][i],TwoGents[1],highlight,title,div);
 }
 		
 		});
 	
-		$(input).width(Math.min(w/3,40));
+		$(input).width(Math.min(w/3,120));
 		$(input).height(Math.min(h/10,30));
-	$(input).css('font-size', Math.min(w/20,20));
+	$(input).css('font-size', Math.min(w/10,20));
 	$(input).css('line-height','30%');
-	$(but).width(Math.min(w/3,40));
-	$(but).css('font-size', Math.min(w/20,20));
+	$(but).width(Math.min(w/3,200));
+	$(but).css('font-size', Math.min(w/10,20));
 	$(but).css('line-height','80%');
 		$(but).height(Math.min(h/10,30));
 	$(div).prepend(input,but);
@@ -253,7 +255,7 @@ var highlight=	search("love",playLookup[title]);
 for (var i=0; i<TwoGents[0].length; i++){
 //for (var i=0; i<1; i++){
 	
-makeTimeLine(myplay,data,TwoGents[0][i],TwoGents[1],highlight,title);
+makeTimeLine(myplay,data,TwoGents[0][i],TwoGents[1],highlight,title,div);
 }
 	
 }

@@ -33,14 +33,15 @@
       {"name": "Alls well that ends well", "children": [{}]},
 	  {"name": "Twelfth Night", "children": [{}]},
 	  {"name": "A Winters Tale", "children": [{}]},
-      {"name": "Pericles", "children": [{}]}
+      {"name": "Pericles", "children": [{}]},
+	  {"name": "Troilus and Cressida", "children": [{}]}
 
      ]
     },
 	   {
      "name": "Tragedy",
      "children": [
-      {"name": "Troilus and Cressida", "children": [{}]},
+      
 	  {"name": "Coriolanus", "children": [{}]},
       {"name": "Titus Andronicus", "children": [{}]},
       {"name": "Romeo and Juliet", "children": [{}]},

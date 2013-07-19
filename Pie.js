@@ -24,8 +24,8 @@ var playLookup={"TwoGentlemenOfVerona":TwoGentlemenOfVerona,"Hamlet":Hamlet,
 };
 		
 		var myplay=playLookup[title];
-		var w = $(div).width()*2,                       
-		h = $(div).width()*1.4;                         
+		var w = $(div).width(),                       
+		h = $(div).width()*.7;                         
 		$(div).css('font-size',w/20);                        //height
 		var r = h/4;                            //radius
 		     //builtin range of colors

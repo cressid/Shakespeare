@@ -142,7 +142,7 @@ position: absolute;
 }
 .Search
 {
-	width:40%;
+	width:30%;
 	height:40%; 
 	float:left;
 	overflow:scroll;
@@ -167,6 +167,7 @@ position: absolute;
 {
 	width:40%;
 	height:40%; 
+	overflow:scroll;
 	padding: 1%;
 	margin:1%;
 	border:1px solid black;
@@ -205,13 +206,13 @@ position: absolute;
 	left: 50px;
 	top: 50px;
 	width: 20%;
-	
+	z-index:10;
 }
 
 .playDiv{
 	position: absolute;
 	left: 150px;
-	top: 40%;
+	top: 20%;
 	height: 80%;
 	width: 70%;
 	overflow:scroll;
@@ -220,19 +221,21 @@ position: absolute;
 	border: 2px solid #e2e2e2;
 	border-radius: 8px;
 	opacity: 0;
+	z-index:0;
 }
 .displayDiv{
 	position: absolute;
 	left: 150px;
 	top: 10%;
 	height: 80%;
-	width: 70%;
-	overflow:hidden;
+	width: 90%;
+	overflow:scroll;
 	font-size:8pt;
 	background-color: #e2e2e2;
 	border: 2px solid #e2e2e2;
 	border-radius: 8px;
 	opacity: 0;
+	z-index:0;
 }
 
 .ComedyButtons{
@@ -270,12 +273,12 @@ position: absolute;
 
 #Tragedies{
 	position: relative;
-	
+	left: -15px;
 }
 
 #Histories{
 	position: relative;
-	
+	left: -15px;
 	
 }
 
@@ -301,7 +304,7 @@ position: absolute;
 
 .checkbox{
 	position: relative;
-	font-size:8;
+	font-size:10pt;
 	top: -15px;
 	left: 10px;
 }
@@ -327,7 +330,7 @@ position: absolute;
 	position: absolute;
 	left: 150px;
 	top: 0px;
-	height: 30%;
+	height: 15%;
 	width: 70%;
 	overflow:scroll;
 	font-size:8pt;
@@ -335,6 +338,7 @@ position: absolute;
 	border: 2px solid #e2e2e2;
 	border-radius: 8px;
 	opacity: 0;
+	z-index:0;
 }
 .dataCheck{
 	padding:5;
@@ -368,21 +372,22 @@ position: absolute;
 }
 
 #tabContainer {
-	width:700px;
-	padding:15px;
+	width:100%;
+	padding:2%;
 	background-color:#2e2e2e;
 	-moz-border-radius: 4px;
 	border-radius: 4px; 
 }
 
-.tabs{		
+.tabs{	
+
 }
 .tabpage{
 	opacity: 0;
 	position: relative;
 }
 .tabs > ul{
-	font-size: 40%;
+	font-size: 80%;
 	list-style:none;
 }
 
