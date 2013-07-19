@@ -87,7 +87,6 @@ var visual = function(){
 					$('#tabpage_'+n+this.id.charAt(1)).css('opacity','0');
 					$('#tabpage_'+n+this.id.charAt(1)).css('z-index','0');
 					var element= $('#'+plays[n]+'.'+vis[this.id.charAt(1)])[0];
-						console.log(element);
 			if(element!=null){element.parentNode.removeChild(element);}	
 					}
 					var mydiv=$('<div class='+vis[this.id.charAt(1)]+' id= '+plays[this.id.charAt(0)]+'></div>');
