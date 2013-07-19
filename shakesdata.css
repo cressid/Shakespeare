@@ -97,8 +97,8 @@ circle.child {
 .searchbutton{
 padding:1;
 	margin:1;
-	
-	
+
+
 }
 .mysearch{
 padding:1;
@@ -108,7 +108,7 @@ padding:1;
 	padding:1%;
 	margin:1%;
 	background-color:silver;
-	
+
 }
 
 
@@ -133,8 +133,8 @@ padding:1;
 	float:left;
 	padding: 2%;
 	margin:2%;
-	
-	
+
+
 }
 .CharacterChart
 { 
@@ -142,21 +142,10 @@ padding:1;
     top: 0;
     left: 0;
 	width:100%;
-	height:100%;
+	height:100%; 
 
-	
+
 }
-
-.row-header-cell{
-	width: 150px;
-	height: 60px;
-}
-
-.row-header-content{
-	font-size: 14px !important;
-	font-weight: bold !important;
-}
-
 .Pie
 {
 position: absolute;
@@ -167,8 +156,8 @@ position: absolute;
 	float:left;
 	padding: 2%;
 	margin:2%;
-	
-	
+
+
 }
 .Search
 {
@@ -190,8 +179,8 @@ position: absolute;
 	margin:10px;
 	border:1px solid black;
 	background-color: #e2e2e2;
-	
-	
+
+
 }
 .backdiv
 {
@@ -271,14 +260,16 @@ position: absolute;
 .ComedyButtons{
 	position: relative;
 	left: 25px;
-	width:	33%;
+	width:	25%;
+	margin:2%;
 	display:inline-block;
 	vertical-align:top;
 }
 
 .TragedyButtons{
 	position: relative;
-	width:33%;
+	width:25%;
+	margin:2%;
 	left: 25px;
 	display:inline-block;
 }
@@ -287,7 +278,8 @@ position: absolute;
 	position: relative;
 	left: 25px;
 	top:-42px;
-	width:33%;
+	width:25%;
+	margin:2%;
 	display:inline-block;
 
 }
@@ -296,20 +288,24 @@ position: absolute;
 
 #Comedies{
 	position: relative;
-	left: -15px;
+	font-weight: bold;
+	left:-15px;
 	top: 2px;
-	
+
 }
 
 #Tragedies{
 	position: relative;
-	left: -15px;
+	font-weight: bold;
+	left:-15px;
+	z-index:-1;
 }
 
 #Histories{
 	position: relative;
-	left: -15px;
-	
+	font-weight: bold;
+	left:-15px;
+	z-index:-1;
 }
 
 
@@ -317,13 +313,13 @@ position: absolute;
 	position: relative;
 	left: -15px;
 	top: -25px;
-	
+
 }
 #tragediesCheck{
 	position: relative;
 	left: -15px;
 
-	
+
 }
 #historiesCheck{
 	position: relative;
@@ -334,7 +330,7 @@ position: absolute;
 
 .checkbox{
 	position: relative;
-	font-size:16px;
+	font-size:60%;
 	top: -15px;
 	left: 10px;
 }
