@@ -1,0 +1,76 @@
+{
+ "name": " ",
+ "children": [
+  {
+   "name": "All Works",
+   "children": [
+    {
+     "name": "History",
+     "children": [
+	  {"name": "King John",  "children": [{}]},	 
+      {"name": "Richard II", "children": [{}]},
+      {"name": "Henry IV", "children": [{}]},
+      {"name": "Henry VI Part 1", "children": [{}]},
+	  {"name": "Henry VI Part 2", "children": [{}]},
+      {"name": "Henry VI Part 3", "children": [{}]},
+      {"name": "Richard III", "children": [{}]},
+	  {"name": "Henry VIII", "children": [{}]} 
+     ]
+    },
+    {
+     "name": "Comedy",
+     "children": [
+      {"name": "The Tempest", "children": [{}]},
+      {"name": "Two Gentlemen of Verona", "children": [{}]},
+	  {"name": "Merry Wives of Windsor", "children": [{}]},
+      {"name": "A Comedy of Errors", "children": [{}]},
+	  {"name": "The Tempest", "children": [{}]},
+      {"name": "Much Ado about nothing", "children": [{}]},
+      {"name": "A Midsummer nights dream", "children": [{}]},
+      {"name": "Merchant of Venice", "children": [{}]},
+	  {"name": "As you like it", "children": [{}]},
+      {"name": "Taming of the Shrew", "children": [{}]},
+      {"name": "Alls well that ends well", "children": [{}]},
+	  {"name": "Twelfth Night", "children": [{}]},
+	  {"name": "A Winters Tale", "children": [{}]},
+      {"name": "Pericles", "children": [{}]}
+
+     ]
+    },
+	   {
+     "name": "Tragedy",
+     "children": [
+      {"name": "Troilus and Cressida", "children": [{}]},
+	  {"name": "Coriolanus", "children": [{}]},
+      {"name": "Titus Andronicus", "children": [{}]},
+      {"name": "Romeo and Juliet", "children": [{}]},
+      {"name": "Timon of Athens", "children": [{}]},
+      {"name": "Hamlet", "children": [{}]},
+	  {"name": "King Lear", "children": [{}]},
+      {"name": "Othello", "children": [{}]},
+      {"name": "Antony and Cleopatra", "children": [{}]},
+      {"name": "Cymbeline", "children": [{}]
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  }	 
+     ]
+    }
+   ]
+  }
+ ]
+}
