@@ -5,8 +5,8 @@ var visual = function(){
 	var plays=$('.visual').data('plays').split(',');
 	var vis=$('.visual').data('vis').split(',');	
 	var bigdiv=$('<div class=backDisplayDiv></div>');
-		var functionDict={'Pie':runPie,'Search':runSearch,'playText':runText,'CharachterTable':runTable,
-						  'CharTimelines':runTimeline};
+		var functionDict={'Pie':runPie,'Search':runSearch,'playText':runText,'CharacterChart':runTable,
+						  'charTimelines':runTimeline};
 	for(var i =0;i<vis.length;i++){
 		
 		if(vis[i]=="Search")
@@ -15,7 +15,7 @@ var visual = function(){
 			var Mysearch=$("<div class='Search'  data-text = "+plays.join()+" id =srch></div>");
 			var thisbut=$("<button id=ExpandBut>+</button>");
 		 	thisbut.on("click",function(){
-				console.log(Mysearch.width());
+				
 				if(Mysearch.width()<=300){
 					Mysearch.width(600);
 					Mysearch.height(600);
@@ -26,7 +26,7 @@ var visual = function(){
 					Mysearch.height(300);
 					thisbut.html('+')
 				}
-				runSearch();
+				
 			});
 			Mysearch.append(thisbut);
 			if(vis.length<3)
@@ -71,7 +71,7 @@ var visual = function(){
 		
 			if(vis.length<3)
 			{
-				console.log("happy");
+				
 				$(backdiv).width(90/vis.length+'%');
 					$(backdiv).height('90%');
 			}
@@ -86,14 +86,18 @@ var visual = function(){
 						
 					$('#tabpage_'+n+this.id.charAt(1)).css('opacity','0');
 					$('#tabpage_'+n+this.id.charAt(1)).css('z-index','0');
-					var element= document.getElementById(plays[n]);
+					var element= $('#'+plays[n]+'.'+vis[this.id.charAt(1)])[0];
+						console.log(element);
 			if(element!=null){element.parentNode.removeChild(element);}	
 					}
-					var mydiv=$('<div class='+vis[this.id.charAt(1)]+' id= '+plays[this.id.charAt(0)]+'>'+plays[this.id.charAt(0)]+'</div>');
+					var mydiv=$('<div class='+vis[this.id.charAt(1)]+' id= '+plays[this.id.charAt(0)]+'></div>');
 					$('#tabpage_'+this.id).css('opacity','1');
 					$('#tabpage_'+this.id).css('z-index','11');
 					$('#tabpage_'+this.id).append(mydiv);
-					functionDict[vis[this.id.charAt(1)]]();
+					
+					var func=functionDict[vis[this.id.charAt(1)]];
+					console.log(vis[this.id.charAt(1)]);
+					func();
 				
 				});
 				
@@ -101,7 +105,7 @@ var visual = function(){
 				
 				if(j==0)
 				{
-					var mydiv=$('<div class='+vis[i]+' id= '+plays[j]+'>'+plays[j]+'</div>');
+					var mydiv=$('<div class='+vis[i]+' id= '+plays[j]+'></div>');
 					$(item).css('opacity','1');
 					item.append(mydiv);
 				}

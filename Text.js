@@ -24,7 +24,7 @@ var myplay=playLookup[title];
 		
 		var w = $(div).width(),                       
 		h = $(div).height();                         
-		$(div).css('font-size',w/20);
+		$(div).css('font-size',Math.min(w/20,12)+'pt');
 		
 		//note: characters and charsWithLines are in the SAME ORDER (so Hamlet would be the first in both if he were first in one)
 		var characters = []; //will have format [HAMLET, CLAUDIUS]

@@ -152,7 +152,7 @@ var shakesData = function(){
 			playDiv.append(comButtons, tragButtons, hisButtons);   
 				div.append(playDiv);       
 		
-		buttonDiv.append(selectAPlay, selectData,Go);
+		buttonDiv.append(selectData,selectAPlay, Go);
 		div.append(buttonDiv);
 		
 		Go.on("click",function()
