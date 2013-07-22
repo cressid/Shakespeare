@@ -52,7 +52,7 @@ circle {
 }
 
 .text {
-	font-size: 12px !important;
+	font-size: 20px !important;
 }
 
 .chart-data {
@@ -392,6 +392,7 @@ position: absolute;
 }
 label.checkbox{
 	line-height:90%;
+	font-size: 12pt;
 }
 .data{
 	padding:2%;

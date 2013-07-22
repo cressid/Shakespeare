@@ -13,21 +13,22 @@ var visual = function(){
 		if(vis[i]=="Search")
 		{	
 			
-			var Mysearch=$("<div class='Search'  data-text = "+plays.join()+" id =srch></div>");
-			var thisbut=$("<button id=ExpandBut>+</button>");
+			var Mysearch=$("<div class='Search'  data-text = "+plays.join()+" id =srch>Cirlce Packing Search</div>");
+			var thisbut=$("<button id=Expand>+</button>");
 		 	thisbut.on("click",function(){
-				
-				if(Mysearch.width()<=300){
-					Mysearch.width(600);
-					Mysearch.height(600);
-					thisbut.html('-')
+				var back=document.getElementById('srch');
+				var but=document.getElementById('Expand');
+				if($(back).width()<=$(bigdiv).width()/2){
+					$(back).width('90%');
+					$(back).height('90%');
+					$(but).html('-');
 				}
 				else{
-					Mysearch.width(300);
-					Mysearch.height(300);
-					thisbut.html('+')
+					$(back).width('40%');
+					$(back).height('40%');
+					$(but).html('+');
 				}
-				
+					
 			});
 			Mysearch.append(thisbut);
 			if(vis.length<3)
