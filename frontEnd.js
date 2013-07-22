@@ -44,11 +44,11 @@ var shakesData = function(){
 
 
 			//comcheck and comButtons are the "Comedy" button + label at the top that selects everything
-			var c1=$("<input type='checkbox' class='dataCheck' id='Search'></input>");
-			var c2=$("<input type='checkbox' class='dataCheck' id='Pie'></input>");
-			var c3=$("<input type='checkbox' class='dataCheck' id='charTimelines'></input>");
-			var c4=$("<input type='checkbox' class='dataCheck' id='playText'></input>");
-			var c5=$("<input type='checkbox' class='dataCheck' id='CharacterChart'></input>");	
+			var c1=$("<input type='radio' name='dataCheck' class='dataCheck' id='Search'></input>");
+			var c2=$("<input type='radio' name='dataCheck' class='dataCheck' id='Pie'></input>");
+			var c3=$("<input type='radio' name='dataCheck' class='dataCheck' id='charTimelines'></input>");
+			var c4=$("<input type='radio' name='dataCheck' class='dataCheck' id='playText'></input>");
+			var c5=$("<input type='radio' name='dataCheck' class='dataCheck' id='CharacterChart'></input>");	
 			var c= [c1,c2,c3,c4,c5] 
 			for(var i=0;i<5;i++)
 			{
@@ -219,6 +219,26 @@ var shakesData = function(){
 			$('.displayDiv').css('z-index',0);
 			$('.displayDiv').animate({opacity: .1}, 800, function(){});							  
 			dataDiv.animate({opacity: 1}, 800, function(){});
+<<<<<<< HEAD
+=======
+										  
+		})
+
+		
+		// now we want to add some initial divs so that we can display some of our lovely work
+		// these will disappear if the user decides to go through the whole "select a play" "select data" route
+			
+		// var initial1=$("<div class='visual initial initial1' data-plays=HenryVIPart2 data-vis=charTimelines id =viz ></div>"); 
+		// var initial2=$("<div class = 'visual initial initial2' data-play=Macbeth data-vis=Pie id=viz></div>");
+		// var initial3=$("<div class = 'visual initial initial3' data-play=MeasureForMeasure data-vis=playText id=viz></div>");
+		// var initial4=$("<div class='visual initial initial4' data-play=TroilusAndCressida data-vis=CharacterChart id=viz></div>");
+		// var initial5=$("<div class='visual initial initial5' data-play=Hamlet data-vis=Search></div>");
+		// displayDiv.append(initial1, initial2, initial3, initial4, initial5);
+			
+		// runVis()
+		// $('.displayDiv').animate({opacity: 1}, 800, function(){});
+	};
+>>>>>>> 4569582608b7f40e15a66b2be192d6b758834be6
 
 		})                                                                                                                                                   
 	};                                                                                                                                                       
