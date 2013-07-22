@@ -9,8 +9,7 @@ var dist=40;
 var myplay;
 var normalizePlayLines = function(play){
 var normalizeBy = parseInt(play[0].line_id);
-//console.log("normalizeBy" + normalizeBy);
-//console.log(play + play.length);
+
 for (i=0; i<play.length; i++){
 play[i].line_id = String(parseInt(play[i].line_id - normalizeBy));
 }
@@ -25,7 +24,7 @@ var charListSpeakers = {}; //will have format {HAMLET:[1, 2, 3, 18, 19...], CLAU
 var inCharacters = false; //by default, we assume that the character in question is not in the list of characters
 for (var i=0; i<play.length; i++){//loop through every line in the play
 var character = play[i]["speaker"]; //this is the character speaking the current line
-//console.log(jQuery.inArray(character, charList))
+
 if(charList.indexOf(character)>-1){
 inCharacters = true; //now we know that the inCharacters variable is true
 //lineChar[play[i].line_id]=character; //then we add the character to the line id 
@@ -144,8 +143,8 @@ if(wordLoc[character]!=null){
 })
 .on("mouseover", function(d){if(wordLoc[character]!=null){
 		if(wordLoc[character].indexOf(d)>-1){return tooltip.style("visibility", "visible").text(play[d]["text_entry"])}}else{return null}})
-.on("mousemove", function(){console.log(event.pageX)
-	return tooltip.style("top", (event.pageY-div.offsetLeft)+"px").style("left",(event.pageX-150)+"px");})
+.on("mousemove", function(){
+	return tooltip.style("top", (event.pageY-div.offsetLeft)+"px").style("left",(event.pageX-100)+"px");})
 .on("mouseout", function(){return tooltip.style("visibility", "hidden");});
 
  
@@ -224,12 +223,15 @@ var myplay=playLookup[title];
 	
 	but.on('click',function(){
 		var word= input.val();
+		console.log(word);
 		var highlight=search(word,playLookup[title]);
-		for (var i=0; i<TwoGents[0].length; i++){
-//for (var i=0; i<1; i++){
-	
+		d3.selectAll("svg")
+       .remove();
+		
+		for (var i=0; i<TwoGents[0].length; i++){	
 makeTimeLine(myplay,data,TwoGents[0][i],TwoGents[1],highlight,title,div);
-}
+
+		}
 		
 		});
 	
@@ -238,7 +240,7 @@ makeTimeLine(myplay,data,TwoGents[0][i],TwoGents[1],highlight,title,div);
 	$(input).css('font-size', Math.min(w/40,20));
 	$(input).css('line-height','30%');
 	$(but).width(Math.min(w/3,300));
-	$(but).css('font-size', Math.min(w/40,20));
+	$(but).css('font-size', Math.min(w/40,10));
 	$(but).css('line-height','80%');
 		$(but).height(Math.min(h/10,30));
 	$(div).prepend(input,but);

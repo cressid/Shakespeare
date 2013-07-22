@@ -57,7 +57,7 @@ var shakesData = function(){
 					});
 			}
 				var d1=$("<div class='data'><label class = 'checkbox'  >Circle Packing Search</label></div>");
-				var d2=$("<div class='data'><label class = 'checkbox'  >Pie Graph by Lines</label></div>");						    var d3=$("<div class='data'><label class = 'checkbox'  >Charachter Timelines</label></div>");
+				var d2=$("<div class='data'><label class = 'checkbox'  >Pie Graph by Lines</label></div>");						    var d3=$("<div class='data'><label class = 'checkbox'  >Character Timelines</label></div>");
 				var d4=$("<div class='data'><label class = 'checkbox'  >Text of Play</label></div>");
 				var d5=$("<div class='data'><label class = 'checkbox'  >Character Table</label></div>");						  	d1.prepend(c1);		
 				d2.prepend(c2);		
