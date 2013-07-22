@@ -19,6 +19,8 @@ play[i].line_id = String(parseInt(play[i].line_id - normalizeBy));
 //{character: [a list of all his line numbers]}
 var charLineNums = function(play){
 var charList = []; //will have format [HAMLET, CLAUDIUS]
+var myList=[]	
+var charListSmall=[];	
 var charListSpeakers = {}; //will have format {HAMLET:[1, 2, 3, 18, 19...], CLAUDIUS:[8, 9, 10, 28,...]};
 //var lineChar={}//form {1:"hamlet", 2: "claudius"}
 var inCharacters = false; //by default, we assume that the character in question is not in the list of characters
@@ -29,6 +31,7 @@ if(charList.indexOf(character)>-1){
 inCharacters = true; //now we know that the inCharacters variable is true
 //lineChar[play[i].line_id]=character; //then we add the character to the line id 
 charListSpeakers[character].push(i);
+	
 } 
 else{
 
@@ -40,8 +43,13 @@ charListSpeakers[character] = [i];
 }
 }
 }
-		
-return [charList, charListSpeakers]
+for(key in charListSpeakers){
+	
+	if(charListSpeakers[key].length>100){console.log(charListSpeakers[key].length + " " + key);myList.push(key)}
+	else{charListSmall.push(key);}
+}
+
+return [myList.concat(charListSmall), charListSpeakers]
 }
  
 //this function builds a data set for a play of the following format:
@@ -240,19 +248,38 @@ makeTimeLine(myplay,data,TwoGents[0][i],TwoGents[1],highlight,title,div);
 	$(input).css('font-size', Math.min(w/40,20));
 	$(input).css('line-height','30%');
 	$(but).width(Math.min(w/3,300));
-	$(but).css('font-size', Math.min(w/40,10));
+	$(but).css('font-size', Math.min(w/40,6));
 	$(but).css('line-height','80%');
 		$(but).height(Math.min(h/10,30));
 	$(div).prepend(input,but);
-    
-	
+var svg= d3.select("#myTimeline"+title)
+            .append("svg")   
+var legend = svg.selectAll('g')
+        .data(['Lines Spoken By Character','Line Containing Searched Word'])
+        .enter()
+      .append('g')
+        .attr('class', 'legend');
+
+    legend.append('rect')
+        .attr('x', 0)
+        .attr('y', function(d, i){ return i *  15;})
+        .attr('width', 8)
+        .attr('height', 8)
+        .style('fill', function(d) { if(d=='Lines Spoken By Character')
+		{return "blue"} else{return "magenta"};
+        });
+
+    legend.append('text')
+        .attr('x', 8)
+        .attr('y', function(d, i){ return (i *  15+10);})
+        .text(function(d){ return d; });	
 normalizePlayLines(myplay);
 var TwoGents = charLineNums(myplay);
 
 var data = buildDataSet(myplay);
 	
 
-
+console.log(TwoGents[0]);
 var highlight=	search("love",playLookup[title]);
 for (var i=0; i<TwoGents[0].length; i++){
 //for (var i=0; i<1; i++){
