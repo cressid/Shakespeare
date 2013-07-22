@@ -10,6 +10,7 @@
 	  {"name": "King John",  "children": [{}]},	 
       {"name": "Richard II", "children": [{}]},
       {"name": "Henry IV", "children": [{}]},
+	  {"name": "Henry V", "children": [{}]},	 
       {"name": "Henry VI Part 1", "children": [{}]},
 	  {"name": "Henry VI Part 2", "children": [{}]},
       {"name": "Henry VI Part 3", "children": [{}]},
@@ -24,7 +25,8 @@
       {"name": "Two Gentlemen of Verona", "children": [{}]},
 	  {"name": "Merry Wives of Windsor", "children": [{}]},
       {"name": "A Comedy of Errors", "children": [{}]},
-	  {"name": "The Tempest", "children": [{}]},
+	  {"name": "Loves Labours Lost", "children": [{}]},
+	  {"name": "Measure for measure", "children": [{}]},	 
       {"name": "Much Ado about nothing", "children": [{}]},
       {"name": "A Midsummer nights dream", "children": [{}]},
       {"name": "Merchant of Venice", "children": [{}]},
@@ -50,24 +52,9 @@
 	  {"name": "King Lear", "children": [{}]},
       {"name": "Othello", "children": [{}]},
       {"name": "Antony and Cleopatra", "children": [{}]},
+	  {"name": "Julius Caesar", "children": [{}]},
+	  {"name": "macbeth", "children": [{}]},	 
       {"name": "Cymbeline", "children": [{}]
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
 	  }	 
      ]
     }

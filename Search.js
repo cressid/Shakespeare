@@ -1,6 +1,6 @@
 var runSearch=function(){
 var searchWord = function(div){
-	
+
 size = function(obj) {
     var size = 0, key;
     for (key in obj) {
@@ -8,7 +8,7 @@ size = function(obj) {
     }
     return size;
 };
-	
+
 var plays={"King John" : {"type":"History","characters":{}},
 	"Richard II" : {"type":"History","characters":{}},
 	"Henry IV" : {"type":"History","characters":{}},
@@ -61,7 +61,7 @@ var playLookup={"TwoGentlemenOfVerona":TwoGentlemenOfVerona,"Hamlet":Hamlet,
 "TroilusAndCressida":TroilusAndCressida,"TwelfthNight":TwelfthNight
 
 };	
-	
+
 var dat=null;
 
 var setup = function(div,w){	
@@ -78,42 +78,41 @@ var setup = function(div,w){
 		var word= input.val();
 		d3.selectAll("#mySearchDiv svg")
        .remove();
-		
+
 		search(word);
 		texts.html("");
-		
+
 		});
 	center.append(input,but,lines);
     $('#mySearchDiv').prepend(center);
-	
-	
-	
+
+
+
 	var search=function(word){
 		plays=temp;
-		
-		
-		
-		
+
+
+
+
 		var mydat=$('.Search').data('text').split(',');
-		console.log(mydat);
-		var AllData=[];
 		
+		var AllData=[];
+
 		for(var i=0;i<mydat.length;i++)
 		{
 			var readPlay=playLookup[mydat[i]];
-			console.log(mydat[i]);
 			for(var j=0;j<readPlay.length;j++)
 			{
 				AllData.push(readPlay[j]);
 			}
 		}
-		
-		
+
+
 		var lineDat={};
 		for (var i=0; i<AllData.length; i++){
 		if(AllData[i]["text_entry"].indexOf(word)>-1){
 		if(AllData[i]["play_name"]!=null){
-			
+
 			var item=plays[AllData[i]["play_name"]]["characters"][AllData[i]["speaker"]];
 			if(item!=null){plays[AllData[i]["play_name"]]["characters"][AllData[i]["speaker"]].push(AllData[i]["line_number"]+ ": " +AllData[i]["text_entry"]);}
 			else{plays[AllData[i]["play_name"]]["characters"][AllData[i]["speaker"]]=[AllData[i]["line_number"]+ ": " +AllData[i]["text_entry"]];}
@@ -133,10 +132,10 @@ var setup = function(div,w){
 				hist[i].children=[];
 					for(key in plays[hist[i]["name"]]["characters"])
 					{
-						
+
 						hist[i].children.push({"name":key, "size": plays[hist[i]["name"]]["characters"][key].length});
 						lineDat[hist[i]["name"]+key]=plays[hist[i]["name"]]["characters"][key];
-						
+
 					}	
 					chars["name"]=plays[hist[i]["name"]]["characters"];
 				}
@@ -144,62 +143,62 @@ var setup = function(div,w){
 					com[i].children=[];
 					for(key in plays[com[i]["name"]]["characters"])
 					{
-						
+
 						com[i].children.push({"name":key, "size": plays[com[i]["name"]]["characters"][key].length});
 						lineDat[com[i]["name"]+key]=plays[com[i]["name"]]["characters"][key];
-						
+
 					}
 					chars["name"]=plays[com[i]["name"]]["characters"];
 				}
 				for( var i=0;i<trag.length;i++){
 					trag[i].children=[];
-				
-					
+
+
 					for(key in plays[trag[i]["name"]]["characters"])
 					{
-						
+
 						trag[i].children.push({"name":key, "size": plays[trag[i]["name"]]["characters"][key].length});
 						lineDat[trag[i]["name"]+key]=plays[trag[i]["name"]]["characters"][key];
-				
+
 					}
 					chars["name"]=plays[trag[i]["name"]]["characters"];
 				}
 				var dat=data
-			
+
 				draw(dat,lineDat,texts,div);
 				for( var i=0;i<trag.length;i++){plays[trag[i]["name"]]["characters"]={};}
 				for( var i=0;i<com.length;i++){plays[com[i]["name"]]["characters"]={};}
 				for( var i=0;i<hist.length;i++){plays[hist[i]["name"]]["characters"]={};}
-				
+
 		});
-			
+
 		}
 
 	search(w);
-		
 
 
-				
-		
+
+
+
 	}
 	return {setup:setup}
 }();
 
 $(document).ready(function(){
-	
+
 	setTimeout( function(){
 		$(".Search").each(function(){
 		searchWord.setup($(this),"crown");
 	});}, 10 );
-	
+
 	});
 
 
 
 var draw= function(datas,myplay,textIN,div) {
 
-	
-	
+
+
 			 var w = $(div).width(),
     h = $(div).height(),
     r = Math.min(h,w),
@@ -219,11 +218,11 @@ var vis = d3.select("#mySearchDiv").insert("svg:svg", "h2")
   .append("svg:g")
     .attr("transform", "translate(" + (w - r) / 2 + "," + (h - r) / 2 + ")");
 
-	
+
   node = root = datas;
 
   var nodes = pack.nodes(root);
-	
+
   vis.selectAll("circle")
       .data(nodes)
     .enter().append("svg:circle")
@@ -236,13 +235,13 @@ var vis = d3.select("#mySearchDiv").insert("svg:svg", "h2")
 							   else{
 								   zoom(node == d ? root : d);
 								   var words=d.name +": <br>"; 
-								 
+
 								 for(var i=0;i<myplay[d.parent.name+d.name].length;i++){
 									 words+=myplay[d.parent.name+d.name][i]+"<br>";
 								 }
 									textIN.html(words)
-											   
-											   
+
+
 											   }});
 
   vis.selectAll("text")
@@ -253,8 +252,7 @@ var vis = d3.select("#mySearchDiv").insert("svg:svg", "h2")
       .attr("y", function(d) { return d.y; })
       .attr("dy", ".35em")
       .attr("text-anchor", "middle")
-      .style("opacity", function(d) { if(d.parent!=null){return d.parent.r > d.r*1.1 && d.r<100&&d.r>30? 1 : 0; } 
-			else {return d.r<100&&d.r>30? 1 : 0; }})
+      .style("opacity", function(d) { return d.r<r*.8&&d.r>20? 1 : 0;  })
       .text(function(d) { if(d.name!=null){return d.name.substring(0,d.r/4);}
 						 else{return d.name;} });
 
@@ -277,8 +275,7 @@ function zoom(d, i) {
   t.selectAll("text")
       .attr("x", function(d) { return x(d.x); })
       .attr("y", function(d) { return y(d.y); })
-      .style("opacity", function(d) { if(d.parent!=null){return k*d.parent.r > k*d.r*1.1 && k*d.r<100&&k*d.r>30? 1 : 0; } 
-			else {return k*d.r<100&&k*d.r>30? 1 : 0; }})
+      .style("opacity", function(d) { return k*d.r<r*.8&&k*d.r>20? 1 : 0;})
 	 .text(function(d) { if(d.name!=null){return d.name.substring(0,k*d.r/4);}
 						 else{return d.name;} });
 
