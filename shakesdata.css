@@ -496,3 +496,35 @@ overflow: scroll;
 	margin:0;
 	color:#333;
 }
+
+.initial{
+	position: relative;
+	height: 200px !important;
+	width: 300px !important;
+	left: 200px !important;
+	display: inline-block;
+}
+
+.initial1{
+
+}
+
+.initial2{
+
+}
+
+.initial3{
+
+}
+
+.initial4{
+
+}
+
+.initial5{
+
+}
+
+.initial6{
+
+}

@@ -96,6 +96,7 @@ var shakesData = function(){
 
 			//ok now we're going to go through the exact same rigamarole for the tragedy buttons
 			var tragcheck=$("<input type='checkbox' id='tragediesCheck'>");
+			tragcheck.change(function(){console.log("kipper")});
 			var tragButtons = $("<div class = 'TragedyButtons'><label class = 'checkbox' 'tragediesCheck' id='Tragedies'>Tragedies</label></div>");
 			tragButtons.prepend(tragcheck);
 			var allTrag = [["AntonyAndCleopatra", "Antony and Cleopatra"], ["Coriolanus", "Coriolanus"], ["Hamlet", "Hamlet"], ["JuliusCaesar", "Julius Caesar"],
@@ -162,7 +163,8 @@ var shakesData = function(){
 			
 			var element= document.getElementById("viz");
 			if(element!=null){element.parentNode.removeChild(element);}
-			var Mysearch=$("<div class=visual data-plays="+selectedPlays.join()+" data-vis="+selectedVis.join()+" id =viz ></div>");  
+			var Mysearch=$("<div class=visual data-plays="+selectedPlays.join()+" data-vis="+selectedVis.join()+" id =viz ></div>");
+			console.log("data-plays " + selectedPlays.join() + "data-vis " + selectedVis.join())
 			$('.playDiv').css('z-index',0);
 			$('.dataDiv').css('z-index',0);
 			$('.displayDiv').css('z-index',10);
@@ -220,8 +222,23 @@ var shakesData = function(){
 			$('.displayDiv').animate({opacity: .1}, 800, function(){});							  
 			dataDiv.animate({opacity: 1}, 800, function(){});
 										  
-		})                                                                                                                                                   
-	};                                                                                                                                                       
+		})
+
+		
+		//now we want to add some initial divs so that we can display some of our lovely work
+		//these will disappear if the user decides to go through the whole "select a play" "select data" route
+			
+		var initial1=$("<div class='visual initial initial1' data-plays=HenryVIPart2 data-vis=charTimelines id =viz ></div>"); 
+		var initial2=$("<div class = 'visual initial initial2' data-play=Macbeth data-vis=Pie id=viz></div>");
+		var initial3=$("<div class = 'visual initial initial3' data-play=MeasureForMeasure data-vis=playText id=viz></div>");
+		var initial4=$("<div class='visual initial initial4' data-play=TroilusAndCressida data-vis=CharacterChart id=viz></div>");
+		var initial5=$("<div class='visual initial initial5' data-play=Hamlet data-vis=Search></div>");
+		displayDiv.append(initial1, initial2, initial3, initial4, initial5);
+			
+		runVis()
+		$('.displayDiv').animate({opacity: 1}, 800, function(){});
+	};
+
 
 
 	return {"setup":setup, "selectedPlays":selectedPlays}                                                                                                                                   
