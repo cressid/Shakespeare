@@ -240,7 +240,7 @@ makeTimeLine(myplay,data,TwoGents[0][i],TwoGents[1],highlight,title,div);
 	$(input).css('font-size', Math.min(w/40,20));
 	$(input).css('line-height','30%');
 	$(but).width(Math.min(w/3,300));
-	$(but).css('font-size', Math.min(w/40,20));
+	$(but).css('font-size', Math.min(w/40,10));
 	$(but).css('line-height','80%');
 		$(but).height(Math.min(h/10,30));
 	$(div).prepend(input,but);

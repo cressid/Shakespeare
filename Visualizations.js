@@ -2,6 +2,7 @@ var runVis=function(){
 var visual = function(){
 
 	var setup = function(div){
+	var keys={'Pie':"Pie Graph of Lines by Character", 'charTimelines': "Searchable Timelines by Character",'Search':'Circle Packing Search','playText':'Text of Play','CharacterChart':"Table of Characters by Scenes"};	
 	var plays=$('.visual').data('plays').split(',');
 	var vis=$('.visual').data('vis').split(',');	
 	var bigdiv=$('<div class=backDisplayDiv></div>');
@@ -47,7 +48,7 @@ var visual = function(){
 			tabs.append(ul)
 			var items=$('</div><div class="tabscontent"></div>');
 			tabs.append(items);
-			var label=$('<div><label>'+vis[i]+'</label></div>');
+			var label=$('<div><label>'+keys[vis[i]]+'</label></div>');
 			backdiv.append(label,tabs);			
 			var mybut=$("<button class=ExpandBut id="+i+">+</button>");
 			
