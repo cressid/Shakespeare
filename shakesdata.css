@@ -112,6 +112,7 @@ padding:1;
 }
 
 
+
 .playText
 {
 	position: absolute;
@@ -271,23 +272,39 @@ position: absolute;
 .ComedyButtons{
 	position: relative;
 	left: 25px;
-	width:	33%;
+	width:	30%;
+	height: 80%;
+	margin-right: 20px;
 	display:inline-block;
 	vertical-align:top;
 }
 
 .TragedyButtons{
 	position: relative;
-	width:33%;
-	left: 25px;
+	width:30%;
+	height: 80%;
+	left: 40px;
+	margin-left: 10px;
+	margin-right: 10px;
 	display:inline-block;
+}
+
+#tragediesCheck{
+	position: relative;
+	z-index: 20;
+}
+
+#historiesCheck{
+	position: relative;
+	z-index: 20;
 }
 
 .HistoryButtons{
 	position: relative;
 	left: 25px;
-	top:-42px;
-	width:33%;
+	float: right;
+	width:30%;
+	height: 80%;
 	display:inline-block;
 
 }
