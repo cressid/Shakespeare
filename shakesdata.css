@@ -60,7 +60,7 @@ circle {
 }
 
 .searchbutton{
-	font-size: 40%  !important;
+	font-size: 16px;
 	width: 100px !important;
 }
 
@@ -185,12 +185,11 @@ position: absolute;
 }
 .backdiv
 {
-	width:40%;
-	height:40%; 
-	overflow:scroll;
-	padding: 1%;
-	margin:1%;
-	border:1px solid black;
+	width:90%;
+	height:90%;
+	padding: 0;
+	margin:0;
+	border:0px solid black;
 	background-color: #e2e2e2;
 	display:inline-block;
 }
@@ -202,10 +201,14 @@ position: absolute;
 	height: 25px;
 }
 .selectAPlay{
+	position: absolute;
+	right: 300px;
 	width: 250px;
 	height: 70px;
 	margin: 10px;
+	margin-right: 30px;
 	font-size: 18px !important;
+	z-index: 12;
 }
 
 .selectData{
@@ -213,18 +216,22 @@ position: absolute;
 	height: 70px;
 	margin: 10px;
 	font-size: 18px !important;
+	z-index: 12;
 }
 .Go{
-	width: 250px;
+	position: absolute;
+	left: 0%;
+	top: 110%;
+	width: 100%;
 	height: 70px;
-	margin: 10px;
+	margin: 0px;
 	font-size: 18px !important;
 }
 
 .buttonDiv{
-	position: relative;
-	left: 50px;
-	top: 50px;
+	position: absolute;
+	right: 0px;
+	top: 0px;
 	width: 20%;
 	z-index:10;
 }
@@ -233,10 +240,9 @@ position: absolute;
 	position: absolute;
 	left: 150px;
 	top: 20%;
-	height: 80%;
-	width: 70%;
-	overflow:scroll;
-	font-size:8pt;
+	height: 60%;
+	width: 40%;
+	font-size:12pt;
 	background-color: #e2e2e2;
 	border: 2px solid #e2e2e2;
 	border-radius: 8px;
@@ -244,18 +250,13 @@ position: absolute;
 	z-index:0;
 }
 .displayDiv{
+.initial{
 	position: absolute;
-	left: 150px;
-	top: 10%;
-	height: 80%;
-	width: 80%;
-	overflow:scroll;
-	font-size:8pt;
-	background-color: #e2e2e2;
-	border: 2px solid #e2e2e2;
-	border-radius: 8px;
-	opacity: 0;
-	z-index:0;
+	top: 100px !important;
+	left: 0px !important;
+	right: 0px !important;
+	bottom: 0px !important;
+}
 }
 
 .ComedyButtons{
@@ -374,11 +375,10 @@ position: absolute;
 }
 .dataDiv{
 	position: absolute;
-	left: 150px;
-	top: 0px;
-	height: 15%;
-	width: 70%;
-	overflow:scroll;
+	left: 55%;
+	top: 20%;
+	height: 35%;
+	width: 20%;
 	font-size:12pt;
 	background-color: #e2e2e2;
 	border: 2px solid #e2e2e2;
@@ -396,8 +396,8 @@ label.checkbox{
 .data{
 	padding:2%;
 	margin:0;
-	width: 20%;
-	height: 30%;
+	width: 100%;
+	height: 10%;
 	line-height:10%;
 	display:inline-block;
 	vertical-align:top;
@@ -433,22 +433,32 @@ label.checkbox{
 .tabs{	
 
 }
+
+.tabBar{
+	height: 2%;
+	top: 0;
+	z-index: 2;
+}
+
 .tabpage{
 	opacity: 0;
 	position: relative;
 }
 .tabs > ul{
 	font-size: 80%;
-
+	z-index: 5;
 	list-style:none;
 }
 
 .tabs > ul > li{
+	position: absolute;
 	margin:0% 2% 0% 0%;
 	padding:1%;
 	display:block;
 	float:left;
 	color:#FFF;
+	height: 5%;
+	top: 0px;
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	user-select: none;
@@ -461,30 +471,29 @@ label.checkbox{
 	border-bottom-right-radius: 0px;
 	border-bottom-left-radius: 0px; 
 	background: #C9C9C9; /* old browsers */
-	background: -moz-linear-gradient(top, #0C91EC 0%, #257AB6 100%); /* firefox */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#0C91EC), color-stop(100%,#257AB6)); /* webkit */
 }
 
 .tabs > ul > li:hover{
 	background: #FFFFFF; /* old browsers */
-	background: -moz-linear-gradient(top, #FFFFFF 0%, #F3F3F3 10%, #F3F3F3 50%, #FFFFFF 100%); /* firefox */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFFFFF), color-stop(10%,#F3F3F3), color-stop(50%,#F3F3F3), color-stop(100%,#FFFFFF)); /* webkit */
+/* webkit */
 	cursor:pointer;
 	color: #333;
 }
 
 .tabs > ul > li.tabActiveHeader{
 	background: #FFFFFF; /* old browsers */
-	background: -moz-linear-gradient(top, #FFFFFF 0%, #F3F3F3 10%, #F3F3F3 50%, #FFFFFF 100%); /* firefox */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFFFFF), color-stop(10%,#F3F3F3), color-stop(50%,#F3F3F3), color-stop(100%,#FFFFFF)); /* webkit */
+	/* webkit */
 	cursor:pointer;
 	color: #333;
 }
 
 .tabscontent {
+	position: absolute;
+	background-color: light grey;
+	top: 0px;
 	width:90%;
-height:90%;
-overflow: scroll;
+	height:90%;
+	bottom: 0 px;
 	-moz-border-radius-topleft: 0px;
 	-moz-border-radius-topright: 4px;
 	-moz-border-radius-bottomright: 4px;
@@ -495,40 +504,56 @@ overflow: scroll;
 	border-bottom-left-radius: 4px; 
 	padding:10px 10px 25px;
 	background: #FFFFFF; /* old browsers */
-	background: -moz-linear-gradient(top, #FFFFFF 0%, #FFFFFF 90%, #e4e9ed 100%); /* firefox */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFFFFF), color-stop(90%,#FFFFFF), color-stop(100%,#e4e9ed)); /* webkit */
 	margin:0;
 	color:#333;
 }
 
+
 .initial{
+	position: absolute;
+	top: 100px !important;
+	left: 0px !important;
+	right: 0px !important;
+	bottom: 0px !important;
+}
+/* Styles specific to this particular page */
+.items
+{
+	width: 100%;
+	height: 200px;
+	overflow: auto;
+}
+
+.changePlay{
 	position: relative;
-	height: 200px !important;
-	width: 300px !important;
-	left: 200px !important;
+	float: right;
+	margin-right: 50px;
+	z-index: 10 !important;
+}
+
+.comedyUL{
+	position: absolute;
 	display: inline-block;
+	width: 200px;
+	left: 0%;
+	margin: 8px;
+	font-size: 14px;
 }
 
-.initial1{
-
+.tragedyUL{
+	position: absolute;
+	display: inline-block;
+	width: 200px;
+	left: 33%;
+	margin: 8px;
+	font-size: 14px;
 }
 
-.initial2{
-
-}
-
-.initial3{
-
-}
-
-.initial4{
-
-}
-
-.initial5{
-
-}
-
-.initial6{
-
+.historyUL{
+	position: absolute;
+	display: inline-block;
+	width: 200px;
+	left: 66%;
+	margin: 8px;
+	font-size: 14px;
 }
