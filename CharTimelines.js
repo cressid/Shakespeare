@@ -151,8 +151,11 @@ if(wordLoc[character]!=null){
 })
 .on("mouseover", function(d){if(wordLoc[character]!=null){
 		if(wordLoc[character].indexOf(d)>-1){return tooltip.style("visibility", "visible").text(play[d]["text_entry"])}}else{return null}})
-.on("mousemove", function(){
-	return tooltip.style("top", (event.pageY-div.offsetLeft)+"px").style("left",(event.pageX-100)+"px");})
+.on("mousemove", function(d,i){
+	//console.log(this.offsetLeft);
+	//console.log(this.offsetTop);
+	//console.log(d*space);
+	return tooltip.style("left", d*space).style("y",d.y);})
 .on("mouseout", function(){return tooltip.style("visibility", "hidden");});
 
  
@@ -176,10 +179,11 @@ return dist/4;
 	
 var search=function(word,play)
 {
+	var words=word.split(',');
 		var locs={};
 		for (var i=0; i<play.length; i++){
-			
-		if(play[i]["text_entry"].indexOf(word)>-1){
+			for(var n=0;n<words.length;n++){
+		if(play[i]["text_entry"].indexOf(words[n])>-1){
 		
 		if(play[i]["play_name"]!=null){
 		
@@ -190,6 +194,7 @@ var search=function(word,play)
 			 }
 			 else{
 				 locs[speaker]=[i];}
+		}
 		}
 		}
 		}
@@ -253,7 +258,10 @@ makeTimeLine(myplay,data,TwoGents[0][i],TwoGents[1],highlight,title,div);
 		$(but).height(Math.min(h/10,30));
 	$(div).prepend(input,but);
 var svg= d3.select("#myTimeline"+title)
-            .append("svg")   
+            .append("svg")
+			.attr("height", '40px')
+			.attr("width", '200px');
+            
 var legend = svg.selectAll('g')
         .data(['Lines Spoken By Character','Line Containing Searched Word'])
         .enter()

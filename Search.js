@@ -76,6 +76,7 @@ var setup = function(div,w){
 	lines.append(texts);
 	but.on('click',function(){
 		var word= input.val();
+		
 		d3.selectAll("#mySearchDiv svg")
        .remove();
 
@@ -89,6 +90,7 @@ var setup = function(div,w){
 
 
 	var search=function(word){
+		var words=word.split(',');
 		plays=temp;
 
 
@@ -110,7 +112,9 @@ var setup = function(div,w){
 
 		var lineDat={};
 		for (var i=0; i<AllData.length; i++){
-		if(AllData[i]["text_entry"].indexOf(word)>-1){
+			for(var n=0;n<words.length;n++)
+			{
+		if(AllData[i]["text_entry"].indexOf(words[n])>-1){
 		if(AllData[i]["play_name"]!=null){
 
 			var item=plays[AllData[i]["play_name"]]["characters"][AllData[i]["speaker"]];
@@ -118,6 +122,7 @@ var setup = function(div,w){
 			else{plays[AllData[i]["play_name"]]["characters"][AllData[i]["speaker"]]=[AllData[i]["line_number"]+ ": " +AllData[i]["text_entry"]];}
 		}
 		}
+			}
 		}
 		var hist=null;
 		var com=null;
