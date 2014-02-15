@@ -219,8 +219,7 @@ var shakesData = function(){
 			$('.displayDiv').css('z-index',0);
 			$('.displayDiv').animate({opacity: .1}, 800, function(){});							  
 			dataDiv.animate({opacity: 1}, 800, function(){});
-<<<<<<< HEAD
-=======
+
 										  
 		})
 
@@ -238,10 +237,7 @@ var shakesData = function(){
 		// runVis()
 		// $('.displayDiv').animate({opacity: 1}, 800, function(){});
 	};
->>>>>>> 4569582608b7f40e15a66b2be192d6b758834be6
-
-		})                                                                                                                                                   
-	};                                                                                                                                                       
+                                                                                                                                      
 
 
 	return {"setup":setup, "selectedPlays":selectedPlays}                                                                                                                                   
